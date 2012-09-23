@@ -1,10 +1,10 @@
 <?php
 	require_once('session.php');
-	
+
 	$session = new Session();
-		
+
 	if(!$session->ValidateSession($_GET['sessionid']))
-	{		
+	{
 		echo "<html>";
 		echo "<head>";
 		echo "<title>J.R. O'Dwyer Co.</title>";
@@ -14,11 +14,11 @@
 		echo "</body>";
 		echo "</html>";
 	}else{
-	
+
 			# create category dropdown
 			$category_dropdown = "<select name='category'><option value=''>-- Select Category --</option>";
 			$cat_query = 'SELECT * FROM category_corp ORDER BY name';
-			
+
 			$cat_result = mysql_query($cat_query);
 			while ($cat_row=mysql_fetch_array($cat_result) ) {
 					$category_dropdown .= "<option value='".$cat_row['id']."'>".$cat_row['name']."</option>";
@@ -44,6 +44,7 @@
 
 <body bgcolor="White" text="Black" link="Blue" vlink="Purple" alink="Red" rightmargin="0" bottommargin="0" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 <form method="post" action="insertform.php">
+<input type="hidden" name="validated" value="0">
 <input type="hidden" name="sessionid" value="<?php echo $session->SessionID; ?>">
 <table cellspacing="2" cellpadding="0" border="0" height="100%" width="700">
 	<tr>

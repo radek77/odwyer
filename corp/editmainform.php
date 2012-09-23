@@ -1,10 +1,10 @@
 <?php
 	require_once('session.php');
-	
+
 	$session = new Session();
-		
+
 	if(!$session->ValidateSession($_GET['sessionid']))
-	{		
+	{
 		echo "<html>";
 		echo "<head>";
 		echo "<title>J.R. O'Dwyer Co.</title>";
@@ -20,27 +20,27 @@
 					die();
 				}
 				mysql_select_db("odwyer");
-				
-				
+
+
 				$query = 'SELECT * FROM corp WHERE `id` = "' .$_GET['id'].'"';
-				
+
 				$i=0;
 				$result = mysql_query($query);
 				while( $row=mysql_fetch_array($result) )
 				{
 					if($i < 1){
-					
+
 						# create category dropdown
 						$category_dropdown = "<select name='category'><option value=''>-- Select Category --</option>";
 						$cat_query = 'SELECT * FROM category_corp ORDER BY name';
-				
+
 						$cat_result = mysql_query($cat_query);
 						while ($cat_row=mysql_fetch_array($cat_result) ) {
-							
+
 							if ($cat_row['id'] == $row['category']) {
 								$category_dropdown .= "<option value='".$cat_row['id']."' selected>".$cat_row['name']."</option>";
-							
-							}						
+
+							}
 							else {
 								$category_dropdown .= "<option value='".$cat_row['id']."'>".$cat_row['name']."</option>";
 							}
@@ -68,6 +68,7 @@
 <form method="post" action="updateform.php">
 <input type="hidden" name="currentid" value="main">
 <input type="hidden" name="id" value="<?php echo $row['id']; ?>">
+<input type="hidden" name="validated" value="0">
 <input type="hidden" name="sessionid" value="<?php echo $session->SessionID; ?>">
 <table cellspacing="2" cellpadding="0" border="0" height="100%" width="700">
 	<tr>
@@ -106,7 +107,7 @@
 </tr>
 <tr class="ssi-text">
     <td align="right">State:</td>
-    <td><input value="<?php echo $row['state']; ?>" type="text" name="state" size="2"> Zip:<input value="<?php echo $row['zip']; ?>" type="text" name="zip" size="10"> +4:<input value="<?php echo $row['zip4']; ?>" type="text" name="zip4" size="4"> <!--Province:<input value="<?php echo $row['province']; ?>" type="text" name="province" size="10">--></td>
+    <td><input value="<?php echo $row['state']; ?>" type="text" name="state" size="2"> Zip:<input value="<?php echo $row['zip']; ?>" type="text" name="zip" size="10"> +4:<input value="<?php echo $row['zip4']; ?>" type="text" name="zip4" size="4"> <!--Province:<input value="<?php //echo $row['province']; ?>" type="text" name="province" size="10">--></td>
 </tr>
 <tr class="ssi-text">
     <td align="right">Country:</td>

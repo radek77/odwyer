@@ -1,10 +1,10 @@
 <?php
 	require_once('session.php');
-	
+
 	$session = new Session();
-		
+
 	if(!$session->ValidateSession($_GET['sessionid']))
-	{		
+	{
 		echo "<html>";
 		echo "<head>";
 		echo "<title>J.R. O'Dwyer Co.</title>";
@@ -20,10 +20,10 @@
 					die();
 				}
 				mysql_select_db("odwyer");
-				
-				
+
+
 				$query = 'SELECT * FROM prfirm WHERE `id` = "' .$_GET['id'].'"';
-				
+
 				$i=0;
 				$result = mysql_query($query);
 				while( $row=mysql_fetch_array($result) )
@@ -51,6 +51,7 @@
 <form method="post" action="updateform.php">
 <input type="hidden" name="currentid" value="main">
 <input type="hidden" name="id" value="<?php echo $row['id']; ?>">
+<input type="hidden" name="validated" value="0">
 <input type="hidden" name="sessionid" value="<?php echo $session->SessionID; ?>">
 <table cellspacing="2" cellpadding="0" border="0" height="100%" width="700">
 	<tr>

@@ -1,10 +1,10 @@
 <?php
 	require_once('session.php');
-	
+
 	$session = new Session();
-		
+
 	if(!$session->ValidateSession($_GET['sessionid']))
-	{		
+	{
 		echo "<html>";
 		echo "<head>";
 		echo "<title>J.R. O'Dwyer Co.</title>";
@@ -21,10 +21,10 @@
 <title>J.R. O'Dwyer Co.</title>
 </head>
 <frameset rows="48,*" border="0">
-    <frame name="menu" src="alphalist.php?sessionid=<?php echo $session->SessionID; ?>&id=<?php echo $_GET['id']; ?>" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" border="0" noresize="no">
-    <frame name="list" src="listmain.php?sessionid=<?php echo $session->SessionID; ?>&id=<?php echo $_GET['id']; ?>" marginwidth="0" marginheight="0" scrolling="yes" frameborder="0" border="0" noresize="auto">
+    <frame name="menu" src="alphalist.php?sessionid=<?php echo $session->SessionID; ?>" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" border="0" noresize="no">
+    <frame name="list" src="listmain.php?sessionid=<?php echo $session->SessionID; ?>" marginwidth="0" marginheight="0" scrolling="yes" frameborder="0" border="0" noresize="auto">
 </frameset>
-</html>	
+</html>
 <?php
 	}
 ?>

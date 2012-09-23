@@ -1,6 +1,7 @@
 <html>
 <head>
 	<meta http-equiv="cache-control" content="no-cache">
+	<base href="http://localhost/odwyer/">
 	<title>J.R. O'Dwyer Co.</title>
 	<style type="text/css">
 		.maroon{background-color: #990000;
@@ -84,7 +85,7 @@
 </tr>
 <tr class="bodytext">
 <td valign="middle"></td>
-<td valign="middle"><a href="/prfirm/index.php"><b>Public Relations Firm</b></a></td>
+<td valign="middle"><a href="prfirm/index.php"><b>Public Relations Firm</b></a></td>
 </tr>
 <tr class="bodytext">
 <td valign="middle"></td>
