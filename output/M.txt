@@ -1,0 +1,2633 @@
+@BREAKER:M
+
+@CO:M&R STRATEGIC SERVICES
+@BODYTEXT:80 Broad St., 17th flr., New York, NY 10004
+@BODYTEXT:212/764-3878
+@BODYTEXT:Specializes in comms., direct mail, grassroots, lobbying, media rels. Founded: 1991.
+@CCD1:Donald Ross, CEO; Dan Klotz, VP
+@BODYTEXT:
+@CO:M. YOUNG COMMUNICATIONS INC.
+@BODYTEXT:7 W. 18th St., 3rd flr., New York, NY 10011
+@BODYTEXT:212/620-7027; fax:212/645-3654
+@BODYTEXT:www.myoungcom.com
+@BODYTEXT:
+@AGENCY:Agency Statement: M. Young Communications provides public relations and special events services for the food, beverage, travel, leisure and publishing industries. The firm has extensive nationwide contacts within the food and beverage industry. Clients: Bon Appetit magazine, Wines from Spain, The James Beard Foundation Awards, The French Culinary Institute, FIJI Water, Consorzio Brunello di Montalcino, City Harvest and WHERE Magazine Visitors Choice Restaurant Awards. www.myoungcom.com.
+@CCD1:Melanie Young, pres. & CEO; Robert Cacciola, dir., special events 
+@BODYTEXT:Bon Appetit Magazine
+@BODYTEXT:James Beard Foundation Awards
+@BODYTEXT:The French Culinary Institute
+@BODYTEXT:Wines From Spain
+@BODYTEXT:
+@CO:M.A. TOPPINO ASSOCS.
+@BODYTEXT:PO BOX 65834, Albuquerque, NM 87193
+@BODYTEXT:505/345-2870; fax:505/345-3005
+@BODYTEXT:Advertising and PR firm, mktg., associations/foundations, automotive, gov./state agencies, telecommunications. Founded: 1976.
+@CCD1:Stephanie Toppino, chairman
+@BODYTEXT:Bryan Chevrolet Geo Mitsubishi Dealership
+@BODYTEXT:Cajun Flavors
+@BODYTEXT:NASA Physical Science Laboratoy
+@BODYTEXT:New Mexico Free Television
+@BODYTEXT:
+@CO:M/C/C
+@BODYTEXT:8131 LBJ Freeway, #275, Dallas, TX 75251
+@BODYTEXT:972/480-8383; fax:972/669-8447; pam_watkins@mccom.com
+@BODYTEXT:Technology, bus.-to-bus., business to consumer PR. Employees: 17. Founded: 1986.
+@CCD1:Mike Crawford, president; Pam Watkins, VP, business strategy; Jim Terry, VP, account svcs.; Greg Hansen, VP-creative svcs.
+@BODYTEXT:Accudata Technologies
+@BODYTEXT:CapRock Communications
+@BODYTEXT:Covaro Networks
+@BODYTEXT:DeepNines Technologies
+@BODYTEXT:L3 Infrared 
+@BODYTEXT:NextiraOne
+@BODYTEXT:Systimax Solutions
+@BODYTEXT:Teletouch Comms.
+@BODYTEXT:
+@CO:MACCABEE GROUP INC.
+@BODYTEXT:211 N. First St., #425, Minneapolis, MN 55401
+@BODYTEXT:612/337-0087; fax:612/337-0054; paul@maccabee.com
+@BODYTEXT:Consumer and business-to-business media relations, crisis comms., corporate communications, sales promotion services, new product launches and event marketing. Special expertise in health, financial, education, food, retail and franchise PR.  Employees: 7. Founded: 1996.
+@AGENCY:Agency Statement: Hailed as “PR Agency of the Year” by Twin Cities Business Monthly Online, Maccabee Group offers clients exceptionally creative, sales-oriented public relations programs. Recent examples include the Maccabee Group’s Cheerios “Millennium Penny” campaign for General Mills, which won the Bulldog Award for one of the “Best PR Campaigns of the Year.”
+@CCD1:Paul Maccabee, pres.; Gwen Chynoweth, A/S
+@BODYTEXT:Addiction Intervention Resources
+@BODYTEXT:American Medical Systems
+@BODYTEXT:Ergotron
+@BODYTEXT:IP House
+@BODYTEXT:Jerome Foundation
+@BODYTEXT:Kemps Ice Cream
+@BODYTEXT:CIGNA Behavioral Health
+@BODYTEXT:Sunrise Community Banks
+@BODYTEXT:Twin Cities Natural Food Co-ops
+@BODYTEXT:
+@CO:MACKENZIE AGENCY, THE
+@BODYTEXT:720 Mendocino Ave., Santa Rosa, CA 95401
+@BODYTEXT:707/545-3280; fax:707/545-3288
+@BODYTEXT:www.mackenzie.com
+@BODYTEXT:Food, beverage, consumer products PR. Employees: 8. Founded: 1996
+@CCD1:Karen MacKenzie, pres.
+@BODYTEXT:Barbara’s Bakery
+@BODYTEXT:Cellier des Dauphins/BVC Wines
+@BODYTEXT:Chipotle Restaurants
+@BODYTEXT:Foods From Spain
+@BODYTEXT:Monin Gourmet Flavorings
+@BODYTEXT:Pezzi King Vineyards
+@BODYTEXT:Thai Kitchen
+@BODYTEXT:
+@CO:MACKENZIE MARKETING GROUP
+@BODYTEXT:520 S.W. Yamhill St., Portland, OR 97204
+@BODYTEXT:503/225-0725
+@BODYTEXT:www.mackenzie-marketing.com
+@BODYTEXT:High tech PR. Founded: 1994.
+@CCD1:Lisa MacKenzie, president
+@BODYTEXT:
+@CO:MACKENZIE PARTNERS, INC.
+@BODYTEXT:105 Madison Ave., 14th flr., New York, NY 10016
+@BODYTEXT:212/929-5500; fax:212/929-0308
+@BODYTEXT:Proxy/M&A services; shareholder/debtholder solicitations, corp. governance consulting, stock surveillance, bankruptcies, reorganizations, fin’l media rels. Founded: 1990
+@CCD1:Daniel H. Burch, CEO/chmn.
+@BODYTEXT:
+@CO:MACY + ASSOCIATES
+@BODYTEXT:411 Culver Blvd., Playa de Rey, CA 90293
+@BODYTEXT:310/821-5300; fax:310/821-8178; kmacy@macyinc.com
+@BODYTEXT:www.macyinc.com
+@BODYTEXT:PR, brand strategy, corp. comms., adv., special events, graphic design.
+@CCD1:Kimberly A. Macy, principal
+@BODYTEXT:
+@CO:MADDEN COMMUNICATIONS & MARKETING, LLC
+@BODYTEXT:664 Chestnut Ridge Rd., Chestnut Ridge, NY 10977
+@BODYTEXT:845/352-3650
+@BODYTEXT:www.maddenpr.com
+@BODYTEXT:PR & mktg. agency. Founded: 1992.
+@CCD1:Bill Madden
+@BODYTEXT:FOX Sports Grill
+@BODYTEXT:
+@CO:MAGNET COMMUNICATIONS
+@BODYTEXT:Merged with Euro RSCG Middleberg; see Euro RSCG Magnet
+@BODYTEXT:
+@BODYTEXT:
+@CO:MAGRINO AGENCY, SUSAN
+@BODYTEXT:641 Lexington Ave., 28th flr., New York, NY 10022
+@BODYTEXT:212/957-3005; fax:212/957-4071; info@smapr.com
+@BODYTEXT:www.smapr.com
+@BODYTEXT:Advertising and PR, business/consumer services, marketing communications/integrated marketing.
+@CCD1:Susan Magrino, president
+@BODYTEXT:Ann Taylor
+@BODYTEXT:Coach Inc.
+@BODYTEXT:Hotel Lancaster
+@BODYTEXT:Martha Stewart Living Omnimedia: Martha Stewart Everyday Garden; Martha Stewart Everyday Home; Martha Stewart Everyday Colors; Martha Stewart Everyday Kitchen; Martha by Mail
+@BODYTEXT:Oliviers & Co.
+@BODYTEXT:The Thymes
+@BODYTEXT:
+@CO:MAHER COMMUNICATIONS INC., MARINA
+@BODYTEXT:Member of The Worldcom Public Relations Group
+@BODYTEXT:830 Third Ave., New York, NY 10022
+@BODYTEXT:212/485-6800; fax:212/355-6318; mmaher@mahercomm.com
+@BODYTEXT:Consumer marketing PR, health/medical, food and beverage, lifestyle marketing, special events.  Founded: 1983.
+@AGENCY:Agency Statement: At Marina Maher Communications (MMC) we excel at Building Brand Relationships for our clients by establishing an emotional connection between brands and their key audiences. It is our belief that this bond is a critical success factor in building a mega-brand.
+@AGENCY:Celebrating our 22nd year, we are an independent firm that serves clients in both consumer products and healthcare. Our growth is a result of a partnering approach with clients and providing senior involvement on all accounts. We have a deep passion to understand the client's business, thereby allowing us to create programs that help clients achieve their business goals.
+@AGENCY:We are the only agency our size with a fully dedicated Media Department that focuses on getting our clients national exposure on TV and in print media. Our expertise allows us to create story ideas that resonate with the media and ensure effective communications of key messages. And, since our media relationships are both long and deep, we will often "soft sound" an idea with assignment editors and producers before we present it to a client.
+@AGENCY:MMC's Lifestyle Trends group serves as an adjunct to our Media Department, focusing on relationships with editors at the key women's magazines as well as thought leaders. This group provides valuable insights on upcoming trends and how they can shape product positioning and branding. By linking a product with a trend that editors perceive as part of pop culture, MMC generates coverage for its clients that goes way beyond the standard product credit.
+@AGENCY:Praised by clients for our creativity that's grounded in solid strategic foundations, MMC has won awards for its work on behalf of clients such as Audiovox, Ronzoni, Healthy Woman, Cover Girl, Secret, Wonderbra and Max Factor.
+@AGENCY:MMC is a member of the Worldcom Public Relations Group, the largest consortium of independent PR firms that provides clients with local access in 35 countries worldwide.
+@CCD1:Marina Maher, pres. & CEO; Nancy Lowman LaBadie, exec. VP; Megan Svensen, exec. VP; Elaine Schneider, exec. VP/business mgmt.; Paula McMartin, managing director; Cherry Dumaual, Julie Schumacher Clardiello, Suzanne Haber, Beth Kramli, sr. VPs; Kelly Allman, Annie Heckenberger, Elizabeth Isaac Feinberg, Dana Grandsman, Jeanine Kober, Julie Kofman, Ken Meeker, Jackie Widrow, VPs
+@BODYTEXT:Audiovox Consumer Electronics
+@BODYTEXT:Church & Dwight: Arm & Hammer Enamel Care; Mentadent
+@BODYTEXT:Glaxo SmithKline: Flonase
+@BODYTEXT:Pfizer: Relpax; Depo-Provera; Detrol LA and Oporia
+@BODYTEXT:Procter & Gamble: Cascade; Cover Girl Cosmetics; Head & Shoulders; Dawn Dishwashing Liquid; Secret Anti-Perspirant, Deodorant; Max Factor Int'l; Joy; Herbal Essences
+@BODYTEXT:Schering Plough HealthCare Products: Dr. Scholl's; Dr. Scholl's Pedicure Essentials; Coppertone
+@BODYTEXT:Swarovski
+@BODYTEXT:Weight Watchers-Licensed food products
+@BODYTEXT:
+@CO:MAINLINE MARKETING COMMUNICATIONS
+@BODYTEXT:1204-B East Washington St., Greenville, SC 29601
+@BODYTEXT:864/232-5733; fax:864/232-5777
+@BODYTEXT:Strategic planning, consumer PR, bus.-to-bus., new product launches. Founded: 1997.
+@CCD1:Kristie Bohm, president
+@BODYTEXT:Maxfli Golf
+@BODYTEXT:
+@CO:MAITA-SAVIANO PUBLIC RELATIONS
+@BODYTEXT:39210 State St., #109, Fremont, CA 94538
+@BODYTEXT:510/739-0620; fax:510/739-0624; samaita@maita-saviano.com
+@BODYTEXT:A full-service agency specializing in high-tech, telecommunications, employee communications, strategic planning, media training and speechwriting. Founded: 1997
+@CCD1:Stephen Maita, Lou Saviano, partners
+@BODYTEXT:Coldwell Banker
+@BODYTEXT:Econ One Research
+@BODYTEXT:Kaiser Permanente
+@BODYTEXT:ParkerVision
+@BODYTEXT:Tropian
+@BODYTEXT:
+@CO:MAIZIE HALE PUBLIC RELATIONS
+@BODYTEXT:2964 Peachtree Rd., NW #530, Atlanta, GA 30305
+@BODYTEXT:404/261-7080; fax:404/261-7101; mzh@maiziehalepr.com
+@BODYTEXT:Employees: 3. Founded. 1984.
+@CCD1:Maizie Hale, pres./CEO
+@BODYTEXT:Atlanta Arrangements, Inc.
+@BODYTEXT:Bennett Kuhn Varner Inc.
+@BODYTEXT:LowCountry Barbecue Catering
+@BODYTEXT:Nikolai’s Roof-Trader Vic's-Hilton Atlanta
+@BODYTEXT:Old Edwards Inn and Spa
+@BODYTEXT:Seiber Design, Inc.
+@BODYTEXT:
+@CO:MAKOVSKY & COMPANY INC.
+@BODYTEXT:Founding member of IPREX
+@BODYTEXT:575 Lexington Ave., New York, NY 10022
+@BODYTEXT:212/508-9600; fax:212/751-9710
+@BODYTEXT:www.makovsky.com
+@BODYTEXT:Divisions in financial services, professional services, health, investor rels., technology, corporate B2B comms., interactive and graphic design.  Employees: 40. Founded: 1979.
+@AGENCY:Agency Statement: Makovsky & Company was founded 25 years ago with the mission to help clients win. The firm, today one of the nation’s leading independent global public relations and investor relations consultancies, has been credited by clients for doing exactly what it pledges – helping high-knowledge, high-innovation organizations  stand out in order to build and reinforce enduring stakeholder relationships.  The firm’s “One P&L” philosophy enables the right talent at the right time to aid clients.
+@AGENCY:Headquartered in New York, Makovsky has agency partners in more than 25 countries and in 38 US cities through IPREX, the third largest worldwide agency network, of which it is a founder.
+@AGENCY:Accolades include a full complement of Silver Anvils, Sabre Awards, IABC Awards, Creativity in Public Relations Awards, Big Apples and recognition by leading industry trade publications as one of the nation’s leading B-2-B communication firms, and among the best managed service enterprises in the business.  Makovsky is a firm that is known for even “doing the little things right.”  To ensure client delight, an independent “Quality Assurance” expert checks in regularly with clients to keep the bar high.
+@AGENCY:Makovsky & Company internal values – innovate, initiate, communicate, collaborate, motivate and educate– are about ensuring external value:  to help clients win – again and again.
+@CCD1:Kenneth D. Makovsky; chmn; Robert Greenwald, vice chmn; Robbin Goodman, Gil Bashe, Thomas (Tim) Wallace, exec. VPs
+@BODYTEXT:aaiPharma
+@BODYTEXT:AFC Enterprises
+@BODYTEXT:American Journal of Nursing
+@BODYTEXT:American Management Systems
+@BODYTEXT:Amersham Health
+@BODYTEXT:Anchin, Black & Anchin
+@BODYTEXT:Association of German Mortgage Banks
+@BODYTEXT:ATM Corporation of America
+@BODYTEXT:B. Braun Medical
+@BODYTEXT:Bear Stearns
+@BODYTEXT:Booz Allen Hamilton
+@BODYTEXT:CapitalSource
+@BODYTEXT:Church’s Chicken
+@BODYTEXT:CeBIT America
+@BODYTEXT:Coeur d’Alene Mining
+@BODYTEXT:Connextions
+@BODYTEXT:Custom Benefits Group
+@BODYTEXT:Everlast Worldwide
+@BODYTEXT:Fine Art Collection
+@BODYTEXT:GEAC
+@BODYTEXT:Gene Logic
+@BODYTEXT:General Motors Asset Management
+@BODYTEXT:Guardsmark
+@BODYTEXT:Hunter Roberts
+@BODYTEXT:IEEE
+@BODYTEXT:Innovest
+@BODYTEXT:International Decision Systems
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:Kaplan Fox
+@BODYTEXT:Kos Pharmaceuticals
+@BODYTEXT:Light Sciences
+@BODYTEXT:Lydian Trust
+@BODYTEXT:Marketing Technology Solutions
+@BODYTEXT:MetLife
+@BODYTEXT:Mobius Management
+@BODYTEXT:National Financial Partners
+@BODYTEXT:National League for Nursing
+@BODYTEXT:Neal Gerber & Eisenberg
+@BODYTEXT:Ortho-McNeil
+@BODYTEXT:Oxford Finance Corporation
+@BODYTEXT:PediaMed Pharmaceuticals
+@BODYTEXT:Pfizer
+@BODYTEXT:Rhodes Associates
+@BODYTEXT:Scleroderma Foundation
+@BODYTEXT:Sumitomo  Corporation
+@BODYTEXT:Touchstone Investments
+@BODYTEXT:Tower Group
+@BODYTEXT:TradeWeb
+@BODYTEXT:WordLogic
+@BODYTEXT:
+@CO:MALCOLM MARKETING COMMUNICATIONS
+@BODYTEXT:Part of Malcolm Marketing Communications Group
+@BODYTEXT:2325 Dean St., #900, St. Charles, IL 60175
+@BODYTEXT:630/584-8801; fax:630/584-8805
+@BODYTEXT:www.malcolm-mktg.com
+@BODYTEXT:Advertising, marketing comms., direct marketing, PR, employee comms., trade show promotion.
+@CCD1:Fran Klos, pres.
+@BODYTEXT:927 Main St., Racine, WI 53403
+@BODYTEXT:414/633-4500; fax: 414/633-0249
+@CCD1:Don Schauf, VP
+@BODYTEXT:
+@BODYTEXT:All Saints Healthcare
+@BODYTEXT:American Architectural Mfrs. Assn.
+@BODYTEXT:American Family Insurance Co.
+@BODYTEXT:Best Impressions
+@BODYTEXT:CNH Corp/Case
+@BODYTEXT:Energy Absorption Systems
+@BODYTEXT:Grubb & Ellis Corp.
+@BODYTEXT:Illinois Roadbuilders Assn.
+@BODYTEXT:National Truck Leasing Systems
+@BODYTEXT:Promega Corp.
+@BODYTEXT:Snap-on Corp.
+@BODYTEXT:Springs Window Fashions Division
+@BODYTEXT:Sumida America Corp.
+@BODYTEXT:
+@CO:MALLORY FACTOR INC.
+@BODYTEXT:555 Madison Ave., New York, NY 10022
+@BODYTEXT:212/350-0000; fax:212/350-0001
+@BODYTEXT:Fin’l, inv. rels.; mktg., special events, public affairs, travel & tourism PR; indus./tech., consumer PR. Founded: 1976.
+@CCD1:Mallory Factor, chmn.
+@BODYTEXT:Ameron
+@BODYTEXT:Checkpoint Systems
+@BODYTEXT:DNA Plant Technology
+@BODYTEXT:Exide Corp.
+@BODYTEXT:NatWest Markets
+@BODYTEXT:
+@CO:MALONE ADVERTISING
+@BODYTEXT:388 So. Main St., #410, Akron, OH 44311
+@BODYTEXT:330/376-6148; fax:330/253-1218
+@BODYTEXT:www.malonead.com
+@BODYTEXT:Publicity, PR, media adv., int’l, research, sales literature, direct mail; CD-ROMs, web authoring, media rels.  Founded: 1943.
+@CCD1:Ben Brugler, director of PR
+@BODYTEXT:Auralex Acoustics Inc.
+@BODYTEXT:Crane Products Ltd.
+@BODYTEXT:Johnson Truck Bodies
+@BODYTEXT:MPI Label Systems, Inc.
+@BODYTEXT:R.C.A. Rubber Co.
+@BODYTEXT:Super Trapp Industries
+@BODYTEXT:Voss Aerospace
+@BODYTEXT:
+@CO:MALONEY & FOX, LLC
+@BODYTEXT:89 Fifth Ave., 4th flr., New York, NY 10003
+@BODYTEXT:212/243-2000; fax:212/243-5500; everybody@maloneyfox.com
+@BODYTEXT:
+@AGENCY:Agency Statement: Maloney & Fox, a Waggener Edstrom company, develops campaigns that go beyond PR, using a mix of marketing techniques to help its clients build their brands.  The agency is obsessed with client satisfaction; believes that a fun, dynamic workplace leads to superior creative thinking and results; and offers a dynamic mixture of seasoned practitioners and enthusiastic young pros to generate fresh, strategic thinking.
+@AGENCY:M&F has a formidable track record of programs that increase awareness, influence audience opinions and behavior, get consumers to take action, and have a positive impact on sales.  The agency achieves this by combining unexpected creative ideas with a solid strategic foundation tied to marketing goals and by translating media and pop culture trends into programs that create broad media exposure and resonate with the target.
+@AGENCY:Maloney & Fox has executed programs across a number of categories, including Consumer Brands, Consumer Electronics, Entertainment, Food & Beverage, Healthcare, Technology and Wine & Spirits.  In the eight years since its founding, it has been honored with 35 awards for excellence in public relations, branding and integrated marketing.
+@CCD1:Brian Maloney, Margie Fox, Maria Bartha, Hal Bienstock, Janet Broenner, David Dapko, Giles Hanson, Garland Harwood, Duval Hopkins, Ken Jacobs, Jeff Miller, Aunt Lo, David Orchard, Zac Rivera, Mona St. Leger, Jilliann Teets, Steve Ulliman, Lydia Voles, Dave Welty, Hillary Tolle
+@BODYTEXT:American Physical Therapy Assn.
+@BODYTEXT:Charming Shoppes, Inc.
+@BODYTEXT:Combe Inc. (Odor-Eaters)
+@BODYTEXT:Diageo (Godiva Liqueur)
+@BODYTEXT:Federation of Gay Games
+@BODYTEXT:i Saloni
+@BODYTEXT:lle de France Cheese
+@BODYTEXT:MasterCard
+@BODYTEXT:Microsoft
+@BODYTEXT:Microsoft Network (MSN)
+@BODYTEXT:Network Solutions
+@BODYTEXT:RCA
+@BODYTEXT:Sara Lee Branded Apparel (Wonderbra)
+@BODYTEXT:T-Mobile USA
+@BODYTEXT:
+@CO:MAMMOTH GROUP, THE
+@BODYTEXT:151 W. 19th St., New York, NY 10011
+@BODYTEXT:212/675-2250; fax:212/675-6829
+@BODYTEXT:Health, medical, nutrition, OTC, Rx PR.  Employees: 5. Founded: 1996.
+@CCD1:Geoffrey V. Raymond, president
+@BODYTEXT:New York Wine & Grape Foundation
+@BODYTEXT:Welch Foods, Inc.
+@BODYTEXT:Women's Heart Foundation
+@BODYTEXT:
+@CO:MANGAN/HOLCOMB & PARTNERS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:2300 Cottondale Lane, Little Rock, AR 72202
+@BODYTEXT:501/376-0321; fax:501/376-6127
+@BODYTEXT:PR, adv., bus.-to-bus., agriculture/gardening, automotive, healtcare, public ultilities.   Founded: 1972.
+@CCD1:Steve Holcomb, president
+@BODYTEXT:Aegon
+@BODYTEXT:Arkansas Gas Assn.
+@BODYTEXT:Bank of Fayetteville
+@BODYTEXT:Hartz Seed Co., Inc.
+@BODYTEXT:NaturScent
+@BODYTEXT:
+@CO:MANGERS ASSOCIATES, CLAIRE
+@BODYTEXT:1 Rivermere, #4-C, Bronxville, NY 10708
+@BODYTEXT:914/337-5007; fax:914/337-6463; cmangers@verizon.net
+@BODYTEXT:Hospitality, consumer and general PR.  Founded: 1993.
+@CCD1:Claire Mangers, president
+@BODYTEXT:Hilton Cancun Beach & Golf Resort
+@BODYTEXT:Nantucket Island Resorts
+@BODYTEXT:Radisson Edwardian - London
+@BODYTEXT:Trafalgar Tours
+@BODYTEXT:
+@CO:MANIS CANNING & ASSOCIATES, INC.
+@BODYTEXT:12 Francis St., PO Box 511, Annapolis, MD 21401
+@BODYTEXT:410/263-7882; fax:410/269-7523
+@BODYTEXT:Government relations, public affairs
+@CCD1:Nicholas G. Manis, VP
+@BODYTEXT:
+@CO:MANNERS CO., INC., DAVID X.
+@BODYTEXT:107 Post Road East, Westport, CT 06880
+@BODYTEXT:203/227-7060; fax:203/227-7067; info@dxmanners.com
+@BODYTEXT:Full-service PR. Employees: 8. Founded: 1966
+@CCD1:David X. Manners, chmn.; Timothy G. Manners, pres.
+@BODYTEXT:Clarion Marketing
+@BODYTEXT:Einson Freeman, Inc.
+@BODYTEXT:Geppetto Group
+@BODYTEXT:Hub Magazine
+@BODYTEXT:Magnifi, Inc.
+@BODYTEXT:Marketing Drive
+@BODYTEXT:Meridian Consulting Group
+@BODYTEXT:MineTech
+@BODYTEXT:Reverles.com
+@BODYTEXT:TradeZone
+@BODYTEXT:Veridiem
+@BODYTEXT:
+@CO:MANNING PR
+@BODYTEXT:106 Brets Rd., Brattleboro, VT 05301
+@BODYTEXT:802/257-5717; fax:802/257-5719; sjmpr@sover.net
+@BODYTEXT:PR and marketing counsel for financial services, mfg., consumer prods., the arts and entertainment industry, non-profit; with special interest in environmental efforts. Founded: 1993.
+@CCD1:Sharry J. Manning, president
+@BODYTEXT:
+@CO:MANNING SELVAGE & LEE
+@BODYTEXT:Subsidiary of Publicis Groupe S.A.
+@BODYTEXT:1675 Broadway, 9th flr., New York, NY 10019
+@BODYTEXT:212/468-4200; fax:212/468-3007; lou.capozzi@mslpr.com
+@BODYTEXT:Full-service PR firm.  Employees: 950. Founded: 1938.
+@AGENCY:Agency Statement: It’s not important that MS&L dates back to 1938, or that four of our top five clients have been with us for more than 15 years.  What’s important is the overwhelming recognition of our infinitely renewable source of energy – our cohesive, collegial culture.  Our culture springs from one mission – one of the simplest in the business and common to every MS&L office around the globe – to be more important to our clients.  
+@AGENCY:To achieve our mission, MS&L goes well beyond media relations, acting as partners and advisors to its clients, powering their businesses with proven methods and tools for strategic planning, corporate and product branding, corporate reputation, crisis management, and stakeholder relations.
+@AGENCY:Delivering the right message to the right audience  at exactly the right moment requires more than just ‘integration’ of services like advertising, public relations or direct marketing around a core strategy.  To us, it’s about diversity – delivering messages respectful of cultural or geographic difference to provide the same positive brand experience and value proposition – no matter who hears it or where they hear it.
+@CCD1:Louis Capozzi, chmn. & CEO; John Bellizzi, CFO; Lew Carter, mng. dir., affiliate relations worldwide; Jill Farwell, pres., North America; Mark Hass, CEO, Hass MS&L & pres., North America; Saul Fleer, finance dir., USA; Joe Gleason, pres., North America; Tim Morley, CFO, Europe; (also see Frankfurt office for J. Togotzes)
+@BODYTEXT:1170 Peachtree St., #400, Atlanta, GA 30309
+@BODYTEXT:404/875-1444; fax: 404/892-1274
+@CCD1:Jim Tsokanos, managing director
+@BODYTEXT:745 Boylston St., 6th flr., Boston, MA 02116
+@BODYTEXT:617/437-7722; fax: 617/267-9801
+@CCD1:Monique da Silva, managing director
+@BODYTEXT:303 East Wacker Dr., #440, Chicago, IL 60601
+@BODYTEXT:312/861-5200; fax: 312/861-5252
+@CCD1:Nancy Brennan, managing director
+@BODYTEXT:Hass MS&L: 3310 W. Big Beaver, #300, Troy, MI 48084
+@BODYTEXT:248/458-8600; fax: 248/458-8518
+@CCD1:Sheila Gruber McLean, managing director
+@BODYTEXT:Hass MS&L: 115 W. Liberty, 2nd flr., Ann Arbor, MI 48104
+@BODYTEXT:734/214-1550; fax: 734/214-1551
+@CCD1:Jud Branam, managing director
+@BODYTEXT:6500 Wilshire Blvd., #1900, Los Angeles, CA 90048
+@BODYTEXT:323/866-6000; fax: 323/866-6001
+@CCD1:Brenda Lynch, managing director
+@BODYTEXT:Bromley/MS&L: 401 East Houston St., San Antonio, TX 78205
+@BODYTEXT:210/244-2000; fax: 210/244-2116
+@CCD1:Deborah Vallejo, managing director
+@BODYTEXT:415 Jackson, 2nd flr., San Francisco, CA 94111
+@BODYTEXT:415/676-3900; fax: 415/676-3901
+@CCD1:Bill Orr, managing director
+@BODYTEXT:1100 17th St., N.W., 12th flr., Washington, DC 20036
+@BODYTEXT:202/467-6600; fax: 202/467-5187
+@CCD1:Donald Hannaford, managing director
+@BODYTEXT:INTERNATIONAL:
+@BODYTEXT:MS&L Athens: 73 Penetelis Ave. & Thrassivailou St. 15234 Halandri, Athens, Greece
+@BODYTEXT:30-0106850313; fax; 30-1068-50508 
+@CCD1:Dina Galanou, managing director
+@BODYTEXT:Leo Burnett Budapest: Daru u.2/B, H-1023 Budapest, Hungary
+@BODYTEXT:36-326-3660; fax: 36-335-0816
+@CCD1:Edit Fulop
+@BODYTEXT:Muchnik, Alurralde, Jasper & Asoc./MS&L: Callao 1046 410 Piso (C1023AAQ) Buenos Aires, Argentina
+@BODYTEXT:54-11 5031-1300; fax: 54 11 5031-1301
+@CCD1:Laura Muchnik, partner and managing dir.
+@BODYTEXT:Obere Zeil 2, D-61440 Oberursel, Frankfurt, Germany
+@BODYTEXT:49-6171-5887-0; fax: 49-6171-5887-75
+@CCD1:Jurgen Togotzes, president of Europe, Middle East & Africa
+@BODYTEXT:Hollander en Van der Mey/MS&L: Villa Vronesteijn, Oosteinde 237, 2271 EG, Voorburg, The Hague, Netherlands
+@BODYTEXT:31-70-354-9000; fax: 31-70-350-3145
+@CCD1:Bart deVries, mng. partner/senior consultant
+@BODYTEXT:6/F Cityplaza 3, 14 Taikoo Wan Road, Hong Kong, China
+@BODYTEXT:Room 1308, China World Tower 2, No. 1 Jian Guo Men Wai Avenue, Beijing 100004, China
+@BODYTEXT:1F, 208 An Fu Rd., Shanghai 200031, China
+@BODYTEXT:415/676-3900 fax:415/676-3901
+@CCD1:Fiona Cohen, Regional Director, Asia-Pacific
+@BODYTEXT:Leo Burnett PR: Buyudere Cad Beytem Plz.No. 26/6, Sili-Istanbul, Turkey 80220
+@BODYTEXT:90-212-234-2728; fax: 90-212-230-4229
+@CCD1:Ergun Gumrah, PR manager
+@BODYTEXT:Leo Burnett Kreasindo Indonesia: Kreasindo Bldg., Jl, Pasar Baru Timur #9, Jakarta, Indonesia 10710
+@BODYTEXT:62-21-386-3707; fax: 62-21-386-3706
+@CCD1:Andri Lesmana, PR manager
+@BODYTEXT:Leo Burnett Malaysia: Level 5, Manara Olympia, No. 8 Jalan Raja Chulan, 50200 Kuala Lumpur, Malaysia
+@BODYTEXT:60-32010998; fax: 60-32010995
+@CCD1:Sue d’Cruz, director of PR
+@BODYTEXT:Pembroke Building, Kensington Village, Avonmore Road, London W14 8DG, U.K.
+@BODYTEXT:44-207 878-3000; fax: 44-207 878-3030
+@CCD1:Nicholas Walters, managing director, MS&L/London; Steffan Williams, managing director, Capital MS&L
+@BODYTEXT:MS&L Mavellia Bellodi: Palazzo Serbelloni, Corso Venezia, 16, 20121 Milan, Italy
+@BODYTEXT:39-2-773-3661; fax: 39-02-773-361
+@CCD1:Adriana Mavellia, CEO & managing director; Daniela Canegallo, general manager
+@BODYTEXT:JKL Osio: Postboks 114, N-0212 Osio, Norway 
+@BODYTEXT:47-24-10-38-00; fax: 4724-10-3801
+@CCD1:Kjall Rakkenes, managing director
+@BODYTEXT:59 blvd. Exelmans, 75781 Paris Cedex 16, France
+@BODYTEXT:331-4071-0697; fax: 331-4071- 0712
+@CCD1:Solange Stricker, managing director, Solange Stricker MS&L
+@BODYTEXT:MS&L: 175 Bloor St. E., Suite 801, North Tower, Toronto, ON, M4W 3R8
+@BODYTEXT:416/967-3702; fax: 416/967-6414
+@CCD1:Gayla Brock-Woodland, managing director
+@BODYTEXT:180* Degrees: ul. Karmelicka 9, 00-155 Warszawa, Poland
+@BODYTEXT:48-22-860-9800; fax: 48-22-860-5813
+@CCD1:Danuta Rackiewicz-Chenczke, managing director
+@BODYTEXT:PO Box 7534, Bldg 11, Dubai Media City, 2nd Fl. Dubai, URE, United Arab Emirates
+@BODYTEXT:97-14-367-2595 fax: 97-14-367-26150
+@CCD1:Mazen Hayek, managing director
+@BODYTEXT:Andreoli/MS&L: Rua Alvano Rodrigueo, 182, 10 andar 04582-00 SaoPaulo, SP, Brazil
+@BODYTEXT:55-11-5088-3400; fax: 55-11-5088-3418
+@CCD1:Paulo Andreoli, president & CEO
+@BODYTEXT:
+@BODYTEXT:Capital One 
+@BODYTEXT:Chiron Corp.
+@BODYTEXT:Cingular
+@BODYTEXT:Eli Lilly
+@BODYTEXT:EquiFax
+@BODYTEXT:G8
+@BODYTEXT:General Motors
+@BODYTEXT:Gillette
+@BODYTEXT:Guardian Life Insurance Company
+@BODYTEXT:Hasbro 
+@BODYTEXT:Heidelberg
+@BODYTEXT:Hewitt Bacon & Woodrow
+@BODYTEXT:Hoffmann-La Roche
+@BODYTEXT:Home Depot
+@BODYTEXT:Inamed
+@BODYTEXT:Inova
+@BODYTEXT:Intuit
+@BODYTEXT:J.P. Morgan
+@BODYTEXT:Kraft Foods
+@BODYTEXT:Microsoft
+@BODYTEXT:Mission Pharmaceutical
+@BODYTEXT:Nestle
+@BODYTEXT:Novartis
+@BODYTEXT:Novo Nordisk
+@BODYTEXT:Pfizer
+@BODYTEXT:Philips 
+@BODYTEXT:Price Waterhouse Coopers
+@BODYTEXT:Procter & Gamble
+@BODYTEXT:RS Components
+@BODYTEXT:Ruby Tuesday
+@BODYTEXT:Safeway
+@BODYTEXT:Sanofi
+@BODYTEXT:Sara Lee
+@BODYTEXT:Schering-Plough Corp
+@BODYTEXT:Sidestep
+@BODYTEXT:Sprint
+@BODYTEXT:Sunkist
+@BODYTEXT:U.S. Army
+@BODYTEXT:UPS Worldwide logistics
+@BODYTEXT:Western Union
+@BODYTEXT:
+@CO:MAPLES COMMUNICATIONS INC.
+@BODYTEXT:18301 Von Karman Ave., #150, Irvine, CA 92612
+@BODYTEXT:949/477-0710; fax:949/477-0723
+@BODYTEXT:www.maples.com
+@BODYTEXT:Full-service PR firm: high-tech, investor relations and marketing communications.
+@CCD1:Bob Maples, president
+@BODYTEXT:Alorica
+@BODYTEXT:
+@CO:MARC-USA/INDIANAPOLIS
+@BODYTEXT:Division of Marc-USA
+@BODYTEXT:1314 N. Meridian St., Indianapolis, IN 46202
+@BODYTEXT:317/632-6501; fax:317/639-2760
+@BODYTEXT:Media rels., reputation & issues mgmt., community & employee rels., sports marketing. Founded: 1910
+@CCD1:Dan Forst, senior group mgr.
+@BODYTEXT:Allison Transmission; Allison Engine
+@BODYTEXT:Armstrong Engineering, R.W.
+@BODYTEXT:BP Corp.
+@BODYTEXT:Hoosier Park, L.P
+@BODYTEXT:Indiana Visitors/Convention Assn.
+@BODYTEXT:Indianapolis Airport Authority
+@BODYTEXT:Indianapolis Metro Planning Org.
+@BODYTEXT:Knauf Fiber Glass
+@BODYTEXT:LDI, Ltd.
+@BODYTEXT:Maytag Brands
+@BODYTEXT:
+@CO:MARCOM ASSOCIATES
+@BODYTEXT:8476 1/2 Fountain Ave., West Hollywood, CA 90069
+@BODYTEXT:323/650-0606; fax:323/650-8882
+@BODYTEXT:www.marcomassoc.com
+@BODYTEXT:Corporate communications for technology and e-business. Founded: 1998. Employees: 5.
+@CCD1:Kristin Gabriel, co-founder/president
+@BODYTEXT:American Veteran Awards
+@BODYTEXT:IOLO Technologies
+@BODYTEXT:Jewels for Charity
+@BODYTEXT:LA Architech Magazine
+@BODYTEXT:
+@CO:MARCOM OUTSOURCE
+@BODYTEXT:P.O. Box 994, Westford, MA 01886
+@BODYTEXT:978/502-1055
+@BODYTEXT:www.techmarcom.com
+@BODYTEXT:Marketing communications agency.
+@CCD1:Jon Boroshok
+@BODYTEXT:BRC Systems
+@BODYTEXT:MobileWise
+@BODYTEXT:Namo
+@BODYTEXT:Netspoke Interactive 
+@BODYTEXT:Perle Systems
+@BODYTEXT:
+@CO:MARCUS GROUP, THE
+@BODYTEXT:300 Lighting Way, Secaucus, NJ 07094
+@BODYTEXT:201/902-9000; fax:201/902-9008; denise.gassnerkuhn@marcusgroup.com
+@BODYTEXT:Business-to-business, financial, crisis comms. and strategic PR campaigns.  Employees: 20. Founded: 1970.
+@AGENCY:Agency Statement: The Marcus Group offers a full range of services in a broad cross-section of industries.
+@AGENCY:The services we provide include:
+@AGENCY:Advertising
+@AGENCY:o Crisis Communications
+@AGENCY:Governmental Affairs
+@AGENCY:o Graphic Design
+@AGENCY:Media Relations
+@AGENCY:o Media Planning and Placement
+@AGENCY:Public and Community Relations
+@AGENCY:o Strategic Marketing and Planning
+@AGENCY:We do not believe in “cookie-cutter” communications and marketing plans. We analyze each client’s needs and resources, and develop programs designed specifically to meet that client’s objectives.
+@CCD1:Alan C. Marcus, pres. & CEO; Thomas V. O’Neil, exec. VP; Denise M. Gassner Kuhn, exec. VP & COO; Thomas J. Kilkenny, VP
+@BODYTEXT:Henry H. Kessler Foundation
+@BODYTEXT:HIP of Greater New York
+@BODYTEXT:Jersey City Medical Center
+@BODYTEXT:Liberty Health
+@BODYTEXT:New England Motor Freight
+@BODYTEXT:New Jersey Broadcasters Assn.
+@BODYTEXT:New York Presbyterian-The University Hospitals of Columbia
+@BODYTEXT:and Cornell
+@BODYTEXT:New York Susquehanna Western Railway
+@BODYTEXT:PSE&G
+@BODYTEXT:Resorts Int’l
+@BODYTEXT:Robert Wood Johnson University Hospital
+@BODYTEXT:
+@CO:MARCUS THOMAS LLC
+@BODYTEXT:24865 Emery Rd., Cleveland, OH 44128
+@BODYTEXT:216/292-4700; fax:216/292-7219; bhallisy@marcusthomasllc.com
+@BODYTEXT:www.marcusthomasllc.com
+@BODYTEXT:Full-service marketing PR with emphasis in healthcare, financial, technology and steel industry markets.  Employees: 13. Founded: 1937.
+@AGENCY:Agency Statement: Intellect, curiosity and intuition are the tools we use to create ideas.
+@AGENCY:Ideas that advance our clients’ business objectives.
+@AGENCY:Ideas that sculpt our clients’ reputations, that build our clients’ fortunes.
+@CCD1:Beth H. Hallisy, partner; Phil Johnston, senior VP/dir. of planning; Pat Carlson, VP of PR; Jennifer Hirt-Marchand, VP of research; Heidi L. Modarelli-Frank, A/S; Jim Houck, acct. manager
+@BODYTEXT:Akron Children's Hospital
+@BODYTEXT:Alcoa
+@BODYTEXT:Avery Dennison
+@BODYTEXT:Bendix Commercial Vehicle Systems
+@BODYTEXT:Caterpillar Inc.
+@BODYTEXT:Fund for our Economic Future
+@BODYTEXT:Goodyear Tire & Rubber Co. (Kelly Brands)
+@BODYTEXT:HomeTown Health Network
+@BODYTEXT:International Steel Group
+@BODYTEXT:Johnsonite
+@BODYTEXT:Libbey Inc.
+@BODYTEXT:Milliken & Co.
+@BODYTEXT:Novar Controls
+@BODYTEXT:Ohio Steel Council
+@BODYTEXT:Pfaltzgraff
+@BODYTEXT:ProQuest Automotive
+@BODYTEXT:Robinson Industries
+@BODYTEXT:Sky Financial Group
+@BODYTEXT:Swagelok Co.
+@BODYTEXT:Taft, Stettinius & Hollister
+@BODYTEXT:
+@CO:MAREK & COMPANY
+@BODYTEXT:6928 Cornelia Lane, Dallas, TX 75214
+@BODYTEXT:214/828-0634; fax:214/828-4559
+@BODYTEXT:Financial services, bus.-to-bus. and oil and gas PR; regional and national clients. Employees: 5. Founded: 1992.
+@CCD1:Annemarie Marek, principal/founder; Debra A. Berens, VP/client relations; Leslie Baker, VP/strategic consulting; Jackie Griffith, senior designer
+@BODYTEXT:Alfa Insurance Co.
+@BODYTEXT:Direct Selling Assn.
+@BODYTEXT:Paric Corp.
+@BODYTEXT:Prentiss Property Services Ltd.
+@BODYTEXT:Uptown Public Improvement District
+@BODYTEXT:Shaklee Cos.
+@BODYTEXT:Society of Petroleum Engineers
+@BODYTEXT:The Real Estate Council
+@BODYTEXT:
+@CO:MARENGHI PUBLIC RELATIONS, INC.
+@BODYTEXT:690 Canton St., #240, Westwood, MA 02090
+@BODYTEXT:781/915-5000; fax:781/326-9370
+@BODYTEXT:www.marenghi.com
+@BODYTEXT:Strategic marketing, PR and sales support firm serving high-tech, Internet, communications, consulting, media, and information-intensive clients.  Employees: 12. Founded: 1992.
+@AGENCY:Agency Statement: Since 1992, Marenghi Public Relations has helped technology businesses fuel sales through strategic PR, sales lead generation and custom research services. Through seasoned strategic counsel and highly customized programs, Marenghi delivers measurable bottom-line results. Many of the industry’s most influential analysts, editors and thought leaders - Forrester, IDC, Giga, Computerworld, etc. - have been our clients, giving us unprecedented insights into how the press and analyst communities work.
+@CCD1:Catherine Marenghi, pres.; Erin Keefe, exec. VP; Jean Borgman, Jessica Mularczyk, VPs
+@BODYTEXT:Computerworld
+@BODYTEXT:Concerto Software
+@BODYTEXT:Enderle Group
+@BODYTEXT:Ipswitch, Inc.
+@BODYTEXT:Red Bend Software
+@BODYTEXT:SoundBite
+@BODYTEXT:
+@CO:MARINO & ASSOCIATES
+@BODYTEXT:539 Bryant St., #406, San Francisco, CA 94107
+@BODYTEXT:415/987-8515; fax:360/237-7642; marianna@marino.com
+@BODYTEXT:www.marino.com
+@BODYTEXT:PR for Internet and entertainment companies; start-ups in Internet messaging, music, health and interactive TV arenas. Founded: 1994.
+@CCD1:Marianna Marino, principal
+@BODYTEXT:Apple Computer
+@BODYTEXT:Australian Trade Comm
+@BODYTEXT:Citysearch
+@BODYTEXT:Gateway
+@BODYTEXT:House of Blues
+@BODYTEXT:MCA
+@BODYTEXT:
+@CO:MARINO ORGANIZATION INC., THE
+@BODYTEXT:171 Madison Ave., #1100, New York, NY 10016
+@BODYTEXT:212/889-0808; fax:212/889-2457; info@themarino.org
+@BODYTEXT:Media relations, corporate communications, crisis management, strategic counseling, government/community relations, public affairs and marketing.  Employees: 17. Founded: 1993.
+@AGENCY:Agency Statement: Founded in 1993, The Marino Organization (TMO) is a "street-smart," full-service, New York-based, public relations agency providing customized, strategic communications programs that help clients achieve business and organizational objectives.
+@AGENCY:TMO's unique "convergence" of skills combines a sophisticated understanding of media relations -- community relations -- government affairs -- and the business world.
+@AGENCY:Client categories include real estate, retail and consumer goods, professional services, media/publishing, tourism/entertainment, architecture, construction, not-for-profit, community development, and industry and trade associations.
+@CCD1:Frank C. Marino, pres.; Lee Silberstein, exec. VP; Steve Vitoff, senior VP; Deborah Tagliaferro, operations manager; Robert Barletta, VP; David Stearns, senior A/E
+@BODYTEXT:Advertising Age
+@BODYTEXT:American Continental Properties
+@BODYTEXT:BAM, LDC (Brooklyn Academy of Music, Local Development Corp.)
+@BODYTEXT:Bailey House
+@BODYTEXT:Barry B LePatner & Associates, LLP
+@BODYTEXT:Brown Raysman Millstein & Steiner, LLP
+@BODYTEXT:Business Insurance Magazine
+@BODYTEXT:ConEdison Solutions
+@BODYTEXT:Construction Industry Partnership and their affiliates, BTEA (Building Trades Employer’s Assn.) and BCTC (Building and Construction Trades Council)
+@BODYTEXT:Crain’s New York Business
+@BODYTEXT:Downtown Brooklyn Council
+@BODYTEXT:Fashion Center Business Improvement District
+@BODYTEXT:Gala Resources
+@BODYTEXT:Granite Partners, Inc.
+@BODYTEXT:Greenberg Farrow Architecture Engineering Development
+@BODYTEXT:Griffiss Local Development Corporation
+@BODYTEXT:GVA
+@BODYTEXT:GVA Williams
+@BODYTEXT:Hamilton, Rabinovitz, Alschuler, Inc.
+@BODYTEXT:Hudson Companies
+@BODYTEXT:Hudson Yards Coalition
+@BODYTEXT:IBEX Construction
+@BODYTEXT:JFK IAT, Terminal 4 JFK
+@BODYTEXT:LCOR Inc.
+@BODYTEXT:Leewood Real Estate
+@BODYTEXT:Levine Builders Inc.
+@BODYTEXT:Michael Van Valkenburgh Associates
+@BODYTEXT:Muss Development
+@BODYTEXT:NYOFCo/SYNAGRO
+@BODYTEXT:Real Estate Board of New York
+@BODYTEXT:Seward & Kissel LLP
+@BODYTEXT:Silvercup Studios
+@BODYTEXT:Starwood Ceruzzi
+@BODYTEXT:Thor Equities
+@BODYTEXT:Tuxedo Reserve
+@BODYTEXT:VIP Community Services
+@BODYTEXT:Wank Adams Slavin Assocs. (WASA)
+@BODYTEXT:Workforce Management
+@BODYTEXT:
+@CO:MARION, MONTGOMERY, INC.
+@BODYTEXT:2412 South Blvd., Houston, TX 77098
+@BODYTEXT:713/523-7900
+@BODYTEXT:www.mmihouston.com
+@BODYTEXT:Marketing, adv. & PR firm. Specializing in strategic mktg., market research, media planning.
+@CCD1:Cindy Marion, CEO; Holly Anderson, A/E; Marina Cadwallder, media dir.
+@BODYTEXT:
+@CO:MARIS, WEST & BAKER, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:18 Northtown Drive, Jackson, MS 39211
+@BODYTEXT:601/977-9200; fax:601/977-9257
+@BODYTEXT:www.mwb.com
+@BODYTEXT:PR, adv., creative, direct mktg., financial, industrial, healthcare, telecommunications.  Founded: 1970.
+@CCD1:David Kimball, president
+@BODYTEXT:Amtrate
+@BODYTEXT:Bay Springs Telephone Co.
+@BODYTEXT:Metro Jackson Convention & Visitors Bureau
+@BODYTEXT:Scientific Telecom
+@BODYTEXT:Southern Bag Corp.
+@BODYTEXT:
+@CO:MARJAN COMMUNICATIONS INC.
+@BODYTEXT:55. W. Delaware Place, #902, Chicago, IL 60610
+@BODYTEXT:312/867-1771; fax:312/867-1772
+@BODYTEXT:www.marjancommunications.com
+@BODYTEXT:Strategic comms., corp. & fin’l comms., IR, consulting, fin’l materials, investor contact, employee comms., media rels.  Founded: 2000.
+@CCD1:Frederick J. Nachman, principal
+@BODYTEXT:Kendro Laboratory Products, Inc.
+@BODYTEXT:LMI Aerospace, Inc.
+@BODYTEXT:Malan Realty Investors, Inc.
+@BODYTEXT:Timex Corp.
+@BODYTEXT:
+@CO:MARKET CONNECTION, THE
+@BODYTEXT:1820 E. Gary St., #216, Santa Ana, CA 92705
+@BODYTEXT:949/851-6313; fax:949/833-0253
+@BODYTEXT:Food, professional svcs., bus.-to-bus. PR, events, nat’l celebrity media tours, retail. Employees: 6. Founded: 1986
+@CCD1:Janie Roach, pres.; David L. Parcell, VP
+@BODYTEXT:FAS ‘N’ GO, div., Active Sales
+@BODYTEXT:Ingro Inc./Embasa Foods
+@BODYTEXT:Kwikset, div. of Black & Decker
+@BODYTEXT:Mission Foods
+@BODYTEXT:
+@CO:MARKETING PARTNERS MEDIA
+@BODYTEXT:30 Green Woods Lane, Farmington, CT 06085
+@BODYTEXT:860/675-1946
+@BODYTEXT:PR, adv., construction/building, financial, household products/ supplies, public utilities.  Founded: 1991.
+@CCD1:Richard F. Haumann, president
+@BODYTEXT:
+@CO:MARKETING STRATEGIES INCORPORATED
+@BODYTEXT:527 Main St., Weymouth, MA 02190
+@BODYTEXT:781/340-6640; fax:781/340-7640
+@BODYTEXT:Corporate communications services to educational, financial, high-tech, professional services: marketing, advertising, PR, design, corporate communications. Founded: 1980
+@CCD1:William Bird, pres.
+@BODYTEXT:Graduate and Continuing Education div. of Worcester Polytechnic Institute
+@BODYTEXT:Stonehill College
+@BODYTEXT:
+@CO:MARKETING.COMM
+@BODYTEXT:See Weyforth-Haas
+@BODYTEXT:
+@BODYTEXT:
+@CO:MARKHAM/NOVELL COMMUNICATIONS, LTD.
+@BODYTEXT:211 East 43rd St., #1102, New York, NY 10017
+@BODYTEXT:212/687-1765
+@BODYTEXT:Publicity, promotion, marketing & econ. development for consumer, food, wine, spirits, technology; IR and entertainment PR. Employees: 15. Founded: 1980
+@CCD1:Jacqueline Markham, Arthur Novell, CEOs
+@BODYTEXT:4311 Wilshire Blvd., Los Angeles, CA 90010
+@BODYTEXT:323/634-5434; fax: 323/634-5420
+@CCD1:Allan Priaulx, managing director
+@BODYTEXT:
+@BODYTEXT:Adidas Watches
+@BODYTEXT:American Film Institute
+@BODYTEXT:Bertelsmann AG
+@BODYTEXT:General Media Int’l
+@BODYTEXT:Jim Henson Company
+@BODYTEXT:Mind & Muscle Power Magazine
+@BODYTEXT:Nest Entertainment
+@BODYTEXT:Old World Christmas
+@BODYTEXT:Penguin Consumer Products
+@BODYTEXT:Remy Martin Cognac
+@BODYTEXT:Request Magazine
+@BODYTEXT:Walkers Shortbread
+@BODYTEXT:
+@CO:MARQUARDT & ROCHE & PARTNERS
+@BODYTEXT:PR division of advertising agency
+@BODYTEXT:999 Summer St., Stamford, CT 06905
+@BODYTEXT:203/327-0890; fax:203/353-8487; ideas@mrp-website.com
+@BODYTEXT:www.mrp-website.com
+@BODYTEXT:Business and consumer PR. Founded: 1970.
+@CCD1:Howard Meditz, president
+@BODYTEXT:Connecticut Technology Council
+@BODYTEXT:Duracell North Atlantic Group-NPT Division
+@BODYTEXT:Schott Corp.
+@BODYTEXT:Weir Farm National Park Site
+@BODYTEXT:
+@CO:MARSTON AND ASSOCIATES, INC., ROBERT
+@BODYTEXT:485 Madison Ave., New York, NY 10022
+@BODYTEXT:212/371-2200; fax:212/755-4598; mars@marstonpr.com
+@BODYTEXT:Financial, corp., marketing, health PR.  Founded: 1970.
+@CCD1:Robert Marston, chmn. & CEO; Diana Dalsass, principal, Robert Marston Marketing Comms. Inc.
+@CCD1:Robert Marston Corporate Communications, Inc.: Michael W. Millican, pres.; Michael J. Cargill, principal; Charles D. Storer Jr., Harry Savage, James L. Horton, Lori M. Gosset, sr. directors
+@BODYTEXT:
+@BODYTEXT:AdMedia Partners, Inc.
+@BODYTEXT:Albertsons Inc.
+@BODYTEXT:AlixPartners LLC
+@BODYTEXT:American Securities Capital Partners
+@BODYTEXT:CACI International
+@BODYTEXT:Castle Harlan, Inc.
+@BODYTEXT:Conservation Fund, The
+@BODYTEXT:Glenrock Group, The
+@BODYTEXT:Hill Holliday
+@BODYTEXT:The Home Depot
+@BODYTEXT:John Hancock Fin'l Svcs.
+@BODYTEXT:Johnson & Johnson: LifeScan
+@BODYTEXT:Johnson Graduate School of Management at Cornell Univ.
+@BODYTEXT:Juilliard School, The
+@BODYTEXT:Major League Baseball
+@BODYTEXT:Questor Partners Fund, L.P.
+@BODYTEXT:Saratoga Partners
+@BODYTEXT:Soverain Software
+@BODYTEXT:Spencer Stuart
+@BODYTEXT:Venture Capital Fund of America
+@BODYTEXT:
+@CO:MARSTON WEBB INTERNATIONAL
+@BODYTEXT:60 Madison Ave., New York, NY 10010
+@BODYTEXT:212/684-6601; fax:212/725-4709; madlene@marstonwebb.com
+@BODYTEXT:Government, corporate/financial, consumer PR/IR.
+@CCD1:Victor Webb, pres.; Madlene Olson, VP; George Haddad, director
+@BODYTEXT:Brain Games plc
+@BODYTEXT:Brightsky Press
+@BODYTEXT:Capital Gold Corp., NYC
+@BODYTEXT:GACE, London
+@BODYTEXT:Goldcorp, Toronto
+@BODYTEXT:Government of Austria
+@BODYTEXT:Hungarian Trade Comms.
+@BODYTEXT:World Bank, Washington
+@BODYTEXT:World Gold Council
+@BODYTEXT:Yomiuri Shim dun Tokyo
+@BODYTEXT:
+@CO:MARTIN THOMAS, INC.
+@BODYTEXT:334 County Rd., Barrington, RI 02806
+@BODYTEXT:401/245-8500; fax:401/245-1242; contact@martinthomas.com
+@BODYTEXT:www.martinthomas.com
+@BODYTEXT:Advertising, public relations and marketing for industrial, int'l, and technical.  Employees: 5. Founded: 1987.
+@CCD1:Martin K. Pottle, pres.; Janey Rawstron, A/E
+@BODYTEXT:Advanced Polymers Inc.
+@BODYTEXT:Automated Assemblies Corp.
+@BODYTEXT:Beaumont Technologies, Inc.
+@BODYTEXT:Deerfield Urethane Inc.
+@BODYTEXT:DeWolf Chemical, Inc.
+@BODYTEXT:Die Tech Industries Ltd.
+@BODYTEXT:GLS Corp.
+@BODYTEXT:GR Technical Services, Inc.
+@BODYTEXT:IMMIX Technologies, LLC
+@BODYTEXT:Knovel Corp.
+@BODYTEXT:New England Urethane, Inc.
+@BODYTEXT:New Era Materials
+@BODYTEXT:Plastics Institute of America
+@BODYTEXT:Polyzen, Inc.
+@BODYTEXT:Synventive Molding Solutions
+@BODYTEXT:
+@CO:MARTINO & BINZER
+@BODYTEXT:29 West Main St., Bldg. 3, Avon, CT 06001
+@BODYTEXT:860/678-4300; fax:860/678-4301
+@BODYTEXT:www.goodbait.com
+@BODYTEXT:A full-service marketing comms. firm handling business-to-business advertising, strategic marketing and PR. Founded: 1980
+@CCD1:Chris Capot, VP, PR
+@BODYTEXT:AMS Services
+@BODYTEXT:Loctite Corp.
+@BODYTEXT:Prime Source Building Products
+@BODYTEXT:Retirement Living Services
+@BODYTEXT:
+@CO:MARTINO FLYNN L.L.C.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:175 Sully's Trail, #100, Pittsford, NY 14534
+@BODYTEXT:585/421-0100; fax:585/421-0121
+@BODYTEXT:www.martinoflynn.com
+@BODYTEXT:PR, adv., automotive, pharmaceuticals/ healthcare, sporting goods. Founded: 1967
+@CCD1:Raymond A. Martino, partner
+@BODYTEXT:Celltech Pharmaceuticals
+@BODYTEXT:Coopervision
+@BODYTEXT:Dick's Sporting Goods, Inc.
+@BODYTEXT:Hastings Automotive Group
+@BODYTEXT:Xerox Corp.
+@BODYTEXT:
+@CO:MARTZ AGENCY, THE
+@BODYTEXT:7020 East Acoma Dr., Scottsdale, AZ 85254
+@BODYTEXT:480/998-3154; fax:480/998-7985
+@BODYTEXT:www.martzagency.com
+@BODYTEXT:PR, press kits, grand openings/special events, product intros, sales promo., editorial.  Employees: 17. Founded: 1980.
+@CCD1:Carrie Martz, pres. & CEO
+@BODYTEXT:
+@CO:MARX COMMUNICATIONS
+@BODYTEXT:1 Century Drive, #13, Trumball, CT 06611
+@BODYTEXT:203/445-2850; fax:203/445-2851
+@BODYTEXT:www.marxcommunications.com
+@BODYTEXT:Marketing comms., bus.-to-bus., technology, fin'l svcs., media training, product launches, executive branding.
+@CCD1:Wendy Marx, pres.; George McGoldrick, VP, mktg.
+@BODYTEXT:BroadVision
+@BODYTEXT:Investars.com
+@BODYTEXT:RelevantView
+@BODYTEXT:
+@CO:MARX LAYNE & COMPANY
+@BODYTEXT:31420 Northwestern Hwy., #100, Farmington Hills, MI 48334
+@BODYTEXT:248/855-6777, x105; fax:248/855-6719; mlayne@marxlayne.com
+@BODYTEXT:www.marxlayne.com
+@BODYTEXT:Media relations, crisis comms., IR, PA, special events, information technology, bus.-to-bus. comms. for health, beauty, financial, high-tech, travel, entertainment, food and home furnishings.  Employees: 45. Founded: 1987.
+@AGENCY:Agency Statement: Founded in 1987, Farmington Hills, Michigan-based Marx Layne & Company is among the Midwest’s leading independently owned public relations firms. The agency provides individualized marketing and corporate communication services on a local, regional, national and global basis to clients in the automotive, development, financial, hospitality, education, health care, professional service and communications industries, as well as nonprofit organizations and municipalities.
+@CCD1:Michael Layne, Frederick Marx, Don Tanner, and Matt Friedman, partners
+@BODYTEXT:Comcast 
+@BODYTEXT:Detroit Zoo
+@BODYTEXT:McDonald's Restaurants of Southeast Michigan
+@BODYTEXT:Travel Michigan
+@BODYTEXT:Verizon 
+@BODYTEXT:Volkswagan of America, Inc.
+@BODYTEXT:
+@CO:MASAOKA & ASSOCIATES, INC.
+@BODYTEXT:1000 Connecticut Ave., NW, #304, Washington, DC 20036
+@BODYTEXT:202/296-4484; fax:202/293-3060
+@BODYTEXT:www.masaokadc.com
+@BODYTEXT:Public affairs, consumer, institutional PR, int’l trade, auto industry, food & beverage PR.  Employees: 5. Founded: 1953.
+@CCD1:T. Albert Yamada, pres.
+@BODYTEXT:Ajinomoto U.S.A. Inc.
+@BODYTEXT:Dempa Publications
+@BODYTEXT:Dentsu Inc.
+@BODYTEXT:Fresh Produce Association of the Americas
+@BODYTEXT:International Fresh Produce Council
+@BODYTEXT:JETRO New York
+@BODYTEXT:MARCOM International
+@BODYTEXT:Supercorsalt, Inc.
+@BODYTEXT:Takata Corp.
+@BODYTEXT:Toyota Motor North America Inc.
+@BODYTEXT:
+@CO:MASCOLA
+@BODYTEXT:434 Forbes Ave., New Haven, CT 06512
+@BODYTEXT:203/469-6900
+@BODYTEXT:www.mascola.com
+@BODYTEXT:Marketing and PR.
+@CCD1:Chuck Mascola, founder and pres.
+@BODYTEXT:Bradley International Airport
+@BODYTEXT:Lewmar, Inc.
+@BODYTEXT:Vanguard Sailboats
+@BODYTEXT:
+@CO:MASON PUBLIC RELATIONS
+@BODYTEXT:23 Amity Rd., Bethany, CT 06524
+@BODYTEXT:203/393-1101; fax:203/393-4027
+@BODYTEXT:Corporate, marketing, analyst rels., retail, food, technology, and insurance PR.  Employees: 15. Founded: 1980.
+@CCD1:Francis Onofrio, president; Charles Mason, CEO
+@BODYTEXT:Anthem Blue Cross and Blue Sheild of CT
+@BODYTEXT:Bruegger's  Enterprises
+@BODYTEXT:Cookson Electronics
+@BODYTEXT:Emhart Black & Decker
+@BODYTEXT:Krispy Kreme (CT)
+@BODYTEXT:Liberty Community Services
+@BODYTEXT:Somnia, Inc.
+@BODYTEXT:The Innovation Group
+@BODYTEXT:TUV Rheinland of North America
+@BODYTEXT:
+@CO:MASTO PUBLIC RELATIONS, INC.
+@BODYTEXT:10 Century Hill Dr., #2, Latham, NY 12110
+@BODYTEXT:518/786-6488; fax:518/786-6497; mastopr@thecompany.com
+@BODYTEXT:Corporate communications, specializing in indus. and  hi-tech. Employees: 8. Founded: 1986
+@CCD1:Howard Masto, pres.; Ken Darling, sr. VP
+@BODYTEXT:Ceramaseal
+@BODYTEXT:GE Energy Services
+@BODYTEXT:GE Energy Products
+@BODYTEXT:GE Fuel Cells
+@BODYTEXT:GE Industrial Systems
+@BODYTEXT:International Electron Devices Meeting
+@BODYTEXT:Nuovo Pignone
+@BODYTEXT:Texaco Corp.
+@BODYTEXT:Thermoflow Inc.
+@BODYTEXT:Weidmuller, Inc.
+@BODYTEXT:
+@CO:MASTRO COMMUNICATIONS, INC.
+@BODYTEXT:165 Washington Valley Rd., Warren, NJ 07059
+@BODYTEXT:732/469-5700; fax:732/469-6733; info@mastrocomm.com
+@BODYTEXT:www.mastrocomm.com
+@BODYTEXT:Specializing in sports PR and promotions and special events
+@CCD1:Glenn Mastro, Neil Stratford, managing partners; Ari Edelman, VP of PR
+@BODYTEXT:87th PGA Championship
+@BODYTEXT:Ahead Headware 4 Apparel
+@BODYTEXT:Devant Sport Towels
+@BODYTEXT:Doral Golf Resort & Spa, A Marriott Resort
+@BODYTEXT:Ford Championship at Dural
+@BODYTEXT:Pride Manufacturing Co.
+@BODYTEXT:SE Marriott
+@BODYTEXT:Softspikes
+@BODYTEXT:Sportvision, Inc.
+@BODYTEXT:Staples
+@BODYTEXT:The Bag Boy Company
+@BODYTEXT:The Baby Jogger Company
+@BODYTEXT:Tommy Armour Golf
+@BODYTEXT:
+@CO:MATHA MACDONALD LLC
+@BODYTEXT:212 W. Superior St., #200, Chicago, IL 60610
+@BODYTEXT:312/640-9100; fax:312/640-9101; info@matha-macdonald.com
+@BODYTEXT:Strategy execution: Operations improvement, labor rels., business transformation, leadership performance, empl. comms., internal branding. Founded: 1998.
+@CCD1:Bob Matha, Maril MacDonald, principals
+@BODYTEXT:
+@CO:MATLOCK ADVERTISING & PUBLIC RELATIONS
+@BODYTEXT:1545 Peachtree St., N.E., #300, Atlanta, GA 30309
+@BODYTEXT:404/872-3200; fax:404/876-4929
+@BODYTEXT:www.matlock-adpr.com
+@BODYTEXT:Specializing in advertising and PR: strategic communications to multicultural audiences. Founded: 1986.
+@CCD1:Kent Matlock, chmn. & CEO
+@BODYTEXT:79 Madison Ave., New York, NY 10016
+@BODYTEXT:212/532-3800; fax: 212/532-4010
+@CCD1:S. Edward Rutland, exec. VP & managing director
+@BODYTEXT:
+@BODYTEXT:BellSouth Corp.
+@BODYTEXT:Dell Inc.
+@BODYTEXT:ESPN Zone
+@BODYTEXT:Georgia-Pacific Corp.
+@BODYTEXT:Publix Super Markets, Inc.
+@BODYTEXT:Turner Broadcasting System
+@BODYTEXT:
+@CO:MATTHEWS EVANS ALBERTAZZI
+@BODYTEXT:225 Broadway, 18th flr., San Diego, CA 92101
+@BODYTEXT:619/238-8500; fax:619/238-8505
+@BODYTEXT:Sports, healthcare, hospitality, utility, attractions, fitness, product, entertainment, hispanic. Employees: 11. Founded: 1978.
+@CCD1:Jim Matthews, president
+@BODYTEXT:Bazaar del Mundo
+@BODYTEXT:Community Health Group
+@BODYTEXT:Eastlake Development Corp.
+@BODYTEXT:Next Proteins Int’l
+@BODYTEXT:Paradise Valley Hospital
+@BODYTEXT:USE Credit Union
+@BODYTEXT:
+@CO:MATTHEWS MEDIA GROUP, INC.
+@BODYTEXT:Divison of Omnicom Int.
+@BODYTEXT:2600 Tower Oaks Blvd., #200, Rockville, MD 20852
+@BODYTEXT:301/984-7191; fax:301/984-7196; mmg@matthewsgroup.com
+@BODYTEXT:www.matthewsgroup.com
+@BODYTEXT:PR firm specializing in health comms. and social marketing; market research, issue mgmt., media services, event/conference planning; patient recruitment. Founded: 1987.
+@CCD1:Molly Matthews, pres.
+@BODYTEXT:Centers for Disease Control and Prevention
+@BODYTEXT:George Washington University Medical Center
+@BODYTEXT:National Institute on Drug Abuse
+@BODYTEXT:National Science Foundation
+@BODYTEXT:Office on Women’s Health, Dept. of Health and Human Service Ovarian Cancer National Alliance
+@BODYTEXT:
+@CO:MATTIE ASSOCIATES, INC.
+@BODYTEXT:707 Horseshoe Trail, Franklin Lakes, NJ 07417
+@BODYTEXT:201/848-6818; fax:201/848-7892; jmmattie@aol.com
+@BODYTEXT:PR & marketing consultants to the footwear and sporting goods industry, including B2B, program and event management. Founded: 1980.
+@CCD1:Jeanne M. Patrican, president
+@BODYTEXT:
+@CO:MATTIE PUBLIC RELATIONS, PIERCE
+@BODYTEXT:109 W. 27th St., #9-B, New York, NY 10001
+@BODYTEXT:212/243-1431; fax:212/243-7795; pierce@piercemattie.com
+@BODYTEXT:Boutique PR firm specializing in beauty & health.
+@CCD1:Pierce Mattie, president
+@BODYTEXT:
+@CO:MATZ, JOYCE, ASSOCIATES
+@BODYTEXT:460 E. 79th St., New York, NY 10021
+@BODYTEXT:212/744-3958
+@BODYTEXT:General PR. Founded: 1979
+@CCD1:Joyce Matz, pres.
+@BODYTEXT:
+@CO:MAVERCK ADVERTISING & PUBLIC RELATIONS
+@BODYTEXT:3201 N.E. Loop 820, #275, Fort Worth, TX 76137
+@BODYTEXT:817/740-0777; fax:817/740-0901
+@BODYTEXT:Advertising and PR firm for bus.-to-bus., adv., marketing, media buying/placement/planning. Founded: 1994
+@CCD1:John Arend, president
+@BODYTEXT:
+@CO:MAXIMUM EXPOSURE PR / MEDIA
+@BODYTEXT:50 Tice Blvd., Woodcliff Lake, NJ 07677
+@BODYTEXT:201/573-0300; fax:201/573-0376; renee@maximumexposurepr.com
+@BODYTEXT:www.maximumexposurepr.com
+@BODYTEXT:Business-to-business, and consumer products PR; discounted media buying agency.  Employees: 5. Founded: 1986.
+@CCD1:Renee Sall, president; Andrea Pass, VP
+@BODYTEXT:Conselle Inst. of Image Management
+@BODYTEXT:Digisette, LLC, Consumer Electronics
+@BODYTEXT:Dottino Consulting Group
+@BODYTEXT:Fantasia Home Parties
+@BODYTEXT:Ginsberg & Broome, Attorneys at Law
+@BODYTEXT:Global Court Reporting
+@BODYTEXT:Hidalgo Jewelry
+@BODYTEXT:Limoges Jewelry
+@BODYTEXT:Maillot Baltex Swimwear
+@BODYTEXT:Mary Lee Malcolm, fiction author
+@BODYTEXT:New Image Weight Loss Camps
+@BODYTEXT:Radius Toothbrush
+@BODYTEXT:Schlenger Organizational Systems
+@BODYTEXT:Skimpies--Less is always more lingerie
+@BODYTEXT:Solution Cami by Vestiny
+@BODYTEXT:USA Memory Championship
+@BODYTEXT:
+@CO:MAXWELL PR
+@BODYTEXT:1600 SE Bybee Blvd., #202, Portland, OR 97206
+@BODYTEXT:503/231-3086
+@BODYTEXT:Specializes in corp. comms., community rels., media rels.
+@CCD1:Jennifer Maxwell-Muir, founder
+@BODYTEXT:Specializes in corp. comms., community rels., media rels.
+@BODYTEXT:Founded: 1978.
+@BODYTEXT:Astoria-Warrenton Chamber of Commerce
+@BODYTEXT:Classic Wines Auction
+@BODYTEXT:Nextel Partners
+@BODYTEXT:Riverlake Partners
+@BODYTEXT:ShoreBank Pacific
+@BODYTEXT:Social Venture Partners
+@BODYTEXT:Kettle Foods
+@BODYTEXT:
+@CO:MAYER ADVERTISING, PETER A.
+@BODYTEXT:PR division of Peter A. Mayer Advertising Inc.
+@BODYTEXT:324 Camp St., New Orleans, LA 70130
+@BODYTEXT:504/581-7191; fax:504/581-3009
+@BODYTEXT:Dillard Univ.
+@CCD1:Mark Romig, VP & dir. of PR; Mark A. Mayer, pres.
+@BODYTEXT:Dillard Univ.
+@BODYTEXT:ITC DeltaCom
+@BODYTEXT:JCC Holding Co.
+@BODYTEXT:Louisiana Dept. of Labor
+@BODYTEXT:Odgen Museum of Southern Art
+@BODYTEXT:Sazerac Co.’s Rain Vodka
+@BODYTEXT:W Hotels
+@BODYTEXT:
+@CO:MAYER PUBLIC RELATIONS, RALEIGH
+@BODYTEXT:See MK Coaching
+@BODYTEXT:
+@BODYTEXT:
+@CO:MAYO COMMUNICATIONS
+@BODYTEXT:20832 Valerio St., Suite #4, Los Angeles, CA 91306
+@BODYTEXT:818/340-5300; fax:818/340-2550; aida@mayocommunications.com
+@BODYTEXT:www.mayocommunications.com
+@BODYTEXT:Media relations, corporate communications, crisis management, community affairs, media placement, media training, marcom. Employees: 14. Founded: 1995.
+@AGENCY:Agency Statement: MAYO Communications has been serving its clients’ media and public relations needs with the niche knowledge of media relations, government and politics for more than a decade. We have more than 30 years of combined media, public relations and marketing communications experience. MAYO Communications is one of the leading Los Angeles-based public relations firms. "Best corporate communications," said PRSA.
+@AGENCY:As working members of the press and former print and broadcast journalists, MAYO's clients receive true media counseling and training. MAYO's 300,000 editorial and political contact databases are updated weekly.
+@CCD1:Aida Mayo, president; George McQuade, VP-new business/media relations
+@BODYTEXT:710 Freeway Coalition
+@BODYTEXT:Advantage SCI
+@BODYTEXT:California Chamber of Commerce
+@BODYTEXT:California Fashion Assn.
+@BODYTEXT:City of Placenita 
+@BODYTEXT:City of Yorba Linda
+@BODYTEXT:Chris Becker & Associates
+@BODYTEXT:D&L Toy Manufacturer
+@BODYTEXT:Elsa Lee, Counter Terrorism
+@BODYTEXT:Jack Kyser, Chief Economist
+@BODYTEXT:J.E.D.I.
+@BODYTEXT:Los Angeles County Economic Development Corp.
+@BODYTEXT:Margaret Wendt Productions
+@BODYTEXT:Metropolitan Transit Authority
+@BODYTEXT:OnTrac
+@BODYTEXT:Orange County Transportation Authority
+@BODYTEXT:Periodico Hispanidades Newspaper
+@BODYTEXT:PowWeb, Inc. Hosting
+@BODYTEXT:World Trade Center Assn. of L.A.-Long Beach
+@BODYTEXT:
+@CO:MAYR COMMUNICATIONS
+@BODYTEXT:615 Franklin Turnpike, #3, Ridgewood, NJ 07450
+@BODYTEXT:877/777-6010; mayrcomm@att.net
+@BODYTEXT:Strategic comms. firm specializing in IR, media rels., gov't affairs, issues mgmt. Founded: 1998.
+@CCD1:Charles Mayr, president
+@BODYTEXT:Advanced Viral Research Inc.
+@BODYTEXT:
+@CO:MCA (MOVING COMPANIES AHEAD)
+@BODYTEXT:2119 Landings Dr., Mountain View, CA 94043
+@BODYTEXT:650/968-8900; fax:650/968-8990
+@BODYTEXT:www.mcapr.com
+@BODYTEXT:Strategic PR counsel, high-tech PR, interdisciplinary B2B comms., business press, IR & comms., competitive positioning, global brand presence and analyst rels. Founded: 1983.
+@CCD1:Jean LeMoin, pres. & CEO
+@BODYTEXT:Advanced Energy
+@BODYTEXT:Asyst Technologies
+@BODYTEXT:KLA-Tencor
+@BODYTEXT:Motorola Computer Group
+@BODYTEXT:Numerical Technologies
+@BODYTEXT:Simplex Solutions
+@BODYTEXT:
+@CO:MCBRIDE PR
+@BODYTEXT:See Anne McBride Company in A
+@BODYTEXT:
+@BODYTEXT:
+@CO:MCCLENAHAN BRUER COMMUNICATIONS, INC.
+@BODYTEXT:1500 S.W. 12th Ave., Portland, OR 97201
+@BODYTEXT:503/546-1000; fax:503/546-1001; rich@mcbru.com
+@BODYTEXT:www.mcbru.com
+@BODYTEXT:Full-service agency focusing in deep technology, bus.-to-bus. clients. Founded: 1993.
+@CCD1:Kerry McClenahan, Rich Bruer, principals
+@BODYTEXT:AMI Semiconductor, Inc.
+@BODYTEXT:Advanced Hardware Architecture, Inc.
+@BODYTEXT:Applied Microsystems Corp.
+@BODYTEXT:IFR Systems, Inc.
+@BODYTEXT:Perforce Software, Inc.
+@BODYTEXT:RadiSys Corp.
+@BODYTEXT:Tera Systems, Inc.
+@BODYTEXT:Virage Logic Corp.
+@BODYTEXT:
+@CO:MCCOY GROUP, SHARON
+@BODYTEXT:58 Chase Av., Ivyland, PA 18974
+@BODYTEXT:215/674-1217; fax:215/674-1619
+@BODYTEXT:Travel PR.
+@CCD1:Sharon A. McCoy, pres.
+@BODYTEXT:Athenaeum Hotel & Apartments
+@BODYTEXT:Olympia Fine Art & Antiques Fair
+@BODYTEXT:Runnymede Hotel & Conference Center
+@BODYTEXT:Washington State Tourism
+@BODYTEXT:
+@CO:MCCUE ADVERTISING & PUBLIC RELATIONS INC.
+@BODYTEXT:91 Riverside Dr., Binghamton, NY 13905
+@BODYTEXT:607/723-9226
+@BODYTEXT:www.mccueadv.com
+@BODYTEXT:PR, adv., bus.-to-bus., mktg., media buying, research, high-tech PR. Employees: 4. Founded: 1975.
+@CCD1:Donna C. McCue, pres.; Carol Marcy, A/E; Liz McBride
+@BODYTEXT:Broome/Tioga Prevent Coalition
+@BODYTEXT:FastNet
+@BODYTEXT:Hyperion Inc.
+@BODYTEXT:Lotus Development
+@BODYTEXT:QSR Wireless
+@BODYTEXT:Ridley-Lowell Business & Technical Inst.
+@BODYTEXT:
+@CO:MCDANIEL & COMPANY
+@BODYTEXT:PO Box 49, Schulenburg, TX 78956
+@BODYTEXT:800/628-6028; fax:713/523-4441
+@BODYTEXT:Real estate, healthcare, non-profit, professional service firms PR.  Employees: 3. Founded: 1989.
+@CCD1:Sara McDaniel, pres.
+@BODYTEXT:Axis Property Advisors
+@BODYTEXT:Koll Bren Schreiber Realty Advisors
+@BODYTEXT:Lincoln Property Co.
+@BODYTEXT:Moody Rambin Interests
+@BODYTEXT:PM Realty Group
+@BODYTEXT:Williford Property Group
+@BODYTEXT:
+@CO:MCDONALD MEDIA SERVICES
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:11076 Fruitland Dr., Studio City, CA 91604
+@BODYTEXT:818/762-5553; fax:818/505-9201
+@BODYTEXT:PR, fast food/restaurants, associations/foundations, healthcare/ pharmaceuticals. Founded: 1975
+@CCD1:Meg McDonald, CEO
+@BODYTEXT:
+@CO:MCENTYRE PUBLIC RELATIONS INC.
+@BODYTEXT:305 Madison Ave., #1028, New York, NY 10165
+@BODYTEXT:212/856-9777; fax:212/883-1771; info@mcentyrepr.com
+@BODYTEXT:Consumer products PR, e-commerce, special events, media tours.  Employees: 7. Founded: 1991.
+@CCD1:Jane McEntyre, president
+@BODYTEXT:Caboodles Bath & Body
+@BODYTEXT:Caboodles Organizers
+@BODYTEXT:Gotham Dream Cars
+@BODYTEXT:Naterra Int'l
+@BODYTEXT:Plano Molding
+@BODYTEXT:Tree Hut Skincare
+@BODYTEXT:
+@CO:MCGINN GROUP, THE
+@BODYTEXT:2300 Clarendon Blvd., #901, Arlington, VA 22201
+@BODYTEXT:703/312-0140; fax:703/312-0150; info@mcginngroup.com
+@BODYTEXT:www.mcginngroup.com
+@BODYTEXT:Crisis communications firm providing counsel to Fortune 100 companies. Founded: 2001.
+@CCD1:Dan McGinn, CEO
+@BODYTEXT:AOL Time Warner
+@BODYTEXT:AT&T
+@BODYTEXT:Coca-Cola
+@BODYTEXT:General Motors
+@BODYTEXT:IBM
+@BODYTEXT:Texaco
+@BODYTEXT:3M
+@BODYTEXT:
+@CO:MCGOVERN & ASSOCIATES
+@BODYTEXT:545 Madison Ave., #1F, New York, NY 10022
+@BODYTEXT:212/688-9840
+@BODYTEXT:Sports management and marketing
+@CCD1:Kevin McGovern, mng. partner
+@BODYTEXT:
+@CO:MCGRATH-BUCKLEY COMMUNS. COUNSELING
+@BODYTEXT:284 Pelham Blvd., St. Paul, MN 55104
+@BODYTEXT:651/646-4115; fax:651/603-8660; dennis@mcgrath-buckley.ccm
+@BODYTEXT:Founded: 2000.
+@CCD1:Dennis McGrath; Betsy Buckely
+@BODYTEXT:
+@CO:MCGRATH/POWER PUBLIC RELATIONS & COMMS.
+@BODYTEXT:Partner in the Worldcom Public Relations Group
+@BODYTEXT:3945 Freedom Circle, #690, Santa Clara, CA 95054
+@BODYTEXT:408/727-0351; fax:408/727-2695; jonb@mcgrathpower.com
+@BODYTEXT:www.mcgrathpower.com
+@BODYTEXT:High-tech PR.  Employees: 14. Founded: 1983.
+@AGENCY:Agency Statement: McGrath/Power is a full-service public relations firm in the heart of Silicon Valley, serving both emerging companies as well as established Fortune 500 players, including Tivo, Earthlink and RSA Security. The agency is well balanced for both strategic counsel and tactical implementation and develops client programs for domestic and international impact.  McGrath/Power is the Silicon Valley partner in the Worldcom Public Relations Group, the largest consortium of independent public relations firms.  The agency is structured to provide senior-level counsel on all client programs to take advantage of the media relations background of its management team.
+@CCD1:Jonathan Bloom, CEO & co-founder; Lisa Murray, SVP   
+@BODYTEXT:Avinti
+@BODYTEXT:Coldspark
+@BODYTEXT:Coyote Point Systems
+@BODYTEXT:Internet Security Systems
+@BODYTEXT:Lumitrend
+@BODYTEXT:RSA Security Conference
+@BODYTEXT:Radixs
+@BODYTEXT:Surf Control
+@BODYTEXT:Tablus
+@BODYTEXT:Vodafone
+@BODYTEXT:Yosemite Technologies
+@BODYTEXT:
+@CO:MCKIE/HEADSTROM
+@BODYTEXT:3150 Almaden Expy, #235, San Jose, CA 95118
+@BODYTEXT:408/267-4734; chris_mckie@mhpr.com
+@BODYTEXT:www.mhpr.com
+@BODYTEXT:Branding, positioning, message development, strategic communications, and media and analyst relations services for advanced hardware, software, voice and data communications, and consumer-oriented technology companies.  Employees: 6. Founded: 1998.
+@CCD1:Chris McKie, principal
+@BODYTEXT:Mobile Wireless Internet Forum
+@BODYTEXT:Network Processing Forum
+@BODYTEXT:OKI Network Technologies
+@BODYTEXT:Samsung Telecommunications
+@BODYTEXT:Vocent
+@BODYTEXT:
+@CO:MCKINNEY & ASSOCIATES
+@BODYTEXT:1612  K St., N.W., #904, Washington, DC 20006
+@BODYTEXT:202/833-9771; fax:202/833-9770
+@BODYTEXT:www.mckpr.com
+@BODYTEXT:Founded: 1992.
+@CCD1:Gwen McKinney, pres.; Nathea Lee, A/E
+@BODYTEXT:Leadership Conference on Civil Rights
+@BODYTEXT:NAACP Legal Defense and Educational Fund, Inc.
+@BODYTEXT:National Asian and Pacific American Legal Consortium
+@BODYTEXT:
+@CO:MCKINNEY ADVERTISING & PR
+@BODYTEXT:1904 Terminal Twr., 50 Public Sq., Cleveland, OH 44113
+@BODYTEXT:216/621-5133; fax:216/621-1181
+@BODYTEXT:www.mckinneyad.com
+@BODYTEXT:General, financial, corporate, industrial, consumer, medical and advanced technology PR. Employees: 12.
+@CCD1:Judy Cerne, pres. & CEO; Mike Kelly, VP exceutive director; Brian Edelstein, A/S; Tom Brick, Senior Acc. mg
+@BODYTEXT:Applied Laser Technology
+@BODYTEXT:Caravona & Czack, law offices of
+@BODYTEXT:Cleveland Sight Center
+@BODYTEXT:Fuel Cell Media Group LLC
+@BODYTEXT:McGill Electric Switch Product Group
+@BODYTEXT:North American Menopause Society
+@BODYTEXT:Office of Catholic Education
+@BODYTEXT:Phi Delta Theta Education Foundation
+@BODYTEXT:Therm-O-Disc, Inc.
+@BODYTEXT:
+@CO:MCLAUGHLIN & MORGAN, INC
+@BODYTEXT:1420 Walnut St., # 924, Philadelphia, PA 19102
+@BODYTEXT:215/574-3100; fax:215/772-3109
+@BODYTEXT:Marketing for Mid-Atlantic companies.  Business development for American/Irish opportunities. Employees: 6. Founded: 1987.
+@AGENCY: Agency Statement: McLaughlin & Morgan, Inc. offers business development services for American firms entering Europe who wish to base their operations in Ireland, and Irish frims entering the U.S.  In addition we provide strategic marketing services to Mid-Atlantic based companies.
+@CCD1:William J. McLaughlin, President; Denise Price Hosier, VP-PR
+
+@BODYTEXT:Alfa Laval
+@BODYTEXT:IRM-int'l Raw Materials
+@BODYTEXT:Impact Dimensions
+@BODYTEXT:JJ White
+@BODYTEXT:Kinetics
+@BODYTEXT:Penn Panel & Box
+@BODYTEXT:Rohm & Haas Co.
+@BODYTEXT:
+@CO:MCLAUGHLIN, DELVECCHIO & CASEY, INC.
+@BODYTEXT:1 Church St., New Haven, CT 06510
+@BODYTEXT:203/624-4151; fax:203/401-6134
+@BODYTEXT:Strategic planning, adv. PR.
+@CCD1:Jim McLaughlin, pres.; Donna Simpson, VP & A/S; Nicky McHugh
+@BODYTEXT:Connecticut Office of Tourism
+@BODYTEXT:
+@CO:MCLOUGHLIN ASSOCIATES INC., BARRY
+@BODYTEXT:Advertising and PR firm, Comm. counsel & training
+@BODYTEXT:International Square, 1825 I St., NW, #400, Washington, DC 20006
+@BODYTEXT:800/663-3899; fax:888/663-9377
+@BODYTEXT:www.ceo.tv
+@BODYTEXT:PR, media training, aerospace/defense, assocs./foundations, gov./state agencies, pharmaceuticals/healthcare, telecommuns. Founded: 1984.
+@CCD1:Barry McLoughlin, president
+@BODYTEXT:
+@CO:MCMAHON AND ASSOCIATES
+@BODYTEXT:2031 Q St., N.W., Washington, DC 20009
+@BODYTEXT:202/293-6464; fax:202/293-6475
+@BODYTEXT:Public affs., public comms. Founded: 1980.
+@CCD1:Joseph E. McMahon, pres.
+@BODYTEXT:Covenant House
+@BODYTEXT:Rodale
+@BODYTEXT:
+@CO:MCMAHON COMMUNICATIONS
+@BODYTEXT:5305 Waneta Road, Bethesda, MD 20816
+@BODYTEXT:301/320-8053; fax:877/520-7384; mcmpat@aol.com
+@BODYTEXT:Engineering, association and corporate public relations. Founded: 1996.
+@CCD1:Paige Eversole McMahon, principal
+@BODYTEXT:American Council of Engineering Companies
+@BODYTEXT:BD
+@BODYTEXT:National Society of Professional Engineers
+@BODYTEXT:Natural Science Collections Alliance
+@BODYTEXT:Primetime Solutions
+@BODYTEXT:Staffing Solutions @ Mothers’ Aides
+@BODYTEXT:
+@CO:MCNEELY PIGOTT & FOX PUBLIC RELATIONS, LLC
+@BODYTEXT:611 Commerce Street, #2800, Nashville, TN 37203
+@BODYTEXT:615/259-4000; fax:615/259-4040; mmcneely@mpf.com
+@BODYTEXT:PR, mktg. comms. and research; specialties in health care, environmental, entertainment and institutional public information, fin’l comms., high-tech PR, travel, food/beverage, education and persuasion campaigns.  Employees: 70. Founded: 1987.
+@AGENCY:Agency Statement: McNeely Pigott & Fox, an award-winning, full-service public relations firm with offices in Nashville and Memphis, Tenn., provides total communications and planning services for a diversified client mix at the local, regional and national levels. Our specialties include media relations, strategic planning and research. Our core experience comes from decades of working in and with the media and in key political campaign leadership roles. We stress great work, being a great place to work, and being successful enough in our business to share our successes with all employees. 800-818-6953. www.mpf.com.
+@CCD1:Mark McNeely, sr. partner; David Fox, Katy Varney, Keith Miles, partners; Mike Pigott founding partner; Vicki Bagwell, Jennifer Brantley, Roger Shirley, Andrew Maraniss, Alice Pearson, Isaac Squyres, sr. A/Ss; Marti Molpus, art dept. manager; Deborah Armour, director of IT
+@BODYTEXT:50 Peabody Place, #255
+@BODYTEXT:Memphis, TN 38103
+@BODYTEXT:901/818-0008
+@BODYTEXT:
+@BODYTEXT:Baptist Hospital Memphis
+@BODYTEXT:Blue Cross Blue Shield of Tennessee
+@BODYTEXT:CSX Transportation
+@BODYTEXT:Colonial Pipeline Co.
+@BODYTEXT:Corrections Corp. of America
+@BODYTEXT:Country Music Association
+@BODYTEXT:Eli Lilly & Co.
+@BODYTEXT:Extra Aircraft
+@BODYTEXT:First Bank
+@BODYTEXT:Genesco
+@BODYTEXT:GRW Engineering
+@BODYTEXT:Harpeth Hall School
+@BODYTEXT:Job Corps, Regions I, II, III, IV, V
+@BODYTEXT:Logan’s Roadhouse
+@BODYTEXT:Manheim Auctions
+@BODYTEXT:Metro District Energy System
+@BODYTEXT:Metro Nashville Division of Solid Waste
+@BODYTEXT:Mountain States Health Alliance
+@BODYTEXT:Nashville Children's Theater
+@BODYTEXT:Oak Ridge National Laboratory
+@BODYTEXT:Princeton (WV) Community Hosp.
+@BODYTEXT:Progressive Insurance
+@BODYTEXT:Sumner Regional Healthcare
+@BODYTEXT:Sunset Grill
+@BODYTEXT:Tennessee Chamber of Commerce and Industry
+@BODYTEXT:Tennessee Bankers Assn.
+@BODYTEXT:Tennessee Hospital Assn
+@BODYTEXT:Tennessee State University
+@BODYTEXT:Tennessee Titans
+@BODYTEXT:U.S. Navy Personnel Command
+@BODYTEXT:Verizon Wireless
+@BODYTEXT:West Tennessee Healthcare
+@BODYTEXT:Youth Villages
+@BODYTEXT:
+@CO:MCQUERTERGROUP
+@BODYTEXT:5752 Oberlin Dr., #106, San Diego, CA 92121
+@BODYTEXT:858/450-0030; fax:858/450-3140
+@BODYTEXT:www.mcquerter.com
+@BODYTEXT:High-technology biomedical and healthcare PR, adv. and marketing services
+@CCD1:Gregory W. McQuerter, president
+@BODYTEXT:
+@CO:MCRAE AGENCY, THE
+@BODYTEXT:1425 University, Ste. D, San Diego, CA 92103
+@BODYTEXT:619/291-1234; fax:619/291-2422; elizabeth@mcraeagency.com
+@BODYTEXT:Strategic planning, consumer products, real estate, bus.-to-bus. PR and media relations. Employees: 4. Founded: 1995.
+@CCD1:Elizabeth McRae, principal
+@BODYTEXT:Bio Medical Devices International
+@BODYTEXT:Discount Tire
+@BODYTEXT:Javo Beverage
+@BODYTEXT:KB Home
+@BODYTEXT:Re-Bath
+@BODYTEXT:Solatube International
+@BODYTEXT:
+@CO:MCS, INC
+@BODYTEXT:1420 State Hwy. 206, #100, Bedminster, NJ 07921
+@BODYTEXT:908/234-9900; fax:908/470-4490
+@BODYTEXT:www.mcspr.com
+@BODYTEXT:Healthcare PR: mktg. comms., product launches, clinical trial recruitment support, patient education programs.  Employees: 23. Founded: 1985.
+@AGENCY:Agency Statement: MCS is an independent health care agency recognized for its strategic focus, creativity and knowledge of issues affecting the pharmaceutical and biotech industries. Throughout our 20-year history, MCS has worked with many of the world’s leading health care companies and has conducted public relations activities in virtually every therapeutic category. It is this expertise in health care public relations and marketing communications that allows us to offer the creativity, service and results that provide a measurable impact on our clients’ business goals.
+@AGENCY:In addition, our staff of communications experts  brings extensive industry knowledge through their past positions in marketing, professional and consumer public relations, journalism, corporate communications, public affairs and hospital, government and community relations.
+@AGENCY:MCS has a strong record of marketing communications, product launches, clinical trial recruitment support and patient education programs. Whatever the communication program, our goal is to bring the perspective of our clients and the benifits of their products and services to the public in a way that enhances credibility and trust, while providing information that improves the way in which patients are treated.  
+@CCD1:Joe Boyd, CEO; Jeff Hoyak, president; Todd Forte, exec. VP; Ginger Hall, Olga Silva, VPs
+@BODYTEXT:Bristol-Myers Squibb
+@BODYTEXT:CryoLife, Inc.
+@BODYTEXT:Dermik Laboratories
+@BODYTEXT:Discovery Laboratories
+@BODYTEXT:Genentech Inc.
+@BODYTEXT:ImClone Systems Inc.
+@BODYTEXT:ImpactRx
+@BODYTEXT:MedImmune, Inc.
+@BODYTEXT:MedPointe Pharmaceuticals
+@BODYTEXT:Pfizer Inc.
+@BODYTEXT:Prestwich Pharmaceuticals, Inc.
+@BODYTEXT:Sanofi-aventis
+@BODYTEXT:Schering-Plough Corporation
+@BODYTEXT:Valley Forge Scientific
+@BODYTEXT:
+@CO:MEDIA BOSTON INTERNATIONAL
+@BODYTEXT:297 Newbury Street., 4th Fl., Boston, MA 02115
+@BODYTEXT:617/266-5969; fax:617/241-7773; mnadeem@mediaboston.com
+@BODYTEXT:www.mediaboston.com
+@BODYTEXT:Technology, life and health sciences, government and military public relations. Employees: 15. Founded: 1993.
+@CCD1:Michele Nadeem, pres. & CEO; Ian Robb, managing dir.
+@BODYTEXT:
+@CO:MEDIA LOGIC
+@BODYTEXT:One Park Place, Albany, NY 12205
+@BODYTEXT:518/456-3015; fax:518/456-4279
+@BODYTEXT:www.mlinc.com
+@BODYTEXT:Integrated marketing comms. firm specializing in PR, branding, strategic mktg., adv., direct mktg., promotions and traditional emerging media. Founded: 1984.
+@CCD1:David Schultz, pres.; Suzanne Gunther, VP of business development
+@BODYTEXT:Applied Robotics
+@BODYTEXT:Fortitech
+@BODYTEXT:Marley Cooling Technologies
+@BODYTEXT:Rensselaer County IDA
+@BODYTEXT:
+@CO:MENTUS, INC.
+@BODYTEXT:6498 Weather's Place, San Diego, CA 92122
+@BODYTEXT:858/455-5500
+@BODYTEXT:www.mentusonline.com
+@BODYTEXT:PR, marketing, IR, and advertising services for biotech, medical device, biopharmaceutical, and high-tech cos. Founded: 1980
+@CCD1:Guy Iannuzzi, president
+@BODYTEXT:Agennix
+@BODYTEXT:Chromium Graphics
+@BODYTEXT:Genetrace
+@BODYTEXT:Invitrogen Corp.
+@BODYTEXT:Neurex Corporation
+@BODYTEXT:Sequenom
+@BODYTEXT:Trega Biosciences, Inc.
+@BODYTEXT:
+@CO:MERCATUS COMMUNICATIONS
+@BODYTEXT:500 Interstate Blvd. So., #320, Nashville, TN 37210
+@BODYTEXT:615/254-6785; fax:615/254-7032
+@BODYTEXT:Corporate comms., marketing comms., association PR.  Employees: 4. Founded: 1995.
+@CCD1:Philip M. Martin, Walt Baker, principals; James Web Webster associate. 
+@BODYTEXT:Censis Technologies Inc.
+@BODYTEXT:Coalition to Protect Tennessee’s Hospitals
+@BODYTEXT:Cumberland Heights Treatment Centers
+@BODYTEXT:FirstTour Golf, Inc.
+@BODYTEXT:Hardin Medical Center
+@BODYTEXT:Link2Gov
+@BODYTEXT:Nashville Conv. & Visitors Bureau
+@BODYTEXT:Newton Old acre McDonald
+@BODYTEXT:Outback Steakhouse Pro Am
+@BODYTEXT:Ozburn-Hessey Logistics
+@BODYTEXT:Tennessee Hospital Association
+@BODYTEXT:Tennessee Hotel & Motel Assn.
+@BODYTEXT:Tennessee Restaurant Assn.
+@BODYTEXT:
+@CO:MERICA AGENCY
+@BODYTEXT:Advertising, media and PR firm
+@BODYTEXT:521 S. 7th St., Las Vegas, NV 89101
+@BODYTEXT:702/947-7777; fax:702/386-9231
+@BODYTEXT:www.themericaagency.com
+@BODYTEXT:PR, adv., creative, media buying/placement/planning.  Founded: 1976.
+@CCD1:Marty Wood, CEO; Scott Robertson, VP/creative director; George Davey, COO
+@BODYTEXT:Bear’s Best
+@BODYTEXT:CCRFCD
+@BODYTEXT:Canyon Gate Country Club
+@BODYTEXT:Cox Comms.         
+@BODYTEXT:Las Vegas Hilton
+@BODYTEXT:Red Rock Country Club
+@BODYTEXT:Summerlin/The Howard Hughes Corp.
+@BODYTEXT:
+@CO:MERIDIAN COMMUNICATIONS
+@BODYTEXT:325 West Main St., 3rd flr., Lexington, KY 40507
+@BODYTEXT:859/252-3350; fax:859/254-5511
+@BODYTEXT:A full-service PR, mktg. and adv. agency.  Founded: 1974
+@CCD1:John Hickman, president
+@BODYTEXT:
+@CO:MERKLEY & PARTNERS
+@BODYTEXT:Subsidiary of the Omnicom Group
+@BODYTEXT:200 Varick St., New York, NY 10014
+@BODYTEXT:212/366-3500; fax:212/366-3637
+@BODYTEXT:Advertising and PR
+@CCD1:Scott Lahde, director of PR; Alex Gellert, CEO
+@BODYTEXT:BMW Motorcycles
+@BODYTEXT:Citigroup
+@BODYTEXT:Fila USA/Fila Holdings
+@BODYTEXT:Mercedes-Benz USA
+@BODYTEXT:Novartis (Prexige, Elidel)
+@BODYTEXT:PSEG
+@BODYTEXT:Pfizer (Lipitor)
+@BODYTEXT:SBC Communications
+@BODYTEXT:Smith Barney
+@BODYTEXT:Tap Pharmaceuticals (Prevacid)
+@BODYTEXT:Travelers Insurance
+@BODYTEXT:Women & Co. (division of Citigroup)
+@BODYTEXT:
+@CO:MERRILL ASSOCIATES, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:89 Ball Road, Kingston, NH 03848
+@BODYTEXT:603/642-5100
+@BODYTEXT:PR, adv., services, healthcare, educational institutions, high-tech. Founded: 1975.
+@CCD1:Lynne B. Merrill
+@BODYTEXT:
+@CO:MERRITT GROUP PUBLIC RELATIONS
+@BODYTEXT:7918 Jones Branch Drive, #320, McLean, VA 22102
+@BODYTEXT:703/556-6300; fax:703/556-6324; merritt@merrittgrp.com
+@BODYTEXT:Strategic communications programs for high-tech, gov’t markets, emerging growth cos. Employees: 20. Founded: 1995.
+@CCD1:Ben Merritt, CEO; Megan Lamb, president; Alisa Valudes, exec. VP
+@BODYTEXT:11600 Sunrise Valley Drive, #320 Reston, VA 20191 
+@BODYTEXT:703/390-1500 Fax:703/860-2080
+@BODYTEXT:
+@BODYTEXT:ActivCard
+@BODYTEXT:CACI
+@BODYTEXT:Check Point Software Technologies
+@BODYTEXT:Digital Net
+@BODYTEXT:High Tower Software
+@BODYTEXT:InPhonic
+@BODYTEXT:MCI
+@BODYTEXT:Murata
+@BODYTEXT:NetSec
+@BODYTEXT:Number Six Software
+@BODYTEXT:PowerDsine
+@BODYTEXT:Qualys
+@BODYTEXT:V
+@BODYTEXT:Visual Networks
+@BODYTEXT:Yodlee
+@BODYTEXT:
+@CO:MESEREAU PUBLIC RELATIONS
+@BODYTEXT:P.O. Box 2431, Parker, CO 80134
+@BODYTEXT:720/842-5271; fax:720/842-5273; tom_mesereau@msn.com
+@BODYTEXT:Hospitality, tourism, organizations. Founded: 1996
+@CCD1:Mona Mesereau, Tom Mesereau, principals
+@BODYTEXT:Gideon Putnam Hotel
+@BODYTEXT:Grand Teton Lodge Co.
+@BODYTEXT:Ohio State Park Resorts
+@BODYTEXT:Silverado Resort, Napa
+@BODYTEXT:Thunderbird Lodge/Canyon de Chelly
+@BODYTEXT:Xanterra Parks & Resort
+@BODYTEXT:
+@CO:MESSINGER ASSOCIATES, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:1512 Fox Trail, Suite B, Mountainside, NJ 07092
+@BODYTEXT:908/232-2620; fax:908/232-6868
+@BODYTEXT:www.messingerassociates.com
+@BODYTEXT:Programs for industrial bus-to-bus.  PR in pharmaceutical, food and specialty chemical processing, machinery, construction, electronics and other industries. Founded: 1985.
+@CCD1:Gail Stockler, president
+@BODYTEXT:
+@CO:METROPOLITAN GROUP
+@BODYTEXT:519 SW 3rd Ave., #700, Portland, OR 97204
+@BODYTEXT:503/223-3299; fax:503/223-3474
+@BODYTEXT:www.metgroup.com
+@BODYTEXT:Media relations, public awareness campaigns, crisis comms., media training, special events, promotions, social mktg. Employees: 30. Founded: 1989.
+@CCD1:Eric Friedenwald-Fishman, creative dir./president; Laura K. Lee Dellinger, Jeannette Pai Espinosa, J.S. May, exec. VPs/principals; Al Machemehl
+@BODYTEXT:American Civil Liberties Union of Oregon
+@BODYTEXT:Association of Research Libraries
+@BODYTEXT:Corporation for Enterprise Development
+@BODYTEXT:Mercy Corp.
+@BODYTEXT:Minnesota Community Foundation
+@BODYTEXT:National Council of Lewis & Clark Bicentennial
+@BODYTEXT:National Park Foundation
+@BODYTEXT:ShoreBank Corp.
+@BODYTEXT:The Charles Darwin Foundation
+@BODYTEXT:The Saint Paul Foundation
+@BODYTEXT:Tiffany & Co.
+@BODYTEXT:Women's Transportation Seminar
+@BODYTEXT:
+@CO:METZGER ASSOCIATES
+@BODYTEXT:885 Arapahoe Ave., Boulder, CO 80302
+@BODYTEXT:303/786-7000; fax:303/786-7456; john@metzger.com
+@BODYTEXT:www.metzger.com
+@BODYTEXT:PR, IR and strategic services for technology companies.  Employees: 15. Founded: 1991.
+@AGENCY: Agency Statement: Founded in 1991 in Boulder, Colorado, Metzger Associates was one of the nation's first high-tech public relations and investor relations specialists.  With a history of "making hits happen," Metzger Associates has had the privilege to pitch some of the most important stories of the Information Age.  Recognition for the agency includes being an INC. 500 "Fastest Growing Company" and one of the Holmes Report "Best Agencies to Work For."  
+@CCD1:John Metzger, founder and CEO
+@BODYTEXT:CIBER, Inc.
+@BODYTEXT:Massively Parallel Technologies
+@BODYTEXT:Sprint PCS
+@BODYTEXT:
+@CO:MEYER & WALLIS
+@BODYTEXT:731 N. Jackson St., Milwaukee, WI 53202
+@BODYTEXT:414/224-0212; fax:414/224-0420
+@BODYTEXT:www.meyerwallis.com
+@BODYTEXT:Advertising, marketing, PR.
+@CCD1:Bob Meyer, principal; Tim Wallis, associate
+@BODYTEXT:Dominick’s Finer Foods
+@BODYTEXT:Fort Howard Corporation
+@BODYTEXT:JMS Specialty Foods
+@BODYTEXT:Kohler Company
+@BODYTEXT:Marcus Restaurants, Inc.
+@BODYTEXT:Milwaukee Bucks
+@BODYTEXT:St. Joseph’s Hospital
+@BODYTEXT:
+@CO:MEYER/FEDERICKS & ASSOCIATES LTD.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:333 N. Michigan Avenue, Chicago, IL 60601
+@BODYTEXT:312/782-9722; fax:312/782-1802
+@BODYTEXT:www.meyerfredericks.com
+@BODYTEXT:PR, adv., bus.-to-bus., African-American & Hispanic specialties, automotive, beverages, industrial, healthcare, toys. Founded: 1972.
+@CCD1:Meyer Rosen, president
+@BODYTEXT:LubePro’s Inc.
+@BODYTEXT:Merit Pharmacy Program
+@BODYTEXT:Precision Steel Warehouse
+@BODYTEXT:Protective Life
+@BODYTEXT:Sandoz Agricultural Products
+@BODYTEXT:
+@CO:MEYOCKS GROUP, THE
+@BODYTEXT:6800 Lake Dr., #150, West Des Moines, IA 50266
+@BODYTEXT:515/225-1200; fax:515/225-6400
+@BODYTEXT:Marketing communications in strategic planning, advertising, PR, relationship marketing, sales promotion and digital media.
+@CCD1:Donna Tweeten, president
+@BODYTEXT:
+@CO:MFA, LTD. (MISSY FARREN & ASSOCS.)
+@BODYTEXT:276 Fifth Ave., New York, NY 10001
+@BODYTEXT:212/528-1691; fax:212/561-6462
+@BODYTEXT:www.mfaltd.com
+@BODYTEXT:PR and marketing.  Founded: 1994.
+@CCD1:Missy Farren, president
+@BODYTEXT:Burton Snowboards
+@BODYTEXT:Cayman Airways
+@BODYTEXT:Cayman Islands Dept. of Tourism
+@BODYTEXT:Co-Ed Magazine
+@BODYTEXT:Disneyland's 50th Anniversary
+@BODYTEXT:Disneyland Resorts/Napa Rose
+@BODYTEXT:Disney "Swim with the Stars"
+@BODYTEXT:Girard Perragaux (Watches)
+@BODYTEXT:
+@CO:MGA COMMUNICATIONS, INC.
+@BODYTEXT:Member, PR Organisation International
+@BODYTEXT:1125 17th St., #1800, Denver, CO 80202
+@BODYTEXT:303/298-1818; fax:303/297-3526; skinney@mgacommunications.com.
+@BODYTEXT:www.mgacommunications.com
+@BODYTEXT:Colorado Film Commission Founded: 1986.
+@CCD1:Mike Gaughan, chmn.
+@BODYTEXT:Colorado Education Comm
+@BODYTEXT:Questar
+@BODYTEXT:Shell Oil
+@BODYTEXT:Touson university
+@BODYTEXT:
+@CO:MGH INC
+@BODYTEXT:100 Painters Mill Rd., #600, Owings Mills, MD 21117
+@BODYTEXT:410/902-5000; fax:410/902-8712
+@BODYTEXT:Full-service agency. Employees: 10.
+@CCD1:Michael O'Brian
+@BODYTEXT:180's Performance Wear
+@BODYTEXT:Pfizer
+@BODYTEXT:Weight Watcher's Int.
+@BODYTEXT:
+@CO:MGP & ASSOCIATES PR
+@BODYTEXT:244 Fifth Ave., #2620, New York, NY 10001
+@BODYTEXT:212/595-8500; fax:212/504-7964; news@mgppr.com
+@BODYTEXT:Strategic PR firm specializing in corp. comms., tech., sports & entertainment, PA & reputation mgmt. Founded: 1994 Employees: 6.
+@CCD1:Mike G. Paul, president & CEO; Jody Paul, CFO; 
+@BODYTEXT:Christian Hope Ministries
+@BODYTEXT:Citigroup
+@BODYTEXT:Citizen Culture Magazine
+@BODYTEXT:Libby Ross Foundation
+@BODYTEXT:State University of NY
+@BODYTEXT:Stratus Environmental
+@BODYTEXT:Trinidad Tobago Tourism & Industrial Development
+@BODYTEXT:United Airlines
+@BODYTEXT:Verizon
+@BODYTEXT:Vigilante Advertising
+@BODYTEXT:Young Life
+@BODYTEXT:
+@CO:MHP COMMUNICATIONS LLC
+@BODYTEXT:37501 Curle Lane, Purcellville, VA 20132
+@BODYTEXT:540/338-3303; fax:540/966-5640; mhp@mhpcommunications.com
+@BODYTEXT:
+@CCD1:Mel Harkraer Pine, president
+@BODYTEXT:
+@CO:MICHAEL & PARTNERS
+@BODYTEXT:16775 Addison Rd., #550, Dallas, TX 75001
+@BODYTEXT:972/716-0500; fax:972/716-0599; gmichael@michaelpartners.com
+@BODYTEXT:www.michaelpartners.com
+@BODYTEXT:Consumer healthcare, financial, high-tech, telecom, travel, e-commerce PR.  Employees: 16. Founded: 1998.
+@CCD1:George Michael, chairman
+@BODYTEXT:Advanced Neuromodulation Systems
+@BODYTEXT:BizNet Software
+@BODYTEXT:EDS
+@BODYTEXT:Epimed
+@BODYTEXT:Longnecker & Assocs.
+@BODYTEXT:Primedia
+@BODYTEXT:Source
+@BODYTEXT:Vucomp
+@BODYTEXT:
+@CO:MICHAEL PENN MEDIA RELATIONS
+@BODYTEXT:168 W. 77th St., ste. BR, New York, NY 10024
+@BODYTEXT:212/580-7988; fax:212/877-1276; michaelpenn@earthlink.net
+@BODYTEXT:Media relations, events, editorial svcs., branding, speaker placement; counsel to bus.-to-bus., e-commerce, consumer, travel, entertainment, legal and PA clients and PR firms. Founded: 1998
+@CCD1:Michael Penn, principal
+@BODYTEXT:
+@CO:MIDDLEBERG EURO RSCG
+@BODYTEXT:See Euro RSCG Magnet
+@BODYTEXT:
+@BODYTEXT:
+@CO:MIDDLETON & GENDRON,  INC.
+@BODYTEXT:545 Fifth Ave., #1000, New York, NY 10017
+@BODYTEXT:212/980-9060; fax:212/759-6521; YMiddleton@MG-PR.com
+@BODYTEXT:www.MG-PR.com
+@BODYTEXT:Brand communications.  Founded: 1978.
+@AGENCY:Agency Statement: Middleton & Gendron, Brand Communications, is an award-winning agency with 27 years of experience in travel and consumer accounts. Specializing in the luxury sector, the agency serves blue-chip hotel companies and individual properties, destinations, and consumer brands. The agency has launched innumerable brands and managed scores of results-driven programs.
+@CCD1:Yvonne Middleton, chmn.; Mary Gendron, pres.; Annette Russo, Suzanne Dorn, SVPs; Burns Patterson, VP
+@BODYTEXT:Aramark Harrison Lodging
+@BODYTEXT:The Boulders Resort & Golden Door Spa
+@BODYTEXT:Claremont Resort & Spa
+@BODYTEXT:FAO Schwarz
+@BODYTEXT:Golden Door Spas
+@BODYTEXT:Golden Door Skin Care
+@BODYTEXT:KSL Resorts
+@BODYTEXT:La Costa Resort and Spa
+@BODYTEXT:Mohegan Sun
+@BODYTEXT:Saguaro Ranch
+@BODYTEXT:Temenos Anguilla, A St. Regis Retreat
+@BODYTEXT:The Alex Hotel
+@BODYTEXT:Tucker’s Point Club, Bermuda
+@BODYTEXT:Wyndham El Conquistador Resort & Country Club
+@BODYTEXT:Wyndham Martineau Bay Resort & Spa
+@BODYTEXT:Wyndham Peaks Resort and Golden Door Spa
+@BODYTEXT:Wyndham Luxury Resorts
+@BODYTEXT:
+@CO:MILLENNIUM COMMUNICATIONS, INC.
+@BODYTEXT:1115 Olivette Exec. Pkwy., #100, St. Louis, MO 63132
+@BODYTEXT:314/569-7100; fax:314/569-7108
+@BODYTEXT:www.millenniumcom.com
+@BODYTEXT:PR, marketing and communications firm.
+@CCD1:Barbara W. Pierce, president
+@BODYTEXT:300 S. John Q Hammons PKWY, Suite # 111, Springfield, MO 65806-2550
+@BODYTEXT:417/447-3700 fax: 417/447-3703
+@BODYTEXT:
+@BODYTEXT:
+@CO:MILLER BUSINESS COMMUNICATIONS INC.
+@BODYTEXT:2155 Brunswick Pike., Lawrenceville, NJ 08648
+@BODYTEXT:609/818-0500; fax:609/818-0555; jmiller@mbcb2b.com
+@BODYTEXT:www.mbcb2b.com
+@BODYTEXT:Business-to-business, strategic branding, identity, adv., publicity, web, direct response, trade show, promotional svcs.
+@CCD1:John Miller, CEO
+@BODYTEXT:
+@CO:MILLER GEER ARIZMENDEZ
+@BODYTEXT:18327 Gridley Rd., Cerritos, CA 90703
+@BODYTEXT:562/467-2020; fax:562/467-2024
+@BODYTEXT:Varied PR, specialty in healthcare clients. Employees: 6. Founded: 1975
+@CCD1:Jay Geer, pres.; Al Arizmendez, VP
+@BODYTEXT:Alta Healthcare Systems LLC
+@BODYTEXT:California Dental Assn.
+@BODYTEXT:Care More Med. Group
+@BODYTEXT:Chapman Medical Center
+@BODYTEXT:Children’s Hospital of Orange County
+@BODYTEXT:Physician ProCare
+@BODYTEXT:RFK Medical Ctr.
+@BODYTEXT:St. Francis Med. Ctr.
+@BODYTEXT:
+@CO:MILLER GROUP, THE
+@BODYTEXT:Nottingham Centre, 502 Washington Ave., #600, Towson, MD 21204
+@BODYTEXT:410/823-5020; fax:410/823-5030
+@BODYTEXT:Adv., PR, mktg., research, media dev.; food products, real estate, retail and high-tech industries.  Founded: 1975
+@CCD1:Jack Miller, pres./founder
+@BODYTEXT:
+@CO:MILLER MEESTER PUBLIC RELATIONS
+@BODYTEXT:Part of Miller Meester Advertising
+@BODYTEXT:17 North Washington, Minneapolis, MN 55401
+@BODYTEXT:612/337-6600; fax:612/337-6774
+@BODYTEXT:www.millermeester.com
+@BODYTEXT:Marketing comms., PA, corp. comms., special events, publications, Internet mktg., crisis mgmt.  Founded: 1975.
+@CCD1:Robert Miller, CEO
+@BODYTEXT:Anchor Wall Systems
+@BODYTEXT:Brown College
+@BODYTEXT:Country Roads Network
+@BODYTEXT:Delta Dental Plans Assn.
+@BODYTEXT:General Growth Properties
+@BODYTEXT:Harvest Partners Network
+@BODYTEXT:
+@CO:MILLS AGENCY, WILLIAM
+@BODYTEXT:300 W. Wieuca Rd., Bldg. One, #300, Atlanta, GA 30342
+@BODYTEXT:678/781-7200; fax:678/781-7239
+@BODYTEXT:www.williammills.com
+@BODYTEXT:High-tech, business, financial PR.  Employees: 30. Founded: 1977.
+@AGENCY:Agency Statement: The William Mills Agency is one of the nation’s largest public relations firms in the financial industry. We specialize in helping companies market products and services to the financial industry. Since 1977, we have worked with more than 250 firms in this industry. Much of this experience has been for companies that provide technology to the financial industry. Our clients often market to commercial banks, savings institutions, credit unions, mortgage bankers and other financial entities.
+@CCD1:William Mills III, CEO; M. Scott Mills, pres.
+@BODYTEXT:APPRO Systems
+@BODYTEXT:Aimbridge
+@BODYTEXT:Alogent
+@BODYTEXT:Bankers Systems Inc.
+@BODYTEXT:Oracle Applications Users Group
+@BODYTEXT:SouthStar Mortgage
+@BODYTEXT:
+@CO:MINKUS & PEARLMAN PUBLIC RELATIONS, INC.
+@BODYTEXT:3400 Dundee Rd., #140, Northbrook, IL 60062
+@BODYTEXT:847/509-5777; fax:847/509-5780; ceo@minkuspr.com
+@BODYTEXT:www.minkuspr.com
+@BODYTEXT:Strategic PR, including corporate, fin'l, marketing, and interactive comms. for business, professional, and financial svcs. Areas include high-tech, Internet, e-commerce, bio tech, manufacturing, economic development, travel & toursim, food & beverage, wine and collectibles. Founded: 1992.
+@CCD1:Raymond D. Minkus, chmn.; Donn Pearlman, pres.
+@BODYTEXT:American Numismatic Assn.
+@BODYTEXT:California Gold/Marketing
+@BODYTEXT:Heritage Rare Coin Galleries
+@BODYTEXT:LaSalle Systems Leasing, Inc.
+@BODYTEXT:Littleton Coin Co.
+@BODYTEXT:MB Financial, Inc.
+@BODYTEXT:Village of Northbrook
+@BODYTEXT:
+@CO:MINTZ & HOKE COMMS. GROUP
+@BODYTEXT:Advertising and public relations
+@BODYTEXT:40 Tower Lane, Avon, CT 06001
+@BODYTEXT:860/678-0473; fax:860/679-9850
+@BODYTEXT:www.mintz-hoke.com
+@BODYTEXT:Employees: 8 in PR. Founded: 1971
+@CCD1:Tom Bradley, VP/dir. of PR; Chris Knopf, chmn
+@BODYTEXT:Mystic Pieces
+@BODYTEXT:Mohegan Sun Casino
+@BODYTEXT:State Conn. Health Dept.
+@BODYTEXT:Wiremold Co.
+@BODYTEXT:
+@CO:MIRAMAR EVENTS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:PO Box 27, El Granada, CA 94018
+@BODYTEXT:650/726-3491; fax:650/726-5281
+@BODYTEXT:www.miramarevents.com
+@BODYTEXT:PR, associations/foundations, beverages, broadcast/electronics media, entertainment, food.  Founded: 1986.
+@CCD1:Timothy R. Beeman, chairman & CEO
+@BODYTEXT:
+@CO:MISSION WORKS COMMUNICATIONS, INC.
+@BODYTEXT:PO Box 475, Frederick, MD 21705
+@BODYTEXT:301/898-1005; fax:301/898-8870
+@BODYTEXT:www.missionworkscom.com
+@BODYTEXT:Boutique PR svcs. Founded: 2002.
+@CCD1:Helga West, president; Randy West, exec. VP
+@BODYTEXT:
+@CO:MITCHELL & ASSOCIATES
+@BODYTEXT:161 Parnassus Circle, Oceanside, CA 92054
+@BODYTEXT:760/439-5073; fax:760/722-0941
+@BODYTEXT:PR, fundraising.  Employees: 2. Founded: 1964.
+@CCD1:Randall L. Mitchell, pres.
+@BODYTEXT:Days of Art
+@BODYTEXT:1st Presbyterian Church of Oceanside
+@BODYTEXT:Oceanside Cultural Arts Found.
+@BODYTEXT:Oceanside Museum of Art
+@BODYTEXT:
+@CO:MITCHELL PETERSEN
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:803 Prince St., Alexandria, VA 22314
+@BODYTEXT:703/518-4700; fax:703/518-8495
+@BODYTEXT:PR, bus.-to-bus, associations/foundations, beverages, construction/ buildings, public utilities, telecommunications.
+@CCD1:Nancy M. Petersen, president
+@BODYTEXT:
+@CO:MITHOFF BURTON PARTNERS
+@BODYTEXT:4105 Rio Bravo St., El Paso, TX 79902
+@BODYTEXT:915/544-9400; fax:915/544-9426
+@BODYTEXT:Marketing comms., PR, adv. for business/consumer services. Founded: 1931.
+@CCD1:Bill Burton, pres./CEO
+@BODYTEXT:Azar Nut Co.
+@BODYTEXT:JDW Insurance
+@BODYTEXT:State National Bank
+@BODYTEXT:Southwest Dairy Farmers
+@BODYTEXT:
+@CO:MITSAKOS PR, ANDRIA
+@BODYTEXT:777 East Atlantic Ave., Z-304, Delray Beach, FL 33483
+@BODYTEXT:561/266-0568; fax:561/423-6223; andria@andriamitsakospr.com
+@BODYTEXT:www.andriamitsakospr.com
+@BODYTEXT:Jamaica and Negril Cabins
+@CCD1:Andria Mitsakos, pres. & CEO
+@BODYTEXT:Jamaica and Negril Cabins
+@BODYTEXT:St. James's Club
+@BODYTEXT:Sunset Beach Resort & Spa
+@BODYTEXT:
+@CO:MK COACHING
+@BODYTEXT:78 Manhattan Ave., New York, NY 10025
+@BODYTEXT:212/678-2041; fax:212/531-2931; em15@nyu.edu
+@BODYTEXT:Communications coaching and training. Founded: 1998
+@CCD1:Raleigh Mayer, principal
+@BODYTEXT:Avon
+@BODYTEXT:JP Morgan Chase
+@BODYTEXT:Hyperspace Cowgirls
+@BODYTEXT:NYU
+@BODYTEXT:
+@CO:MK COMMUNICATIONS
+@BODYTEXT:350 West Hubbard St., #200, Chicago, IL 60610
+@BODYTEXT:312/822-0505; fax:312/822-0568; asenry@mkcpr.com
+@BODYTEXT:Governement relations, business-to-business PR.
+@CCD1:Marilyn Katz, pres.
+@BODYTEXT:
+@CO:MK&A, MICHAEL KASSIN & ASSOCIATES, INC.
+@BODYTEXT:116 Pinehurst, #B32, New York, NY 10033
+@BODYTEXT:212/927-8530
+@BODYTEXT:Employees: 2. Founded: 1987
+@CCD1:Michael Kassin, pres.
+@BODYTEXT:Data Conversion Laboratory
+@BODYTEXT:L.I.S.T. Inc.
+@BODYTEXT:
+@CO:ML STRATEGIES, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:1 Financial Center, Boston, MA 02111
+@BODYTEXT:617/348-4400; fax:617/542-2241
+@BODYTEXT:PR, associations/foundations, gov./state agencies, healthcare, telecommunications.  Founded:  1990.
+@CCD1:Nancy J. Sterling, senior VP, strategic communications
+@BODYTEXT:
+@CO:MMG MARDIKS
+@BODYTEXT:Owned by MMG Worldwide
+@BODYTEXT:245 5th Ave., #902, New York, NY 10016
+@BODYTEXT:212/219-7560; fax:212/219-0759
+@BODYTEXT:www.mmgmardiks.com
+@BODYTEXT:Travel & tourism PR.  Employees: 10. Founded: 2002.
+@CCD1:Charles Mardiks, mng. director; Mara Begley, Lyla Naseem, A/Ss
+@BODYTEXT:Homewood Suites by Hilton
+@BODYTEXT:Hyatt Resorts
+@BODYTEXT:Intrawest Corp.
+@BODYTEXT:Missouri Division of Tourism
+@BODYTEXT:Radison Plaza Resort Tahiti
+@BODYTEXT:Radison SAS Hotels & Resorts
+@BODYTEXT:San Fransico Convention and Visitor Bureau
+@BODYTEXT:Travel Guard International
+@BODYTEXT:
+@CO:MONGOVEN, BISCOE & DUCHIN, INC.
+@BODYTEXT:See Stratfor
+@BODYTEXT:
+@BODYTEXT:
+@CO:MONTALBANO INC. ADV. & PR, HERBERT P.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:3900 N. Causeway Blvd., #1424, Metairie, LA 70002
+@BODYTEXT:504/836-7272; fax:504/836-7273
+@BODYTEXT:PR, adv., construction/building, fast food/restaurants, political/social religious/charity/non-profit.  Founded: 1970.
+@CCD1:Herbert P. Montalbano, president
+@BODYTEXT:Baldwin Lincoln Mercury
+@BODYTEXT:Bohn Ford
+@BODYTEXT:First Bank & Trust
+@BODYTEXT:Lighting, Inc.
+@BODYTEXT:Tulane Univ. Athletic Div.
+@BODYTEXT:
+@CO:MONTGOMERY, STIRE & PARTNERS
+@BODYTEXT:408 Magazine St., #101, New Orleans, LA 70130
+@BODYTEXT:504/525-6789; fax:: 504/525-6796
+@BODYTEXT:Image PR. Employees: 10. Founded: 1975.
+@CCD1:George R. Montgomery, chmn.; Frank E. Stire, pres. & CEO
+@BODYTEXT:Harrah’s Casino - New Orleans
+@BODYTEXT:International Paper Company
+@BODYTEXT:New Orleans Tourism and Marketing Corporation
+@BODYTEXT:
+@CO:MOORE AND ISHERWOOD COMMS., INC.
+@BODYTEXT:156 Eighth St., New Bedford, MA 02740
+@BODYTEXT:508/996-3946; fax:508/997-2469
+@BODYTEXT:www.mycomm.com
+@BODYTEXT:PR, community relations, crisis communications,  environmental and healthcare.
+@CCD1:Elizabeth Isherwood, president
+@BODYTEXT:
+@CO:MOREHOUSE COMMUNICATIONS, INC.
+@BODYTEXT:16496 Falmouth Dr., Cleveland, OH 44136
+@BODYTEXT:440/846-6022; fax:440/846-6024
+@BODYTEXT:Marketing PR for beauty and healthcare.
+@CCD1:Jayne B. Morehouse, president
+@BODYTEXT:American Assn. of Cosmetology Schools
+@BODYTEXT:Goldwell USA
+@BODYTEXT:Hex Salons International
+@BODYTEXT:International Chain Salon Assn.
+@BODYTEXT:Professional Beauty Federation
+@BODYTEXT:Rizzi Haircorp
+@BODYTEXT:
+@CO:MORGAN & MYERS, INC.
+@BODYTEXT:Partner in The Worldcom Public Relations Group
+@BODYTEXT:146 East Milwaukee St., Jefferson, WI 53549
+@BODYTEXT:920/674-4026; fax:920/674-8064; gmyers@morganmyers.com
+@BODYTEXT:www.morganmyers.com
+@BODYTEXT:Comms. planning, mktg. comms., change mgmt., environmental, issues mgmt., PA, assn. comms., int’l comms., agriculture, food, bus.-to-bus., biotech., healthcare, technology, finance, professional svcs.  Employees: 51. Founded: 1982.
+@AGENCY:Agency Statement: Morgan&Myers builds brands, relationships and reputations. Our client mix is heavily weighted to the “pasture to palate” industries, that is, from production agriculture, to food and beverage manufacturing and distribution, and ultimately to the food consumer. We also have a significant industry specialization in business-to-business, technology and financial services. Our marketing communications work is fully integrated, including advertising and new media. We also have substantial Change Management and Corporate Reputation Management practices.
+@CCD1:Gary A. Myers, pres. & CEO; Carol Ward Knox, exec. VP; Max Wenck, sr. counselor; Wayne Dyson, controller
+@BODYTEXT:1005 Stratford Ave., Waterloo, IA 50701
+@BODYTEXT:319/233-0502; fax: 319/233-8077; jwhipps@morganmyers.com
+@CCD1:Janine Whipps, sr. counselor/director, Iowa operations
+@BODYTEXT:2909 Hennepin Ave. South, Minneapolis, MN 55408
+@BODYTEXT:612/825-0050; fax: 612/825-9599; lloeb@morganmyers.com
+@CCD1:Lou Ann Loeb, president/sr. counselor, Morgan&Myers/Minneapolis
+@BODYTEXT:606 East Wisconsin Ave., Milwaukee, WI 53202
+@BODYTEXT:414/615-2058; fax: 414/615-2069; lwenck@morganmyers.com
+@CCD1:Linda Wenck, sr. counselor & pres./Milwaukee; Tim Oliver, sr. counselor/COO, Milwaukee
+@BODYTEXT:
+@BODYTEXT:Altria
+@BODYTEXT:American Dairy Assn./Dairy Cncl. of the Upper Midwest
+@BODYTEXT:CNH Corp.
+@BODYTEXT:Cargill
+@BODYTEXT:Case IH
+@BODYTEXT:Foremost Farms
+@BODYTEXT:General Mills
+@BODYTEXT:Golden Guernsey Dairy
+@BODYTEXT:Iowa Soybean Assn. & Promo. Bd.
+@BODYTEXT:KitchenAid
+@BODYTEXT:Kraft Foods
+@BODYTEXT:McDonald's
+@BODYTEXT:MGIC (Mortgage Guarantee Insurance Corp.)
+@BODYTEXT:Minnesota Turkey Council
+@BODYTEXT:Monsanto
+@BODYTEXT:Morning Glory Diaries
+@BODYTEXT:Nestle Purina Pet Care
+@BODYTEXT:Novartis Animal Health
+@BODYTEXT:Oil-Dri Corp.
+@BODYTEXT:Pillsbury
+@BODYTEXT:Robobank
+@BODYTEXT:SABMiller Brewing
+@BODYTEXT:Soyfoods Council
+@BODYTEXT:Wisconsin Assn. of Manufacturers & Commerce
+@BODYTEXT:Wisconsin Assn. of School Boards
+@BODYTEXT:
+@CO:MORGAN INC., MICHAEL HAMILTON
+@BODYTEXT:P.O. Box 2795, Santa Fe, NM 87504
+@BODYTEXT:800/491-3836; fax:212/208-4362; mmorgan451@aol.com
+@BODYTEXT:International issues, advocacy ads, government & investor relations, CEO speechwriting, book projects
+@CCD1:Michael H. Morgan, pres.
+@BODYTEXT:Exxon Mobil Corp.
+@BODYTEXT:Genontech
+@BODYTEXT:Hewlett-Packard
+@BODYTEXT:IBM Corporation
+@BODYTEXT:Pfizer, Inc.
+@BODYTEXT:
+@CO:MORGAN MARKETING AND PUBLIC RELATIONS
+@BODYTEXT:7 Corporate Park, #255, Irvine, CA 92606
+@BODYTEXT:949/261-2216; fax:949/261-2272; melinda@mmpr.biz
+@BODYTEXT:Specializing in food & beverage PR, restaurants, fashion, sports, travel, real estate, high-tech, pharmaceuticals and  automotive.
+@CCD1:Melinda Morgan, president
+@BODYTEXT:Bubba Shrimp Co.
+@BODYTEXT:King's Hawaiian
+@BODYTEXT:Snell & Wilmer
+@BODYTEXT:Panda Restaurant Group
+@BODYTEXT:Weinerschnitzel
+@BODYTEXT:
+@CO:MORNINGSTAR COMMUNICATIONS COMPANY
+@BODYTEXT:6700 W. 121st St., Overland Park, KS 66209
+@BODYTEXT:913/851-8700; fax:913/851-8787; eric@morningstarcomm.com
+@BODYTEXT:Provides brand building counsel to help leading companies grow. Integrated marketing approach.  Employees: 10. Founded: 1997.
+@CCD1:Eric M. Morgenstern, Pres./CEO
+@BODYTEXT:American Identity
+@BODYTEXT:Community America Credit Union
+@BODYTEXT:SCS Transportation
+@BODYTEXT:Stowers Innovations
+@BODYTEXT:Strong Entertainment Lighting
+@BODYTEXT:Verizon Wireless
+@BODYTEXT:Western EXTALITE
+@BODYTEXT:
+@CO:MORRIS COMMUNICATIONS, E.
+@BODYTEXT:820 N. Orleans, #402, Chicago, IL 60610
+@BODYTEXT:312/943-2900; fax:312/943-5856
+@BODYTEXT:www.emorris.com
+@BODYTEXT:Full-service marketing firm specializing in mktg. to African American consumer market. Founded. 1987.
+@CCD1:Eugene Morris, pres./CEO
+@BODYTEXT:American Family Insurance
+@BODYTEXT:Dept. of Commerce and Community Affairs, The
+@BODYTEXT:Pactiv Corp.-Hefty
+@BODYTEXT:Wal-Mart Stores, Inc.
+@BODYTEXT:
+@CO:MORRISSEY & COMPANY
+@BODYTEXT:Member of Pinnacle Worldwide
+@BODYTEXT:121 Mount Vernon St., Boston, MA 02108
+@BODYTEXT:617/523-4141; fax:617/523-9878
+@BODYTEXT:www.morrisseyco.com
+@BODYTEXT:Media relations, strategic comms., reputation management for life sciences, fin'l svcs. and high tech.  Employees: 11. Founded: 1999.
+@AGENCY:Agency Statement: Morrissey & Company is an independent, full-service reputation management and public relations firm focused on aligning reputation, brand and positioning with corporate goals. Founded in 1999, Morrissey & Company serves leading business-to-business clients in the fields of life science, financial services and high-technology, and has received a number of industry awards for outstanding work.
+@AGENCY:Your brand, your name and your reputation are the most valuable assets in today’s highly competitive and dynamic environment. You want to understand your audiences and you want your audiences to understand you. 
+@AGENCY:Organizations that communicate effectively create relationships of goodwill and credibility and the result is trust — one of the most important resources a company can bring to bear with customers, investors, analysts, employees, vendors, competitors or the public.
+@AGENCY:Morrissey & Company understands well-planned, well-executed communications initiatives protect and add value to your reputation. Communication should be meaningful, substantive, and integrated with your business plan — not a superficial afterthought.
+@CCD1:Peter Morrissey, pres. & CEO; Ed Cafasso, senior VP
+@BODYTEXT:Athena Healthcare Systems
+@BODYTEXT:Biogen, Inc. (Nasdaq: BIIB)
+@BODYTEXT:Biomodels/CAP
+@BODYTEXT:Blue Cross Blue Shield of Massachusetts
+@BODYTEXT:Community Resources for Justice
+@BODYTEXT:Copeland Family Foundation
+@BODYTEXT:DUSA Pharmaceuticals, Inc. (Nasdaq:DUSA)
+@BODYTEXT:Harborside Healthcare
+@BODYTEXT:IBC Life Sciences
+@BODYTEXT:LandVest
+@BODYTEXT:Morgan-Memorial Goodwill Industries
+@BODYTEXT:NeoTropix
+@BODYTEXT:NSTAR
+@BODYTEXT:Opinion Dynamics Corporation
+@BODYTEXT:RAPID
+@BODYTEXT:Raytheon Company (NYSE:RTN)
+@BODYTEXT:Sappi Fine Paper North America
+@BODYTEXT:South Shore Hospital
+@BODYTEXT:Vienna Business Agency (Austria)
+@BODYTEXT:YMCA
+@BODYTEXT:
+@CO:MORTON VARDEMAN & CARLSON
+@BODYTEXT:393 Green St., N.W., Gainesville, GA 30501
+@BODYTEXT:770/536-8921; fax:770/535-2753; vardeman@vardeman.com
+@BODYTEXT:Strategic marketing, advertising & PR agency. Founded: 1973. Employees: 10.
+@CCD1:John Vardeman, pres. & CEO
+@BODYTEXT:
+@CO:MOTIVATORS, INC.
+@BODYTEXT:P.O. Box 710541, Houston, TX 77271
+@BODYTEXT:713/784-5560; fax:713/771-5560; motivators.inc@juno.com
+@BODYTEXT:Advertising & PR agency. Services include campaign strategy & execution, adv. media recommendations, placement and creativity, publicity & print article preparation, newsletter & brochure design & printing. Founded: 1973
+@CCD1:Jim Myers, pres.
+@BODYTEXT:Bayou City Bolt
+@BODYTEXT:Maset, LLC
+@BODYTEXT:
+@CO:MOUNT & NADLER INC.
+@BODYTEXT:425 Madison Ave., New York, NY 10017
+@BODYTEXT:212/759-4440; fax:212/371-0787
+@BODYTEXT:General corp., fin’l PR, investment company specialty.  Employees: 5. Founded: 1980.
+@CCD1:Hedda C. Nadler, pres.; Thomas S. Pinto, VP; Janice Aman
+@BODYTEXT:ABN Amro Funds
+@BODYTEXT:Al Frank Fund
+@BODYTEXT:Ballon, Stoll, Bader & Nadler
+@BODYTEXT:Boston Capital
+@BODYTEXT:Condor Capital Mgmt.
+@BODYTEXT:Creditsights, Inc.
+@BODYTEXT:FPA - NY Chapter
+@BODYTEXT:Fairholme Fund
+@BODYTEXT:First Eagle Funds
+@BODYTEXT:Franklin Mutual Series Fund
+@BODYTEXT:No-Load Fund Investor
+@BODYTEXT:North Road Capital Mgmt.
+@BODYTEXT:Olstein Financial Alert Fund
+@BODYTEXT:Thornburg Funds
+@BODYTEXT:Tocqueville Alexis Fund
+@BODYTEXT:
+@CO:MOWER AND ASSOCIATES, ERIC
+@BODYTEXT:Advertising and PR firm; Member of IPREX
+@BODYTEXT:500 Plum St., Syracuse, NY 13204
+@BODYTEXT:315/466-1000; fax:315/466-2000; gloh@eric.mower.com
+@BODYTEXT:Adv., PR, sales promo., direct mktg., interactive technologies for agribusiness, consumer, energy, entertainment & tourism, financial svcs., food & beverage, healthcare, higher education, manufacturing and technology PR. Employees: 30. Founded: 1959.
+@AGENCY:Agency Statement: Eric Mower and Associates (EMA), provides advertising, public relations, public affairs, sales promotion, media, direct marketing, and interactive services to clients across the United States and Canada from its offices in Buffalo, Rochester, Syracuse, Albany, N.Y., Charlotte, N.C and Atlanta. As a member of IPREX, a worldwide partnership of independent public relations firms, EMA ranks in the top 5% of public relations agencies nationwide by PRWeek magazine. Visit www.mower.com for more information.
+@CCD1:Gregory Loh, senior partner/director, PR services
+@BODYTEXT:50 Fountain Plaza, #1000, Buffalo, NY 14202
+@BODYTEXT:716/842-2233; fax: 716/842-6676; dbean@eric.mower.com
+@CCD1:Mary Beth Popp, Senior Acct.,/Supervisor
+@BODYTEXT:1960 First Federal Plaza, 28 E. Main St., Rochester, NY 14614
+@BODYTEXT:585/385-2000; fax: 585/385-2003; brye@eric.mower.com
+@CCD1:Brad Rye, director of PR
+@BODYTEXT:7 Southwoods Blvd., Albany, NY 12211
+@BODYTEXT:518/449-3000; fax: 518/449-4000; rlyke@eric.mower.com
+@CCD1:Robert Bellafiore, director of PA
+@BODYTEXT:1001 Morehead Square Dr., 5th fl., Charlote, NJ 28203
+@BODYTEXT:704/375-0123; lmercer@eric.mower.com
+@CCD1:Laura Mercer, director of PR
+@BODYTEXT:
+@BODYTEXT:AngioDynamics
+@BODYTEXT:Bond Schoeneck & King
+@BODYTEXT:Bonjanyles
+@BODYTEXT:Bowater
+@BODYTEXT:Brady Corp.
+@BODYTEXT:Buffalo Museum of Science
+@BODYTEXT:Carrier Transicold
+@BODYTEXT:Central New York Regional Transportation Authority (CENTRO)
+@BODYTEXT:Central New York School Boards Assn.
+@BODYTEXT:Charlotte Pipe 
+@BODYTEXT:Check Cashers Assn. of New York
+@BODYTEXT:Ciminelli Development Company
+@BODYTEXT:Clarkson University
+@BODYTEXT:Cooper Crouse-Hinds
+@BODYTEXT:Corning Hospital
+@BODYTEXT:Corning Inc.
+@BODYTEXT:Couch White LLP
+@BODYTEXT:Eastman Kodak Co.
+@BODYTEXT:Ellis Hospital
+@BODYTEXT:Epson Salt Council
+@BODYTEXT:ExxonMobil Chemical, Films Business
+@BODYTEXT:FACT Alliance for the Fair Application of Cigarette Taxes
+@BODYTEXT:Fairpoint Communications
+@BODYTEXT:Ferraz Shawmut
+@BODYTEXT:Fidelis Care New York
+@BODYTEXT:Financial Service Centers of America
+@BODYTEXT:Ford Dealers of Western NY and Northern PA
+@BODYTEXT:Georgia-Pacific
+@BODYTEXT:Heritage Christian Services
+@BODYTEXT:Honeywell
+@BODYTEXT:ICM Controls
+@BODYTEXT:Independent Power Producers of New York
+@BODYTEXT:Intertek/ETL Semko
+@BODYTEXT:JP Morgan Chase Corporate Challenge
+@BODYTEXT:Kodak Polychrome Graphics
+@BODYTEXT:LaBella Assocs.
+@BODYTEXT:Lenox Division of Newell Rubbermaid
+@BODYTEXT:Louis P. Ciminelli Construction Cos.
+@BODYTEXT:Mackenzie Hughes LLP
+@BODYTEXT:Magnetic Ticket and Label
+@BODYTEXT:Maid of the Mist Steamboat Co.
+@BODYTEXT:Marsh Inc.
+@BODYTEXT:McdCath
+@BODYTEXT:Midstate School Finance Consortium
+@BODYTEXT:New York City Community Housing Improvement Program
+@BODYTEXT:New York Healthcare Alliance
+@BODYTEXT:New York State Charter Schools Assn.
+@BODYTEXT:New York State Credit Union League
+@BODYTEXT:New York State Dept. of Economic Development
+@BODYTEXT:New York State Dept. of Health
+@BODYTEXT:New York State Health Facilities Assn.
+@BODYTEXT:Newtex
+@BODYTEXT:Nucor
+@BODYTEXT:Pass & Seymour/Legrand
+@BODYTEXT:Primrose Schools
+@BODYTEXT:PSEG Power New York
+@BODYTEXT:Reliant Energy/Erie Boulevard Hydropower
+@BODYTEXT:SLI Lighting
+@BODYTEXT:Schneider Electric (Square D)
+@BODYTEXT:Schenectady Metroplex Development Authority
+@BODYTEXT:Shurtape
+@BODYTEXT:Sorrento Lactalis, Inc.
+@BODYTEXT:Southern Tier West Region Planning and Development Board
+@BODYTEXT:Southwire
+@BODYTEXT:Starbucks
+@BODYTEXT:SUNY Binghamton
+@BODYTEXT:Syracuse University
+@BODYTEXT:Telefex Medical
+@BODYTEXT:University at Buffalo
+@BODYTEXT:USA Datanet
+@BODYTEXT:Utica College
+@BODYTEXT:Wells College
+@BODYTEXT:
+@CO:MPRM PUBLIC RELATIONS
+@BODYTEXT:5670 Wilshire Blvd. #2500, Los Angeles, CA 90036
+@BODYTEXT:323/933.3399; fax:323/939.7211
+@BODYTEXT:www.mprm.com
+@BODYTEXT:
+@AGENCY:Agency Statement: mPRm Public Relations is an independent public relations, marketing and promotions agency specializing in strategic business consultation and creative, attention.grabbing consumer campaigns for technology, entertainment and lifestyle companies. Responding to today's highly dynamic and competitive markets, mPRm helps its clients create, build and manage their businesses, brands and reputations regionally, nationally and globally. Clients span Hollywood studios, broadcast and cable networks, leading technology providers, writers, producers, directors, digital businesses and lifestyle brands.
+@CCD1:Rachel McCallister, Mark Pogachefsky, co.presidents; Alan Amman, senior VP, General Entertainment (DVD, TV); Julie Gladders, senior VP, Emerging Media & Technology; Michael Lawson, senior VP, Film
+@BODYTEXT:
+@CO:MRA GROUP, THE
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:HSBC Tower, 360 S. Warren St., Syracuse, NY 13202
+@BODYTEXT:315/233-3000; fax:315/233-4000; chuckb@mragroup.com
+@BODYTEXT:www.mragroup.com
+@BODYTEXT:Consumer, bus.-to-bus., healthcare, high-tech, associations, corporate, financial and internal communications. Founded: 1987. Employees: 17.
+@CCD1:Mark Russell, owner; Chuck Beeler, sr. VP
+@BODYTEXT:ADT Security
+@BODYTEXT:Cellular Telecommunications & Internet Assn.
+@BODYTEXT:Coastal Hotel Group
+@BODYTEXT:DeKalb Medical Telephone.com
+@BODYTEXT:Telergy
+@BODYTEXT:Verizon Wireless
+@BODYTEXT:
+@CO:MRB PUBLIC RELATIONS, INC.
+@BODYTEXT:3 East Front St., Red Bank, NJ 07701
+@BODYTEXT:732/758-1100; fax:732/758-1130; info@mrb-pr.com
+@BODYTEXT:B2B & B2C, high-tech, telecom, government PR, aviation, and aerospace.  Employees: 14. Founded: 1992.
+@CCD1:Michael Becce, pres./CEO; Jacqueline Rattazzi, CFO
+@BODYTEXT:AdTran
+@BODYTEXT:Alliance of Neighbors
+@BODYTEXT:American Technology Alliances
+@BODYTEXT:Avocent
+@BODYTEXT:Fossil
+@BODYTEXT:NASA
+@BODYTEXT:Parker Vision
+@BODYTEXT:PENTAWARE
+@BODYTEXT:Terra do brazil
+@BODYTEXT:
+@CO:MS&L BOSTON
+@BODYTEXT:A Manning, Selvage & Lee office
+@BODYTEXT:745 Boylston St., Boston, MA 02116
+@BODYTEXT:617/437-7722; fax:617/267-9801
+@BODYTEXT:Consumer, corporate, healthcare and technology PR.  Employees: 25.
+@AGENCY:Agency Statement: MS&L Boston’s professionals match considerable strategic expertise and hands-on “people” resources with a flexible, responsive team-approach creating preference for local, national and international clients. Its recognized creative flair comes from understanding that the success of any “big idea” lies in the excellence of its implementation. The firm, formerly Agnew, Carter, McCarthy, is now the Boston office of Manning, Selvage & Lee, one of the leading global public relations firms with over 100 offices and affiliates throughout the world. Since 1938, the agency’s principles and ethics have been governed by PRSA’s Code of Professional Standards.
+@CCD1:Monique da Silva, mng. director; Jack Agnew, senior counsel; Jon Kasle, Dan Schutt, John Smith, senior VPs; Carol Garrity, Jeff Tamry, VPs
+@BODYTEXT:BioSphere Medical
+@BODYTEXT:GN Nettest
+@BODYTEXT:Hasbro 
+@BODYTEXT:Hood
+@BODYTEXT:IDG World Expo
+@BODYTEXT:Playskool
+@BODYTEXT:Philips Medical Systems
+@BODYTEXT:Staples
+@BODYTEXT:
+@CO:MSCO
+@BODYTEXT:2700 Westchester Ave., #116, Purchase, NY 10577
+@BODYTEXT:914/251-1500
+@BODYTEXT:www.msco.com
+@BODYTEXT:Strategic mktg. consulting firm specializing in sales promotions, marketing research, graphic design, strategic planning & direct mktg.
+@CCD1:Mark Stevens, president
+@BODYTEXT:Benjamin Enterprises
+@BODYTEXT:Patio.com
+@BODYTEXT:
+@CO:MSR COMMUNICATIONS, LLC
+@BODYTEXT:1847 Union St., San Francisco, CA 94123
+@BODYTEXT:415/447-6115; fax:415/447-6111; PR@msrcommunications.com
+@BODYTEXT:Corporate positioning and messaging, media/analyst rels. speaker placements, crisis and reputation mgmt., communication materials, new product launches, earnings reporting and tradeshows. Employees: 6. Founded: 1999.
+@CCD1:Mary Shank Rockman, pres. & CEO
+@BODYTEXT:Almaden Valley Athletic Club
+@BODYTEXT:FaceTime Communications
+@BODYTEXT:IMG Home Retail Stores
+@BODYTEXT:MetaTV
+@BODYTEXT:Pavid Day Spa
+@BODYTEXT:Vigilant Privacy Software
+@BODYTEXT:
+@CO:MUELLER COMMUNICATIONS, INC.
+@BODYTEXT:700 W. Virginia St., #201, Milwaukee, WI 53204
+@BODYTEXT:414/390-5500; fax:414/390-5515; admin@muellercommunications.com
+@BODYTEXT:Full service PR, gov’t relations and issues mgmt.  Employees: 12. Founded: 1986.
+@AGENCY:Agency Statement: Mueller Communications, Inc. is a public relations agency that provides clients with public affairs, crisis and corporate communications, marketing research and business-to-business marketing counsel. Media relations and governmental affairs are special strengths. The firm has a proven track record of success serving a diverse client base, including leading national corporations, local businesses, professional associations and not-for-profit organizations. We have the experience, creativity and knowledge to get the job done — on time and on budget.
+@CCD1:H. Carl Mueller, pres./CEO; Marcus Smith, senior A/E; Lori Van Pay, Rachael Frydman, A/Es; Tara Haushalter, Cari Reisinger, A/AEs
+@BODYTEXT:Acuity
+@BODYTEXT:Aluminum Casting & Engineering Co.
+@BODYTEXT:The Business journal
+@BODYTEXT:Covenant Healthcare System
+@BODYTEXT:David barnett Gallery
+@BODYTEXT:Harley-Davidson Motor Company
+@BODYTEXT:Irgens Development Partners
+@BODYTEXT:Journal Communications
+@BODYTEXT:Kikkoman
+@BODYTEXT:M&I Bank
+@BODYTEXT:Major League Baseball
+@BODYTEXT:The Mandel Group
+@BODYTEXT:Medical College of Wisconsin
+@BODYTEXT:Midwest Airlines
+@BODYTEXT:Miller Compressing
+@BODYTEXT:Milwaukee Art Museum
+@BODYTEXT:Milwaukee Brewers
+@BODYTEXT:Milwaukee Center for Independence
+@BODYTEXT:Milwaukee County Research Park
+@BODYTEXT:Northwestern Mutual
+@BODYTEXT:Steiner & Assocs.
+@BODYTEXT:We Energies
+@BODYTEXT:
+@CO:MULLEN
+@BODYTEXT:Part of Mullen Advertising; owned by Interpublic Group of Cos.
+@BODYTEXT:36 Essex St., Wenham, MA 01984
+@BODYTEXT:978/468-1155; fax:978/468-1133; sheila.leyne@mullen.com
+@BODYTEXT:www.mullen.com
+@BODYTEXT:Full-service PR specializing in consumer, healthcare, technology and professional svcs. Founded: 1984.
+@AGENCY:Agency Statement: As a PR agency operating within a full-service communications company, we have adopted an integrated approach to servicing clients.  While many PR agencies claim to understand branding or integrated communications, we believe we do it better than most.  There are several reasons for this.  First, it is instinctive for us to think about integrating communications tools beyond media relations or even public relations.  Second, we can and do leverage other internal resources at Mullen, from creative and design to direct and interactive, to help provide the most powerful thinking to our PR clients.  Third, we also routinely partner with best of breed resources, from multi-cultural marketing companies to industry lobbyists to event management firms.  
+@AGENCY:Although a Mullen PR client may never choose to engage the services of other agency resources, the direct and indirect influence of other disciplines helps us to devise the most successful and appropriate programs.  Our capabilities cover the complete range of public relations services, including:
+@AGENCY:Media relations campaigns targeting print, broadcast and online media on a national, regional and local level as well as key trade and vertical media.
+@AGENCY:Multi-platform brand leadership initiatives, including cause marketing, experiential events, mobile and guerilla marketing, sponsorship activation and partnership programming.
+@AGENCY:A full suite of editorial and communication services, including strategic message development, executive speechwriting, media training, and video production.
+@CCD1:Sheila Leyne, exec. VP/dir., PR; Matt Wagner, senior VP/acct. director; Mark Horner, VP, dir. of PR/Pittsburgh; Siobhan Olson, sr. VP/dir. of PR, Winston-Salem
+@BODYTEXT:BBN Technologies
+@BODYTEXT:Cascade Design
+@BODYTEXT:Conversion Van Marketing Assn.
+@BODYTEXT:Department of Defense, Joint Advertising, Marketing Research
+@BODYTEXT:& Studies Project
+@BODYTEXT:Eaton Corporation
+@BODYTEXT:Eddie Bauer
+@BODYTEXT:General Motors
+@BODYTEXT:Gladiator GarageWorks
+@BODYTEXT:Gorton’s
+@BODYTEXT:Grain Foods Foundation
+@BODYTEXT:Heart Failure Society of America
+@BODYTEXT:Highmark Blue Cross Blue Shield
+@BODYTEXT:LendingTree.com
+@BODYTEXT:Marshalls
+@BODYTEXT:Massachusetts Office of Travel and Tourism
+@BODYTEXT:Match.com
+@BODYTEXT:National Consortium for Aviation mobility
+@BODYTEXT:Olympus America
+@BODYTEXT:Pennsylvania Economic Development
+@BODYTEXT:Pennsylvania Travel & Tourism
+@BODYTEXT:Pepperidge Farm
+@BODYTEXT:Pittsburgh Digital Greenhouse
+@BODYTEXT:Preservation Technologies
+@BODYTEXT:Sealy Inc.
+@BODYTEXT:Sprint PCS (New England region)
+@BODYTEXT:Stanley Works
+@BODYTEXT:Stride Rite
+@BODYTEXT:Turner Entertainment
+@BODYTEXT:Wachovia
+@BODYTEXT:
+@CO:MULLEN PUBLIC RELATIONS
+@BODYTEXT:One Columbus Plaza, 3636 No. Central Ave., #1000, Phoenix, AZ 85012
+@BODYTEXT:602/222-4343; fax:602/222-4330
+@BODYTEXT:Programs for local and national clients in the Southwest market. Employees: 14. Founded: 1981.
+@CCD1:Debbie Mitchell, pres.; Jennifer Whittle, VP
+@BODYTEXT:DeVry Institute of Technology
+@BODYTEXT:Estrella Mountain Ranch
+@BODYTEXT:KB Home
+@BODYTEXT:Linthicum Constructors
+@BODYTEXT:Pointe South Mountain Resort
+@BODYTEXT:Superstition Mountain Golf & Country Club
+@BODYTEXT:
+@CO:MULTICULTURAL MARKETING RESOURCES, INC.
+@BODYTEXT:286 Spring St., #201, New York, NY 10013
+@BODYTEXT:212/242-3351; fax:212/691-5969; lisa@multicultural.com
+@BODYTEXT:www.multicultural.com
+@BODYTEXT:PR and marketing services for corporations with multicultural news; specializes in reaching Hispanics, African Americans, Asian Americans and other ethnic groups.  Founded: 1994.
+@CCD1:Lisa Skriloff, pres.
+@BODYTEXT:
+@CO:MURPHY O’BRIEN
+@BODYTEXT:1630 Stewart St., #140, Santa Monica, CA 90404
+@BODYTEXT:310/453-2539; fax:310/264-0083; karen@murphyobrien.com
+@BODYTEXT:www.murphyobrien.com
+@BODYTEXT:Media relations and brand publicity. Specializing in travel and tourism, food and beverage, consumer goods, technology and new media, and CEO/entrepreneur campaigns. Founded: 1989.
+@CCD1:Karen Murphy O’Brien, chairman & CEO
+@BODYTEXT:Auberge Resorts
+@BODYTEXT:Century Plaza Hotel & Spa
+@BODYTEXT:Earthbound Farm
+@BODYTEXT:La Quinta Resort & Club
+@BODYTEXT:MedSeek
+@BODYTEXT:Morton's, The Steakhouse
+@BODYTEXT:Pebble Beach Resorts
+@BODYTEXT:See's Candies
+@BODYTEXT:
+@CO:MWW GROUP
+@BODYTEXT:Owned by Interpublic Group of Cos.
+@BODYTEXT:One Meadowlands Plaza, East Rutherford, NJ 07073
+@BODYTEXT:201/507-9500; fax:201/507-0092
+@BODYTEXT:www.mww.com
+@BODYTEXT:PR and marketing comms.; PA; gov’t rels., crisis/issues mgmt., financial and IR, corporate comms., social marketing and healthcare.  Employees: 150. Founded: 1986.
+@AGENCY:Agency Statement: In 2004, MWW Group Ranked #1 in the Holmes Report Client Agency Satisfaction Report for the second year in a row.  The 11th largest public relations firm in the U.S., the agency has expertise in consumer marketing, corporate communications, public and government affairs, healthcare, financial and investor relations, social marketing, crisis communications, issues management, technology and economic development.
+@AGENCY:MWW is known for its "straight talk, real answers, tangible results" approach to public relations in returning the greatest return on client investment.  MWW services clients ranging from large global brand leaders to smaller entrepreneurial companies through its seven offices in New York, Los Angeles, Washington, DC., Seattle, Chicago, Trenton and East Rutherford, NJ headquarters.
+@AGENCY:The agency is characterized by its entrpreneruial spirit and 'aim high and deliver' philosophy.  This philosophy, is embodied in our success and the passion that drives our business.  It represents how MWW delivers on client objectives, the methodology behind MWW's approach to public relations and marketing, and the commitment of account professionals to deliver client excellence.  Equally important, it forms the basis for MWW's ClientWorks initiative for client service, excellence, and satisfaction.  It is why, in addition to having the highest client satisfaction performance score in the nation in the 2004 Holmes Report Client Satisfaction Survey, we led the pack in every category: account leadership, account team, strategy & planning, creativity, implementation, execution and more.
+@AGENCY:MWW's proprietary results-planning methodology Brand IQ, serves as the foundation for how MWW approaches every client assignment, every communications challenge and every marketing opportunity.  Brand IQ maximizes clients' return on investment by creating communications programs that deliver tangible results, meet critical business objectives and influence constituents at ever point of contact.
+@AGENCY: MWW's clients include McDonald's, The Palm Restaurants, Amazon.com, Roche, Oxford Health Plans, Schering-Plough, Nikon, Scottish Enterprise, Continental Airlines, CIT Group, Bally Total Fitness, Verizon, Trans World Entertainment, Bacardi, Johnson & Johnson/Ethicon, AlphaGraphics, Inc. and many Fortune 1000 clients in the consumer, professional services and industrial sectors.
+@CCD1:Michael W. Kempner, pres. & CEO; Seth Rosenstein, CFO; Robert G. Sommer, Alissa Blate, exec. VPs; Don Mclver, William Murray, Kurt Genden, Carreen Winters, Michelle Robertson, Rich Tauberman, Matt Rose, David Herbst, Arthur Sohikian, Bob Silver, Christina Watt, senior VPs.
+@BODYTEXT:150 West State St., #220, Trenton, NJ 08608
+@BODYTEXT:609/396-0067; fax: 609/396-2272
+@CCD1:Sal Anderton, VP/general manager
+@BODYTEXT:1212 Ave. of the Americas, 5th flr., New York, NY 10036
+@BODYTEXT:212/704-9727; fax: 212/704-0917
+@CCD1:Matthew Rose, senior VP/general manager
+@BODYTEXT:1747 Pennsylvania Ave., NW, #1150, Washington, DC 20006
+@BODYTEXT:202/296-6222. fax: 202/296-4507
+@CCD1:William Morley, sr. VP/general manager
+@BODYTEXT:70 West Madison, #5050, Chicago, IL 60602
+@BODYTEXT:312/853-3131; fax: 312/853-0955
+@CCD1:John Digles, group VP/general manager
+@BODYTEXT:660 South Figueroa St., #1400, Los Angeles, CA 90017
+@BODYTEXT:213/486-6560; fax: 213/486-6501
+@CCD1:David Herbst, VP/general manager; Arthur Sohikian, senior VP
+@BODYTEXT:The Tower Building, 1809 Seventh Ave., #300, Seattle, WA 98101
+@BODYTEXT:206/505-8306; fax: 206/689-8508
+@CCD1:Bob Silver, senior VP/general manager
+@BODYTEXT:
+@BODYTEXT:24/7 Real Media
+@BODYTEXT:3030 Park Health Systems
+@BODYTEXT:Acatris USA
+@BODYTEXT:Access Services
+@BODYTEXT:Aegis Assisted Living
+@BODYTEXT:Amazon.com
+@BODYTEXT:Amazing Savings
+@BODYTEXT:American Medical Association
+@BODYTEXT:American Medical Response
+@BODYTEXT:American Society of Hand Therapists
+@BODYTEXT:American Standard Development Co.
+@BODYTEXT:AmeriGroup
+@BODYTEXT:AMF Bowling
+@BODYTEXT:Antares Corporation
+@BODYTEXT:ATC Public Transportation
+@BODYTEXT:Avis
+@BODYTEXT:Avista Advantage
+@BODYTEXT:Bacardi U.S.A., Inc.
+@BODYTEXT:Baker & Hostetler
+@BODYTEXT:Bally Total Fitness
+@BODYTEXT:Baltimore Medical System Banyan Capital Partners
+@BODYTEXT:Bevcon Beverly Hills Luxury Hotel
+@BODYTEXT:Bovis Construction Corp
+@BODYTEXT:Brown, Winfield and Canzoneri Inc.
+@BODYTEXT:Browning Ferris Industries
+@BODYTEXT:Caliber Builders
+@BODYTEXT:Campaign for  Tobacco Free Kids
+@BODYTEXT:Cathedral Healthcare System
+@BODYTEXT:CentraState Healthcare System
+@BODYTEXT:CIT Group
+@BODYTEXT:City of El Segundo
+@BODYTEXT:Coalition for Quality HealthCare
+@BODYTEXT:Code Hennessy & Simmons
+@BODYTEXT:Comite Para El Futuro
+@BODYTEXT:Community Memorial Hospital
+@BODYTEXT:Connextions
+@BODYTEXT:Continental Airlines
+@BODYTEXT:Coppin State University
+@BODYTEXT:Council for Opportunity in Education
+@BODYTEXT:County of Essex
+@BODYTEXT:Davidson
+@BODYTEXT:D-Con
+@BODYTEXT:Delaware River Stevedores
+@BODYTEXT:Department of Human Services-State of NJ
+@BODYTEXT:DeWitt & Roberts
+@BODYTEXT:Digital Lifestyles Group
+@BODYTEXT:Education America, Inc.
+@BODYTEXT:Educational Investment Co.
+@BODYTEXT:ERG Transit
+@BODYTEXT:Evergreen Healthcare
+@BODYTEXT:Ethicon
+@BODYTEXT:Examination Management Services (EMSI)
+@BODYTEXT:Fairfield Residential
+@BODYTEXT:FRESHDIRECT
+@BODYTEXT:GAF Buildings & Materials Corp.
+@BODYTEXT:Gateway to LA Century Corridor PBID
+@BODYTEXT:General Growth
+@BODYTEXT:Getty Images
+@BODYTEXT:GiftCertificates.com
+@BODYTEXT:Glant Textiles
+@BODYTEXT:Global Strategy Group
+@BODYTEXT:Greene County Health Care
+@BODYTEXT:Grundfos Pumps Corp.
+@BODYTEXT:Hadassah
+@BODYTEXT:Hanover Direct
+@BODYTEXT:Haroldo J. Montealegre
+@BODYTEXT:Health Education, Inc.
+@BODYTEXT:Hitachi America
+@BODYTEXT:Holy Name Hospital
+@BODYTEXT:Independent Cities Association (ICA)
+@BODYTEXT:Intergovernemtnal Risk Mgmt Agency
+@BODYTEXT:Intermedia Advertising Group
+@BODYTEXT:International Specialty Products
+@BODYTEXT:IXP Corp.
+@BODYTEXT:Jan Development
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:Kaiser Aluminum & Chemical Corp.
+@BODYTEXT:Kawasaki Rail
+@BODYTEXT:Keiser College
+@BODYTEXT:Kelly Lytton and Vann
+@BODYTEXT:Knowaste, LLC
+@BODYTEXT:Latham SRM
+@BODYTEXT:Lennar Partners
+@BODYTEXT:Linebarger Goggan Blair Pena & Sampson
+@BODYTEXT:London Stock Exchange
+@BODYTEXT:Los Angeles County Lifeguards Association (LACOLA)
+@BODYTEXT:Mack-Cali
+@BODYTEXT:MagnaDrive
+@BODYTEXT:Manufacturing Data Systems
+@BODYTEXT:Marymount College
+@BODYTEXT:McDonald’s
+@BODYTEXT:Medical Society of New Jersey
+@BODYTEXT:Mercury Air Group, Inc.
+@BODYTEXT:Metropolitan Television Assn.
+@BODYTEXT:Metrovest Equities, Inc.
+@BODYTEXT:Mindguard
+@BODYTEXT:Municipal Excess Liability Joint Ins
+@BODYTEXT:Nat'l Assoc. of Comm. Hlth. Ctrs.
+@BODYTEXT:Natural Health Science, LLC
+@BODYTEXT:New Jersey Breathes
+@BODYTEXT:New Jersey Food Council
+@BODYTEXT:Newhall Land and Farming
+@BODYTEXT:Newport Assoc./Lefrak
+@BODYTEXT:Nikon, Inc.
+@BODYTEXT:NJ State Lottery
+@BODYTEXT:Oakland University
+@BODYTEXT:OENJ Cherokee Realty
+@BODYTEXT:Orange and Rockland Utilities Inc.
+@BODYTEXT:Palm Restaurants
+@BODYTEXT:Paramount Homes
+@BODYTEXT:Parsons Advanced Technologies Inc.
+@BODYTEXT:Parsons, Brinckerhoff
+@BODYTEXT:Pat Brown Institute of Pub Affairs
+@BODYTEXT:Prudential plc
+@BODYTEXT:Puerto Ricans in Civic Action
+@BODYTEXT:Pulte Homes
+@BODYTEXT:QualCare, Inc.
+@BODYTEXT:Ramapo College of NJ
+@BODYTEXT:Roche
+@BODYTEXT:Ronald Schmidt & Assocs.
+@BODYTEXT:Ross University
+@BODYTEXT:Schoor DePalma
+@BODYTEXT:Schering Plough
+@BODYTEXT:Scleroderma Foundation
+@BODYTEXT:Second Avenue Partners
+@BODYTEXT:Siemens
+@BODYTEXT:Sony Music Entertainment, Inc.
+@BODYTEXT:South Jersey Health System
+@BODYTEXT:Southwest Value Partners
+@BODYTEXT:Standard Pacific Corporation
+@BODYTEXT:Super Shuttle
+@BODYTEXT:Texas Assoc. of CHC
+@BODYTEXT:The Cuban American Foundation
+@BODYTEXT:The Healthcare Foundation
+@BODYTEXT:The Mills Partnership
+@BODYTEXT:Thomas Properties Group
+@BODYTEXT:Tierra Solutions, Inc.
+@BODYTEXT:Trade Partners UK
+@BODYTEXT:Trammell Crow Residential
+@BODYTEXT:Transworld Entertainment
+@BODYTEXT:Trillium
+@BODYTEXT:UK Trade & Investment
+@BODYTEXT:Ungaretti & Harris
+@BODYTEXT:University of Maryland, Baltimore
+@BODYTEXT:University of Washington Medical Center
+@BODYTEXT:US Educational Finance Corp.
+@BODYTEXT:US Nutraceuticals LLC
+@BODYTEXT:Verizon
+@BODYTEXT:VeryFine
+@BODYTEXT:Viisage Technology, Inc.
+@BODYTEXT:Vistamar School
+@BODYTEXT:VoiceBox Technologies
+@BODYTEXT:WeddingChannel.com
+@BODYTEXT:Western Wireless Corp.
+@BODYTEXT:Westway Terminal Co.
+@BODYTEXT:Whitman Walker Clinic
+@BODYTEXT:Williams Communications Group
+@BODYTEXT:Zilliant
+@BODYTEXT:
+@CO:MWW/SAVITT
+@BODYTEXT:See The MWW Group above
+@BODYTEXT:
+@BODYTEXT:
+@CO:MZD ADVERTISING, INC.
+@BODYTEXT:1800 N. Meridian St., #200, Indianapolis, IN 46202
+@BODYTEXT:317/924-6271
+@BODYTEXT:www.mzd.com
+@BODYTEXT:Media & PR
+@CCD1:Harry Davis, COO; Drew Crockett, PR Director
+@BODYTEXT:Rhino Ecosystems, Inc.
+@BODYTEXT:

@@ -1,0 +1,21 @@
+@BREAKER:X
+
+@CO:XENOPHON STRATEGIES
+@BODYTEXT:1625 I St., N.W., 6th flr., Washington, DC 2006
+@BODYTEXT:202/289-4001; fax:212/777-2030
+@BODYTEXT:Crisis communications, public and media relations, public affairs. Employees: 15. Founded: 2000.
+@CCD1:David Fuscus, pres. & CEO; Julie Chlopecki, partner; Jay Silverberg, Nancy K. West, senior VPs; Gabby Richards, VP; Holly Arthur, director; Joe Quinn
+@BODYTEXT:Airbus Industrie of North America
+@BODYTEXT:Air Transport Assn.
+@BODYTEXT:Alaska Airlines
+@BODYTEXT:American Iron & Steel Institute
+@BODYTEXT:Aviation Safety Alliance
+@BODYTEXT:Bombardier Transportation
+@BODYTEXT:Fox Foundation
+@BODYTEXT:Integrated Environmental Systems
+@BODYTEXT:Macy’s West
+@BODYTEXT:Midwest Airlines, Inc.
+@BODYTEXT:Petaluma Health Care District
+@BODYTEXT:Pottery Barn
+@BODYTEXT:Salvation Army
+@BODYTEXT:

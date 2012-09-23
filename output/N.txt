@@ -1,0 +1,621 @@
+@BREAKER:N
+
+@CO:NADEL PHELAN, INC.
+@BODYTEXT:269 Mt. Hermon Rd., #107, Scotts Valley, CA 95066
+@BODYTEXT:831/439-5570
+@BODYTEXT:www.nadelphelan.com
+@BODYTEXT:Founded: 1993.
+@CCD1:Paula Phelan, pres./CEO; Jodi Reinman
+@BODYTEXT:Epok, Inc.
+@BODYTEXT:
+@CO:NADINE JOHNSON & ASSOCIATES, INC.
+@BODYTEXT:216 E. 18th St., New York, NY 10003
+@BODYTEXT:212/228-5555; fax:212/982-9939; nadine@nadinejohnson.com
+@BODYTEXT:PR, special events, marketing, crisis mgmt. Founded: 1989.
+@CCD1:Nadine Johnson, president
+@BODYTEXT:Americans for the Arts
+@BODYTEXT:Andre Balazs Hotels
+@BODYTEXT:Hedi Slimane/Christian Dior; Richard Meier, architect; Larry Gagosian, Stella McCartney
+@BODYTEXT:IMG Models
+@BODYTEXT:Zegna
+@BODYTEXT:
+@CO:NAPOLITAN ASSOCIATES/PAA, INC.
+@BODYTEXT:55 Fifth Ave., 18th flr., New York, NY 10003
+@BODYTEXT:212/807-1557; fax:212/807-1564; pancomm@aol.com
+@BODYTEXT:Government rels., PA, opinion surveys, international and national political counseling. Founded: 1969
+@CCD1:Joseph Napolitan, chmn.; Joseph Michenfelder, pres. & CEO; Alexandra Fullerton, mgr.; John Sheedy, projects director; Christian Espinosa, sales director
+@BODYTEXT:
+@CO:NASHE GROUP, CAROL
+@BODYTEXT:2791 S. Buffalo Dr., Las Vegas, NV 89117
+@BODYTEXT:702/248-4884; fax:702/889-1474; carolnashe@mindspring.com
+@BODYTEXT:PR, publicity, meeting management, golf tours and talk show hosts consultants. Employees: 2. Founded: 1994.
+@CCD1:Carol Nashe, CEO
+@BODYTEXT:Blues Band Management
+@BODYTEXT:Bluesstorm.com
+@BODYTEXT:Boston Duck Tours
+@BODYTEXT:Golfonthego.org
+@BODYTEXT:Las Vegas Golf Promotions
+@BODYTEXT:Talkshowhosts.com
+@BODYTEXT:
+@CO:NATCOM MARKETING
+@BODYTEXT:80 S.W. 8th St., #2230, Miami, FL 33130
+@BODYTEXT:786/425-0028; bauer@netcom-marketing.com
+@BODYTEXT:Mktg. comms., strategic consulting, market research, promotional planning. Founded: 1992.
+@CCD1:Bob Rodriguez, CEO; Bob Bauer, sr. VP
+@BODYTEXT:Allegro Resorts
+@BODYTEXT:Avaya
+@BODYTEXT:Bombardier
+@BODYTEXT:Celebrity Cruises
+@BODYTEXT:Chevron
+@BODYTEXT:Lucent Technologies
+@BODYTEXT:
+@CO:NATIONAL GRASS ROOTS & COMMUNICATIONS
+@BODYTEXT:4115 Wisconsin Ave., N.W., #212, Washington, DC 20016
+@BODYTEXT:202/966-0440
+@BODYTEXT:www.ngrc.com
+@BODYTEXT:PR, fast food/restaurants, food, industrial/manufacturing/chemical, healthcare, retail stores/chains.  Founded: 1985.
+@CCD1:Bradley Cameron, pres.
+@BODYTEXT:Coalition of American Steel Using Manufacturers
+@BODYTEXT:Food Lion
+@BODYTEXT:General Mills
+@BODYTEXT:McDonald’s Corp.
+@BODYTEXT:
+@CO:NATIONAL NEWS BUREAU AGENCY
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:PO Box 43039, Philadelphia, PA 19129
+@BODYTEXT:215/849-9016 (ext.116)
+@BODYTEXT:www.nationalnewsbureau.com
+@BODYTEXT:PR, adv., creative, direct marketing, media buying. Founded: 1979
+@CCD1:Harry Jay Katz, publisher/editor-in-chief
+@BODYTEXT:ELECTRiCity
+@BODYTEXT:National News Bureau
+@BODYTEXT:Phila. Film & Video Commission
+@BODYTEXT:Student Body Calendar
+@BODYTEXT:Team America
+@BODYTEXT:
+@CO:NATIONAL  PUBLIC RELATIONS
+@BODYTEXT:U.S. branch office of Montreal-based firm
+@BODYTEXT:230 Park Ave. South, New York, NY 10003
+@BODYTEXT:212/614-4124; fax:212/598-5377
+@BODYTEXT:PR and PA services.
+@CCD1:Mark Bonacci, managing partner
+@BODYTEXT:
+@CO:NEALE-MAY & PARTNERS, INC.
+@BODYTEXT:Member of GlobalFluency Network
+@BODYTEXT:409 Sherman Ave., Palo Alto, CA 94306
+@BODYTEXT:650/328-5555; fax:650/328-5016
+@BODYTEXT:www.nealemay.com
+@BODYTEXT:Strategic mktg. consulting, branding and positioning, corp. & fin’l comms., promo mktg. and product publicity, cyberPR.  Employees: 45. Founded: 1987.
+@CCD1:Donovan Neale-May, pres. & founder; Dave Murray, chief service officer & principal; Derek Kober, sr. VP
+@BODYTEXT:144 East 30th St., New York, 10016
+@BODYTEXT:212/213-5400; fax: 212/213-4415
+@CCD1:Don Scott, sr. VP/gen. mgr.
+@BODYTEXT:
+@BODYTEXT:1800 Contacts
+@BODYTEXT:A.T. Kearney
+@BODYTEXT:BPM Forum
+@BODYTEXT:CMO Council
+@BODYTEXT:ClearSpeed
+@BODYTEXT:Cravath, Swaine & Moore
+@BODYTEXT:EDiets
+@BODYTEXT:ERG Group
+@BODYTEXT:FileNet
+@BODYTEXT:FreeMarkets
+@BODYTEXT:FriendFinder
+@BODYTEXT:Full90
+@BODYTEXT:Hyperion
+@BODYTEXT:Next Phase Media
+@BODYTEXT:Phoenix Technologies
+@BODYTEXT:Postini
+@BODYTEXT:Responsys
+@BODYTEXT:Smart Technologies Inc.
+@BODYTEXT:Transmeta
+@BODYTEXT:Wyse Technology
+@BODYTEXT:
+@CO:NEDD WORLDWIDE PUBLIC RELATIONS
+@BODYTEXT:703 Livernois, Ferndale, MI 48220
+@BODYTEXT:248/399-1440
+@BODYTEXT:www.neddworldwide.com
+@BODYTEXT:Corporate events. Founded: 1994.
+@CCD1:Cathy Nedd, pres.
+@BODYTEXT:Avon Products
+@BODYTEXT:HBO
+@BODYTEXT:Health Alliance Plan
+@BODYTEXT:Pepsi Cola
+@BODYTEXT:Pizza Hut
+@BODYTEXT:
+@CO:NELSON & GILMORE
+@BODYTEXT:1604 Aviation Blvd., Redondo Beach, CA 90278
+@BODYTEXT:310/376-0296; fax:310/374-8995; nelgil@earthlink.net
+@BODYTEXT:A full-service ad agency and PR firm.
+@CCD1:Wayne Nelson, CEO
+@BODYTEXT:Griffin Industries
+@BODYTEXT:
+@CO:NELSON & SCHMIDT MARKETING COMMS., INC.
+@BODYTEXT:111 E. Wisconsin Ave., Milwaukee, WI 53202
+@BODYTEXT:414/224-0210; fax:414/224-9463
+@BODYTEXT:A full-service agency offering adv., strategic planning, research, direct mail, PR, media and telemarketing services for bus.-to-bus. consumer and agricultural clients.
+@CCD1:Daniel Nelson, president
+@BODYTEXT:
+@CO:NEMER FIEGER
+@BODYTEXT:6250 Excelsior Blvd., Minneapolis, MN 55416
+@BODYTEXT:952/925-4848; fax:952/925-1907
+@BODYTEXT:www.nemerfieger.com
+@BODYTEXT:Integrated marketing and comms.; lifestyle, food & entertainment mktg. comms.; public appearance tours, media rels., adv., bus.-to-bus., consumer, comms. management consulting.  Founded: 1957.
+@CCD1:James D. Fieger, CEO; Tom Whelan, COO; Larry Pederson, CFO; J. Marie Fieger, pres.
+@BODYTEXT:Buena Vista Home Entertainment
+@BODYTEXT:Car-X Auto Service
+@BODYTEXT:Championship Auto Shows
+@BODYTEXT:Clearchannel/Minneapolis
+@BODYTEXT:Feld Entertainment
+@BODYTEXT:Greater Minneapolis Convention & Visitors Assoc.
+@BODYTEXT:IMAX/Minnesota Zoo
+@BODYTEXT:MGM Home Entertainment
+@BODYTEXT:Minneapolis Aquatennial
+@BODYTEXT:Minneapolis Shrine Circus
+@BODYTEXT:Minnesota Street Rod Assn.
+@BODYTEXT:New Line Cinema
+@BODYTEXT:Slumberland
+@BODYTEXT:Subway Restaurants(9 Midwest markets)
+@BODYTEXT:Target Center
+@BODYTEXT:USA Films
+@BODYTEXT:Universal Pictures
+@BODYTEXT:Walt Disney/Hollywood/Touchstone Pictures
+@BODYTEXT:Wellbridge
+@BODYTEXT:
+@CO:NERLAND AGENCY, INC., THE
+@BODYTEXT:808 E St., Anchorage, AK 99501
+@BODYTEXT:907/274-9553; fax:907/274-9990
+@BODYTEXT:PR, adv., media buying/placement/planning, internet services. Founded: 1974
+@CCD1:Rick Nerland, pres./CEO
+@BODYTEXT:Alaska Club
+@BODYTEXT:Alaska Seafood Marketing Institute
+@BODYTEXT:BP Exploration Alaska
+@BODYTEXT:Cafe Del Mundo
+@BODYTEXT:Hotel Captain Cook
+@BODYTEXT:
+@CO:NETPR, INC.
+@BODYTEXT:146 Shady Lane, Freeport, FL 32439
+@BODYTEXT:850/835-2694; fax:850/835-6894
+@BODYTEXT:www.netpr.net
+@BODYTEXT:Media rels., mktg. comms., special events, press/analyst tours, tradeshows.  Employees: 6. Founded: 1994.
+@AGENCY:NetPR's "team response" allows its clients to benefit from the expertise of its communications veterans who work every facet of the account to accomplish the client's objectives-while staying within budget. NetPR helps drive success in today's competitive marketplace.
+@CCD1:Kimberly Maxwell, president/CEO; Tyna Callahan, dir., client strategic dev.; Trisha King, client svcs. mgr.; Kelcey Duke, office mgr.
+@BODYTEXT:Accton
+@BODYTEXT:NetCracker Technology
+@BODYTEXT:Performance Solutions Technology
+@BODYTEXT:SMC Networks
+@BODYTEXT:Stampede Technologies
+@BODYTEXT:TMPC, Inc.
+@BODYTEXT:UpdateThis.com
+@BODYTEXT:
+@CO:NETWORK DESIGN AND COMMUNICATIONS
+@BODYTEXT:276 Bowery, New York, NY 10012
+@BODYTEXT:212/431-4675; fax:212/431-5786; info@networknyc.com
+@BODYTEXT:www.networknyc.com
+@BODYTEXT:Fashion, beauty and healthcare, financial, and non-profit  PR.
+@CCD1:Katerina Caterisano, founder
+@BODYTEXT:
+@CO:NEW SCHOOL COMMUNICATIONS, INC.
+@BODYTEXT:2124 University Ave. West, Saint Paul, MN 55114
+@BODYTEXT:651/221-1999; fax:651-221-4440
+@BODYTEXT:www.new-school.com
+@BODYTEXT:Full-service PR firm specializing in strategic comms. planning, media rels., crisis comms., community rels. Founded: 1998.
+@CCD1:Blois Olson, pres./founder
+@BODYTEXT:
+@CO:NEW SPIRITUALITY COMMUNICATIONS
+@BODYTEXT:(Formerly Harrington Assocs.)
+@BODYTEXT:57 Fairmont Ave., Kingston, NY 12401
+@BODYTEXT:845/331-7136; fax:845/331-7168; gerry@newspiritualitycommunications.com
+@BODYTEXT:www.newspiritualitycommunications.com
+@BODYTEXT:www.newspiritualitycommunications.com
+@CCD1:Gerard Harrington, pres.; Lonn E. Berney, partner
+@BODYTEXT:Blue Dolphin Publishing
+@BODYTEXT:Center for Symbolic Studies
+@BODYTEXT:Conversations With God Foundation
+@BODYTEXT:Humanity's Team
+@BODYTEXT:Institute of Advanced Theology
+@BODYTEXT:Kristen Overman Harrington, M.A., LMFT
+@BODYTEXT:Love Your Patients!
+@BODYTEXT:Neale Donald Walsch
+@BODYTEXT:New Spirituality Foundation
+@BODYTEXT:Oneworld Publications
+@BODYTEXT:Soul Union
+@BODYTEXT:Westbrook University
+@BODYTEXT:
+@CO:NEWBERRY PR/MARKETING, INC.
+@BODYTEXT:1240 Pawtucket Ave., East Providence, RI 02916
+@BODYTEXT:401/433-5965; fax:401/431-5965
+@BODYTEXT:www.newberrypr.com
+@BODYTEXT:
+@CCD1:Elisabeth Galligan, pres.; Carol Newberry, VP
+@BODYTEXT:
+@CO:NEWLINK
+@BODYTEXT:111 Brickelle Ave., #1350, Miami, FL 33131
+@BODYTEXT:305/532-7950
+@BODYTEXT:Full-service firm handling PR & comms. for multinationals.
+@CCD1:Sergio Roitberg, pres.; Gregory Leddy, Senior VP; Suzanna Vargas, Acc. Executive
+@BODYTEXT:AT&T Latin America
+@BODYTEXT:Cisco Systems
+@BODYTEXT:Merck
+@BODYTEXT:Oracle Corp.
+@BODYTEXT:Sharpe & Dome
+@BODYTEXT:
+@CO:NEWMAN ASSOCIATES, STUART
+@BODYTEXT:2140 So. Dixie Hwy., #203, Miami, FL 33133
+@BODYTEXT:305/461-3300; fax:305/461-3311; newmanpr@aol.com
+@BODYTEXT:Specializing in travel and maritime.  Employees: 10. Founded: 1946.
+@CCD1:Stuart Newman, founder; Andy Newman, VP
+@BODYTEXT:Carnival Cruise Lines
+@BODYTEXT:Florida Keys & Key West
+@BODYTEXT:Global Destinations
+@BODYTEXT:Holland-America Line
+@BODYTEXT:Image Shipboard Photography
+@BODYTEXT:Seatrade Cruise Shipping Convention
+@BODYTEXT:Stan Clippeils
+@BODYTEXT:Stockholm Port Authority
+@BODYTEXT:
+@CO:NEWMAN COMMUNICATIONS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:Brighton Landing E, 20 Guest St., #150, Brighton, MA 02135
+@BODYTEXT:617/254-4500; fax:617/254-9088
+@BODYTEXT:www.newmancom.com
+@BODYTEXT:PR, fund raising counsel, interactive/internet services, event management/marketing. Founded: 1990
+@CCD1:Robert K. Newman, CEO/founder; David Ratner, pres./COO
+@BODYTEXT:Addison Wesley Publishing
+@BODYTEXT:Americans for Tax Reform
+@BODYTEXT:Andrews McMeel
+@BODYTEXT:Arthur D. Little
+@BODYTEXT:Avon Books
+@BODYTEXT:
+@CO:NEWMAN GROUP, THE
+@BODYTEXT:220 East 63rd St., New York, NY 10021
+@BODYTEXT:212/752-3351; info@newmangroup.com
+@BODYTEXT:www.newmangroup.com
+@BODYTEXT:Equity management consulting firm, specializing in stock valuation; presentation, media and crisis training. Founded: 1986.
+@CCD1:Richard M. Newman, COO; Joyce Newman, president & CEO
+@BODYTEXT:
+@CO:NEWSMARK PUBLIC RELATIONS
+@BODYTEXT:10450 Haydn Dr., Boca Raton, FL 33498
+@BODYTEXT:561/852-5767
+@BODYTEXT:Full-service agency specializing in political and corporate image building.
+@CCD1:Mark Hopkinson, founder
+@BODYTEXT:Schulz Academy
+@BODYTEXT:
+@CO:NICHOL & COMPANY
+@BODYTEXT:Acquired by CKPR
+@BODYTEXT:
+@BODYTEXT:
+@CO:NICHOLAS PUBLIC RELATIONS, GEORGE P.
+@BODYTEXT:174 West 76th St., New York, NY 10023
+@BODYTEXT:212/362-1219
+@BODYTEXT:Marketing comms. for business services firms. Founded: 1988
+@CCD1:George P. Nicholas
+@BODYTEXT:
+@CO:NICOLAZZO & ASSOCIATES
+@BODYTEXT:260 Franklin St., 16th flr., Boston, MA 02110
+@BODYTEXT:617/951-0000; fax:617/439-9980; rnicolazzo@nicolazzo.com
+@BODYTEXT:Crisis comms., strategic planning, IR, media rels., merger & acquisition comms., issues mgmt., litigation support, labor/empl. rels.; community rels., research, executive speechwriting, presentation and media and crisis mgmt. training. Employees: 9. Founded: 1975
+@CCD1:Richard E. Nicolazzo, pres. & CEO; Joe Grillo, senior VP
+@BODYTEXT:Audax Group
+@BODYTEXT:Aviva USA
+@BODYTEXT:Greenberg Traurig, LLP
+@BODYTEXT:Lahey Clinic
+@BODYTEXT:Lincare, Inc.
+@BODYTEXT:Nortek, Inc.
+@BODYTEXT:Pharmaceutical Research & Manufacturers of America
+@BODYTEXT:Ropes & Gray
+@BODYTEXT:Tsoi/Kobus & Assocs.
+@BODYTEXT:Unicco Service Co.
+@BODYTEXT:Weil, Gotshal & Manges LLP
+@BODYTEXT:
+@CO:NICOLL PUBLIC RELATIONS, INC.
+@BODYTEXT:1502 Providence Hwy., #2, Norwood, MA 02062
+@BODYTEXT:781/762-9300; fax:781/255-7777
+@BODYTEXT:Employees: 6. Founded: 1987.
+@CCD1:John Nicoll, exec. VP; Lucette Nicoll, pres.; Sue Morgan, VP
+@BODYTEXT:B & W Loudspeakers
+@BODYTEXT:Classe Audio
+@BODYTEXT:Gracenote
+@BODYTEXT:JL Audio
+@BODYTEXT:Meridian
+@BODYTEXT:ReQuest Multimedia
+@BODYTEXT:Rotel Electronics
+@BODYTEXT:Runco International
+@BODYTEXT:Sennheiser
+@BODYTEXT:Vidikron
+@BODYTEXT:Vogel's
+@BODYTEXT:
+@CO:NIKE COMMUNICATIONS, INC.
+@BODYTEXT:35 East 21st St., New York, NY 10010
+@BODYTEXT:212/529-3400; info@nikecomm.com
+@BODYTEXT:www.nikecomm.com
+@BODYTEXT:Full service PR firm specializing in luxury and premium lifestyle brands.  Employees: 24. Founded: 1984.
+@CCD1:Nina Kaminer, pres.; Erin Lanuti, sr. VP; Carson Gray, Rob Imig, VPs
+@BODYTEXT:Bulthaup
+@BODYTEXT:Esprit
+@BODYTEXT:FIJI Water
+@BODYTEXT:GoSmile
+@BODYTEXT:Grand Marnier
+@BODYTEXT:Krups
+@BODYTEXT:Lladro
+@BODYTEXT:Moet & Chandon
+@BODYTEXT:Montblanc
+@BODYTEXT:NAVAN
+@BODYTEXT:Rosewood Hotels & Resorts
+@BODYTEXT:Stoli Elit
+@BODYTEXT:Telluride Ski Resort
+@BODYTEXT:The Carlyle
+@BODYTEXT:Vacheron Constantin
+@BODYTEXT:Vonage
+@BODYTEXT:Woodbury Common
+@BODYTEXT:
+@CO:NINA STREITFELD INC., PUBLIC RELATIONS
+@BODYTEXT:20 Pin Oak Court, Westport, CT 06880
+@BODYTEXT:203/226-6454; fax:203/226-8853; ninastreit@cs.com
+@BODYTEXT:Mktg. PR, media rels., fin’l rels., publicity-generating surveys, internal comms., events for industrial, consumer, fin’l and professional clients.  Founded: 1989.
+@CCD1:Nina Streitfeld, APR, PRSA Fellow, president
+@BODYTEXT:
+@CO:NISSEN ADVERTISING & PR
+@BODYTEXT:1037 S. Florida Ave., #130, Lakeland, FL 33803
+@BODYTEXT:863/688-7870; fax:863/682-0695; keith@nissenadv.com
+@BODYTEXT:Full-service advertising, including PR & mktg.; media releases, PR tools, newsletters & special events. Employees: 9. Founded: 1971.
+@CCD1:Keith Lee Rupp, VP-PR
+@BODYTEXT:Allen & Co.
+@BODYTEXT:East Pasco Medical Center
+@BODYTEXT:Florida Retail Federation
+@BODYTEXT:Green Mountain Coffee Roasters
+@BODYTEXT:Lanier Upshaw Insurance Carillon Lakes
+@BODYTEXT:Polk Community College
+@BODYTEXT:Tampa Maid Foods
+@BODYTEXT:
+@CO:NM MARKETING COMMUNICATIONS
+@BODYTEXT:706 Waukegan Rd., Glenview, IL 60025
+@BODYTEXT:847/657-6011; fax:847/657-8425; info@nmmarketingbiz.com
+@BODYTEXT:www.nmmarketingbiz.com
+@BODYTEXT:Comms., PR, adv. direct marketing for industrial, professional services, trade and business associations, travel and hospitality services and sports marketing. Employees: 5. Founded: 1999.
+@AGENCY:Agency Statement: NM Marketing Communications specializes in business-to-business communications for mid-size companies, manufacturers, trade associations and other not-for-profit organizations.
+@AGENCY:Serving the Midwest and Great Lakes region from our Chicago-area office, we blend B2B strtegic planning with precise implementation.
+@AGENCY:We help companies achieve the qualified lead generation and sales results needed by providing a full range of targeted integrated marketing communication services, techniques, strategies and tactics.
+@AGENCY: These include: Communications Strategy, Public Relations, Graphic Design, Web Site Development & Search Engine Optimization, Advertising, Trade Showes & Events, Direct Marketing, and Editorial Services.
+@CCD1:Thomas A. Stack, sr. consultant; John Cuneo, creative director
+@BODYTEXT:Allied Metal Co.
+@BODYTEXT:Crusader International Group
+@BODYTEXT:Garber Travel Service Inc.
+@BODYTEXT:Gas Technology Institute
+@BODYTEXT:Leeco Steel Products, Inc.
+@BODYTEXT:North American Die Casting Assn.
+@BODYTEXT:Pat Hughes / Chicago Cubs
+@BODYTEXT:Seporito Finishing Co.
+@BODYTEXT:SYNERGI
+@BODYTEXT:Tsurumi America, Inc.
+@BODYTEXT:
+@CO:NOBLE BBDS
+@BODYTEXT:20 W. Kinzie St., 14th flr., Chicago, IL 60610
+@BODYTEXT:312/644-4600; fax:312/644-0493
+@BODYTEXT:Consumer & trade food programs, food safety & issues mgmt., corporate campaigns. Employees: 6. Founded: 1969.
+@CCD1:Elizabeth Sanderson, Bob Noble
+@BODYTEXT:Campbell Food Service
+@BODYTEXT:Food Channel
+@BODYTEXT:Turkey Store
+@BODYTEXT:Tyson Seafood
+@BODYTEXT:
+@CO:NOELLE-ELAINE MEDIA INC.
+@BODYTEXT:118 E. 28th St., Rm. 207, New York, NY 10016
+@BODYTEXT:646/424-9750; win@noelle-elaine.com
+@BODYTEXT:Publicity, event planning, video production. Employees: 10. Founded: 1993.
+@CCD1:Kirsten N. Poe, Renee E. Warren, co-presidents
+@BODYTEXT:Black Enterprise Magazine
+@BODYTEXT:HBO
+@BODYTEXT:Money Magazine
+@BODYTEXT:Pepsi-Cola Co./Literary Cafe
+@BODYTEXT:U.S. Africa Chamber of Comm.
+@BODYTEXT:Walter Kaitz Foundation
+@BODYTEXT:
+@CO:NOONAN RUSSO
+@BODYTEXT:See Euro RSCG Life PR
+@BODYTEXT:
+@BODYTEXT:
+@CO:NORDENSSON GROUP, THE
+@BODYTEXT:Division of Nordensson Lynn & Assocs., advertising
+@BODYTEXT:1926 East Ft. Lowell Road, Tucson, AZ 85719
+@BODYTEXT:520/325-7700; fax:520/322-0123
+@BODYTEXT:www.thengroup.com
+@BODYTEXT:General, fin’l, indus. & healthcare PR.  Employees: 8. Founded: 1970
+@CCD1:Jeff Nordensson, pres.
+@BODYTEXT:
+@CO:NORMAN, LAWRENCE, PATTERSON & FARRELL (NLP&F), INC.
+@BODYTEXT:1 W. 34th St., #701, New York, NY 10001
+@BODYTEXT:212/695-8120; fax:212/695-5542
+@BODYTEXT:General PR; Wash. legislative counsel; institutional adv., marketing, merchandising
+@CCD1:Terence Mullin, pres.
+@BODYTEXT:Ausimont Inc.
+@BODYTEXT:Egan Machinery
+@BODYTEXT:Nat’l Plastics Museum
+@BODYTEXT:Recreatives Inc.
+@BODYTEXT:Yegen, Inc.
+@BODYTEXT:
+@CO:NORTH AND COMPANY, JAY
+@BODYTEXT:402 W. Ojai Ave., #146, Ojai, CA 93023
+@BODYTEXT:805/646-2425; jnorthis1@sbcglobal.net
+@BODYTEXT:
+@CCD1:Jay North, pres.
+@BODYTEXT:
+@CO:NORTH STAR PUBLIC RELATIONS
+@BODYTEXT:25171 Duham Court, Farmington Hills, MI 48336
+@BODYTEXT:248/471-2809; fax:248/471-4806; leeann@northstar-pr.com
+@BODYTEXT:Founded: 1996.
+@CCD1:Dan Calabrese, pres./CEO; Lee Ann Welsh, VP
+@BODYTEXT:Crystal Flash Energy
+@BODYTEXT:Global Forex Trading
+@BODYTEXT:Guardsman Furniture Pro
+@BODYTEXT:Paragon Die & Engineering
+@BODYTEXT:United Bank of Michigan
+@BODYTEXT:University of Phoenix
+@BODYTEXT:Valspar Corp.
+@BODYTEXT:
+@CO:NORTHLICH
+@BODYTEXT:Division of Northlich, Inc. Member of the Worldcom PR Group
+@BODYTEXT:151 W. 4th St., Cincinnati, OH 45202
+@BODYTEXT:513/421-8840; fax:513/287-1868
+@BODYTEXT:www.northlich.com
+@BODYTEXT:PR, PA, marketing and issues management.  Employees in PR: 30 Founded: 1949.
+@AGENCY:Agency Statement: Northlich Public Relations specializes in corporate and marketing communications and issues management, with expertise in packaged goods, health care, professional services and public affairs. Our staff has experience with the nation’s most visible corporations and organizations, managing product, corporate and institutional reputations. As a unit of Northlich Inc., our integrated communications and branding firm, we draw upon in-house resources of brand development, research, advertising, web and direct marketing and graphic design. We are members of The Worldcom Public  Relations Group, the world’s largest network of independent public relations firms.
+@CCD1:Rick Miller, pres.
+@BODYTEXT:Ashland Inc.
+@BODYTEXT:Assn. of Pool & Spa Professionals
+@BODYTEXT:Brown-Forman
+@BODYTEXT:Convergys Corp.
+@BODYTEXT:Hillenbrand Industries
+@BODYTEXT:Hixson Architects
+@BODYTEXT:KeyCorp
+@BODYTEXT:National Jewish Research & Medical Center
+@BODYTEXT:National Underground Railroad Freedom Center
+@BODYTEXT:Ohio Tobacco Use Prevention and Control Foundation
+@BODYTEXT:Procter & Gamble
+@BODYTEXT:Questcare, Inc.
+@BODYTEXT:Sona Medspa
+@BODYTEXT:EW Scripps Company
+@BODYTEXT:Tiffany
+@BODYTEXT:TriHealth
+@BODYTEXT:Western & Southern Financial Group
+@BODYTEXT:
+@CO:NORTHSTAR COUNSELORS
+@BODYTEXT:Founding partner in Pinnacle Worldwide
+@BODYTEXT:1201 Marquette Ave., #300, Minneapolis, MN 55403
+@BODYTEXT:612/338-2215; jmccarthy@northstarcounselors.com
+@BODYTEXT:Reputation management, strategic comms. consultants. Employees: 9. Founded: 1971.
+@CCD1:Joseph M. McCarthy, pres.; Lynn McCarthy, VP; Steven Hanson, VP; John Katsontonis, VP/technology (Chicago); Patrick McCarthy, JD & crisis/litigation services; Tom Langenfeld, corp./IR counsel; Johanna Mouton, Jennifer Seegers, client svcs.
+@BODYTEXT:ABA Media
+@BODYTEXT:Airtricity, Inc.
+@BODYTEXT:Assistance to Mgmt. Inc.
+@BODYTEXT:Adoptive Families of America
+@BODYTEXT:Comware, Inc.
+@BODYTEXT:Corvero Networks
+@BODYTEXT:Delta Mobile Software
+@BODYTEXT:Export Link
+@BODYTEXT:Integrity Monitoring Systems
+@BODYTEXT:International Hearing Found.
+@BODYTEXT:Lexintel
+@BODYTEXT:Mais, INC.
+@BODYTEXT:Management Analysis Corp.
+@BODYTEXT:Medal of Honor Society
+@BODYTEXT:MediaScore
+@BODYTEXT:Medical Systems Corp.
+@BODYTEXT:Meehan Co.
+@BODYTEXT:Minnesota Head & Neck Clinic
+@BODYTEXT:Minnesota Int’l Summit
+@BODYTEXT:Open Channel Software
+@BODYTEXT:Petulla Pictures
+@BODYTEXT:Power Passion & Glory (Heckmann)
+@BODYTEXT:Special Kare Dental
+@BODYTEXT:SysKonnect Inc./Marvel
+@BODYTEXT:Westlane Publications
+@BODYTEXT:
+@CO:NORTHWEST STRATEGIES
+@BODYTEXT:111 Queen Anne Ave. North, #500, Seattle, WA 98109
+@BODYTEXT:206/282-1990; fax:206/282-2704
+@BODYTEXT:PR, PA, gov’t rels., community rels. Employees: 12. Founded: 1985.
+@CCD1:Ron Dotzauer, CEO
+@BODYTEXT:Arco
+@BODYTEXT:Cassidy & Assocs.
+@BODYTEXT:City of Tacoma
+@BODYTEXT:Port of Everett
+@BODYTEXT:Prudential Co.
+@BODYTEXT:Shapiro
+@BODYTEXT:
+@CO:NORTHWEST STRATEGIES
+@BODYTEXT:4341 B St., Anchorage, AK 99503
+@BODYTEXT:907/563-4881; fax:907/562-2570
+@BODYTEXT:PR, adv., bus.-to-bus., direct marketing, media planning. Founded: 1987
+@CCD1:Tim Woolston, president
+@BODYTEXT:ATU-Long Distance
+@BODYTEXT:Alaska Housing Finance Corp.
+@BODYTEXT:Alaska Industrial Devel. & Export Authority
+@BODYTEXT:Alaska Permanent Fund
+@BODYTEXT:Alaska Railroad Corp.
+@BODYTEXT:
+@CO:NOURIE GROUP
+@BODYTEXT:535 Fifth Ave., New York, NY 10017
+@BODYTEXT:212/922-1226; fax:212/937-3701
+@BODYTEXT:www.nouriepr.com
+@BODYTEXT:PR firm specializing in media rels., fin'l comms., crisis comms., strategic counsel, real estate, fin'l svcs., technology svcs. Founded: 2001.
+@CCD1:Philip J. Nourie, president
+@BODYTEXT:Abbey Gardy, LLP
+@BODYTEXT:eMind
+@BODYTEXT:OTA Off the Records Research
+@BODYTEXT:Reader's Digest Trade Books
+@BODYTEXT:
+@CO:NOVA COMMUNICATIONS, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:PO Box 655, Muskego, WI 53150
+@BODYTEXT:863/297-8133; fax:414/679-7070
+@BODYTEXT:PR, adv., bus.-to-bus., direct marketing. Founded: 1992
+@CCD1:David R. Jenkyns, president
+@BODYTEXT:Albany- Chicago Co.
+@BODYTEXT:Central Control Alarm Co.
+@BODYTEXT:Dorner Mfg. Corp.
+@BODYTEXT:E.R. Wagner Mfg. Co.
+@BODYTEXT:HED
+@BODYTEXT:
+@CO:NOVOM MARKETING, INC.
+@BODYTEXT:8033 Sunset Blvd., #863, Hollywood, CA 90046
+@BODYTEXT:323/882-8333; fax:323/882-8310; cnovom@novom.com
+@BODYTEXT:Travel, tourism, PR & hospitality marketing.
+@CCD1:Charlotte Novom, president
+@BODYTEXT:Bishop's Lodge Resort & Spa
+@BODYTEXT:Destination Hotels and Resorts
+@BODYTEXT:Harvest Inn
+@BODYTEXT:International Society of Hospitality Consultants
+@BODYTEXT:Resort at Squaw Creek
+@BODYTEXT:
+@CO:NOVOTNY & ASSOCIATES INC., EDWARD G.
+@BODYTEXT:Two Tudor City Place, New York, NY 10017
+@BODYTEXT:212/490-2065; fax:212/661-1336; NovotnyInc@aol.com
+@BODYTEXT:Financial, corp. & IR, media rels.; crisis counseling, issues analysis; mergers-acquisitions, tender offer, proxy contest & raider defense. Employees: 10. Founded: 1986.
+@CCD1:Edward G. Novotny, pres./CEO; Sandra Williams, exec. VP
+@BODYTEXT:Association of German Mortgage Banks
+@BODYTEXT:First Albany Companies
+@BODYTEXT:Fried, Frank, Harris, Shriver & Jacobson
+@BODYTEXT:GAF Corp.
+@BODYTEXT:Goldman Sachs Foundation
+@BODYTEXT:Goldman Sachs Group, Inc.
+@BODYTEXT:Granite Broadcasting Corp.
+@BODYTEXT:Greenwich Capital Markets, Inc.
+@BODYTEXT:International Specialty Products
+@BODYTEXT:Sutton Partners
+@BODYTEXT:
+@CO:NUFFER, SMITH, TUCKER, INC.
+@BODYTEXT:Partner in The Worldcom Public Relations Group
+@BODYTEXT:707 Broadway, 19th flr., San Diego, CA 92101
+@BODYTEXT:619/296-0605; fax:619/296-8530
+@BODYTEXT:www.nstpr.com
+@BODYTEXT:PR for branded consumer products, food and agriculture, health, brand positioning, issues and crisis mgmt., special events. Employees: 23. Founded: 1974
+@CCD1:Bill Trumpfheller, president; David L. Nuffer, chair; Kerry Tucker, CEO; Sharon McNerney, exec. VP
+@BODYTEXT:Chicken of the Sea Int’l
+@BODYTEXT:National Institutes of Health
+@BODYTEXT:San Diego State University
+@BODYTEXT:San Diego Union-Tribune
+@BODYTEXT:SuperGlue
+@BODYTEXT:WD-40 Company
+@BODYTEXT:WineVision
+@BODYTEXT:
+@CO:NUTRAPR, INC.
+@BODYTEXT:151 W. 19th St., New York, NY 10011
+@BODYTEXT:212/675-2658
+@BODYTEXT:www.nutrapr.com
+@BODYTEXT:Health, nutrition, food, business. Employees: 1. Founded: 2002.
+@CCD1:Richard Belanger, president
+@BODYTEXT:Blueberry Hills Foods
+@BODYTEXT:Hancock Gourmet Lobster
+@BODYTEXT:Highland Tea Co.
+@BODYTEXT:Holy Terra Products
+@BODYTEXT:Women's Heart Foundation
+@BODYTEXT:Ziment Group
+@BODYTEXT:
+@CO:NUTTER & HARRIS, INC.
+@BODYTEXT:1667 K St., N.W., #1220, Washington, DC 20006
+@BODYTEXT:202/289-7400; fax: 202/289-7414
+@BODYTEXT:Founded: 1991.
+@CCD1:Jack O. Nutter, pres.; Robert L. Harris, exec. VP
+@BODYTEXT:

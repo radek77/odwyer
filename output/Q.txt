@@ -1,0 +1,138 @@
+@BREAKER:Q
+
+@CO:QORVIS COMMUNICATIONS, LLC
+@BODYTEXT:1201 Connecticut Ave., N.W., #300, Washington, DC 20036
+@BODYTEXT:202/496-1000; fax:202/496-1300; info@qorvis.com
+@BODYTEXT:Public, media and investor relations, marketing comms., PA, grassroots, research and crisis comms.  Employees: 75. Founded: 2000.
+@AGENCY:Agency Statement: Qorvis Communications is a premier provider of integrated strategic communications services. By mixing proven practices with new and innovative techniques, Qorvis achieves the best results in the areas of public and media relations, public affairs, marketing communications, investor relations and grassroots organizing. Qorvis is the best of the big and small--the reach and resources of a large agency with the quality service of a boutique.
+@AGENCY:Our vision is to provide world-class strategic communications services to our clients in terms of strategic counseling and execution.
+@CCD1:Michael Petruzzello, Curtis Robinson, Michael Tucker, partners
+@BODYTEXT:8484 Westpark Dr., #800, McLean, VA 22102
+@BODYTEXT:703/744-7800; fax: 703/744-7840
+@CCD1:Douglas Poretz, Esther Smith, Karen Vahouny, partners
+@BODYTEXT:
+@BODYTEXT:Adobe
+@BODYTEXT:Advisory Board Co.
+@BODYTEXT:AICPA
+@BODYTEXT:Allied Domecq
+@BODYTEXT:Ariel Research
+@BODYTEXT:Base Technologies
+@BODYTEXT:BroadNet Alliance, The
+@BODYTEXT:Chronicle Solutions
+@BODYTEXT:Claraview
+@BODYTEXT:Claris Capital
+@BODYTEXT:Coldwell Banker Commercial Capitol Realty Services
+@BODYTEXT:Corporate Voices
+@BODYTEXT:Current Technologies
+@BODYTEXT:Dynamics Research Corp.
+@BODYTEXT:Fairfax County Economic Development Authority
+@BODYTEXT:First Horizon
+@BODYTEXT:Halifax Corp.
+@BODYTEXT:I2 Inc.
+@BODYTEXT:Map ROI
+@BODYTEXT:Miami Project to Cure Paralysis
+@BODYTEXT:Net Coalition
+@BODYTEXT:North American Insulations Mfrs. Assn.
+@BODYTEXT:Northern Virginia Technology Council
+@BODYTEXT:Oaktree
+@BODYTEXT:Pulver.com
+@BODYTEXT:SafeNet
+@BODYTEXT:The Kingdom of Saudi Arabia
+@BODYTEXT:Time Warner
+@BODYTEXT:U.S. Smokeless Tobacco
+@BODYTEXT:Urban League
+@BODYTEXT:Virginia's Center for Innovative Technology
+@BODYTEXT:World Airways
+@BODYTEXT:
+@CO:QUANTUM COMMUNICATIONS
+@BODYTEXT:221 Pawnee, San Marcos, CA 92069
+@BODYTEXT:760/736-7045; fax:760/736-7051
+@BODYTEXT:Branding strategies, retail, consumer, transportation, health.
+@CCD1:Terry Vitiello, pres.
+@BODYTEXT:A.O. Reed & Co.
+@BODYTEXT:
+@CO:QUELL COMMUNICATIONS GROUP
+@BODYTEXT:2075 W. Big Beaver Rd., #415, Troy, MI 48084
+@BODYTEXT:248/649-8900; fax:248/649-8988; mike@quell.com
+@BODYTEXT:Communications diagnostics, strategies and management, automotive, mfg., industrial, professional services, consumer goods, e-commerce, retail, hospitality and high-tech PR. Founded: 1994.
+@CCD1:Michael O. Niederquell, founder/prin.
+@BODYTEXT:
+@CO:QUILLIN & ASSOCIATES INC., L.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:1910 Ward Avenue, La Crosse, WI 54601
+@BODYTEXT:608/788-8292; info@lguillin.com
+@BODYTEXT:www.lquillin.com
+@BODYTEXT:PR, adv., bus.-to-bus., beverages, food, gov./state agencies, retail stores/chains.  Founded: 1977.
+@CCD1:Larry Quillin, pres.
+@BODYTEXT:Anderson’s Formal Wear
+@BODYTEXT:Leer, Starrett, Star
+@BODYTEXT:Pepsi-Cola
+@BODYTEXT:Walker Stainless Equipment
+@BODYTEXT:
+@CO:QUINN & CO.
+@BODYTEXT:237 W. 35th St., New York, NY 10001
+@BODYTEXT:212/868-1900; fax:212/465-0849; fquinn@quinnandco.com
+@BODYTEXT:Travel, real estate, PR. Employees: 14. Founded: 1989.
+@CCD1:Florence Quinn, president; Carla Caccavale, partner
+@BODYTEXT:Adams & Co.
+@BODYTEXT:Alchemy Properties
+@BODYTEXT:Alliance Building Services
+@BODYTEXT:Arawak Inn
+@BODYTEXT:Aruba Tourism Authority
+@BODYTEXT:BWIA West Indies Airways
+@BODYTEXT:Clarion Hotel Fifth Avenue
+@BODYTEXT:Courtyard by Marriott Warsaw
+@BODYTEXT:GOGO Worldwide Vacations
+@BODYTEXT:HRH Construction
+@BODYTEXT:Hilton Caribbean
+@BODYTEXT:Island Destinations
+@BODYTEXT:J.D. Carlisle Development Corp.
+@BODYTEXT:JC DeNiro
+@BODYTEXT:Jolly Hotels
+@BODYTEXT:Kaufman Organization
+@BODYTEXT:Liberty Travel
+@BODYTEXT:Long Bay Beach Resort
+@BODYTEXT:M&T Bank
+@BODYTEXT:Occidental Hotels & Resorts
+@BODYTEXT:Ogden CAP Properties
+@BODYTEXT:Sceptre Ireland
+@BODYTEXT:Starwood Capital
+@BODYTEXT:The Jefferson, a Loews Hotel
+@BODYTEXT:The Mansfield
+@BODYTEXT:Time Equities
+@BODYTEXT:Tishman Hotel Corp.
+@BODYTEXT:Westin New York at Times Square
+@BODYTEXT:Westin St. John Resort & Villas
+@BODYTEXT:
+@CO:QUINT PUBLIC RELATIONS
+@BODYTEXT:495 Seaport Court, #105, Redwood City, CA 94063
+@BODYTEXT:650/599-9450
+@BODYTEXT:www.quintpr.com
+@BODYTEXT:Corporate mktg. support, technology & product introductions. Founded: 1992.
+@CCD1:Matthew Quint, principal
+@BODYTEXT:New Visual Corp.
+@BODYTEXT:
+@CO:QUINTO SOL
+@BODYTEXT:937 Madison Av., New York, NY 10012
+@BODYTEXT:212/734-5653; fax:212/734-5685; norma@quinto.com
+@BODYTEXT:www.quinto.com
+@BODYTEXT:PR for fashion, film, music. Full-service PR; special event production, show production, image development, adv.
+@CCD1:Norma Quinto, president
+@BODYTEXT:Marithe + Francois Girbaud
+@BODYTEXT:Safilo
+@BODYTEXT:Shin Choi
+@BODYTEXT:Todd Thomas
+@BODYTEXT:
+@CO:QUIXOTE GROUP, LLC
+@BODYTEXT:3107 Brassfield Rd., Greensboro, NC 27410
+@BODYTEXT:336/605-0363; kdoran@quixotegroup.com
+@BODYTEXT:www.quitxotegroup.com
+@BODYTEXT:Marketing and public relations firm. Founded: 1999.
+@CCD1:Kim Doran, president
+@BODYTEXT:Blue Rhino Corp.
+@BODYTEXT:Frisby Technologies
+@BODYTEXT:Merz Pharmaceuticals
+@BODYTEXT:Nylstar
+@BODYTEXT:Smithfield Packing Co.
+@BODYTEXT:UNCG
+@BODYTEXT:

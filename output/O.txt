@@ -1,0 +1,677 @@
+@BREAKER:O
+
+@CO:O'CONNELL & GOLDBERG, INC.
+@BODYTEXT:450 North Park Rd., #600, Hollywood, FL 33021
+@BODYTEXT:954/964-9098; fax:954/964-9099; bgoldberg@oconnellgoldberg.com
+@BODYTEXT:www.oconnellgoldberg.com
+@BODYTEXT:Retail, real estate, tourism, food and beverage, corporate and consumer products and svcs. PR. Employees: 15. Founded: 1993.
+@AGENCY:Agency Statement: Individuals are distinct. So are companies, their products and services. They are not the same as the competition. Neither should be their public relations counsel.
+@AGENCY:O’Connell & Goldberg’s strength lies in its ability to step outside the box and view clients from entirely different perspectives. This “What if” approach to public relations results in campaigns that are out of the ordinary and generate attention.
+@AGENCY:There is no cookie-cutter approach to agency performance. O’Connell & Goldberg’s experienced team of talented professionals understands that each job is important, and every challenge is unique.
+@AGENCY:At O’Connell & Goldberg, we recognize that now, more than ever, effective public relations must grab consumer attention as well as clearly communicate information if it is to have an impact in today’s cluttered media environment. To be successful, a campaign must be creative, whether through strategic insight, the innovative use of a common medium, an extraordinary event, imaginative theme or a clever story angle.
+@AGENCY:O’Connell & Goldberg brings this commitment to all of our clients. We create events, images and copy that break through the clutter, relate to our clients and force the hand of media.
+@CCD1:Jim O’Connell, president; Barbara Goldberg, exec. VP; Lesley Bellus, sr. VP; Jeff Bray, Matt Levinson, A/Ss
+@BODYTEXT:Bloomfield Park, Michigan
+@BODYTEXT:The Continental Group
+@BODYTEXT:Ferraro & Assocs.
+@BODYTEXT:Florida Int'l University College of Business Admin.
+@BODYTEXT:Fontainbleau II
+@BODYTEXT:The Grove Hotel & Spa 
+@BODYTEXT:Jefferson-Pilot Comms. Inc. (Majic-102.7; Lite 101.5)
+@BODYTEXT:Kerzner Int'l (Atlantis, Paradise Island and Ocean Club)
+@BODYTEXT:La Playa Beach and Golf Resort
+@BODYTEXT:Little Palm Island
+@BODYTEXT:Macy's Florida
+@BODYTEXT:Mayor's Jewelers
+@BODYTEXT:Ocean Key Resort 
+@BODYTEXT:The Orange Bowl 
+@BODYTEXT:The Sheraton Miami Mart Hotel
+@BODYTEXT:The Shores Resort & Spa 
+@BODYTEXT:Tenet, South Florida
+@BODYTEXT:Trammell Crow Company
+@BODYTEXT:Turnberry Assocs.
+@BODYTEXT:
+@CO:O'CONNOR & PARTNERS, INC.
+@BODYTEXT:319 N. Fourth St., #800, St. Louis, MO 63102
+@BODYTEXT:314/421-3190; fax:314/421-3191; rono@oconnor-partners.com
+@BODYTEXT:www.oconnor-partners.com
+@BODYTEXT:Branding/image dev., marketing-directed PR and product publicity for consumer, industrial, environmental; community & employee rels.  Employees: 7. Founded: 1983.
+@AGENCY:Agency Statement: O’Connor & Partners helps clients communicate their strengths. Clients have learned to depend on our creative team for strategic thinking, creative programming, careful attention to detail and outstanding execution of public relations and marketing communications programs. Affiliations with owner-managed firms throughout the world provide clients with immediate local market expertise whenever and wherever opportunities might arise. O'Connor & Partners is an affiliate of Manning, Selvage & Lee and a founding member of Public Relations Global Network.
+@CCD1:Ronald T. O’Connor, APR, managing partner
+@BODYTEXT:5 Bay Meadow Place, Belleville, IL 62223-7020, 618/236-2610
+@BODYTEXT:
+@BODYTEXT:
+@CO:O'DONNELL COMPANY, THE JOHN
+@BODYTEXT:211 E. 43rd St., New York, NY 10017
+@BODYTEXT:212/867-3131; fax:212/557-8124
+@BODYTEXT:Founded: 1965
+@CCD1:Steven Wozencraft, pres.
+@BODYTEXT:
+@CO:O'DONNELL PUBLIC RELATIONS GROUP, CAREY
+@BODYTEXT:City Place Lofts, 477 S. Rosemary Ave., #319, West Palm Beach, FL 33401
+@BODYTEXT:561/832-3231; fax:561/659-1309; info@codpr.com
+@BODYTEXT:www.codpr.com
+@BODYTEXT:PR firm for healthcare, banking, law, tourism, and consumer products.
+@CCD1:Carey O’Donnell, president
+@BODYTEXT:Center for Family Services
+@BODYTEXT:FIJI Natural Artesian Water
+@BODYTEXT:Palm Beach Opera
+@BODYTEXT:Russian National Orchestra
+@BODYTEXT:Ultima Fitness
+@BODYTEXT:Wally Findlay Galleries International
+@BODYTEXT:
+@CO:O'KEEFFE & COMPANY, INC.
+@BODYTEXT:8357 Greensboro Dr., McLean, VA 22120
+@BODYTEXT:703/883-9000; fax:703/883-9007; eweisel@okeeffeco.com
+@BODYTEXT:High-tech PR for bus.-to-bus., bus.-to-gov’t and gov’t-to bus. clients. Founded: 1997.
+@CCD1:Stephen W.T. O’Keeffe, president; Evan Weisel, Nicole Burdette, account supervisors
+@BODYTEXT:Candle Corp.
+@BODYTEXT:E-Gov
+@BODYTEXT:Northrop Grumman
+@BODYTEXT:Oracle
+@BODYTEXT:Polycom
+@BODYTEXT:Robbins-Gioia, Inc.
+@BODYTEXT:Sanchez Computer Assocs.
+@BODYTEXT:Symantec
+@BODYTEXT:Vredenburg
+@BODYTEXT:
+@CO:O'LEARY AND PARTNERS
+@BODYTEXT:18061 Fitch Ave., Irvine, CA 92614
+@BODYTEXT:949/833-8006; fax:949/833-9155
+@BODYTEXT:PR for automotive, consumer electronics, high-tech, real estate, and travel. Employees: 7. Founded:1998.
+@CCD1:Jennifer McLean, VP and director of PR; Steve O'Leary, chmn.; Dave Robinson, CEO
+@BODYTEXT:DiskOnKey
+@BODYTEXT:Epson
+@BODYTEXT:Full Swing Golf
+@BODYTEXT:Go2
+@BODYTEXT:M-Systems
+@BODYTEXT:Nxt Wave
+@BODYTEXT:Optivus
+@BODYTEXT:Pioneer
+@BODYTEXT:
+@CO:O'NEIL GRIFFIN BODI
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:121 River Front Dr., Manchester, NH 03102
+@BODYTEXT:603/625-5713; fax:603/625-1679
+@BODYTEXT:PR, beer/wine/liquor, pharmaceuticals/healthcare.
+@CCD1:Gary O’Neil, president
+@BODYTEXT:
+@CO:O2 IDEAS, INC.
+@BODYTEXT:2160 Highland Ave., Birmingham, AL 35205
+@BODYTEXT:205/949-9494; fax:205/949-9449
+@BODYTEXT:www.o2ideas.com
+@BODYTEXT:PR, adv. and marketing.
+@CCD1:Gloria Laster, VP, public relations
+@BODYTEXT:
+@CO:OFF MADISON AVE
+@BODYTEXT:80 East Rio Salado Pkwy., #711, Tempe, AZ 85281
+@BODYTEXT:480/505-4500; fax:480/505-4501
+@BODYTEXT:www.offmadisonave.com
+@BODYTEXT:Financial, high-tech, travel, cultural, entertainment, food PR and adv.  9 in PR.  (42 total staff)
+@AGENCY:Agency Statement: Off Madison Ave, located in Tempe, Ariz., just 2,480 miles off Madison Avenue, is a full-service integrated marketing communications agency with a concentrated focus on public relations.  Specializing in the development and implementation of comprehensive branding strategies and integrated marketing programs, Off Madison Ave delivers high impact, measurable results at a fraction of big agency costs.  
+@CCD1:David Anderson, co-founder & mng. partner; Laura Hall Knapp, VP/dir. of PR; Lisa Gruenloh, assoc. dir. of PR;
+Carol Klimas, Brian Wendel, sr. account managers; Paul Peterson, Leah Hardesty, sr. A/Es; Shana Wolfe, Sahana Jayaraman, account coords.
+@BODYTEXT:APS/Pinnacle West Corp.
+@BODYTEXT:Citizens Clean Elections Commission
+@BODYTEXT:Clear Blue Ventures
+@BODYTEXT:Dry Creek Rancheria Band of Pomo Indians
+@BODYTEXT:Four Fires, LLC
+@BODYTEXT:High Tech Institute
+@BODYTEXT:Ideal You
+@BODYTEXT:Limelight Networks
+@BODYTEXT:National Indian Gaming Assn.
+@BODYTEXT:San Manuel Casino
+@BODYTEXT:San Manuel Band of Mission Indians
+@BODYTEXT:VIACK Corp.
+@BODYTEXT:
+@CO:OGAN/DALLAL ASSOCIATES, INC.
+@BODYTEXT:1185 Ave. of the Americas, New York, NY 10036
+@BODYTEXT:212/840-0888; fax:212/840-8849
+@BODYTEXT:www.ogan-dallalPR.com
+@BODYTEXT:PR, mktg. & mgmt. svcs. for fashion, cosmetic & lifestyle indus. Founded: 1986.
+@CCD1:Evelyn Dallal, president
+@BODYTEXT:After Six
+@BODYTEXT:Badgley Mischka
+@BODYTEXT:Hartstrings
+@BODYTEXT:Jim Hjelm Couture
+@BODYTEXT:Kleinfeld
+@BODYTEXT:Moet & Chandon
+@BODYTEXT:Oris Watches
+@BODYTEXT:Pantone Inc.
+@BODYTEXT:Piazza Sempione
+@BODYTEXT:St. Pucchi
+@BODYTEXT:David Rodriguez
+@BODYTEXT:
+@CO:OGILVY PUBLIC RELATIONS WORLDWIDE
+@BODYTEXT:Subsidiary of the WPP Group plc
+@BODYTEXT:825 Eighth Ave., New York, NY 10019
+@BODYTEXT:212/880-5200; fax:212/697-8250; silverman.marcia@ogilvypr.com
+@BODYTEXT:www.ogilvypr.com
+@BODYTEXT:General PR, consumer mktg., healthcare, PA, corporate, social marketing, technology, entertainment PR.  Founded: 1980.
+@AGENCY:Agency Statement: Ogilvy Public Relations Worldwide is a global marketing communications firm, with offices in more than 60 markets around the world. Entering its 25th year providing public relations solutions, Ogilvy Public Relations Worldwide has specialties in consumer marketing, corporate (B2B), health & medical, technology, public affairs, social marketing and entertainment. Through its subsidiary Feinstein Kean Healthcare, Ogilvy Public Relations Worldwide provides communication consulting to biotechnology companies. Ogilvy Public Relations Worldwide is part of the WPP Group, one of the world's largest marketing communications companies (NASDAQ: WPPGY, www.wpp.com) For more information, visit our Web site at www.ogilvypr.com
+@AGENCY:Contact: 
+@AGENCY:Jeffrey Leopold
+@AGENCY:Senior Vice President
+@AGENCY:Strategy & Planning
+@CCD1:Management committee:  Marcia Silverman, CEO; Paul Hicks, Regional CEO, The Americas
+@BODYTEXT:U.S. OFFICES
+@BODYTEXT:Atlanta: Ogilvy PR Worldwide
+@BODYTEXT:1776 Peachtree Rd., #450, Atlanta, GA 30309
+@BODYTEXT:404/897-2300; fax: 404/881-2349
+@CCD1:Bari Love, managing director
+@BODYTEXT:Direct: 404/881-2320; bari.love@ogilvypr.com
+@BODYTEXT:Cambridge: Feinstein Kean Halthcare
+@BODYTEXT:245 First St., 14th flr., Cambridge, MA 02142
+@BODYTEXT:617/577-8110; fax: 617/577-8985
+@CCD1:Marcia A. Kean, chief executive officer
+@BODYTEXT:Direct: 617/761-6728; marcia.kean@fkhealth.com
+@BODYTEXT:Chicago: Ogilvy PR Worldwide
+@BODYTEXT:350 W. Mart Center Drive, #1290, Chicago, IL 60654
+@BODYTEXT:312/397-6000; fax: 312/397-8841
+@CCD1:Brad Wilks, managing director
+@BODYTEXT:Direct: 312/397-6010; fax: 312/397-8856; brad.wilks@ogilvypr.com
+@BODYTEXT:New York: B/W/R
+@BODYTEXT:825 Eighth Ave., New York, NY 10019
+@BODYTEXT:212/901-3920; fax: 212/901-3995; 
+@CCD1:Leslie Sloan, managing director
+@BODYTEXT:Direct: 212/901-3928; fax: 212/901-3995;
+@BODYTEXT:leslie.sloan@bwr-ny.com
+@BODYTEXT:Sacramento: Ogilvy PR Worldwide
+@BODYTEXT:2495 Natomas Park Drive, #650, Sacramento, CA 95833
+@BODYTEXT:916/418-1500; fax: 916/418-1515
+@CCD1:Christi W. Black, managing director
+@BODYTEXT:Direct: 916/418-1500; fax: 916/418-1515
+@BODYTEXT:christi.black@ogilvypr.com
+@BODYTEXT:San Francisco: Ogilvy PR Worldwide
+@BODYTEXT:111 Sutter St., 11th flr., San Francisco, CA 94101
+@BODYTEXT:415/677-2700; fax: 415/677-2770
+@CCD1:Michael Law, managing director; michael.law@ogilvypr.com
+@BODYTEXT:Washington, DC: Ogilvy PR Worldwide
+@BODYTEXT:1111 19th St., NW, Washington, DC 20036
+@BODYTEXT:202/729-4000
+@CCD1:Rob Mathias, managing director
+@BODYTEXT:Denver: Ogilvy PR Worldwide
+@BODYTEXT:1475 Lawrence St., #302, Denver, CO 80202
+@BODYTEXT:303/615-5070; fax: 303/615-5075
+@CCD1:Amy Messenger, managing director, x2601
+@BODYTEXT:amy.messenger@ogilvypr.com
+@BODYTEXT:Los Angeles: Ogilvy PR Worldwide
+@BODYTEXT:9100 Wilshire Blvd., 6th flr., West Tower, Beverly Hills, CA 90212; 310/550-7776; fax: 310/550-1701
+@CCD1:Michael Law, managing director
+@BODYTEXT:Direct: 415/677-2700; fax: 415/677-2770; michael.law@ogilvypr.com
+@BODYTEXT:Los Angeles: B/W/R
+@BODYTEXT:9100 Wilshire Blvd., 6th flr., West Tower, Beverly Hills, CA 90212; 310/550-7776; fax: 310/550-1701
+@CCD1:Paul A. Baker, Larry Winokur, co-chief executive officers
+@BODYTEXT:Direct: 310/248-6137; fax: 310/550-1701
+@BODYTEXT:New York: Ogilvy PR Worldwide
+@BODYTEXT:825 Eighth Ave., New York, NY 10019
+@BODYTEXT:212/880-5200; fax: 212/370-4636
+@CCD1:Kym White, managing director
+@BODYTEXT:Worldwide Offices
+@BODYTEXT:EAME Headquarters:
+@BODYTEXT:10 Cabot Square, Canary Wharf, London E14 4BA U.K.
+@BODYTEXT:+44-20-7309-1000; fax: +44-20-7309-1001;
+@CCD1:Matthew Anderson, regional CEO, Asia & EAME, mathew.anderson@ogilvypr.com; Paul Barber, regional CEO, EAME, paul.barber@uk.ogilvypr.com
+@BODYTEXT:Athens: Ogilvy PR Worldwide
+@BODYTEXT:7, Granikou St., 15125 Maroussi, Athens, Greece
+@BODYTEXT:301-210-6199-286; fax: 301-210-6199-281
+@CCD1:Vassilis Dascalopoulos, managing director
+@BODYTEXT:Direct: 301-210-6199-286-93; vassilis.dascalopoulos@ogilvypr.gr
+@BODYTEXT:Barcelona: Bassat, Ogilvy & Mather Comunicacion
+@BODYTEXT:Josep Tarradellas, 123, 2nd, 08029, Barcelona Spain
+@BODYTEXT:+34-93-495-9444; fax: +34-93-495-9445;
+@CCD1:Salvador Aumedes, managing director
+@BODYTEXT:Direct: +34-93-495-9438; salvador.aumedes@ogilvy.com
+@BODYTEXT:Brussels: Ogilvy PR Worldwide
+@BODYTEXT:Boulevard de l’Imperatrice, 13, B-1000 Brussels, Belgium
+@BODYTEXT:+32-2-545-6600; fax: +32-2-545-6610
+@CCD1:Eric Mulders, managing director
+@BODYTEXT:Direct: +32-2-545-6591; fax: +32-2-545-6602; eric.mulders@ogilvy.be
+@BODYTEXT:Bucharest: Ogilvy PR Worldwide
+@BODYTEXT:Grigore Alexandrescu, 86 Str. Sector 1, 71129 Bucharest, Romania + 40 - 21-2010-100; fax: +40-21-2010-109
+@CCD1:Gabriela Lungu, managing director
+@BODYTEXT:Direct: +40-21-2010-121; gabriela.lungu@ogilvy.com
+@BODYTEXT:Dublin: Wilson Hartnell PR
+@BODYTEXT:5 Ely Place, Dublin 2, Ireland
+@BODYTEXT:353-1-669-0030; fax: 353-1-669-0039
+@CCD1:Roddy Guiney, managing director, roddy.guiney@ogilvy.com
+@BODYTEXT:Dusseldorf:OgilvyHealthcare
+@BODYTEXT:Postfach 19 00 24, Besucher: Am 2-4 Handelshafen 40110 Dusseldorf, Germany
+@BODYTEXT:+49-0211-49700-530; fax: +49-0211-49700-505  
+@CCD1:Ursula ten Haaf, managing director, ursula.tenhaaf@ogilvy.com
+@BODYTEXT:Frankfurt:OgilvyHealthcare
+@BODYTEXT:Geleitsstrasse 14, 60599 Frankfurt, Germany
+@BODYTEXT:+49-069-6091-1095; fax:+49-069-620-695
+@CCD1:Sabine Kreusch, director of PR, kreusch@omhc.de
+@BODYTEXT:Lisbon: Ogilvy Comunicacao & Imagem
+@BODYTEXT:Rua Vitor Cordon 37, Lisbon 1249-100, Portugal
+@BODYTEXT:351-21-321-80-41; fax: 351-21-342-43-43
+@CCD1:Miguel Moreira Rato, managing director, miguel.moreirarato@ogilvy.com
+@BODYTEXT:Madrid: Bassat, Ogilvy & Mather Comunicacion
+@BODYTEXT:Enrique Larreta, 2, 28036 Madrid, Spain
+@BODYTEXT:+34-91-398-4710; fax:+34-91-398-4727
+@CCD1:Borja Puig de la Bellacasa, president
+@BODYTEXT:Direct: +34-91-398-4793; fax: +34-91-398-4727; borja.puig@ogilvy.com
+@BODYTEXT:Milan: Ogilvy PR Worldwide
+@BODYTEXT:V.le Lancetti, 29, Milan 20158, Italy
+@BODYTEXT:+39-02-60789-315; fax:+39-02-60789-254;
+@CCD1:Giorgio Brenna, chairman & CFO, giorgio.brenna@ogilvy.com
+@BODYTEXT:Paris: Ogilvy PR Worldwide
+@BODYTEXT:44, avenue Georges V, 75008 Paris, France
+@BODYTEXT:+33-1-53-67-1250; fax:+33-1-53-67-1251; jane.goodman@ogilvypr.fr
+@CCD1:Jane Goodman, managing director
+@BODYTEXT:Direct: +33-1-56-67-1271; fax: +33-1-56-59-5660; jane.goodman@ogilvypr.fr
+@BODYTEXT:Prague: Ogilvy PR Worldwide
+@BODYTEXT:Privozni 2a, Praha 7 170 000 Czech Republic
+@BODYTEXT:420-2-199-8111; fax: 420-2-199-8333; dita.stejskalova@ogilvy.com
+@CCD1:Dita Stejskalova, managing director
+@BODYTEXT:Direct:420-2-199-8219; fax: 420-2-199-8888; dita.stejskalova@ogilvy.com
+@BODYTEXT:Stockholm: Ogilvy PR Worldwide
+@BODYTEXT:Humlegardsgatan 6, 11480 Stockholm Sweden
+@BODYTEXT:+46-8-5625-8280; fax: +46-8-5625-8201;
+@BODYTEXT:beata.ponten@ogilvy.se
+@CCD1:Beata Ponten, managing director
+@BODYTEXT:Direct: +46-8-5625-8481; beata.ponten@ogilvy.se
+@BODYTEXT:Warsaw: Ogilvy PR Worldwide
+@BODYTEXT:Ul. Angorska 13A, Warsaw, 03-913 Poland
+@BODYTEXT:+48-22-672-60-06; fax: +48-22672-62-44
+@CCD1:Piotr Kabala, PR director, piotr.kabala@ogilvy.com
+@BODYTEXT:Zurich: Ogilvy PR Worldwide
+@BODYTEXT:Bergstrasse 50, Zurich 8032, Switzerland
+@BODYTEXT:+41 (0) 1-268-63-43; fax: +41 (0) 1-268-63-44;
+@CCD1:Thomas Hermann, managing director, thomas.hermann@ogilvypr.com
+@BODYTEXT:Amman, Beirut, Cairo, Jeddah, Manama, Riyadh, Safat: 
+@BODYTEXT:Memac Ogilvy PR
+@BODYTEXT:P.O. Box 60484, Dubai, United Arab Emirates
+@BODYTEXT:9714-282-5414; fax: 9714-282-5150
+@CCD1:Cherif Wehbe, managing director
+@BODYTEXT:Direct: 9714-282-5414; mobile: 9715-0552-9567;
+@BODYTEXT:cherif.wehbe@ogilvy.com
+@BODYTEXT:Dubai: Memac Ogilvy PR
+@BODYTEXT:Kendah House, 26th flr., Sheik Zayed Road, P.O. Box 74170, Dubai, United Arab Emirates
+@BODYTEXT:9714-282-5414; fax: 9714-282-5150
+@CCD1:Cherif Wehbe, managing director
+@BODYTEXT:Direct: 9714-282-5414; mobile: 9715-0552-9567;
+@BODYTEXT:cherif.wehbe@ogilvy.com
+@BODYTEXT:Johannesburg: Ogilvy PR Worldwide
+@BODYTEXT:Sanlam Arena, 10 Cradock Avenue, Cnr Baker Str., Rosebank 2196 South Africa 2010
+@BODYTEXT:+27-11-880-2271; fax: +27-11-880-0258
+@BODYTEXT:CCD1 = Peter Wallington, managing director; Tholoana Qhobela, chmn., peter.wallington@ogilvypr.co.za
+@BODYTEXT:Nairobi: Ogilvy PR Worldwide
+@BODYTEXT:Kolobot Gardens Off Arboretum Drive, P. O. Box 30280 code 00100, Nairobi, Kenya
+@BODYTEXT:254-2-2714-686; fax: 254-2-2714-688; 
+@CCD1:Koome Mwambia, managing director, koome@ogilvy.co.ke
+@BODYTEXT:Asia Pacific Headquarters: Ogilvy PR Worldwide
+@BODYTEXT:23rd floor, The Center, 99 Queen’s Road Central, Hong Kong
+@BODYTEXT:852-2884-8572; fax: 852-2535-9920
+@CCD1:Christopher Graves, president, Asia & EAME, christopher.graves@ogilvy.com; Indira Nair, chief talent officer, indira.nair@ogilvy.com
+@BODYTEXT:Bangalore: Ogilvy PR Worldwide
+@BODYTEXT:Mahalaxmi Chambers, 3rd Floor, 29 Mahatma Gandhi Road, Bangalore Kanartaka 560001, India
+@BODYTEXT:91-80-5134-4700; fax: 91-80-5134-4370
+@CCD1:DC Priyan, consultant
+@BODYTEXT:Direct: 91-80-5134-4351; fax: 91-80-5134-4370; dc.priyan@ogilvy.com
+@BODYTEXT:Chennai: Ogilvy PR Worldwide
+@BODYTEXT:139/140 Marshalls Rd., 3rd flr., Egmore, Chennai 600 008, India 91-44-5134-4700; fax: 91-44-5134-4370
+@CCD1:Arup Kavan, managing partner, South India 
+@BODYTEXT:Direct: 91-44-5134-4353; fax: 91-44-5134-4710;
+@BODYTEXT:arup.kavan@ogilvy.com
+@BODYTEXT:Colombo: Ogilvy PR Worldwide
+@BODYTEXT:No. 16 Barnes Place, Colombo, Sri Lanka
+@BODYTEXT:94-11-267-5016; fax: 94-11-269-7635
+@CCD1:Akhry Ameer, manager, akhry.ameer@ogilvy.com
+@BODYTEXT:Mumbai: Ogilvy PR Worldwide
+@BODYTEXT:Trade Centre, 3rd flr., Kamala Mills Compound, Senapati Bapat Marg, Lower Parel, Mumbai, 400 013, India
+@BODYTEXT:91-22-2491-3921; fax: 91-22-2491-3868
+@CCD1:Ajay Kakar, president, India, ajay.kakar@ogilvy.com
+@BODYTEXT:New Delhi: Ogilvy PR Worldwide
+@BODYTEXT:274 Shaheed Captain Gaur Marg Srinivaspuri, New Delhi, 110065, India
+@BODYTEXT:91-11-5134-4664; fax: 91-11-5134-4710
+@CCD1:Anil Sharma, consultant, anil.sharma@ogilvy.com
+@BODYTEXT:Bangkok: Ogilvy PR Worldwide
+@BODYTEXT:11th Floor, Silom Center Bldg., 2 Silom Rd., Bangkok 10500, Thailand
+@BODYTEXT:662-632-8300; fax: 662-266-7882
+@CCD1:Chutharat Thanapaisarnkit, managing director
+@BODYTEXT:Direct: 662-234-5348; fax: 662-266-7882; chutharat.thanapaisarnkit@ogilvy.com
+@BODYTEXT:Beijing: Ogilvy PR Worldwide
+@BODYTEXT:9th flr., No. 58 Jin Bao St., Beijing, 100029, China 86-10-8520-6688; fax: 86-10-8520-6600
+@CCD1:Scott Kronick, president, Asia
+@BODYTEXT:Direct: 86-10-8520-6588; scott.kronick@ogilvy.com
+@BODYTEXT:Beijing: H-Line Ogilvy Communications Co., Ltd.
+@BODYTEXT:418 East Wing, Capital Times Square, No. 88 East Chang'an Ave., Beijing 100031, China 86-10-8391-3200 x868; fax: 86-10-3877-3211
+@CCD1:Brian Zhou, director, brian.zhou@h-line.com
+@BODYTEXT:Beijing: PRAP China Public Relations Consultants, Inc.
+@BODYTEXT:Tower W1, #902, The Tower, Oriental Plaza, No. 1 East Chang Ave., Dongcheng District, Beijing 100738, China 8610-8518-5208; fax: 8610-8518-5206
+@CCD1:Yuki Wei
+@BODYTEXT:Guangzhou: Ogilvy PR Worldwide
+@BODYTEXT:6104-6 Citic Plaza 233, TianHe North Rd., Guangzhou 510613, China
+@BODYTEXT:86-20-8377-1888; fax: 86-20-3877-0455 
+@CCD1:Ramsey Leung, managing director, O&M, ramsey.leung@ogilvy.com
+@BODYTEXT:Guangzhou: H-Line Ogilvy Communications Co. Ltd., Guangzhou Metro Plaza, Room 704, 183 Tian He Bej Rd., Guangzhou 510075 China 86-20-8377-1888; fax: 86-20-8377-0455
+@CCD1:Helen Shang, managing director, helen.shang@h-line.com
+@BODYTEXT:Ho Chi Mihn City: Ogilvy PR Worldwide
+@BODYTEXT:Sun Wah Tower, 16th flr., 115 Nguyen Hue Blvd., District 1, Ho Chi Minh City, Vietnam 848-821-9529; fax: 848-821-9549
+@CCD1:Danny Phan, director, danny.phan@ogilvy.com
+@BODYTEXT:Hong Kong: Ogilvy PR Worldwide
+@BODYTEXT:23rd flr., The Center, 99 Queen's Rd. Central, Hong Kong, China 852-2567-4461; fax: 852-2885-3227
+@CCD1:Clara Shek, managing director
+@BODYTEXT:Direct: 852-2884-8561-8574; fax: 852-2535-4287-2568-3700; clara.shek@ogilvy.com
+@BODYTEXT:Seoul: Ogilvy PR Worldwide
+@BODYTEXT:14th flr., Kyoung-AM Bldg., 157-27 Samsung-dong, Kangnam-Ku, Seoul 135090, Korea
+@BODYTEXT:82-2-3468-2800; fax: 82-2-3468-2991; 
+@CCD1:Joyce Kim, managing director
+@BODYTEXT:Direct: 82-2-3468-2941; fax: 82-2-3468-2947; joyce.kim@ogilvy.com
+@BODYTEXT:Shanghai: Ogilvy PR Worldwide
+@BODYTEXT:26th flr., The Center, 989 Changle Rd., Shanghai, 200031, China
+@BODYTEXT:86-21-2405-1888; fax: 86-21-2405-1880
+@CCD1:Debby Cheung, managing director, debby.cheung@ogilvy.com
+@BODYTEXT:Shanghai: H-Line Ogilvy Communications Co. Ltd.
+@BODYTEXT:1005, Venture Tech Tower, 819 Nanjing Xilu, Shanghai, 200041, China
+@BODYTEXT:86-21-6215-8445; fax: 86-21-6218-1320
+@CCD1:Maggie Tsai, managing director
+@BODYTEXT:Direct: 86-10-8391-3200 x808; fax: 86-10-8391-3211; maggie.tsai@ogilvy.com
+@BODYTEXT:Shanghai: PRAP Public Relations Consultants
+@BODYTEXT:Kerry Centre, #1105, 1515 Nanjing West Rd., Shanghai, 200041, China
+@BODYTEXT:86-21-3222-20938; fax: 86-21-6218-0939
+@CCD1:Ross Rowbury, sr. managing director
+@BODYTEXT:Direct: 86-21-6218-3009; fax: 86-21-6218-4078; rrowbury@ogilvy.com
+@BODYTEXT:Taipei: Ogilvy PR Worldwide
+@BODYTEXT:The Ogilvy Centre, No. 90, 12/F, Song Ren Rd., Taipei 110, Taiwan
+@BODYTEXT:886-2-2758-9043; fax: 886-2-2758-5761
+@CCD1:Grace Yuan, managing director
+@BODYTEXT:Direct: 886-2-2758-8686; fax: 886-2-2758-5781; gracech.yuan@ogilvy.com
+@BODYTEXT:Joseph Pai, chairman
+@BODYTEXT:Direct: 886-2-2758-9043; fax: 886-2-2758-5761; joseph.pai@ogilvy.com
+@BODYTEXT:Taipei: Era Public Relations
+@BODYTEXT:6F, 37 Min Chuan East Rd., Section 3, Taipei 110, Taiwan
+@BODYTEXT:886-2-2502-2100; fax: 886-2-2505-2126
+@CCD1:Olive Ting, managing director, olive_ting@erapr.com
+@BODYTEXT:Tokyo: PRAP Japan Inc.
+@BODYTEXT:Totate Int’l Bldg.,2-12-19 Shibuya, Shibuya-ku, Tokyo 150-8343 Japan
+@BODYTEXT:81-3-3486-7131; fax: 81-3-3486-7507
+@CCD1:Ross Rowbury, sr. managing director, rrowbury@prap.co.jp
+@BODYTEXT:Tokyo: IBI Inc.
+@BODYTEXT:Yebisu Garden Place Tower, 25th flr., 4-20-3 Ebisu, Shibuya-ku, Tokyo 150-6025 Japan
+@BODYTEXT:81-3-5793-2350; fax: 81-3-5793-2366
+@CCD1:Thomas Zengage, sr. managing director, thomas@ibitokyo.com
+@BODYTEXT:Tokyo: Pulse Communications Japan
+@BODYTEXT:Yebisu Garden Place Tower, 25th flr., 4-20-3 Ebisu, Shibuya-ku, Tokyo 150-6025 Japan
+@BODYTEXT:81-3-5791-8802; fax: 81-3-5791-8560
+@CCD1:Akira Yui, managing director, akira.yui@ogilvy.com
+@BODYTEXT:Canberra: Parker & Partners
+@BODYTEXT:Ground Floor, Boeing House, 55 Blackall St., Barton Act 2600 Australia
+@BODYTEXT:61-2-6273-0585; fax: 61-2-6273-0595 
+@CCD1:Andrew Parker, managing director, andrew@p-p.com.au
+@BODYTEXT:Jakarta: Ogilvy PR Worldwide
+@BODYTEXT:Bapindo Plaza, Menara 1, Lantai 25, Jalan Jendral Sudirman Kav. 54-55, Jakarta 12190, Indonesia
+@BODYTEXT:62-21-526-6261; fax: 62-21-526-6263
+@CCD1:Karen Peterson, technical advisor/head of PR, karen.peterson@ogilvy.com
+@BODYTEXT:Kuala Lumpur: Ogilvy PR Worldwide
+@BODYTEXT:Level 11, Menara Milenium, 8 Jalan Damanlela, Bukit Damansara, Kuala Lumpur 50490, Malaysia
+@BODYTEXT:60-3-2718-8288; fax: 60-3-2710-6966
+@CCD1:Grace Low, managing director, grace.low@ogilvy.com
+@BODYTEXT:Manila: Ogilvy PR Worldwide
+@BODYTEXT:15th flr., Philamlife Tower, 8767 Pasao de Roxas, Makati, Metro Manila, 1200, Philippines
+@BODYTEXT:632-885-0001; fax: 632-885-0030
+@CCD1:Bob Hekkelmen, group managing director
+@BODYTEXT:Direct: 632-885-0019; fax: 632-885-0028; bob.hekkelman@ogilvy.com
+@BODYTEXT:Singapore: Ogilvy PR Worldwide
+@BODYTEXT:35 Robinson Rd., #03-01 The Ogilvy Centre, Singapore 068876
+@BODYTEXT:65-6213-7899; fax: 65-6213-7840
+@CCD1:Andrew Thomas
+@BODYTEXT:Direct: 65-6213-7855; andrew.thomas@ogilvy.com
+@BODYTEXT:Sydney: Savage-Horrigan
+@BODYTEXT:Level 24, Tower 2, Darling Park, 201 Sussex St., Sydney NSW 2000 Australia
+@BODYTEXT:612-8281-3232; fax: 612-8281-3240
+@CCD1:Chris Savage, Jennifer Horrigan, managing partners
+@BODYTEXT:Syndey: Parker and Partners
+@BODYTEXT:Level 24, Tower 2, Darling Park, 201 Sussex St., Sydney NSW 2000 Australia
+@BODYTEXT:612-3281-3888; fax: 612-8281-3889
+@CCD1:Andrew Parker, managing director, andrew@p-p.com.au
+@BODYTEXT:Syndey: Howorth Communications
+@BODYTEXT:201 Sussex St., Sydney NSW 2000 Australia
+@BODYTEXT:612-8281-3810; fax: 612-8281-3820
+@CCD1:Mike Howorth, managing director; mike@howorth.com.au
+@BODYTEXT:Sydney: Impact Employee Communications
+@BODYTEXT:Level 24, Tower 2, Darling Park, 201 Sussex St., Sydney NSW 2000 Australia
+@BODYTEXT:612-8281-3222; fax: 612-8281-3223
+@CCD1:John Sutddert, managing director, studdertj@employeecommunications.com.au
+@BODYTEXT:Sydney: Ethnic Communications
+@BODYTEXT:256 Norton St., Leichhardt NSW 2040 Australia
+@BODYTEXT:612-9568-8398; fax: 612-9569-6354
+@CCD1:Sheba Nandkeolyar, general manager, sheba.nandkeolyar@etcom.com.au
+@BODYTEXT:Sydney: Pulse Communications Pty Ltd.
+@BODYTEXT:Level 24, Tower 2, Darling Park, 201 Sussex St., Sydney NSW 2000 Australia
+@BODYTEXT:612-8281-3880; fax: 612-8281-3870
+@CCD1:Samantha Allen, managing director, samantha@pulsecom.com.au
+@BODYTEXT:
+@BODYTEXT:AIMR
+@BODYTEXT:Ajilon
+@BODYTEXT:American Chemistry Council
+@BODYTEXT:American Home Mortgage
+@BODYTEXT:Berlex
+@BODYTEXT:Berry Burst Cheerios
+@BODYTEXT:BP
+@BODYTEXT:Bristol-Myers Squibb
+@BODYTEXT:Celestial Seasonings
+@BODYTEXT:Cendant 
+@BODYTEXT:Centers for Disease Control and Prevention
+@BODYTEXT:Centers for Medicare & Medicaid Services
+@BODYTEXT:CFA Institute
+@BODYTEXT:cheaptickets.com
+@BODYTEXT:Deloitte
+@BODYTEXT:Department of Homeland Security
+@BODYTEXT:Dey
+@BODYTEXT:DigitalLife
+@BODYTEXT:Discovery
+@BODYTEXT:Disney
+@BODYTEXT:DuPont
+@BODYTEXT:EarthLink
+@BODYTEXT:Epilepsy Foundation
+@BODYTEXT:Ethicon
+@BODYTEXT:FM Global
+@BODYTEXT:Fuego
+@BODYTEXT:GlaxoSmithKline
+@BODYTEXT:Hudson Highland Group
+@BODYTEXT:iBiquity
+@BODYTEXT:Integic
+@BODYTEXT:Intelsat
+@BODYTEXT:Jackson Hewitt
+@BODYTEXT:Johnsonville Sausage
+@BODYTEXT:LensCrafters
+@BODYTEXT:Level 3
+@BODYTEXT:LG Electronics
+@BODYTEXT:MailFrontier
+@BODYTEXT:MasterCard 
+@BODYTEXT:Merck
+@BODYTEXT:National Cancer Institute
+@BODYTEXT:National Eye Institute
+@BODYTEXT:National Heart, Lung, and Blood Institute
+@BODYTEXT:National Human Genome Research Institute
+@BODYTEXT:National Institute of Allergy and Infectious Diseases
+@BODYTEXT:National Institute of Child Health and Human Development
+@BODYTEXT:National Institute of Diabetes and Digestive and Kidney Diseases
+@BODYTEXT:National Institute of Neurological Disorders and Stroke
+@BODYTEXT:National Library of Medicine
+@BODYTEXT:Ortho-Biotech
+@BODYTEXT:Pfizer Inc.
+@BODYTEXT:Pizza Hut
+@BODYTEXT:Roche
+@BODYTEXT:Schering Plough
+@BODYTEXT:Sun Microsystems
+@BODYTEXT:Sunglass Hut
+@BODYTEXT:Target Stores
+@BODYTEXT:Unilever
+@BODYTEXT:United Way
+@BODYTEXT:Weida Communications
+@BODYTEXT:
+@CO:OLIVER, RUSSELL & ASSOCIATES, INC.
+@BODYTEXT:217 South 11th St., Boise, ID 83702
+@BODYTEXT:208/344-1734; fax:208/344-1211; ors@oh-zone.com
+@BODYTEXT:Marketing communications, PR and advertising
+@CCD1:Russ Stoddard, president
+@BODYTEXT:
+@CO:OLSON/BALLARD COMMS. INC.
+@BODYTEXT:See Ballard Comms. Inc.
+@BODYTEXT:
+@BODYTEXT:
+@CO:OMEGA GROUP, THE
+@BODYTEXT:30 Beekman Place, New York, NY 10022
+@BODYTEXT:212/588-9415; fax:212/588-9417; jfbuddjr@aol.com
+@BODYTEXT:Multidisciplinary consortium on corporate strategy and public policy; Turtle Publishing imprint division.  Founded: 1991.
+@CCD1:John F. Budd Jr., founder/chmn./CEO
+@BODYTEXT:
+@CO:OMEGACOM, INC.
+@BODYTEXT:24 Thayer St., Providence, RI 02906
+@BODYTEXT:401/331-2653; fax:508/861-0226; jimbar@omegacom.com
+@BODYTEXT:Corporate & crisis communications, comms. analysis software development incl. the Spinspeak Detector(TM), Intranet & Blog. development; Internet publishing, issues, crisis and opportunity mgmt.; contingency planning; fin’l rels. Founded: 1990
+@CCD1:James A. Baar, pres. & mng. consultant; Theodore H. Baar, exec. VP/chief technologist
+@BODYTEXT:
+@CO:OMNIMEDIA CONSULTING GROUP, INC.
+@BODYTEXT:2821 Haddonfield Road, Pennsauken, NJ 08110
+@BODYTEXT:PR firm spcializing in media rels. and event planning.  Founded: 1999.
+@CCD1:Angela Brown, pres.; Arianna Stefanoni
+@BODYTEXT:Camden Waterfront Mktg. Bureau
+@BODYTEXT:Multicultural Affairs Congress
+@BODYTEXT:Philadelphia Convention & Visitors Bureau
+@BODYTEXT:Showtime Enterprises
+@BODYTEXT:South Jersey Tourism Corp.
+@BODYTEXT:
+@CO:ON PR
+@BODYTEXT:10900 NE 4th St., #1130, Bellevue, WA 98004
+@BODYTEXT:503/802-4400; fax:503/802-4401; jody@onpr.com
+@BODYTEXT:www.onpr.com
+@BODYTEXT:Enterprise software, wireless/telecom & consumer technology PR. Employees: 15. Founded: 1996.
+@AGENCY:Agency Statement: OnPR is an independently-owned public relations agency serving companies in the enterprise, wireless, and consumer technology industries.
+@AGENCY:OnPR's senior professionals have helped to shape opinions for years. The agency's heritage and history of success includes its origins as the first wireless focused PR agency and as part of the world's largest independent technology public relations agency.
+@AGENCY:We help our clients drive business results by applying our strategic communications expertise, relationships, and industry knowledge to deliver strategies that influence opinions and actions.
+@CCD1:Jody Peake, Pres. & CEO; David Wilson, COO & CFO
+@BODYTEXT:621 SW Morrison St., #350, Portland, OR 97205
+@BODYTEXT:503/802-4400
+@CCD1:Jody Peake
+@BODYTEXT:Rosenheimer Strabe 145e, D-81671 Munich, Germany
+@BODYTEXT:011 49-89-62817552
+@CCD1:Michael Baxter
+@BODYTEXT:San Francisco Office 
+@BODYTEXT:Phone: 415/577-4318
+@CCD1:Marivi Lerdo-de Tejada
+@BODYTEXT:
+@BODYTEXT:Cataphora
+@BODYTEXT:GetLisa
+@BODYTEXT:M:Metrics
+@BODYTEXT:Mark Anderson/SNS
+@BODYTEXT:Qsent
+@BODYTEXT:RadioFrame Networks
+@BODYTEXT:RadiSys
+@BODYTEXT:SeaPoint Ventures
+@BODYTEXT:Siebel Systems CE
+@BODYTEXT:SNAPin
+@BODYTEXT:Wireless Services Corp.
+@BODYTEXT:
+@CO:OPENGATE MARKETING COMMUNICATIONS
+@BODYTEXT:171 Main St., Nyack, NY 10960
+@BODYTEXT:845/353-2685; john@opengatemarketing.com
+@BODYTEXT:www.opengatemarketing.com
+@BODYTEXT:Founded: 2002.
+@CCD1:John Eccleston, president; Janella Baanante, creative service director
+@BODYTEXT:Advanced Cardiovascular Care Center
+@BODYTEXT:Arc of Rockland
+@BODYTEXT:Clearskin Regimen gel
+@BODYTEXT:Good Samaritan Hospital
+@BODYTEXT:Safe Paw
+@BODYTEXT:Sobe Beverage
+@BODYTEXT:The Center for Pediatric Physical Therapy
+@BODYTEXT:Unson
+@BODYTEXT:
+@CO:OPPENHEIM, RB, ASSOCS. PR COUNSELORS
+@BODYTEXT:2040 Delta Way, Tallahassee, FL 32303
+@BODYTEXT:850/386-9100; fax:850/386-4396
+@BODYTEXT:Corporate, medical, entertainment/arts, real estate and institutional PR. Employees: 10. Founded: 1985
+@CCD1:Rick Oppenheim, pres.
+@BODYTEXT:
+@CO:ORCI PUBLIC RELATIONS
+@BODYTEXT:11620 Wilshire Blvd., Los Angeles, CA 90025
+@BODYTEXT:310/444-7300; fax:310/478-3587
+@BODYTEXT:www.laagencia.com
+@BODYTEXT:Full-service advertising and PR firm. Founded: 1999.
+@CCD1:Stephen Cavez, VP/dir. of PR
+@BODYTEXT:
+@CO:ORTON GROUP - PUBLIC RELS. COUNSELORS
+@BODYTEXT:204 E. 900 So., Salt Lake City, UT 84111
+@BODYTEXT:801/596-2100; fax:801/596-2151
+@BODYTEXT:Corporate, government, manufacturing, service & retail PR. Employees: 16. Founded: 1985.
+@CCD1:Larry J. Orton, pres.; Ryan Anderson, dir., PR services
+@BODYTEXT:
+@CO:OSBORN & BARR COMMUNICATIONS
+@BODYTEXT:1 N. Brentwood Blvd., 8th flr., Clayton, MO 63105
+@BODYTEXT:314/726-5511; fax:314/726-6350
+@BODYTEXT:Marketing communications specializing in corp., agri-consumer, agri-business, technology. Founded: 1988.
+@CCD1:Joe Osborn, president; Steve Barr, CEO
+@BODYTEXT:
+@CO:OSGOOD, O’DONNELL & WALSH
+@BODYTEXT:370 Lexington Ave., New York, NY 10017
+@BODYTEXT:212/453-2370; fax:212/706-8495
+@BODYTEXT:www.oow.com
+@BODYTEXT:PR, PA, IR and marketing comms. Founded: 1991
+@CCD1:Peter Osgood, Joseph O’Donnell, Lawrence Walsh, partners
+@BODYTEXT:Arts4All
+@BODYTEXT:Canfor
+@BODYTEXT:Colgate Palmolive
+@BODYTEXT:Fidelity Investments
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:Keyspan
+@BODYTEXT:National Education Assn.
+@BODYTEXT:PricewaterhouseCoopers
+@BODYTEXT:Texas Pacific Group
+@BODYTEXT:Union Pacific
+@BODYTEXT:
+@CO:OSTER & ASSOCIATES, INC.
+@BODYTEXT:6225 Lusk Blvd., #A, San Diego, CA 92121
+@BODYTEXT:858/535-8101; fax:858/535-1925
+@BODYTEXT:www.osterads.com
+@BODYTEXT:Full-service agency providing marketing, advertising, and PR services. Founded: 1986
+@CCD1:Beverly Oster, founder; Ben Duarte, creative dir.
+@BODYTEXT:
+@CO:OSTROW & PARTNERS, INC.
+@BODYTEXT:700 Canal Street at Harbour Sq., Stamford, CT 06902
+@BODYTEXT:203/328-3018; fax:203/328-3019; cr@ostrow-partners.com
+@BODYTEXT:www.ostrow-partners.com
+@BODYTEXT:Issues & crisis mgmt., corp. reputation mgmt., corp. strategies, change mgmt.  Founded: 1994.
+@AGENCY:Agency Statement: Our clients became our partners to meet their needs, not to get attention for our business. Clients include members of the Fortune 50; some of the world’s largest international companies; and companies on the cutting edge of their markets. We have no “juniors,” no staffs waiting for assignments. We are too old, experienced and good to do anything other than tell the truth. An idea whose time has come.
+@CCD1:Sam Ostrow, Donna Davenport, Anthony Dyson, Steven Hess, Brian Milner-Smythe, Peter Stanton, Tara Tanzer, Aaron Biller, Barri Brodnick, partners
+@BODYTEXT:
+@CO:OUTCAST COMMUNICATIONS
+@BODYTEXT:123 Townshend St., #500, San Francisco, CA 94107
+@BODYTEXT:415/392-8282; fax:415/392-8281; contact@outcastpr.com
+@BODYTEXT:Specializes in public relations for existing and emerging technology companies.
+@CCD1:Margit Wennmachers, Caryn Marooney, founders
+@BODYTEXT:
+@CO:OVATIONS INTERNATIONAL, INC.
+@BODYTEXT:3481 Wildwood St., Yorktown Heights, NY 10598
+@BODYTEXT:914/245-9721; fax:914/245-9713.
+@BODYTEXT:Speechwriting, speaker placement, speech coaching, government, media and public affairs, image consulting, annual reports, publications, seminars. Founded: 1996.
+@CCD1:Matthew Cossolotto, president
+@BODYTEXT:
+@CO:OWEN MEDIA
+@BODYTEXT:3130 East Madison St., #206, Seattle, WA 98112
+@BODYTEXT:206/322-1167; fax:206/322-3428; paulo@owenmedia.com
+@BODYTEXT:Media relations for high-tech companies. Category development, technology evangelism and brand building for enterprise IT clients. Employees: 10. Founded: 1997.
+@CCD1:Paul Owen, president
+@BODYTEXT:AccessVia
+@BODYTEXT:InfiniBand Trade Assn.
+@BODYTEXT:Intel Microelectronics
+@BODYTEXT:Intel Software Products and Services Division
+@BODYTEXT:PhotoWorks
+@BODYTEXT:Sort Once
+@BODYTEXT:
+@CO:OXFORD COMMUNICATIONS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:11 Music Mountain Blvd., Lambertville, NJ 08530
+@BODYTEXT:609/397-4242; fax:609/397-8863; stu@oxfordcommunications.com
+@BODYTEXT:www.oxfordcommunications.com
+@BODYTEXT:PR, bus.-to-bus., creative, media buying/placement/planning, adv. Founded: 1986.
+@CCD1:Stu Miller, director of PR; John Martorana, pres.
+@BODYTEXT:Association of Trial Lawyers of America/New Jersey
+@BODYTEXT:Beazer Homes - NJ & PA Division
+@BODYTEXT:Rita's Water Ice Franchise Corp.
+@BODYTEXT:Wegmans Food Markets
+@BODYTEXT:

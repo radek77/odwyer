@@ -1,0 +1,23 @@
+@BREAKER:U
+
+@CO:UBER ADVERTISING & PUBLIC RELATIONS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:592 N. Euclid Ave., Upland, CA 91786
+@BODYTEXT:909/981-3141; fax:909/982-0869
+@BODYTEXT:www.uberadv.com
+@BODYTEXT:PR, adv., bus.-to-bus., agriculture/gardening, financial, mail order/catalogs, healthcare, educational instutions. Founded: 1976.
+@CCD1:Jim Burns, president
+@BODYTEXT:Citizens Business Bank
+@BODYTEXT:Inland Empire Economic Partnership
+@BODYTEXT:Ontario, City of
+@BODYTEXT:Ontario International Airport
+@BODYTEXT:Pro Cal, Inc.
+@BODYTEXT:
+@CO:UNIWORLD PUBLIC RELATIONS
+@BODYTEXT:A division of the UniWorld Group
+@BODYTEXT:100 Avenue of the Americas, New York, NY 10013
+@BODYTEXT:212/219-1600; fax:212/226-5970
+@BODYTEXT:www.uniworld.com
+@BODYTEXT:Event mktg., spec. projs., media and public rels. in African-American & Hispanic markets
+@CCD1:Byron Lewis Sr., chmn. & CEO
+@BODYTEXT:

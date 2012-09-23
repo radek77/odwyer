@@ -1,0 +1,1469 @@
+@BREAKER:L
+
+@CO:L.C. WILLIAMS & ASSOCIATES, LLC
+@BODYTEXT:150 N. Michigan Ave., #3800, Chicago, IL 60601
+@BODYTEXT:312/565-3900; fax:312/565-1770
+@BODYTEXT:www.lcwa.com
+@BODYTEXT:Full-service PR and research counseling firm; media rels., corp. rels., consumer and bus.-to-bus. mktg. comms., employee and labor comms., crisis comms., fin’l rels., training and design.  Employees: 28. Founded: 1985.
+@AGENCY:Agency Statement: L.C. Williams & Associates is a full-service public relations and research counseling firm with resources in media relations, corporate relations, consumer and business-to-business marketing communications, employee/labor communications, crisis communications, financial relations, training and design. Our independent research capability can do cost effective quantitative and qualitative public opinion polling, audits, attitude surveys, customer satisfaction studies and general marketing research.
+@CCD1:Louis C. Williams Jr., chmn.; Kim Blazek Dahlborn, pres.; Gary Goodfriend, exec. VP; Barbara Thul, sr. VPs; Barbara Buenger, VP; Allison Kurtz, sr. VP; Maria Balice, Greg Gordon, VPs
+@BODYTEXT:420 Lexington Ave., #300, New York, NY 10170
+@BODYTEXT:212/297-6216
+@CCD1:Kay Degenhardt, sr. consultant
+@BODYTEXT:
+@BODYTEXT:Ace Hardware
+@BODYTEXT:Brook Furniture Rental
+@BODYTEXT:Chicago Housing Authority
+@BODYTEXT:Chicago Transit Authority
+@BODYTEXT:Comcast Greater Chicago Region
+@BODYTEXT:Comdisco Holding Co.
+@BODYTEXT:Darwill
+@BODYTEXT:Degussa Corporation
+@BODYTEXT:Electrolux
+@BODYTEXT:Eureka
+@BODYTEXT:Glidden Co.
+@BODYTEXT:La-Z-Boy Inc.
+@BODYTEXT:Munters
+@BODYTEXT:MW Custom Papers
+@BODYTEXT:North American Laminate Flooring Assn.
+@BODYTEXT:Pennsylvania House
+@BODYTEXT:Pergo, Inc.
+@BODYTEXT:Right Management Consultants
+@BODYTEXT:Sauder Woodworking Co.
+@BODYTEXT:Stepan Co.
+@BODYTEXT:Swedish Covenant Hospital
+@BODYTEXT:United States Cellular Corporation
+@BODYTEXT:
+@CO:L.W. RAMSEY ADVERTISING AGENCY
+@BODYTEXT:111 East 3rd Street, Davenport, IA 52801
+@BODYTEXT:563/326-3333; fax:563/326-0159
+@BODYTEXT:PR and advertising for aerospace/defense, agriculture, appliances, bus./consumer services, food.  Founded: 1923.
+@CCD1:David Pautsch, chairman
+@BODYTEXT:
+@CO:L3 ADVERTISING, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:115 Bowery, 3rd flr., New York, NY 10002
+@BODYTEXT:212/966-7050; fax:212/431-1282
+@BODYTEXT:PR, adv., Asian-American specialty, beer/wine/liquor, financial, healthcare, telecommnications.  Founded: 1984.
+@CCD1:Joseph Lam, president
+@BODYTEXT:
+@CO:LA AGENCIA DE ORCI & ASOCIADOS
+@BODYTEXT:11620 Wilshire Blvd., #600, Los Angeles, CA 90025
+@BODYTEXT:310/444-7300
+@BODYTEXT:www.laagencia.com
+@BODYTEXT:Hispanic marketing firm.
+@CCD1:Jaime Ramirez, VP/director of client services
+@BODYTEXT:Court Appointed Special Advocates
+@BODYTEXT:
+@CO:LABRECHE MURRAY PUBLIC RELATIONS
+@BODYTEXT:500 Washington Ave. South, #2020, Minneapolis, MN 55415
+@BODYTEXT:612/338-0901; fax:612/338-0921
+@BODYTEXT:www.labrechemurray.com
+@BODYTEXT:Financial PR, beauty/fashion, home furnishing, food/beverages, public affairs and high-tech practices. Founded: 1990
+@CCD1:Beth LaBreche, Jerry Murray, partners
+@BODYTEXT:
+@CO:LAER PEARCE & ASSOCIATES
+@BODYTEXT:22892 Mill Creek Dr., Laguna Hills, CA 92653
+@BODYTEXT:949/599-1212; fax:949/599-1213; Lpearce@Laer.com
+@BODYTEXT:Public affairs, consumer public relations. Employees: 12. Founded: 1982
+@CCD1:Laer Pearce, pres.
+@BODYTEXT:Aera Energy
+@BODYTEXT:Boeing Realty Corp.
+@BODYTEXT:Chevron Land Development
+@BODYTEXT:Irvine Co.
+@BODYTEXT:Shapell Industries
+@BODYTEXT:Warmington Land Co.
+@BODYTEXT:
+@CO:LAFORCE & STEVENS
+@BODYTEXT:132 West 21st St., New York, NY 10011
+@BODYTEXT:212/242-9353; fax:212/242-9565; jlaforce@laforce-stevens.com
+@BODYTEXT:PR/marketing communications for fashion/beauty, entertainment, food & beverages, healthcare, technology, home furnishings, travel. Founded: 1995.
+@CCD1:James LaForce, Leslie Stevens, partners
+@BODYTEXT:Aldo Shoes
+@BODYTEXT:Ashley Hicks
+@BODYTEXT:Avon Products Inc.
+@BODYTEXT:Banana Republic
+@BODYTEXT:Coty Fragrances
+@BODYTEXT:Dale Carnegie
+@BODYTEXT:Decleor
+@BODYTEXT:Jantzen
+@BODYTEXT:Keds
+@BODYTEXT:Krispy Kreme Doughnuts
+@BODYTEXT:Lancaster
+@BODYTEXT:Orly International
+@BODYTEXT:
+@CO:LAGES & ASSOCIATES, INC.
+@BODYTEXT:15635 Alton Pkwy., #125, Irvine, CA 92618
+@BODYTEXT:949/453-8080; fax:949/453-8242; pr@lages.com
+@BODYTEXT:A full-service communications agency specializing in high-tech cyber-based products & services and interactive content developers. Founded: 1988
+@CCD1:Beverly Lages, pres.
+@BODYTEXT:Blue Iguana
+@BODYTEXT:Drake Certivo
+@BODYTEXT:New Horizons
+@BODYTEXT:TransDimension
+@BODYTEXT:VitalStream
+@BODYTEXT:Zyxel
+@BODYTEXT:
+@CO:LAINO CONSULTANTS, LTD., LEE
+@BODYTEXT:50 East 78 St., #400, New York, NY 10021
+@BODYTEXT:212/879-1814; fax:212/879-1815; lee@Lainogroup.com
+@BODYTEXT:Reputation management, crisis communications, financial PR, medical pro.  Employees: 12. Founded: 1987.
+@CCD1:Lee Laino, president
+@BODYTEXT:
+@CO:LAITIN ENTERPRISES INC., JULIE A.
+@BODYTEXT:708 Third Ave., 13th flr., New York, NY 10017
+@BODYTEXT:212/286-2424; fax:212/286-2345
+@BODYTEXT:www.julielaitin.com
+@BODYTEXT:Healthcare and publishing specialist. Employees: 3. Founded: 1982
+@CCD1:Julie A. Laitin, pres.
+@BODYTEXT:
+@CO:LANDAU PUBLIC RELATIONS
+@BODYTEXT:700 W. St. Claire Ave., 4th fl., Cleveland, OH 44113
+@BODYTEXT:216/696-1686; fax:216/771-5206
+@BODYTEXT:www.landaupr.com
+@BODYTEXT:General PR.  Employees: 18. Founded: 1983.
+@AGENCY:Agency Statement: Landau Public Relations is a full-service public relations firm with a depth of experience in corporate communications, consumer and trade publicity, crisis communications, and special events. Our diverse client list includes consumer products companies, manufacturers, healthcare providers, service companies, non-profit organizations, and corporations.
+@CCD1:Howard C. Landau, pres.; Lisa Kruse, VP; Jennifer Walker, Mike Bernstein, Emily Vincent, Hallie Fisher, senior A/Es
+@BODYTEXT:300 Spruce St., Columbus, OH 43215
+@BODYTEXT:614/851-6748
+@CCD1:Bill Wolfson, exec. VP
+@BODYTEXT:
+@BODYTEXT:Apollo Housing Capital
+@BODYTEXT:Clear Channel Comms. (Radio) N.E. Ohio
+@BODYTEXT:Cleveland Foodbank
+@BODYTEXT:Cuyahoga Communitiy College
+@BODYTEXT:Feld Entertainment
+@BODYTEXT:Giant Eagle, Inc.
+@BODYTEXT:Hedstrom Corp.
+@BODYTEXT:Heritage Development Co.
+@BODYTEXT:InnoDesk
+@BODYTEXT:InterContinental Hotel and Conference Ctr.
+@BODYTEXT:International Firestop Council
+@BODYTEXT:Jewish Community Federation of Cleveland
+@BODYTEXT:Kichler Lighting
+@BODYTEXT:Kohrman, Jackson & Krantz
+@BODYTEXT:Loveman-Curtiss, Inc.
+@BODYTEXT:MeadWestvaco Consumer & Office Products Group
+@BODYTEXT:Milton & Tamar Maltz Museum of Jewish Heritage
+@BODYTEXT:Northeast Ohio Council on Higher Education
+@BODYTEXT:Sterling Trucks and Western Star
+@BODYTEXT:Taste of the NFL
+@BODYTEXT:Timken Corp.
+@BODYTEXT:YMCA of Greater Cleveland
+@BODYTEXT:YO! Cleveland (Youth Opportunities Program)
+@BODYTEXT:
+@CO:LANDERSMADDEN
+@BODYTEXT:900 Broadway, #888, New York, NY 10003
+@BODYTEXT:212/292-8560; fax:212/292-8563
+@BODYTEXT:www.landersmadden.com
+@BODYTEXT:Full service PR firm focused on emerging and established fin’l svcs. and bus.-to-bus. companies.  Employees: 3. Founded: 2000.
+@AGENCY:Agency Statement: LandersMadden combines business insights, public relations savvy, and the attention of a small firm to deliver highly customized communications programs. Our programs consist of media & analyst relations, branding, conference and industry event coordination and placement. LandersMadden was founded in partnership with General Atlantic Partners and Capital Z.
+@CCD1:Maureen Landers, Machie Madden, co-presidents; Shari Nadel, A/E
+@BODYTEXT:
+@CO:LANDMARK COMMUNICATIONS, INC.
+@BODYTEXT:2 Executive Dr., #660, Fort Lee, NJ 07024
+@BODYTEXT:201/567-4242; fax:201/585-9817
+@BODYTEXT:Specializing in pharmaceutical, diagnostics, nutrition, hospital, and medical insurance industries.  Founded: 1995
+@CCD1:Joe Landi, pres.
+@BODYTEXT:
+@CO:LANDON COMMUNICATIONS
+@BODYTEXT:534 South Pleasant Ave., Ontario, CA 91761
+@BODYTEXT:909/986-7502; fax:909/986-0712
+@BODYTEXT:www.landonagency.com
+@BODYTEXT:Promotions and special events.  
+@CCD1:Marc Landon
+@BODYTEXT:
+@CO:LANDSEER ASSOCIATES
+@BODYTEXT:415 W. 23rd St., #9F, New York, NY 10011
+@BODYTEXT:212/924-6182; fax:212/255-2115; laninc@aol.com
+@BODYTEXT:Full-service PR firm; media relations, special events, marketing PR, cause-related marketing. Founded: 1995
+@CCD1:Lisa Morgan, principal
+@BODYTEXT:American Plastics Council
+@BODYTEXT:Carlisle Plastics
+@BODYTEXT:Prince Tennis
+@BODYTEXT:Rollerblade Inc.
+@BODYTEXT:
+@CO:LANE COMMUNICATIONS GROUP, INC., THE
+@BODYTEXT:1790 Broadway, New York, NY 10019
+@BODYTEXT:212/757-6880; fax:212/582-4794; info@lanecoadypr.com
+@BODYTEXT:Product/service publicity in beauty and pharmaceutical Employees: 10. Founded: 1975.
+@AGENCY:Agency Statement: The Lane Communications Group is an independent, full-service agency that specializes in marketing communications in three specific areas: cosmetics, toiletries and pharmaceuticals. The agency has strong ties with the dermatology community and has developed fluency with all subjects pertaining to the skin.
+@AGENCY:The agency enjoys enduring relationships with clients and the media, with some client relationships spanning more than two decades. A fundamental understanding of the need for strategic alignment of all marketing practices for a brand, helps the agency produce work that is always on target and relevant to the client, the media and the consumer.
+@AGENCY:The Lane Communications Group is known for its creativity and its ability to translate, in a captivating and engrossing way, key client messages for the media. This technique has opened doors in both print and broadcast media and allowed the agency to traverse areas not related to its specialty, i.e., food, beverage and B2B. The agency has helped clients maneuver through crises and avoid crises looming on the horizon. Its intelligent brand of counseling has earned the trust and loyalty of many large and small companies nationwide.
+@CCD1:Suzanne Lane, president; Tamara Coady, operations pres.
+@BODYTEXT:Channing’s Day Spa
+@BODYTEXT:Collagenex Pharmaceuticals
+@BODYTEXT:Dream Perfumes
+@BODYTEXT:E.T. Browne Divs.
+@BODYTEXT:Ferndale Laboratories
+@BODYTEXT:Galderma Labs., Divs.
+@BODYTEXT:Hill Dermaceuticals
+@BODYTEXT:La Dove
+@BODYTEXT:Merz Pharmaceuticals
+@BODYTEXT:S.C. Johnson, Divs
+@BODYTEXT:Sirivs Laboratories, Divs
+@BODYTEXT:Winston Laboratories
+@BODYTEXT:
+@CO:LANE MARKETING COMMUNICATIONS, INC.
+@BODYTEXT:905 SW 16th Ave., Portland, OR 97205
+@BODYTEXT:503/221-0480; info@lanemarketing.com
+@BODYTEXT:www.lanemarketing.com
+@BODYTEXT:Full service PR firm for technology, business and consumer clients.
+@CCD1:Wendy Lane, pres.
+@BODYTEXT:
+@CO:LANG/DURHAM
+@BODYTEXT:11 Talcott Notch Rd., Farmington, CT 06032
+@BODYTEXT:860/677-8885; fax:860/677-6554
+@BODYTEXT:www.langdurham.com
+@BODYTEXT:Full-service firm, advertising, PR, strategic marketing to local, regional and national clients in utilities, banking, healthcare, hospitality, mfg. and bus.-to-bus. Founded: 1989.
+@CCD1:Dean Lang, Jeff Durham, partners
+@BODYTEXT:
+@CO:LANSING, RAYMOND, ADVERTISING & PR
+@BODYTEXT:7217 Hawthorne Dr., Cheyenne, WY 82009
+@BODYTEXT:307/632-7622; fax:307/638-3469
+@BODYTEXT:Corporate, assn., financial, general PR
+@CCD1:Laura Groff, president
+@BODYTEXT:
+@CO:LARS & ASSOCIATES, INC.
+@BODYTEXT:322 Green Pond Road, Hibernia, NJ 07842
+@BODYTEXT:973/625-2225; fax:973/625-5025
+@BODYTEXT:www.larsnj.com
+@BODYTEXT:PR and advertising for computers, food, household products/ supplies, healthcare, toys. Founded: 1968.
+@CCD1:Lars Svaasand, chairman
+@BODYTEXT:Afrin Decongestant
+@BODYTEXT:Chiclets Gum
+@BODYTEXT:Coopertone Suntan Products
+@BODYTEXT:Dr. Scholl's Foot Products
+@BODYTEXT:Matchbox Toys
+@BODYTEXT:
+@CO:LARSON O'BRIEN
+@BODYTEXT:733 Washington Road, Pittsburgh, PA 15228
+@BODYTEXT:412/261-6519; fax:412/261-2971
+@BODYTEXT:Full-service marketing and management communications agency providing strategic planning, advertising, sales promotion, PR, PA, research and consulting services.
+@CCD1:Jack O’Brien, president
+@BODYTEXT:
+@CO:LAUERER MARKIN GROUP
+@BODYTEXT:1700 Woodlands Dr., Maumee, OH 43537
+@BODYTEXT:419/893-2500; fax:419/893-1050
+@BODYTEXT:www.LMGnet.com
+@BODYTEXT:
+@CCD1:Ken Lauerer
+@BODYTEXT:
+@CO:LAUGHLIN/CONSTABLE ADVERTISING AND PR
+@BODYTEXT:Division of Laughlin/Constable Inc.
+@BODYTEXT:207 E. Michigan St., Milwaukee, WI 53202
+@BODYTEXT:414/272-2400; fax:414/272-3056; chenke@laughlin.com
+@BODYTEXT:Consumer marketing PR: beauty, food, home furnishings.
+@BODYTEXT:Associated Bank
+@BODYTEXT:Baymont Inns & Suites
+@BODYTEXT:Butler Dental
+@BODYTEXT:Harley-Davidson MotorClothes
+@BODYTEXT:McDonald’s Restaurants of Southeastern Wisc.
+@BODYTEXT:OskKosh B’Gosh, Inc.
+@BODYTEXT:Wolverine-Harley Footwear
+@BODYTEXT:Wolverine Worldwide
+@BODYTEXT:
+@CO:LAUNCHSQUAD
+@BODYTEXT:531 Howard St., 4th flr., San Francisco, CA 94105
+@BODYTEXT:415/625-8555
+@BODYTEXT:www.launchsquad.com
+@BODYTEXT:High Tech PR.  Founded: 1999.
+@CCD1:Jason Thockmorton, Jesse Odell, Brett Weiner, Jason Mandell, partners
+@BODYTEXT:Anacor Pharmaceuticals
+@BODYTEXT:Bigfix
+@BODYTEXT:Cenzic
+@BODYTEXT:Marcrovision
+@BODYTEXT:Net6
+@BODYTEXT:
+@CO:LAWRENCE & PONDER IDEAWORKS
+@BODYTEXT:(Formerly Lawrence, Mayo & Ponder)
+@BODYTEXT:5000 Birch Street, #1000, Newport Beach, CA 92660
+@BODYTEXT:949/955-9200
+@BODYTEXT:www.lawrencemayoponder.com
+@BODYTEXT:Full-service advertising and PR firm. Founded: 1991.
+@CCD1:Claudia Ponder, chief strategic officer/agency partner; Lynda Lawrence, agency partner/chief idea officer
+@BODYTEXT:California Dept. of Health Svcs.
+@BODYTEXT:California Governor’s office of the Secy. for Education
+@BODYTEXT:Dot Hill
+@BODYTEXT:Fatburger
+@BODYTEXT:FileNet Corp. USA
+@BODYTEXT:Second Harvest Food Bank
+@BODYTEXT:Tenet HealthSystem
+@BODYTEXT:Women’s, Infants & Children Supplemental Nutrition
+@BODYTEXT:
+@CO:LAWRENCE MARKETING ASSOCIATES, INC.
+@BODYTEXT:12 Glenview Rd., #100, S. Orange, NJ 07079
+@BODYTEXT:973/761-4747; fax:973/763-1689
+@BODYTEXT:PR and advertising; African-American specialty, fast food, media buying, sporting goods.  Founded: 1989.
+@CCD1:Mark E. Lawrence, president
+@BODYTEXT:Colgate Palmolive
+@BODYTEXT:Lever Bros.
+@BODYTEXT:McDonald's
+@BODYTEXT:
+@CO:LAWRENCE STAR
+@BODYTEXT:734 W. El Alba Way, Chandler, AZ 85225
+@BODYTEXT:480/855-0054
+@BODYTEXT:Health, high-tech PR, reporting, web material. Founded: 1982.
+@CCD1:Star Lawrence, president
+@BODYTEXT:Homeland Protection Professional
+@BODYTEXT:Newsweek Health Sections
+@BODYTEXT:WebMD
+@BODYTEXT:
+@CO:LAWSCOMM
+@BODYTEXT:10630 E. Bethany Dr., Suite A, Aurora, CO 80014
+@BODYTEXT:303/755-4400; fax:303/755-4455; jenl@lawscomm.com
+@BODYTEXT:Marketing, PR, IR and Internet marketing strategies. Founded: 1992.
+@CCD1:Sandra Laws, pres./founder
+@BODYTEXT:Balance Body
+@BODYTEXT:CFP Board
+@BODYTEXT:Home Builder's Assn. of Metropolitan Denver
+@BODYTEXT:
+@CO:LBG COMMUNICATIONS
+@BODYTEXT:101 Puritan Dr., Scarsdale, NY 10583
+@BODYTEXT:914/722-1390; Lbgcom@aol.com
+@BODYTEXT:Travel & tourism PR
+@CCD1:Lisa Brainin-Greenberg, pres.
+@BODYTEXT:Fathom Expeditions
+@BODYTEXT:Odysseys Unlimited
+@BODYTEXT:Students on Ice
+@BODYTEXT:Wales Tourist Board
+@BODYTEXT:
+@CO:LCH COMMUNICATIONS
+@BODYTEXT:18 Crestwood Road, Pt. Washington, NY 11050
+@BODYTEXT:516/767-8390; fax:516/944-7417; lisa@lchcommunications.com
+@BODYTEXT:www.lchcommunications.com
+@BODYTEXT:Technology, software, and business-to-business public relations. Employees: 2. Founded: 1999.
+@CCD1:Lisa Hendrickson, principal; Lonny Unger, senior consultant
+@BODYTEXT:Babycenter.com
+@BODYTEXT:Oxbridge Communications
+@BODYTEXT:Probotics
+@BODYTEXT:
+@CO:LCI COMMUNICATIONS, INC.
+@BODYTEXT:10900 Nuckols Rd., #160, Glen Allen, VA 23060
+@BODYTEXT:804/270-0867; fax:804/270-6837
+@BODYTEXT:Marketing PR, product/trade publicity, exec. comm. Employees: 8. Founded: 1985
+@CCD1:Tom Hostenske, pres.
+@BODYTEXT:Bromma, Inc.
+@BODYTEXT:Hamilton Beach/Proctor Silex
+@BODYTEXT:Hubbell Lighting
+@BODYTEXT:
+@CO:LDS
+@BODYTEXT:50 W. Corporate Ctr., 3975 Fair Ridge Dr., #100 South, Fairfax, VA 22033
+@BODYTEXT:703/259-5225
+@BODYTEXT:
+@CCD1:Scott Castleman, general mgr.; James Toner, dir., acct. svcs.
+@BODYTEXT:
+@CO:LEADING IMAGE
+@BODYTEXT:54 Main St., Tarrytown, NY 10591
+@BODYTEXT:914/333-0722; fax:914/333-0721; maderosen@aol.com
+@BODYTEXT:www.LeadingImage.com
+@BODYTEXT:Marketing, PR, media relations, corp. communications, HR & employee comms., sporting goods/sports mktg., healthcare, travel/hospitality, arts/entertainment, consumer, high-tech, food/wine, real estate, bus.-to-bus., crisis mgmt., special events, book & magazine publishing PR.  Employees: 4. Founded: 1991.
+@CCD1:Lawrence Solomon, president; Madelon Rosen, VP
+@BODYTEXT:CSA, Inc. Health & Fitness
+@BODYTEXT:Dominique Salon Ltd./Hotel Pierre
+@BODYTEXT:Hendrick Hudson Cultural Educ. Foundation
+@BODYTEXT:Hyperbeat.com
+@BODYTEXT:Nesor Realty
+@BODYTEXT:Penmar Optical
+@BODYTEXT:SLM Fitness Intl./Richard Simmons Fitness Line
+@BODYTEXT:Seagal Nasso Productions
+@BODYTEXT:Universal Marine Medical Supply Co.
+@BODYTEXT:
+@CO:LEDLIE GROUP, THE
+@BODYTEXT:Member of the PR Global Network
+@BODYTEXT:3445 Peachtree Rd., N.E., #625, Atlanta, GA 30326
+@BODYTEXT:404/266-8833; fax:404/266-9620
+@BODYTEXT:www.theledliegroup.com
+@BODYTEXT:Crisis mgmt., marketing support, litigation support, internal communications, community rels., corporate identity.  Employees: 9. Founded: 1998.
+@AGENCY:Agency Statement: The critical communications company in opportunity development, crisis management, workplace and community relations, brand marketing and media strategy. Serves leader companies and professional services firms headquartered in a dozen states.
+@AGENCY:The Ledlie Group has grown an average of over 50 percent each year during the last six years. More than a dozen Fortune-list companies have crowned our client list and a number of outstanding professional service firms round it out.
+@CCD1:Joseph M.A. Ledlie, Christopher J. Ledlie, Ernie R. Buday, Allison T. Johnson, Jennifer C. Woodbridge, Ann L. Elsas, Carrie W. Drone, Philip T. Hauserman, Cynthia Bosarge 
+@BODYTEXT:Advanced Disposal
+@BODYTEXT:Anderson, Tate, Mahaffey & McGarity, P.C
+@BODYTEXT:Applied Software
+@BODYTEXT:Atlanta Symphony Orchestra
+@BODYTEXT:BellSouth Corp.
+@BODYTEXT:BroadSource
+@BODYTEXT:Bridge Staffing
+@BODYTEXT:Bullock Mannelly Partners
+@BODYTEXT:Cingular Wireless
+@BODYTEXT:Coloplast
+@BODYTEXT:Columbia Properties Inc.
+@BODYTEXT:DAL Global Services
+@BODYTEXT:Delta Air Lines
+@BODYTEXT:Devereux Treatment Centers
+@BODYTEXT:Digital Insight
+@BODYTEXT:Elarbee, Thompson, Sapp & Wilson, LLP
+@BODYTEXT:Fairfield Resorts International
+@BODYTEXT:Foltz Martin
+@BODYTEXT:John Wieland Homes & Neighborhoods
+@BODYTEXT:King Benevolent Fund
+@BODYTEXT:Lake Winnepesaukah
+@BODYTEXT:Morris Hardwick Schneider
+@BODYTEXT:Paul, Hastings, Janofsky & Walker
+@BODYTEXT:RS Andrews
+@BODYTEXT:Tenet Healthcare
+@BODYTEXT:Trees Atlanta
+@BODYTEXT:WalMart
+@BODYTEXT:Walter Industries
+@BODYTEXT:Zurich Financial Services
+@BODYTEXT:
+@CO:LEE & ASSOCIATES, INC.
+@BODYTEXT:145 So. Fairfax Ave., #301, Los Angeles, CA 90036
+@BODYTEXT:323/938-3300; fax:323/938-3305; leeassociatespr@aol.com
+@BODYTEXT:www.leeassociates.com
+@BODYTEXT:Food and consumer product PR.  Employees: 8. Founded: 1950.
+@AGENCY:Agency Statement: We are celebrating our 55th year of offering food & beverage, restaurant and consumer products clients all aspects of marketing communications and media services. This includes strategic planning, full product launches, general publicity, special events, consumer education, crisis management, trade publicity and corporate PR. Our full-service, results-oriented agency has created successful campaigns for small and medium-size accounts, as well as for giants like PepsiCo, Frito Lay, American Home Foods, and Del Monte.
+@CCD1:Leo Pearlstein, pres.; Howard Pearlstein, VP; Frank Pearlstein, VP; Judith King, A/S; George DeMoss, Jacque Madrano, Rachelle Bugtong, A/Es
+@BODYTEXT:Aqua Farming Int’l
+@BODYTEXT:Armanino Foods
+@BODYTEXT:Black Mountain Gold Coffee
+@BODYTEXT:California Salmon Council
+@BODYTEXT:Chowbaby.com
+@BODYTEXT:International West Coast Seafood Show
+@BODYTEXT:Interstate Bakeries Corp.
+@BODYTEXT:Marie Callender’s Croutons
+@BODYTEXT:Morehouse Mustard
+@BODYTEXT:Mrs. Cubbison’s Foods
+@BODYTEXT:Oregon Potato Commission
+@BODYTEXT:San Francisco French Bread Co.
+@BODYTEXT:Tropical Preserving Co.
+@BODYTEXT:
+@CO:LEE COMMUNICATIONS, LTD., JANE
+@BODYTEXT:1 North Main St., #612, PO Box 2767, Hutchinson, KS 67504
+@BODYTEXT:620/662-0076; fax:620/662-1221
+@BODYTEXT:Healthcare, general PR. Employees: 5. Founded: 1984
+@CCD1:Jane Lee, pres. & owner; Sheila Lucia, senior A/E
+@BODYTEXT:Consolidated Manufacturing
+@BODYTEXT:Great Plains Health Alliance
+@BODYTEXT:Jackson Ice Cream
+@BODYTEXT:Mendenhall Laboratories
+@BODYTEXT:Newton Medical Center
+@BODYTEXT:
+@CO:LEE COMMUNICATIONS, TONI
+@BODYTEXT:5 Spicewood Lane, Wilton, CT 06897
+@BODYTEXT:203/761-1292; fax:203/761-9049
+@BODYTEXT:Full-service PR and marketing company. Founded: 1998
+@CCD1:Toni Lee, principal; Michael Smolen
+@BODYTEXT:Harvard Business School Publishing
+@BODYTEXT:MindShare Worldwide
+@BODYTEXT:Ogilvy & Mather Advertising
+@BODYTEXT:Ogilvy Interactive
+@BODYTEXT:Village Ventures, Inc.
+@BODYTEXT:
+@CO:LEE COMPANY, NORMA A.
+@BODYTEXT:220 E. 54th St., New York, NY 10022
+@BODYTEXT:212/750-2412; fax:212/593-0862; nalcopr@aol.com
+@BODYTEXT:
+@CCD1:Norma Lee, pres.; Elinor Ruskin, associate
+@BODYTEXT:
+@CO:LEE STRATEGY GROUP, INC.
+@BODYTEXT:1800 Century Park East, #600, Los Angeles, CA 90067
+@BODYTEXT:310/229-5771; fax:310/229-5772; info@leestrategy.com
+@BODYTEXT:Crisis communications, media relations and training, financial, investor and analyst relations, brand and consumer marketing, litigation support. Employees: 5. Founded: 1999
+@CCD1:James Lee, president
+@BODYTEXT:Children and Families Commission of Orange County
+@BODYTEXT:Choctaw Resort Development Enterprise
+@BODYTEXT:Immune Response Corp.
+@BODYTEXT:Nations Surgery Centers
+@BODYTEXT:
+@CO:LEESBURG PR
+@BODYTEXT:3904 N. Druid Hills Rd., #311, Decatur, GA 30033
+@BODYTEXT:404/842-0040; fax:404/842-0437; amanda@leesburgpr.com
+@BODYTEXT:www.leesburgpr.com
+@BODYTEXT:Consumer, entertainment, television/film, non-profit and environmental communications services. Employees: 2. Founded: 2002.
+@AGENCY: Agency Statement:  Leesburg PR is a strategic public relations company, specializing in local, regional and national consumer and entertainment-based media programs and campaigns.  From the front page of the New York Times to a guest appearance on a national morning show, Leesburg PR works to define your communications goals, identify strategies and tactics for delivering your messages.  Other services include community relations, and brand, product and service image management.
+@CCD1:Amanda Leesburg, president; Erin Bransford, creative dir.
+@BODYTEXT:Captain Planet Foundation
+@BODYTEXT:Discovery Home Channel
+@BODYTEXT:Eternal Reefs
+@BODYTEXT:Linea Interiors
+@BODYTEXT:Upper Chattahoochee Riverkeeper Fund
+@BODYTEXT:Union Diamond Corporation
+@BODYTEXT:
+@CO:LEFTON COMPANY INC., AL PAUL
+@BODYTEXT:Advertising and Public Relations.
+@BODYTEXT:100 Independence Mall West, 4th flr., Philadelphia, PA 19106
+@BODYTEXT:215/923-9600; fax:215/351-4299
+@BODYTEXT:www.lefton.com
+@BODYTEXT:PR for bus-to-bus./technology/bldg. materials, chemical companies, assns., crisis comms.  Employees: 11. Founded: 1928.
+@CCD1:Al Paul Lefton Jr., pres. & CEO
+@BODYTEXT:American Plastics Council
+@BODYTEXT:Arkema Inc.
+@BODYTEXT:Armstrong World Industries
+@BODYTEXT:Lafarge North America Inc.
+@BODYTEXT:Mitsubishi Fuso Truck of America
+@BODYTEXT:Netherlands Foreign Investment Agency
+@BODYTEXT:
+@CO:LEGRAND HART
+@BODYTEXT:(Formerly BRW LeGrand)
+@BODYTEXT:1250 Bannock St., Denver, CO 80204
+@BODYTEXT:303/298-8470; fax:303/298-8570
+@BODYTEXT:www.brwlegrand.com
+@BODYTEXT:Strategic PR services to companies in fast growth sectors of technology, healthcare and high-growth corporate/consumer.  Employees: 15. Founded: 1992.
+@CCD1:DeeDee LeGrand-Hart, CEO; Brian Fulton, director of business development; Jennifer Tramontana, director; Melisa Harder, director; David Beachley, senior analyst
+@BODYTEXT:AlloSource
+@BODYTEXT:Association for Corporate Growth (ACG)
+@BODYTEXT:CH2M Hill
+@BODYTEXT:Charter Communications
+@BODYTEXT:Donor Alliance
+@BODYTEXT:Hitachi Software Global Technology (HSGT)
+@BODYTEXT:LeftHand Networks
+@BODYTEXT:Neoplan USA Corp.
+@BODYTEXT:OrangeGlo International
+@BODYTEXT:Semple Brown Design
+@BODYTEXT:Space Imaging Corp.
+@BODYTEXT:
+@CO:LEHMAN ASSOCIATES, PAUL
+@BODYTEXT:PO Box 487, Ivoryton, CT 06442
+@BODYTEXT:860/767-1639; fax:860/767-7180
+@BODYTEXT:PR and advertising; bus.-to-bus., creative, direct marketing. Founded: 1972.
+@CCD1:Paul Lehman, pres.
+@BODYTEXT:Alforno Ristorante
+@BODYTEXT:CDHM Advertising, Inc.
+@BODYTEXT:Millennium Hotels & Resorts
+@BODYTEXT:
+@CO:LEHMAN MILLET INCORPORATED
+@BODYTEXT:60 Canal St., Boston, MA 02114
+@BODYTEXT:617/722-0019; fax:617/722-6099
+@BODYTEXT:Specializing in medical mktg., adv., design, PR and professional relations. Founded: 1979
+@CCD1:Sandy Bodner, VP, public relations
+@BODYTEXT:ACMI Inc.
+@BODYTEXT:Bayer Diagnostics
+@BODYTEXT:Cordis Endovascular
+@BODYTEXT:Essilor of America
+@BODYTEXT:Ethicon Endo Surgery
+@BODYTEXT:MediSpectra Inc.
+@BODYTEXT:
+@CO:LEINWEBER ASSOCIATES
+@BODYTEXT:30 Lincoln Lane, Sudbury, MA 01776
+@BODYTEXT:978/440-7878; fax:978/440-8008; info@leinweber.com
+@BODYTEXT:Corporate, financial, consumer product, technology and healthcare PR.  Founded: 1991.
+@CCD1:Daniel S. Leinweber, pres.
+@BODYTEXT:
+@CO:LEPOIDEVIN RICKINGER GROUP
+@BODYTEXT:245 S. Executive Dr., #365, Brookfield, WI 53005
+@BODYTEXT:262/754-9550; fax:262/754-9554; ideas@thelrgroup.com
+@BODYTEXT:Full-service bus.-to-bus. & consumer mktg. comms. agency serving clients in the animal health, power transmission, pest control, fin’l, HVAC filtration, industrial & consumer cable., & professional networking industries.
+@CCD1:Dean LePoidevin, prin.; John Rickinger, partner
+@BODYTEXT:
+@CO:LESKO RESEARCH CORP.
+@BODYTEXT:3100 Brighton Rd., Pittsburgh, PA 15212
+@BODYTEXT:412/566-1680; fax:412/566-1682
+@BODYTEXT:General PR. Founded: 1968
+@CCD1:George Lesko, pres.  
+@BODYTEXT:
+@CO:LESLIE PUBLIC RELATIONS
+@BODYTEXT:Division of Leslie Advertising
+@BODYTEXT:874 South Pleasantburg Dr., Greenville, SC 29607
+@BODYTEXT:864/271-8340; fax:864/271-7481; karad@leslieagency.com
+@BODYTEXT:Strategic planning; customer, media, community and employee relations; event management; and crisis communications. Employee: 7. Founded: 1980.
+@CCD1:Kara Dullea, PR director
+@BODYTEXT:Cliffs Communities
+@BODYTEXT:Dean Foods-Pet Foods
+@BODYTEXT:First Citizens Bank
+@BODYTEXT:Greenville Pro/Am Classic for Meals on Wheels
+@BODYTEXT:Myrtle Beach Convention Center
+@BODYTEXT:South Carolina Department of Parks, Recreation and Tourism
+@BODYTEXT:
+@CO:LEVENSON & BRINKER PUBLIC RELATIONS
+@BODYTEXT:Levenson & Hill Adv. is a stakeholder in Levenson & Brinker PR
+@BODYTEXT:717 North Harwood, 20th flr., Dallas, TX 75201
+@BODYTEXT:214/932-6076; fax:214/880-0628; s.levenson@levensonbrinkerpr.com
+@BODYTEXT:www.levensonbrinkerpr.com
+@BODYTEXT:Media relations, corporate image programs, special events, crisis comms., corp. mktg and community relations for entertainment, hospitality, food/beverages, others. Employees: 11. Founded: 2004.
+@AGENCY:Agency Statement: Levenson Public Relations & Brinker Communications merged in April, 2004 to deliver the highest standards of performance and commitment to their clients and the communities in which they serve.
+@AGENCY:The timing of the merger was driven by a shared vision and interest in contributing to the success of industry leaders in a marketplace that demands an increasingly higher level of performance.
+@AGENCY:Levenson & Brinker Public Relations orchestrates experience and expertise with professionalism to deliver measurable results and value to its clients.
+@AGENCY:Founded in 1984, Levenson Public Relations has consistently been one of the Southwest's leading strategic communications firms. According to the March 31, 2004 issue of Jack O'Dwyer's Newsletter, Levenson Public Relations ranked 6th in the state of Texas.
+@AGENCY:Brinker Communications began in 1989 and has specialized in brand development, promotions, cause-related  marketing and public affairs.
+@CCD1:Stan Levenson, CEO; Cindy Brinker, president; Fran Gallagher, exec. VP & dir., client services; Chris Payne, VP/Dir., Strategic Communications; George Campbell, VP & Dir., Marketing Communications; Justin Lonon, VP/director of PA; Henry Tatum, VP, Community Relations.
+@BODYTEXT:Aaron Brothers Art & Framing
+@BODYTEXT:Barrett Burke Wilson Castle Daffin & Frapper
+@BODYTEXT:Central Dallas Association
+@BODYTEXT:Clear Channel
+@BODYTEXT:Dallas Center for the Performing Arts Foundation
+@BODYTEXT:Downtown Dallas Improvement District
+@BODYTEXT:Gordon's Jewelers
+@BODYTEXT:H-E-B/Central Market
+@BODYTEXT:Maggiano's Little Italy
+@BODYTEXT:Parkland Foundation
+@BODYTEXT:Perkins School of Theology, Southern Methodist University
+@BODYTEXT:Snelling Personnel Services
+@BODYTEXT:Texas Bariatic Center
+@BODYTEXT:YMCA of Metropolitan Dallas
+@BODYTEXT:Zale Corp.
+@BODYTEXT:Zales Fine Jewelry Outlet
+@BODYTEXT:Projects: Paramount Pictures - SW; Warner Bros. - SW
+@BODYTEXT:
+@CO:LEVICK STRATEGIC COMMUNICATIONS, LLC
+@BODYTEXT:1900 M Street, NW, Suite 400, Washington, DC 20036
+@BODYTEXT:202/973-1300; fax:202/973-1301; info@levick.com
+@BODYTEXT:www.levick.com
+@BODYTEXT:Law firm, legal industry, and professional services media relations and communications strategy. Litigation PR. Founded: 1998.
+ Employees: 26.
+@AGENCY:Agency Statement: Our core business is high-stakes communications. We develop and implement communications strategies for the highest-profile litigation and crisis matters globally, from Guantanamo Bay and the largest civil litigation emanating from the Iraq war, to the Catholic Church scandals and major banking disputes in the Middle East.
+@AGENCY:We direct communications programs from soup to nuts. On a day-to-day basis, we integrate communications programs with legal strategy. (In fact, we have represented half of the 100 largest law firms in America.) We guide interactions with regulators. We generate grassroots campaigns.  We support government relations and diplomatic negotiations. If a country, a corporation, or an individual is in trouble and there is a strong likelihood of public scrutiny, we make the difference in shaping the story on an ongoing basis.
+@AGENCY:We have published three highly acclaimed books, including “Stop the Presses: The Litigation PR Desk Reference, with two more forthcoming – one on financial communications, and one on high-stakes communications. We keynote many of the most important legal conferences from New York to New Delhi. Our articles appear in magazines and newspapers around the world.
+@CCD1:Richard S.Levick, Esq., pres/CEO; Larry Smith, dir. of strategy; Scott Sobel, Gene Grabowski, Michael W. Robinson, vps 
+@BODYTEXT:
+@CO:LEVIN PUBLIC RELATIONS & MARKETING
+@BODYTEXT:147 Rockland Ave., Larchmont, NY 10538
+@BODYTEXT:914/834-5919; Levin@LevinPR.com
+@BODYTEXT:www.LevinPR.com
+@BODYTEXT:Business-to-business, technology, financial services, telecom (call centers), related areas.  Founded: 1984.
+@CCD1:Donald M. Levin, pres.; Amy Levin, VP; Sylvia Moss, editor
+@BODYTEXT:AeroAstro
+@BODYTEXT:American Institute of Professional Bookkeeping
+@BODYTEXT:Davidge Data Systems
+@BODYTEXT:Impulse Devices, Inc.
+@BODYTEXT:Milestone Venture Partners
+@BODYTEXT:
+@CO:LEVINE COMMUNICATIONS OFFICE (LCO-LEVINE)
+@BODYTEXT:1180 S. Beverly Drive, #301, Los Angeles, CA 90035
+@BODYTEXT:310/300-0950; fax:310/300-0951
+@BODYTEXT:www.lcoonline.com
+@BODYTEXT:Entertainment, fashion, design, law and book PR.  Employees: 10. Founded: 1983.
+@CCD1:Dawn Miller, VP & director, publicity; Michael Levine, founder; Liam Collopy, director; Shannon Hartigan, Brian McWilliams, publicists
+@BODYTEXT:
+@CO:LEVINSON ASSOCIATES
+@BODYTEXT:Div. of Levinson EVI, Inc.
+@BODYTEXT:1440 Veteran Ave., #650, Los Angeles, CA 90024
+@BODYTEXT:323/663-6940; leviinc@AOL.COM
+@BODYTEXT:Employees: 5. Founded: 1965
+@CCD1:Robert S. Levinson, chmn., pres.; Sandra S. Levinson
+@BODYTEXT:Council on Natural Nutrition
+@BODYTEXT:Gateways Hosp. and Mental Health Centers
+@BODYTEXT:Healthcare Industries
+@BODYTEXT:Hollywood Press Club
+@BODYTEXT:
+@CO:LEVITT COMMUNICATIONS, KERI
+@BODYTEXT:19 W. 21st St., #602, New York, NY 10010
+@BODYTEXT:212/754-1400; fax:212/754-8987
+@BODYTEXT:www.kerilevitt.com
+@BODYTEXT:Fashion and lifestyle PR. Employees: 6. Founded: 1998
+@CCD1:Keri Levitt, president
+@BODYTEXT:Danier
+@BODYTEXT:Kooba
+@BODYTEXT:Laundry by Shelli Segal
+@BODYTEXT:Sigrid Olsen
+@BODYTEXT:Tibi
+@BODYTEXT:White + Warren
+@BODYTEXT:
+@CO:LEVITT MANAGEMENT CONSULTANTS
+@BODYTEXT:79 West 12th St., New York, NY 10011
+@BODYTEXT:212/727-7131; fax:212/633-1214; LeeLevitt@compuserve.com
+@BODYTEXT:Consultant to PR firms; design and execution of new business campaigns for PR firms. Founded: 1984.
+@CCD1:Lee Levitt, principal
+@BODYTEXT:
+@CO:LEVLANE ADVERTISING AND PUBLIC RELATIONS
+@BODYTEXT:1 Belmont Ave., #703, Bala Cynwyd, PA 19004
+@BODYTEXT:610/667-7313; fax:610/667-3176
+@BODYTEXT:Bus.-to-bus. & consumer PR; technology, healthcare, food, professional svcs. Founded: 1984.
+@CCD1:David A. Lane, pres.; Bruce H. Lev, exec. VP
+@BODYTEXT:Decision One Corp.
+@BODYTEXT:Don Pablo's Mexican Kitchens
+@BODYTEXT:Penn Mutual Life Insurance Co.
+@BODYTEXT:Rita's Water Ice
+@BODYTEXT:
+@CO:LEWI ASSOCIATES, ED
+@BODYTEXT:6 Chelsea Place, Clifton Park, NY 12065
+@BODYTEXT:518/383-6183; fax:518/383-6755
+@BODYTEXT:
+@CCD1:Mark Bardack
+@BODYTEXT:
+@CO:LEWIS & ASSOCIATES
+@BODYTEXT:5900 Wilshire Blvd., Los Angeles, CA 90036
+@BODYTEXT:323/938-2000; fax:323/938-3038; Lewispr@aol.com
+@BODYTEXT:General PR, marketing, corporate, media relations. Founded: 1960.
+@CCD1:N. Richard Lewis, pres.; Sandra Loeffler, sr. VP; Jennifer Clark, graphics manager
+@BODYTEXT:Continental Development Co.
+@BODYTEXT:Killefer Flamming Architects
+@BODYTEXT:Operating Engineers Trust Fund (Property Development)
+@BODYTEXT:Overton Moore Properties
+@BODYTEXT:Rothenberg Sawasy Architects
+@BODYTEXT:Spiwak & Iezza (Lawyers)
+@BODYTEXT:
+@CO:LEWIS & NEALE, INC.
+@BODYTEXT:35 East 21st St., New York, NY 10010
+@BODYTEXT:212/420-8808; fax:212/254-2452; anita@lewis-neale.com
+@BODYTEXT:www.lewis-neale.com
+@BODYTEXT:Food Communications Employees: 11. Founded: 1940.
+@AGENCY:Agency Statement:  Lewis & Neale is the preeminent full-service communications agency devoted exclusively to the marketing of food.  The firm has built a solid reputation by successfully enhancing the image of its clients' products, changing consumer attitudes, building demand and launching and repositioning products.  Clients depend on the agency for strategies and creatives that consistently deliver outstanding results.
+@AGENCY:To support the company's singular interest, the staff consists of experienced food professionals, such as marketing and publicity experts, food writers, recipe developers and a dietitian.  In-house facilities are equally specialized and include test kitchens, a photography studio and a comprehencive food-focused library.  Programs are targeted to consumers (mass and segmented, age and gender specific, ethnic and regional niches), the foodservice industry, food manufacturers, retailers, health professionals and educators.  
+@CCD1:Anita Fial, president; Ruth Lowenberg, sr. VP
+@BODYTEXT:Avocados from Mexico (APEAM)
+@BODYTEXT:Chilean Fresh Fruit Association
+@BODYTEXT:European Union Product Campaign
+@BODYTEXT:Florida Tomato Committee
+@BODYTEXT:Fresh Supersweet Corn Council
+@BODYTEXT:Mrs. T’s Pierogies
+@BODYTEXT:Mushroom Information Center
+@BODYTEXT:Prosciutto di Parma
+@BODYTEXT:TexasSweet Citrus Marketing Board
+@BODYTEXT:U.S. Highbush Blueberry Council
+@BODYTEXT:
+@CO:LEWIS COMMUNICATIONS, INC., RICHARD
+@BODYTEXT:1211 Avenue of the Americas, New York, NY 10036
+@BODYTEXT:212/827-0020 (24 hours); fax:212/827-0028; rlc@rlcinc.com
+@BODYTEXT:International/corporate/product PR.
+@CCD1:Richard S. Lewis, president; Salima Benchoukroun, account mgr., recreational marine; Kimoine Williams, junior A/E
+@BODYTEXT:Airship Management Services
+@BODYTEXT:Everglades Boats
+@BODYTEXT:Monterey Boats
+@BODYTEXT:Mutual Marine Office
+@BODYTEXT:Nissan Marine & Power Products
+@BODYTEXT:Nissho Iwai American Corp.
+@BODYTEXT:NY Magic, Inc.
+@BODYTEXT:Seastrike Boats
+@BODYTEXT:Sojitz Corp. of America
+@BODYTEXT:Tohatsu America Corp.
+@BODYTEXT:Tohatsu Outboard Motors Corp.
+@BODYTEXT:UFJ Bank
+@BODYTEXT:United Financial of Japan Group
+@BODYTEXT:Projects: Nissho Iwai Corp. (Japan); Forexster; Entrepia Ventures
+@BODYTEXT:
+@CO:LEWIS COMMUNICATIONS, JILL
+@BODYTEXT:200 E. Delaware Place., #29D, Chicago, IL 60611
+@BODYTEXT:312/654-9090; fax:312/654-9091
+@BODYTEXT:www.jlpr.com
+@BODYTEXT:A full-service PR firm specializing in integrated marketing communications and PR for professionals, assns., and corporate entities. Founded: 1995
+@CCD1:Jill Lewis, founder
+@BODYTEXT:
+@CO:LEWIS PR INC.
+@BODYTEXT:50 California St., # 1500, San Francisco, CA 94111
+@BODYTEXT:415/277-5400; fax:415/277-5410; info@lewispr.com
+@BODYTEXT:www.lewispr.com
+@BODYTEXT:Global marketing and media relations firm Employees: 24.
+@AGENCY: Agency Statement:  LEWIS is a global public relations consultancy.  Specializing in technology and telecom, the agency has 15 wholly-owned offices across the US (Boston, San Diego, San Francisco and Washington, DC), Europe and Asia-Pac.  We have over 140 staff around the world, working on more than 100 campaigns.
+@AGENCY: PRWEEK's fastest-climbing technology consultancy in the US, LEWIS is still growing, still recruiting, still delivering, and still embarrassed by such shameless self-promotion.
+@CCD1:Morgan McLintic, VP; Steve Capoccia, Boston; Tim Wheatcroft, business development director; Ian Lipner, Washington; Andy Oliver, San Diego; Lucy Allen, San Francisco.
+@BODYTEXT:Boston: Steve Capoccia, 617/454-1100
+@BODYTEXT:San Diego: Tim Wheatcroft, 619/516-2559
+@BODYTEXT:Washington, DC: Ian Lipner, 202/349-3866
+@BODYTEXT:
+@BODYTEXT:
+@CO:LEXICON COMMUNICATIONS CORP.
+@BODYTEXT:520 Bellmore Way, Pasadena, CA 91103
+@BODYTEXT:626/683-9200; fax:626/449-7659; information@lexiconcorp.com
+@BODYTEXT:Corporate, product, professional PR, crisis mgmt.
+@CCD1:Steven B. Fink, pres.; Harriet Braiker, Ph.D., sr. VP/crisis mgmt.; Mary Pitzer, A/S
+@BODYTEXT:Baylor College of Medicine
+@BODYTEXT:Brandeis-Bardin Institute
+@BODYTEXT:Gordon & Holmes
+@BODYTEXT:Minerals Technologies, Inc.
+@BODYTEXT:Nike
+@BODYTEXT:Pat & Oscar's
+@BODYTEXT:St. Luke's Episcopal Health System
+@BODYTEXT:Worldwide Restaurant Concepts
+@BODYTEXT:
+@CO:LIGGETT-STASHOWER PUBLIC RELATIONS
+@BODYTEXT:Unit of Liggett-Stashower, Inc., diversified comms. agency
+@BODYTEXT:Partner in The Worldcom Public Relations Group, 1228 Euclid Ave., Cleveland, OH 44115
+@BODYTEXT:216/348-8520; fax:216/736-8118
+@BODYTEXT:Consumer, bus.-to-bus. PR; corp. comms., mktg. comms., issues mgmt., PA.  Employees: 19. Founded: 1980.
+@AGENCY:Agency Statement: At Liggett-Stashower Public Relations, we get our insights by listening first. Hearing what our clients have to say is key to understanding their unique opportunities in the marketplace. Our response: clear, strategic communications that get results.
+@AGENCY:For more than two decades, L-S PR has been delivering full-service capabilities for consumer, retail and business-to-business clients. As a founding partner of The WORLDCOM Group, we can collect and communicate information virtually anywhere on the globe.
+@CCD1:Mark Nylander, CEO; Brian Bloom, Leslie Resnik, Chris Baldwin, Stacey Vaselaney, VPs and sr. program managers
+@BODYTEXT:Advanced Lighting Technologies
+@BODYTEXT:Anti Reflective Council
+@BODYTEXT:Astro Instrumentation
+@BODYTEXT:Crane Performance Siding
+@BODYTEXT:Day-Brite Lighting
+@BODYTEXT:DayGlo
+@BODYTEXT:FirstMerit Bank
+@BODYTEXT:Forest City
+@BODYTEXT:GrafTech
+@BODYTEXT:Henkel Consumer Adhesives 
+@BODYTEXT:Jewish Community Federation
+@BODYTEXT:Linsalata Capital Partners
+@BODYTEXT:Microsun
+@BODYTEXT:Moen
+@BODYTEXT:OSI Brands
+@BODYTEXT:Parma Hospital
+@BODYTEXT:Pittsburgh Corning
+@BODYTEXT:Preformed Line Products
+@BODYTEXT:Primus Venture Partners
+@BODYTEXT:Ritz-Carlton, Cleveland
+@BODYTEXT:Roadway Express
+@BODYTEXT:Technical Consumer Products
+@BODYTEXT:Timber Tech
+@BODYTEXT:Titus Innovation
+@BODYTEXT:Webb Wheel Products
+@BODYTEXT:
+@CO:LILJA INC.
+@BODYTEXT:8953 Aztec Dr., Eden Prairie, MN 55347
+@BODYTEXT:952/893-7140; fax:952/893-7815; mcl@lilja.com
+@BODYTEXT:www.lilja.com
+@BODYTEXT:Strategic comms., media rels., writing Founded: 1988.
+@CCD1:Mary Lilja, pres.
+@BODYTEXT:Barnes & Noble
+@BODYTEXT:Marquette Financial Companies
+@BODYTEXT:Verizon Wireless, Great Plains Region
+@BODYTEXT:
+@CO:LIME PUBLIC RELATIONS + PROMOTION
+@BODYTEXT:Division of kirshenbaum bond creative network
+@BODYTEXT:160 Varick St., 4th flr., New York, NY 10013
+@BODYTEXT:212/337-6000; fax:212/633-1711; info@limeprpromo.com
+@BODYTEXT:www.limeprpromo.com
+@BODYTEXT:
+@CCD1:Claudia Strauss, president; Laura Leinweber, VP/strategic comms. director; Jim Anstey, VP/dir. of brand action
+@BODYTEXT:Cap Gemini Ernst & Young
+@BODYTEXT:Chela Education Financing
+@BODYTEXT:Citibank
+@BODYTEXT:Hartz Mountain Co.
+@BODYTEXT:Kirshenbaum Bond & Partners
+@BODYTEXT:PBS
+@BODYTEXT:Song
+@BODYTEXT:Style.com
+@BODYTEXT:Swan Hellenic
+@BODYTEXT:Terra Chips
+@BODYTEXT:Timex
+@BODYTEXT:USA Networks
+@BODYTEXT:Universal Studios
+@BODYTEXT:Verizon Information Systems
+@BODYTEXT:
+@CO:LIME STREET STUDIOS PR
+@BODYTEXT:44 N. Lime St., Lancaster, PA 17602
+@BODYTEXT:717/391-6712
+@BODYTEXT:www.limestreetstudiospr.com
+@BODYTEXT:Full-service agency. Specializes in comms. design, photography, mktg.
+@CCD1:Fran Lowe, president
+@BODYTEXT:PestPatrol
+@BODYTEXT:
+@CO:LINDEN ALSCHULER & KAPLAN INC.
+@BODYTEXT:1251 Avenue of the Americas, New York, NY 10020
+@BODYTEXT:212/575-4545; fax:212/575-0519
+@BODYTEXT:www.lakpr.com
+@BODYTEXT:Corporate, financial, public affs., real estate, law, healthcare, technology, environmental, not-for-profit, cultural affs., travel & hospitality, crisis management.  Employees: 33. Founded: 1993.
+@AGENCY:Agency Statement: Linden Alschuler & Kaplan, Inc. has built an outstanding reputation for fresh ideas and effective strategies that help clients project their messages, fulfill their goals and achieve their bottom line objectives. Combining a strategic approach to communications with outstanding strength in media relations, the firm has developed highly successful public relations campaigns for scores of clients in a variety of sectors that have produced national and international exposure, as well as publicity in local markets around the country. The firm has also developed and executed crisis communications programs for major companies and has worked on special situations including litigations, bankruptcies and mergers and acquisitions, and has particular expertise working with clients at the intersection of government and the private sector.
+@CCD1:Lisa Linden, CEO; Steven Alschuler, president; Lloyd Kaplan, chairman
+@BODYTEXT:Aberdeen Group
+@BODYTEXT:Alvarez & Marsal
+@BODYTEXT:Alzheimer's Association
+@BODYTEXT:Brookfield Properties
+@BODYTEXT:Christopher Reeve Paralysis Foundation
+@BODYTEXT:Citymeals-on-Wheels
+@BODYTEXT:Coalition for Father Duffy
+@BODYTEXT:Colliers ABR
+@BODYTEXT:Community Preservation Corp.
+@BODYTEXT:Dance Theater of Harlem
+@BODYTEXT:DeVry Inc.
+@BODYTEXT:Emcor Group
+@BODYTEXT:Gifts-in-Kind International
+@BODYTEXT:Green-Wood Cemetery
+@BODYTEXT:Interstate Bakeries Corporation
+@BODYTEXT:Israel21C
+@BODYTEXT:Japan Art Assn./Praemium Imperiale
+@BODYTEXT:Leviev Boymelgreen
+@BODYTEXT:Literacy Partners
+@BODYTEXT:LRN
+@BODYTEXT:Mintz Levin Cohn Ferris Glovsky & Popeo, PC
+@BODYTEXT:Mirant Americas
+@BODYTEXT:Muss Organization
+@BODYTEXT:New York State Bar Assn.
+@BODYTEXT:Nixon Peabody, LLP
+@BODYTEXT:NYC & Company
+@BODYTEXT:PricewaterhouseCoopers LLP
+@BODYTEXT:Prison Health Services
+@BODYTEXT:Proskauer Rose
+@BODYTEXT:ProLogis
+@BODYTEXT:PSS World Medical
+@BODYTEXT:Riverside South Planning Corp.
+@BODYTEXT:Ross University
+@BODYTEXT:Safe Blood for Africa
+@BODYTEXT:Studio Daniel Libeskind
+@BODYTEXT:The Hubert
+@BODYTEXT:The Sunshine Group
+@BODYTEXT:Transgas Energy
+@BODYTEXT:Tropical Sportswear Intl.
+@BODYTEXT:Tuesday’s Children
+@BODYTEXT:United Hospital Fund
+@BODYTEXT:Visiting Nurse Regional Network
+@BODYTEXT:Watchfire
+@BODYTEXT:Weidlinger Assocs.
+@BODYTEXT:World Trade Centers Assn.
+@BODYTEXT:YMCA of Greater New York
+@BODYTEXT:Yellow Roadway Corp.
+@BODYTEXT:Harvey F. Wachsman M.D., J.D.
+@BODYTEXT:
+@CO:LINDSAY, STONE & BRIGGS
+@BODYTEXT:100 State St., Madison, WI 53703
+@BODYTEXT:608/251-7070; fax:608/251-8989; hcosgrove@lsb.com
+@BODYTEXT:www.lsb.com
+@BODYTEXT:Advertising, PR and communications strategy, new product development
+@CCD1:Howard Cosgrove
+@BODYTEXT:Hurd Millwork Company
+@BODYTEXT:
+@CO:LINETT & HARRISON
+@BODYTEXT:306 Main St., Millburn, NJ 07041
+@BODYTEXT:973/912-8800; fax:973/912-8806; clinett@linettandharrison.com
+@BODYTEXT:www.linettandharrison.com
+@BODYTEXT:Specializing in print, radio and television adv., direct mktg., sales promotion and PR.  Founded: 1989
+@CCD1:Caryl Linett, chmn., CEO, creative dir.; Sam Harrison, pres., COO, dir. of account svcs.
+@BODYTEXT:AIWA Computer Systems
+@BODYTEXT:Better Business Bureau
+@BODYTEXT:Home Life Fin’l Assurance Corp.
+@BODYTEXT:Meritus Toys
+@BODYTEXT:Prestige Fragrance & Cosmetics
+@BODYTEXT:Saint Peter’s College
+@BODYTEXT:The Star Ledger
+@BODYTEXT:Staten Island Savings Bank
+@BODYTEXT:
+@CO:LINHART MCCLAIN FINLON PR
+@BODYTEXT:2340 Blake St., Denver, CO 80205
+@BODYTEXT:303/620-9044; info@linhartpr.com
+@BODYTEXT:www.linhartpr.com
+@BODYTEXT:Issues and reputation management, product introduction, crisis communications, news media, community rels. and comms. strategies. Founded: 1996
+@CCD1:Sharon Haley Linhart, pres.; Dawn Doty, acct. director
+@BODYTEXT:Chipotle Mexican Grill
+@BODYTEXT:Colorado Dept. of Transportation
+@BODYTEXT:Johns Manville
+@BODYTEXT:Prologis
+@BODYTEXT:Red Robin Gourmet Burgers
+@BODYTEXT:
+@CO:LIPMAN HEARNE, INC.
+@BODYTEXT:200 So. Michigan Ave., #1600, Chicago, IL 60604
+@BODYTEXT:312/356-8000; fax:312/356-4005
+@BODYTEXT:www.lipmanhearne.com
+@BODYTEXT:Comprehensive communications for non-profits. Founded: 1988. Employees: 60.
+@AGENCY:Agency Statement: Lipman Hearne is the nation's largest marketing and communications firm dedicated to serving the nonprofit sector. Our services include public affairs, media relations, crises communications consulting, interactive marketing strategy and implementation, advertising creative and media placement, and award-winning design and editorial services. Our clients range from world-renowned institutions to regional and local organizations within the worlds of philanthropy, arts and culture, health care, K-12 and higher education, public policy, professional and membership associations, social service, and advocacy.
+@CCD1:Robert M. Moore, mng. partner; Tom Abrahamson, Nancy Levner, Tim Westerbeck, Donna Van De Water, managing directors and principals; Sara Stern, exec. VP; Peter Coffey, senior VP; Keith Romero, exec. VP
+@BODYTEXT:1899 L Street., NW, Suite 850 , Washington, DC 20036
+@BODYTEXT:202/457-8100 fax: 202/457-8110
+@CCD1:Rodney Ferguson, mng. director & principal; Karen Lebovich, sr. VP; Damon Thompson, VP
+@BODYTEXT:
+@BODYTEXT:Atlantic Philanthropies
+@BODYTEXT:Brown Center on Education Policy at The Brookings
+@BODYTEXT:Institution
+@BODYTEXT:Graduate Management Admission Council
+@BODYTEXT:MacArthur Foundation, The John D. and Catherine T.
+@BODYTEXT:National Association of Secondary School Principals
+@BODYTEXT:Robert Wood Johnson Foundation
+@BODYTEXT:The College Board
+@BODYTEXT:University of Chicago
+@BODYTEXT:
+@CO:LIPPE TAYLOR BRAND COMMUNICATIONS
+@BODYTEXT:235 Park Ave. South, New York, NY 10003
+@BODYTEXT:212/598-4400; fax:212/598-0620; jtaylor@lippetaylor.com
+@BODYTEXT:www.lippetaylor.com
+@BODYTEXT:Full-service, integrated marketing communications; strategic and tactical, product and services PR; promotion, branding and image enhancement for healthcare, consumer and lifestyle clients uncluding beauty, fashion, and distilled spirits. Founded: 1988.
+@AGENCY:Agency Statement: Lippe Taylor is an independent communications firm respected throughout the industry for its award-winning creativity. Unburdened with the demands and distractions of a parent company, Lippe Taylor can wholly focus on our clients' needs to build innovative solutions that deliver impact and measurable results. Our Consumer Practice is comprised of Specialty Groups with expertise in Fashion, Beauty, and Lifestyle, including distilled spirits. The Healthcare Practice specializes in all areas of product lifecycle, from pre-approval data driven communications through FDA approval, to post-launch, as well as revitalizing mature brands. Our senior managers provide seasoned and prudent counsel on issues planning and crisis management. 
+@AGENCY:The firm has been long recognized for its outstanding DTW: Direct to Women marketing approach which touches the target consumer in a uniquely personal way to build lasting relationships and brand loyalty. Through our proprietary forecasting unit, TrendVision, we identify emerging lifestyle, fashion, and color trends and integrate them into our strategic planning process. Services include a 24/7 media relations department with senior management, a fully staffed graphic arts/production department, in addition to promotion and guerilla marketing.
+@AGENCY:Founded by Maureen Lippe, a former beauty, health and fashion editor at Vogue and Harper’s Bazaar, Lippe Taylor's clients range from Fortune 100 corporations to start-ups in need of brand development (from positioning through introduction). Every account had dedicated senior management who lead a team of professionals committed to flawless execution.
+@AGENCY:We are truly a sum of our parts and take pride in our diverse staff of individuals who represent a wide spectrum of disciplines and backgrounds, including journalism, publishing, consulting, advertising and promotion. Lippe Taylor has won PRWeek's prestigious Consumer Launch of the Year Award two out of the last four years. But, Lippe Taylor's greatest reward is our clients' satisfaction and the proof is our long standing client relationships.   
+@CCD1:Maureen Lippe, president; Gerald Taylor, general manager; Barbara Jo Howard, executive VP
+@BODYTEXT:Bayer
+@BODYTEXT:Bristol Myers Squibb
+@BODYTEXT:David's Bridal
+@BODYTEXT:Diageo
+@BODYTEXT:Digene
+@BODYTEXT:Jenny Craig
+@BODYTEXT:Limited Brands
+@BODYTEXT:Ortho-McNeil Pharmaceutical
+@BODYTEXT:Priscilla of Boston
+@BODYTEXT:Procter & Gamble
+@BODYTEXT:Reckett Benckiser
+@BODYTEXT:Red Door Salons and Spas
+@BODYTEXT:Sara Lee Corp.
+@BODYTEXT:Nicholas Perricone, M.D. Cosmeceuticals
+@BODYTEXT:Union Tools
+@BODYTEXT:VF Corporation
+@BODYTEXT:
+@CO:LIPPERT/HEILSHORN & ASSOCIATES, INC.
+@BODYTEXT:800 3rd. Ave., 17th flr., New York, NY 10022
+@BODYTEXT:212/838-3777; fax:212/838-4568; keith@lhai.com
+@BODYTEXT:www.lhai.com
+@BODYTEXT:Strategic and event driven media relations programs. Expertise in applied technology, healthcare, telecommunications, software, leisure and consumer products. Founded: 1984.
+@CCD1:Keith L. Lippert, John W. Heilshorn, partners
+@BODYTEXT:Avitar, Inc.
+@BODYTEXT:Conceptus
+@BODYTEXT:SpeechWorks International
+@BODYTEXT:Trex Co.
+@BODYTEXT:U.S. Wireless Data
+@BODYTEXT:Untralife Batteries
+@BODYTEXT:Ultratech Stepper
+@BODYTEXT:Universal Electronics
+@BODYTEXT:Vivus
+@BODYTEXT:
+@CO:LIPPIN GROUP, THE
+@BODYTEXT:6100 Wilshire Blvd., #400, Los Angeles, CA 90048
+@BODYTEXT:323/965-1990
+@BODYTEXT:www.lippingroup.com
+@BODYTEXT:Corporate, entertainment, product & fin’l PR.  Founded: 1986.
+@CCD1:Richard B. Lippin, chmn. & CEO; Pam Golum, Leah Krantzler, Jennifer Price, exec. VPs
+@BODYTEXT:369 Lexington Ave., 22nd flr., New York, NY 10017
+@BODYTEXT:212/986-7080
+@CCD1:Don Ciaramella, Audrey Davis, exec. VPs
+@BODYTEXT:16-19 Southampton Place, London WC1A 2AX England
+@BODYTEXT:44-207-745-7189
+@CCD1:Debbie Lawrence, mng. dir.
+@BODYTEXT:
+@BODYTEXT:
+@CO:LIQUID AGENCY
+@BODYTEXT:448 South Market St., San Jose, CA 95113
+@BODYTEXT:408/850-8800; fax:408/850-8825; bizdev@liquidagency.com
+@BODYTEXT:www.liquid agency.com
+@BODYTEXT:Brand marketing firm.
+@CCD1:Alfred Muccino, creative dir.
+@BODYTEXT:Adobe
+@BODYTEXT:Intel
+@BODYTEXT:Lucent
+@BODYTEXT:Seagate  
+@BODYTEXT:
+@CO:LISA LORI COMMUNICATIONS
+@BODYTEXT:400 West Broadway, New York, NY 10012
+@BODYTEXT:212/925-2300; fax:212/925-5624
+@BODYTEXT:www.lisalori.com
+@BODYTEXT:
+@AGENCY:Agency Statement: Lisa Lori Communications is a full service communications agency specializing in publicity, special events, internal communications and integrated marketing programs for consumer products businesses with a particular emphasis on the luxury goods market. LLC’s mission is to offer clients strategic marketing and PR counsel to build brand equity and fuel sales growth and offers senior communications counsel from a staff of leading media event and marketing specialists. The aim of every LLC partnership project is to provide tangible results. LLC also provides counsel on sales promotion, advertising, media planning and sales/marketing incentives and has offices in New York City and Los Angeles.
+@CCD1:Lisa Lori, CEO and founder
+@BODYTEXT:1800 Tequila
+@BODYTEXT:Cutty Sark Whisky, The Glenrothes
+@BODYTEXT:Fragrance Foundation and Sense of Smell Institute
+@BODYTEXT:Museum for African Art
+@BODYTEXT:New York City Opera
+@BODYTEXT:Saks Fifth Avenue
+@BODYTEXT:
+@CO:LITTLE PUBLIC RELATIONS, MARC
+@BODYTEXT:101 East Union St., #104, Jacksonville, FL 32202
+@BODYTEXT:904/356-2388; fax:904/356-2391
+@BODYTEXT:www.marcpr.com
+@BODYTEXT:Full-service PR firm.
+@CCD1:Marc Little, president
+@BODYTEXT:Attorneys Real Property Council of Northeast Florida
+@BODYTEXT:Clean Shower
+@BODYTEXT:Players Group International
+@BODYTEXT:Purely Cotton Bathroom Tissue
+@BODYTEXT:
+@CO:LITZKY PUBLIC RELATIONS  
+@BODYTEXT:88 Garden St., Hoboken, NJ 07030
+@BODYTEXT:201/222-9118; fax:201/222-9418
+@BODYTEXT:www.litzkypr.com
+@BODYTEXT:Consumer PR, sports mktg., special events, new product intros.  Employees: 7. Founded: 1998.
+@CCD1:Michele Litzky, president; Josslynne Lingard, Melissa Fogarty, A/Ss; Beth Mosher, sr. A/E; Marni Goldberg, A/E
+@BODYTEXT:Applause LLC
+@BODYTEXT:Cap Candy
+@BODYTEXT:Funrise Toys
+@BODYTEXT:Hasbro
+@BODYTEXT:Joester Loria Group
+@BODYTEXT:K'nex Industries
+@BODYTEXT:The Toy Guy
+@BODYTEXT:Toy Wishes Magazine
+@BODYTEXT:Wowwee Toys Ltd.
+@BODYTEXT:
+@CO:LIVINGSTON PUBLIC RELATIONS
+@BODYTEXT:P.O. Box 82, Livingston, NJ 07039
+@BODYTEXT:973/994-2789
+@BODYTEXT:Corporate, financial, assn., general PR. Founded: 1978
+@CCD1:Aaron R. Greenberg, pres.
+@BODYTEXT:O.Berk Co., Union, NJ
+@BODYTEXT:Kreitzman’s Memorial Home
+@BODYTEXT:
+@CO:LLOYD, INC., DARRYL
+@BODYTEXT:3079 Delacodo Ave., Newbury Park, CA 91320
+@BODYTEXT:805/499-0562
+@BODYTEXT:www.dlloyd.com
+@BODYTEXT:PR for high-tech: electronics/computers, industrial, professional entertainment equip. Founded: 1974.
+@CCD1:Darryl Lloyd, Judith Lloyd, principals
+@BODYTEXT:EZQuest
+@BODYTEXT:International Travel Technologies
+@BODYTEXT:Kano Technologies
+@BODYTEXT:Pacific Digital Corp.
+@BODYTEXT:Sherion Deposition Services
+@BODYTEXT:Solid Terrain Modeling
+@BODYTEXT:
+@CO:LOCKE MARKETING PUBLIC RELATIONS
+@BODYTEXT:PMB 521, 5331 S.W. Macadam, #258, Portland, OR 97239
+@BODYTEXT:503/546-7811; fax:503/546-7915
+@BODYTEXT:Advertising, mktg. comms. consultation & implementation.
+@CCD1:Timm Locke, principal
+@BODYTEXT:Contact Lumber Co.
+@BODYTEXT:NOFMA: The Wood Flooring Mfrs. Assn.
+@BODYTEXT:Oregon Home Magazine
+@BODYTEXT:Portland State Univ.
+@BODYTEXT:
+@CO:LODICO & COMPANY
+@BODYTEXT:60 McAllister Dr., Carlisle, MA 01741
+@BODYTEXT:978/369-6556; fax:978/369-6284
+@BODYTEXT:www.lodicoandco.com
+@BODYTEXT:Full-service advertising, PR and marketing firm.  Founded: 1989.
+@CCD1:Barbara Sabran, president
+@BODYTEXT:
+@CO:LOEFFLER KETCHUM MOUNTJOY (LKM)
+@BODYTEXT:6115 Park South Dr., #350, Charlotte, NC 28210
+@BODYTEXT:704/364-8969; fax:704/364-8470
+@BODYTEXT:www.lkmideas.com
+@BODYTEXT:Consumer products, bus.-to-bus.
+@CCD1:John Ketchum, pres. & CEO
+@BODYTEXT:Cargill Dow
+@BODYTEXT:Film and Sports Development
+@BODYTEXT:Loewen Windows
+@BODYTEXT:North Carolina Division of Tourism
+@BODYTEXT:The Charlotte Observer
+@BODYTEXT:VELUX
+@BODYTEXT:
+@CO:LOGAN PUBLIC RELATIONS, D.E.
+@BODYTEXT:9901 Cypress Circle, Mentor, OH 44060
+@BODYTEXT:440/357-4471
+@BODYTEXT:Professional PR counsel, project support, writing &  training
+@CCD1:Devere Logan, pres.
+@BODYTEXT:
+@CO:LONDON & ASSOCIATES, MICHAEL J.
+@BODYTEXT:4 Daniels Farm Rd., #330, Trumbull, CT 06611
+@BODYTEXT:203/261-1549; fax:203/459-1032; mjlondon@aol.com
+@BODYTEXT:Specialists in media relations for marketing and investor relations.  Serving start-ups as well as established corporations.  Employees: 4. Founded: 1990.
+@CCD1:Michael J. London, prin.; Emmanual (Malo) Forde, sr. partner; Debbie Levison, Ron Winter, sr. A/Es
+@BODYTEXT:Aerospace Components Manufacturers
+@BODYTEXT:Center for Lean Business Mgmt.
+@BODYTEXT:Consumers for Dental Choice
+@BODYTEXT:GKN Aerospace Services Structures
+@BODYTEXT:Hammers Healthcare Imaging
+@BODYTEXT:Koskoff, Koskoff & Bieder
+@BODYTEXT:Kwatcher Legal Placement LLC
+@BODYTEXT:Meehan, Meehan and Gavin, P.C.
+@BODYTEXT:Mintax Inc.
+@BODYTEXT:Quinnipiac Energy, Inc.
+@BODYTEXT:Saint Francis Hospital and Medical Center
+@BODYTEXT:Stevenson Group, The
+@BODYTEXT:Strategic Marketing Innovations
+@BODYTEXT:T-Rex Capital
+@BODYTEXT:
+@CO:LONDRE COMPANY INC., THE
+@BODYTEXT:304  Tilden Av., Ground Fl., Los Angeles, CA 90049
+@BODYTEXT:310/471-3138; fax:310/471-3139
+@BODYTEXT:www.londre.com
+@BODYTEXT:Marketing PR for food, nutrition, consumer goods and services.  Employees: 5. Founded: 1982.
+@AGENCY:Agency Statement: Food, agriculture, nutrition and packaged goods are the core categories of The Londre Company, Inc. (TLC) Marketing and Public Relations.
+@AGENCY:Over its twenty-plus years in business, the boutique firm has become recognized as Best in Class for its specialized niche.  TLC's on-site test kitchen provides an added value to clients serious about their success in the food and beverage sector.  Team members frequently test products, develop recipes, conduct focus groups and more for clients' products.
+@AGENCY:The agency is also highly regarded for its work in crisis management, most often for product recalls, livestock issues and foodborne illness outbreaks.
+@AGENCY:In 2004, the agency enhanced its portfolio of client services with the launch of a new division, Nutrition Communications/TLC (www.nutritioncommunications.com) to serve an escalating client demand for science-based, credible marketing support for healthy foods and nutritional products.  The team includes a registered dietitian and a home economist.  
+@CCD1:Patti Londre, pres. and home economist; Marissa Welch, asst. A/E; Katie Klarin, dietitian
+@BODYTEXT:
+@CO:LOPEZ NEGRETE COMMUNICATIONS
+@BODYTEXT:3336 Richmond Ave., #2000, Houston, TX 77098
+@BODYTEXT:713/877-8777; fax:713/877-8796
+@BODYTEXT:www.lopeznegrete.com
+@BODYTEXT:Full-service advertising, marketing and public relations.  Founded: 1985.
+@CCD1:Alex Lopez Negrete, pres.; Cathy Lopez Negrete, principal
+@BODYTEXT:Bank of America
+@BODYTEXT:Tyson Foods
+@BODYTEXT:Wal-Mart
+@BODYTEXT:
+@CO:LORD, SULLIVAN & YODER PUBLIC RELATIONS
+@BODYTEXT:Acquired. See Fahlgren Mortine PR
+@BODYTEXT:
+@BODYTEXT:
+@CO:LORRAINE ABELOW PUBLIC RELATIONS
+@BODYTEXT:23 Washington Ave., Westport, CT 06880
+@BODYTEXT:203/226-5390; fax:203/454-5776; LAbelow@aol.com
+@BODYTEXT:
+@CCD1:Lorraine Abelow, pres.
+@BODYTEXT:Ernst & Young Retail and Consumer Products Division
+@BODYTEXT:Park East Tours, Africa, Asia
+@BODYTEXT:Private Retreats
+@BODYTEXT:St. Vincent and Grenadines
+@BODYTEXT:Theatre Projects Consultants
+@BODYTEXT:
+@CO:LOTUS PUBLIC RELATIONS, INC
+@BODYTEXT:305 Madison Ave., # 826, New York, NY 10165
+@BODYTEXT:212/922-5885; fax:212/656-1206
+@BODYTEXT:www.lotus-pr.com
+@BODYTEXT:Media relations, analyst relations, media training, blogging, branding & naming, seminars, events & webcasts, sales and marketing support, internal communications.   Employees: 6. Founded: 2003.
+@AGENCY:Agency Statement: Lotus Public Relations specializes in creating targeted and innovative communication strategies for clients ranging from start-ups to publicly traded brand leaders.  Our clients will tell you that Lotus Public Relations has successfully helped them grow their business, enhance their position among their competitors and achieve measurable results on their business objectives.  We work hand-in-hand with our clients to mold the right messages, motivate the media and move the marketplace.
+@AGENCY:We recognize that choosing a public relations firm is an important business decision and a long-term investment in your company's brand development--a decision we take seriously.  Our client mantra is based on honesty, reliability and open communication.  It's "NO EXCUSES" public relations.  Why should you choose Lotus?  Because we are committed to helping you communicate better to build your business everyday.
+@AGENCY:Our Philosophy:  Consistently deliver results, go beyond expectations and shoot for the big, hairy, audacious goals.
+@AGENCY:Our Work: Aggressive, creative, energetic, relentless
+@AGENCY:Our Approach: Personal, "hands-on" attention for all clients
+@AGENCY:Our Drive: Challenges, smart companies, getting the next media placement.
+@AGENCY:Today there are more than 17,000 magazines and newspapers in the U.S. not to mention network and cable venues.  You need a public relations firm that can not only navigate the media waters, but who will also be relentless in helping you break through and rise above the noise to get your messages noticed.  
+@AGENCY:Expertise
+@AGENCY:BUSINESS-TO-BUSINESS
+@AGENCY:COSNUMER PRODUCTS
+@AGENCY:CORPORATE IMAGE
+@AGENCY:ONLINE GAMING
+@AGENCY:CONSUMER ELECTRONICS
+@AGENCY:FINANCIAL SERVICES
+@AGENCY:GOV'T AGENCIES
+@AGENCY:HEALTH & MEDICAL
+@AGENCY:HIGH-TECH
+@AGENCY:INTERNATIONAL
+@AGENCY:INVESTOR RELATIONS
+@AGENCY:MEDIA TRAINING
+@AGENCY:OVERSEAS GOVTS.
+@AGENCY:PROFESSIONAL SERVICES
+@AGENCY:TRAVEL & TOURISM
+@CCD1:Susan Lindner, president; Christopher Capra, Director
+@BODYTEXT:National City Bank (NYSE: NCC)
+@BODYTEXT:Viewpointe
+@BODYTEXT:Consumer Reports WebWatch
+@BODYTEXT:XMPie
+@BODYTEXT:Prima Poker Network
+@BODYTEXT:Royal Vegas Poker
+@BODYTEXT:Japan External Trade Organization (JETRO)
+@BODYTEXT:JVP (Jerusalem Venture Partners)
+@BODYTEXT:Globix (OTC: GBXX)
+@BODYTEXT:NICE Systems (NASDAQ: NICE)
+@BODYTEXT:FivePoints Compliance
+@BODYTEXT:Butterfly.net
+@BODYTEXT:Athena ISS
+@BODYTEXT:
+@CO:LOUDER THAN WORDS
+@BODYTEXT:385 Winter St., #631, Waltham, MA 02451
+@BODYTEXT:781/487-0002
+@BODYTEXT:www.louderthanwordspr.com
+@BODYTEXT:Full-service PR agency specializing in media rels. Offers PR & strategic consulting svcs.
+@CCD1:Rich Polt, pres.
+@BODYTEXT:
+@CO:LOUGEE CONSULTING GROUP
+@BODYTEXT:7 Bridgeton Way, Hopkinton, MA 01748
+@BODYTEXT:508/435-6117; fax:508/435-6115; bob@lougeeconsulting.com
+@BODYTEXT:Independent PR and IR firm, writing and research. Founded: 2003
+@CCD1:Robert W. Lougee Jr., president
+@BODYTEXT:
+@CO:LOUIS KARNO & CO. COMMUNICATIONS
+@BODYTEXT:11 Depot St., #2, Concord, NH 03301
+@BODYTEXT:603/224-5566; fax:603/224-9039; info@lkarno.com
+@BODYTEXT:International media relations, tourism PR, not-for-profits, image management, web design and strategy, newsletters. Employees: 4. Founded: 1999.
+@CCD1:Jayme Henriques Simoes, pres.
+@BODYTEXT:Canterbury Shaker Village
+@BODYTEXT:Easy Rider Tours
+@BODYTEXT:New Hampshire Dept. of Education
+@BODYTEXT:New Hamsphire Historical Society
+@BODYTEXT:New Hampshire Preservation Alliance
+@BODYTEXT:SATA/Azores Express Airlines
+@BODYTEXT:
+@CO:LOVELL PUBLIC RELATIONS
+@BODYTEXT:8080 N. Central Expwy., #1410, Dallas, TX 75206
+@BODYTEXT:972/788-4511; fax:972/788-4322; info@lovellpr.com
+@BODYTEXT:www.lovellpr.com
+@BODYTEXT:PR firm specializing in cause-related mktg., media training, crisis mgmt., retail, & healthcare. Employees: 6.
+@AGENCY: Agency Statement: Making results.  That's what Lovell Public Relations continues to do for its clients.  Specializing in cause-related marketing, national public and media relations campaings, as well as crisis management and media training, the firm has experience in over 20 industries and offers a variety of professional services.
+@CCD1:Betty Lovell, president
+@BODYTEXT:Buckner Orphan Care Int'l
+@BODYTEXT:The Macerich Co.
+@BODYTEXT:
+@CO:LOVING AND COMPANY, INC.
+@BODYTEXT:276 Fifth Ave., New York, NY 10001
+@BODYTEXT:212/213-3504; fax:212/213-4790
+@BODYTEXT:www.lovingandcompany.com
+@BODYTEXT:Lifestyle including fashion, beauty, home, retail, publishing, special events.  Employees: 16. Founded: 2000.
+@AGENCY:Agency Statement: Loving + Company is an energized, action-oriented, full service public relations agency, with expertise in promoting lifestyle and fashion brands in fashion, beauty, publishing, entertainment and the arts via special events, media relations, publicity campaigns, integrated marketing partnerships, merchandising and major fashion presentations. The agency has a strong history of applying breakthrough creative marketing tactics and leveraging strong media relationships to provide maximum visibility for clients.
+@CCD1:Mary Loving, pres.; Veronika Ullmer, sr. VP
+@BODYTEXT:CAAF
+@BODYTEXT:Detra Kay
+@BODYTEXT:Hickey Freeman
+@BODYTEXT:Isaac Mizrahi
+@BODYTEXT:Lilith
+@BODYTEXT:Liz Lange 
+@BODYTEXT:London Fog
+@BODYTEXT:Marshall Fields
+@BODYTEXT:Matthew Earnest
+@BODYTEXT:MINT
+@BODYTEXT:Mossimo
+@BODYTEXT:Ports 1961
+@BODYTEXT:Rozae Nichols
+@BODYTEXT:Target Stores
+@BODYTEXT:The Vivid Collection
+@BODYTEXT:True Meaning Fashion
+@BODYTEXT:Umberto
+@BODYTEXT:
+@CO:LOVIO GEORGE INC
+@BODYTEXT:681 West Forest Ave., Detroit, MI 48201
+@BODYTEXT:313/832-2210; fax:313/831-0240
+@BODYTEXT:www.loviogeorgeinc.com
+@BODYTEXT:PR & full-service marketing to the following industries: travel & tourism, transportation, professional assn., education and economic & community development.  Employees: 16. Founded: 1979.
+@AGENCY:Agency Statement: lovio george inc opened its doors 26 years ago in Detroit’s University-Cultural Center. As a marketing communications agency, lovio george inc finds pulse points and grows companies—creating well-known campaigns for both for-profit and non-profit organizations.
+@AGENCY:The agency’s services include: advertising, design, public relations, corporate identity and brand management, community relations, special events, qualitative research, and web site development.
+@AGENCY:Its campaigns have been recognized for an EMMY, a Caddy, PRSA Awards, IABC Gold Awards, IABC Silver Quill Awards, and Mobius International Awards for Outstanding Creativity.
+@CCD1:Christina Lovio-George, pres. & CEO; John J. George, VP and director/creative services
+@BODYTEXT:Cadillac Coffee Co.
+@BODYTEXT:Capuchin Soup Kitchen
+@BODYTEXT:Detroit Metropolitan Convention and Visitors Bureau
+@BODYTEXT:Detroit Riverfront Conservancy
+@BODYTEXT:Detroit Super Bowl XL Host Committee
+@BODYTEXT:Exhibit Works
+@BODYTEXT:Grosse Pointe Public Library
+@BODYTEXT:Michigan Dept. of Transportation
+@BODYTEXT:National Kidney Foundation of Michigan
+@BODYTEXT:The Guardian Building
+@BODYTEXT:
+@CO:LOWE
+@BODYTEXT:Subsidiary of Interpublic Group of Cos.
+@BODYTEXT:150 E. 42nd St., New York, NY 10017
+@BODYTEXT:212/605-8000
+@BODYTEXT:www.loweworldwide.com
+@BODYTEXT:Full service advertising, promotions, interactive, marketing, corporate comms. Employees: 3. Founded: 1996
+@CCD1:Susan Cantor, president
+@BODYTEXT:
+@CO:LP&G, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:400 N. Toole Ave., #250, Tucson, AZ 85701
+@BODYTEXT:520/624-1116; fax:520/624-0272
+@BODYTEXT:www.lpginc.com
+@BODYTEXT:PR, adv., computers/computer products, gov./state agencies, recreation.  Founded: 1993.
+@CCD1:Barbara Peck, director of PR
+@BODYTEXT:Desert Diamond Casino
+@BODYTEXT:Major League Baseball Spring Training
+@BODYTEXT:RightFAX
+@BODYTEXT:Sheraton El Conquistador
+@BODYTEXT:Tucson Chryler Classic PGA Tour Event
+@BODYTEXT:
+@CO:LUBENOW & ASSOCIATES, LARRY
+@BODYTEXT:3102 Lombardi Way, Cedar Park, TX 78613
+@BODYTEXT:512/335-9233; fax:512/219-1165; info@lubenow.com
+@BODYTEXT:Full-service, general PR.  Employees: 2. Founded: 1991.
+@CCD1:Larry R. Lubenow, pres.
+@BODYTEXT:
+@CO:LUCAS COMMUNICATIONS
+@BODYTEXT:29 Lilac Ln., Levittown, NY 11756
+@BODYTEXT:516/735-5901
+@BODYTEXT:Specializing in project management and community news consulting. Founded: 1994
+@CCD1:Louise Cassano, prin.
+@BODYTEXT:The Long Island School-to-Career Partnership
+@BODYTEXT:
+@CO:LUCKIE STRATEGIC PUBLIC RELATIONS
+@BODYTEXT:Owned by Luckie & Company Advertising Agency
+@BODYTEXT:600 Luckie Drive, #150, Birmingham, AL 35223
+@BODYTEXT:205/877-9870; fax:205/877-9713; bpia@luckie.net
+@BODYTEXT:www.luckiepr.net
+@BODYTEXT:National PR for clients in lawn & garden, food, travel, law, environment and hotels.   Employees: 100. Founded: 1999.
+@AGENCY:Agency Statement: Luckie Strategic Public Relations creates national PR campaigns that generate sales increases and a significant return on investment. We’ve generated high-profile, positive coverage for clients in the Associated Press, Dow Jones, Bloomberg, Reuters, Scripps Howard, Time, USA Today, The New York Times, The Washington Post, as well as on ABC, CBS, CNN, Fox News Channel, HGTV, NBC's "Today" show, "NBC Nightly News" and "Oprah." We’ve also generated news stories for clients in literally thousands of magazines, newspapers, and local radio and TV programs across the United States. In addition, we’ve created successful key stakeholder PR campaigns. 
+@CCD1:Brian Pia, senior VP,; Angela Drinkwater, national med. relations dir.; Lori Merricks, senior AL; Shannon Goff, AE; Ruffin Flowers, AE. 
+@BODYTEXT:Alabama Tourism
+@BODYTEXT:AL Department of Conservation
+@BODYTEXT:American Cast Iron Pipe Co.
+@BODYTEXT:Bayer Advanced
+@BODYTEXT:Little Debbie Snacks
+@BODYTEXT:Lowe's
+@BODYTEXT:LouAna Peanut Oil
+@BODYTEXT:Ross Bridge Resort & Spa
+@BODYTEXT:The Grand Hotel
+@BODYTEXT:
+@CO:LUCZNIKOWSKA ASSOCIATES, INC.
+@BODYTEXT:12 Gramercy Park, New York, NY 10003
+@BODYTEXT:212/777-7997; fax:212/533-2509; vlycznikowska@nbc.rr.com
+@BODYTEXT:Strategic marketing and PR counseling; int’l, corporate, financial, not-for-profit.  Founded: 1978.
+@CCD1:Valerie Lucznikowska, pres.
+@BODYTEXT:
+@CO:LUKASZEWSKI GROUP INC., THE
+@BODYTEXT:10 Bank St., #530, White Plains, NY 10606
+@BODYTEXT:914/681-0000; fax:914/681-0047; tlg@e911.com
+@BODYTEXT:www.e911.com
+@BODYTEXT:Crisis mgmt., litigation visibility management, strategic media relations counseling, anti-corporate activism mgmt., executive coaching.  Employees: 5. Founded: 1989.
+@CCD1:James E. Lukaszewski, chmn./pres.; Barbara Bray Lukaszewski, VP/corp. secy.
+@BODYTEXT:
+@CO:LUMIA BARTORILLO ADVERTISING, MASLOW
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:182 N. Franklin St., Wilkes-Barre, PA 18701
+@BODYTEXT:570/824-1500; fax:570/825-9757
+@BODYTEXT:Founded: 1979
+@CCD1:Melanie Maslow Lumia, chairman
+@BODYTEXT:Luzerne Bank
+@BODYTEXT:Market Forge
+@BODYTEXT:Metro
+@BODYTEXT:Skytop
+@BODYTEXT:
+@CO:LUMINOR
+@BODYTEXT:27758 Santa Margarita Pkwy., #292, Mission Viejo, CA 92691
+@BODYTEXT:949/589-2478
+@BODYTEXT:www.luminor.com
+@BODYTEXT:High-tech and bus.-to-business PR, marketing comms., corporate comms., employee relations. Founded: 1983 Employees: 38.
+@CCD1:Ron Wilbur, CEO
+@BODYTEXT:
+@CO:LUND GROUP, INC., THE
+@BODYTEXT:12 Whitney Ave., New Canaan, CT 06840
+@BODYTEXT:203/972-8501; fax:203/972-8569; lundgroup@aol.com
+@BODYTEXT:Bus.-to-bus., consumer products, environmental issues, foods/beverages, gardening, issues advocacy, litigation support svcs., professional service firms, publications and books.  Employees: 3. Founded: 1989.
+@AGENCY:Agency Statement: A New York Post editor once said, “You gotta grab the reader by the throat. He’s on the train. It’s hot. His wife’s mad at him. His kid needs braces; he doesn’t have the money. The guy next to him stinks. It’s crowded. You want him to read your story? You better make it interesting.”
+@AGENCY:The Lund Group makes your story interesting.
+@CCD1:Beatrice B. Lund, pres. & CEO; A. Michael Bruneau, sr. VP
+@BODYTEXT:Dunning & Co.
+@BODYTEXT:Harris Offshore Services
+@BODYTEXT:John Bergin & Partners
+@BODYTEXT:N.Y.C. Industries For the Blind
+@BODYTEXT:Ray Stone, author
+@BODYTEXT:
+@CO:LUONGO COMPANY, C. PAUL
+@BODYTEXT:545 Boylston St., Boston, MA 02116
+@BODYTEXT:617/266-4210; fax:617/266-2211; cpaul@cpaulluongo.com
+@BODYTEXT:Full-service PR and marketing firm offering corporate, product and fin’l publicity. Experience in: consumer,  commercial, financial, educational, travel/hospitality and high technology and biomedical accounts.  Employees: 6. Founded: 1964.
+@CCD1:C. Paul Luongo, pres.; Philip M. Kerrivan, exec. VP; Jeff LaCasse, VP/info. tech.; Steve Choate, CFO; Eric Garulay, new business director; Cullen Boyvier, exec. asst.
+@BODYTEXT:America’s Best
+@BODYTEXT:Bingham Legg Advisers LLC
+@BODYTEXT:Congress Asset Management
+@BODYTEXT:Dataram Corp.
+@BODYTEXT:Dunnan’s Guide to Your Investments, 2004-1996
+@BODYTEXT:Federated Securities Corp., PA
+@BODYTEXT:Goelitz Confectionery Co.
+@BODYTEXT:L. Roy Papp Assocs.
+@BODYTEXT:Newman School, Boston
+@BODYTEXT:Nymox Pharmaceutical Corp.
+@BODYTEXT:Syn X Pharma Inc.
+@BODYTEXT:Travel Smart
+@BODYTEXT:Visible Genetics Inc.
+@BODYTEXT:
+@CO:LUQUIRE GEORGE ANDREWS, INC.
+@BODYTEXT:4201 Congress St., #400, Charlotte, NC 28209
+@BODYTEXT:704/552-6565; fax:704/552-1972
+@BODYTEXT:www.lga-advertising.com
+@BODYTEXT:Full-service marketing/advertising/PR firm. Founded: 1984.
+@CCD1:Steve Luquire, president
+@BODYTEXT:Carolina Panthers
+@BODYTEXT:Charlotte Regional Partnership
+@BODYTEXT:Curtiss-Wright Controls Inc.
+@BODYTEXT:Mitchell Gold
+@BODYTEXT:National Gypsum
+@BODYTEXT:Wachovia Championship
+@BODYTEXT:
+@CO:LUTCHANSKY COMMUNICATIONS
+@BODYTEXT:2643 Sutro Dr., San Jose, CA 95124
+@BODYTEXT:408/369-8280; fax:408/369-8676
+@BODYTEXT:www.lcomm.com
+@BODYTEXT:Employees: 16. Founded: 1996.
+@CCD1:Robin Lutchansky, pres.
+@BODYTEXT:Andale, Inc.
+@BODYTEXT:BeatWare Inc.
+@BODYTEXT:Certicom Corp.
+@BODYTEXT:Ericsson Enterprise Systems
+@BODYTEXT:Kenetec, Inc.
+@BODYTEXT:Sohu.com, Inc.
+@BODYTEXT:Vyyo, Inc.
+@BODYTEXT:
+@CO:LVM GROUP, INC.
+@BODYTEXT:Member of Pinnacle Worldwide
+@BODYTEXT:60 E. 42nd St., #722, New York, NY 10165
+@BODYTEXT:212/499-6565; fax:212/751-2862
+@BODYTEXT:General PR, professional services PR.  Employees: 7. Founded: 1992.
+@AGENCY:Agency Statement: A full-service public relations firm. Strengths include quality of service, ideas and writing. The right size — neither too large nor too small. Direct involvement of senior professionals. Close relationships with public relations people all over the world, through Public Relations Society of America and Pinnacle Worldwide.
+@CCD1:David M. Grant, pres.; Bob Rumerman, managing dir.; Jeannette Boccini, partner and exec. VP
+@BODYTEXT:3M
+@BODYTEXT:450 Park Avenue
+@BODYTEXT:Administaff
+@BODYTEXT:Cresa Partners New York
+@BODYTEXT:Durst Organization
+@BODYTEXT:Empire State Bldg.
+@BODYTEXT:Law Office of John Lawrence Allen
+@BODYTEXT:Le Toiny
+@BODYTEXT:Lincoln Building
+@BODYTEXT:Magnusson Architecture and Planning
+@BODYTEXT:Marketing Directors
+@BODYTEXT:National Assn. of Personal Fin’l Advisors
+@BODYTEXT:New York Mortgage Co.
+@BODYTEXT:New Yorker Hotel
+@BODYTEXT:Rockrose Development Corp.
+@BODYTEXT:Sholom & Zuckerbrot
+@BODYTEXT:Sonnenblick-Goldman
+@BODYTEXT:The Helena
+@BODYTEXT:W&H Properties
+@BODYTEXT:Wien & Malkin Securities Corp.
+@BODYTEXT:WNET-TV
+@BODYTEXT:
+@CO:LYONS LAVEY NICKEL SWIFT
+@BODYTEXT:Part of Omnicom Group
+@BODYTEXT:220 E. 42nd St., New York, NY 10017
+@BODYTEXT:212/771-3000; fax:212/771-3010
+@BODYTEXT:Pharmaceutical healthcare comms. firm that specializes in providing healthcare adv. & promotional programs for clients.
+@CCD1:Al Nickel, pres. & CEO
+@BODYTEXT:Elan Pharmaceuticals
+@BODYTEXT:

@@ -1,0 +1,1526 @@
+@BREAKER:A
+
+@CO:A&R PARTNERS, INC.
+@BODYTEXT:201 Baldwin Ave., San Mateo, CA 94401
+@BODYTEXT:650/762-2800; fax:650/762-2801; info@arpartners.com
+@BODYTEXT:www.arpartners.com
+@BODYTEXT:High-tech, fin’l comms., investor rels., strategic messaging, media training.  Employees: 85. Founded: 1986.
+@AGENCY:Agency Statement: A&R Partners Inc. is a team of communications professionals and creative thinkers working with clients to raise visibility, build momentum, and increase market advantage. The agency's clients are among the industry's most innovative and closely watched companies, from groundbreaking start-ups to industry leaders. A frequent recipient of industry awards for groundbreaking public relations programs, A&R was named 2004 Mid-Sized Agency Of The Year by PR Week and Tech Agency Of The Year by The Holmes Report for 2003.
+@CCD1:Bob Angus, pres. & mng. partner; Maria Amundson, Zelda Rudin, sr. partners; John Derryberry, Mark Rawlins, Lisa Auslen, Todd Irwin, partners
+@BODYTEXT:Adobe Systems Inc.
+@BODYTEXT:Air Magnet Inc.
+@BODYTEXT:Akimbo
+@BODYTEXT:Atheros Comms.
+@BODYTEXT:Chapura, Inc.
+@BODYTEXT:Check Point
+@BODYTEXT:Citrix
+@BODYTEXT:Coherent
+@BODYTEXT:Edify
+@BODYTEXT:Extreme Networks
+@BODYTEXT:Fiberlink
+@BODYTEXT:Immersion Corp.
+@BODYTEXT:Immersion Medical
+@BODYTEXT:IPolicy Networks
+@BODYTEXT:IRobot
+@BODYTEXT:Netopia Inc.
+@BODYTEXT:OORJA
+@BODYTEXT:Overture Networks
+@BODYTEXT:Packet Hop
+@BODYTEXT:PalmOne, Inc.
+@BODYTEXT:Pantone, Inc.
+@BODYTEXT:Portal Player
+@BODYTEXT:Roku
+@BODYTEXT:Tenebr,L Inc.
+@BODYTEXT:U3 LLC
+@BODYTEXT:Visionael
+@BODYTEXT:SkyStream Networks
+@BODYTEXT:Zone Labs Inc.
+@BODYTEXT:
+@CO:A. BROWN-OLMSTEAD ASSOCIATES, LLC
+@BODYTEXT:274 West Paces Ferry Rd., Atlanta, GA 30305
+@BODYTEXT:404/659-0919; fax:404/659-2711; amanda@newaboa.com
+@BODYTEXT:www.newaboa.com
+@BODYTEXT:Strategic communication counseling and planning. (restarted 1996). Founded: 1972.
+@AGENCY:Agency Statement: The New ABOA is focused on strategic communication counsel with special services in the areas of reputation assessment and management, the development of communications plans based on research, and areas of counseling to include: one-on-one support for management, marketing plans, relationship building, risk avoidance and crisis communications management. Recognized for its innovation in the industry, the New ABOA team also specializes in public affairs, community relations, consumer products, environmental issues, real estate and health care.
+@CCD1:Amanda Brown-Olmstead, CEO; Paul Snyder, senior accounts manager
+@BODYTEXT:Atlanta Regional Consortium for Higher Education
+@BODYTEXT:EDAW
+@BODYTEXT:Global Green
+@BODYTEXT:Garden Frou Frou
+@BODYTEXT:Grady Health System
+@BODYTEXT:Traveling Chefs
+@BODYTEXT:Dick Jackson
+@BODYTEXT:Richard Bowers & Co.
+@BODYTEXT:
+@CO:A. LAVIN COMMUNICATIONS
+@BODYTEXT:242 W. 30th St., #802, New York, NY 10001
+@BODYTEXT:212/290-9540; fax:212/290-9545; andrewlavin@alavin.com
+@BODYTEXT:www.alavin.com
+@BODYTEXT:Marketing comms., publicity, crisis management, special events.  Employees: 5. Founded: 1995.
+@AGENCY:Agency Statement: We offer a rare combination of strategic counsel, creativity, service and results. Consumer products, healthcare and professional services and technology companies rely on us for top line thinking and results that contribute to their bottom line. ALC provides a wide range of services to help clients launch and sell products, build brand awareness and enhance their corporate image. Once we set measurable goals we consistently exceed them with sound strategy, passionate execution and excellence.
+@CCD1:Andrew R. Lavin, president
+@BODYTEXT:Con Edison Communications
+@BODYTEXT:Eikos Nanotechnology
+@BODYTEXT:Ethertouch
+@BODYTEXT:Pokemon USA
+@BODYTEXT:Sullivan Schein Dental
+@BODYTEXT:Vanguard Mainframe Security
+@BODYTEXT:
+@CO:AAH!COMMUNICATIONS, INC.
+@BODYTEXT:150 W. 56th St., #3106, New York, NY 10019
+@BODYTEXT:212/245-5225; fax:212/245-0888; tlane@aahcommunications.com
+@BODYTEXT:www.aahcommunications.com
+@BODYTEXT:Business-to-business PR, advertising and design, specializing in financial services, investment technology and fin'l information.  Founded: 1996.
+@AGENCY:Agency Statement: Aah!Communications supports high-level communications requirements of companies in financial services, investment technology, enterprise trading, market data and risk management. Our clients range from start-ups to large corporations. Aah!Communications builds a collaborative bond with clients; our value-added is measured in your bottom line.
+@CCD1:Timothy Lane, principal
+@BODYTEXT:
+@CO:AALGROUP
+@BODYTEXT:Subsidiary of Alper/Alper & Lopez, Inc.
+@BODYTEXT:5525 Oakdale Ave., Woodland Hills, CA 91364
+@BODYTEXT:818/592-0453; fax:818/592-0825
+@BODYTEXT:www.aalgroup.com
+@BODYTEXT:Community, product and corporate PR.  Employees: 8. Founded: 1991.
+@CCD1:Barbara A. Lopez, president
+@BODYTEXT:Broadata Communications Inc.
+@BODYTEXT:EnGenius Technologies, Inc.
+@BODYTEXT:Yourhomework, LLC
+@BODYTEXT:
+@CO:AAT & SONS PUBLIC RELATIONS
+@BODYTEXT:21 Merriam Way, Upton, MA 01568
+@BODYTEXT:508/529-6781; fax:508/519-6553; tieuli@aatandsonspr.com
+@BODYTEXT:Media rels., event mktg., strategic PR planning and implementation. Founded: 1999.
+@BODYTEXT:
+@CO:AB ADVERTISING NEW MEDIA PR
+@BODYTEXT:404 Union Plaza, 333 No. Washington Ave., Minneapolis, MN 55401
+@BODYTEXT:612/220-3900; fax:612/349-2707
+@BODYTEXT:www.dillonweb.com
+@BODYTEXT:Adv., direct mail, sales collateral dev., corp. identity mgmt., media planning, PR svcs.; technology/industrial and consumer service markets. Founded: 1984. Employees: 20. Founded: 1984
+@CCD1:William Andrews, president; Chris Birt, partner
+@BODYTEXT:American Express
+@BODYTEXT:Gelco
+@BODYTEXT:Lunds Food Holdings
+@BODYTEXT:Qwest
+@BODYTEXT:Strategic Area Networks
+@BODYTEXT:Syntegra
+@BODYTEXT:
+@CO:ABERNATHY MACGREGOR GROUP, INC., THE
+@BODYTEXT:Subsidiary of Havas
+@BODYTEXT:501 Madison Ave., New York, NY 10022
+@BODYTEXT:212/371-5999; fax:212/371-7097
+@BODYTEXT:www.abmac.com
+@BODYTEXT:
+@AGENCY:Agency Statement: With offices in New York and Los Angeles, The Abernathy MacGregor Group (AMG) provides counsel to the senior managment of business corporations and large organizations in six communications disciplines; corporate and financial public relations, investor relations, transaction communications, crisis communications, initial public offerings and bankruptcies and restructurings.  Within these disciplines, we advise clients across a broad range of industries including, but not limited to: banking & financial services, media and entertainment, transportation, retail, internet/technology, energy, healthcare and telecommunications.
+@AGENCY:INTERNATIONAL CAPABILITIES: AMG is a founding member of AMO International Conference and Financial Communications (AMO).  AMO specializes in corporate and financial communications surrounding cross-border mergers and acquisitions, corporate crises, international exchange listings and initial public offerings.  Our AMO network comprises more than 200 professionals from The Maitland Consultancy (London/Milan), Euro RSCG C&O (Paris), Hering Schuppener (Frankfurt/Dusseldorf) and Smink, Van der Ploeg & Jongsma (Amsterdam), and has established client relationships with leading S&P 500, FTSE 100, Dax 30 and CAC 40 companies.
+@CCD1:James T. MacGregor, president; Adam L. Miller, COO & managing director; Jeffrey R. Maloney, CFO; Rhonda Barnat, Steven Bruce, Charles Burgess, Winnie Lerner, Michael Pascale, Carina Thate, Jason Thompson, managing directors; Kenneth W. Juarez, Tom Johnson, Edward M. Rowley, Lex Suvanto, senior VPs; Gillian D. Angstadt, Patrick Linehan, Robert A. Malin, Kathleen Merrigan, Jessica Liddell, Chuck Dohrenwend, VPs; John P. Kehoe, Jay L. Kriegel, Av Westin, counselors/advisors
+@BODYTEXT:611 West Sixth St., #1880, Los Angeles, CA 90017
+@BODYTEXT:213/630-6550; fax: 213/489-3443
+@CCD1:Ian D. Campbell, James Lucas, managing directors; Charles Sipkins, VP; Rivian Bell, Alan Maltun, counselors/advisors
+@BODYTEXT:
+@BODYTEXT:AB Volvo
+@BODYTEXT:ACE Ltd.
+@BODYTEXT:Aames Financial Corp.
+@BODYTEXT:American Int'l Group, Inc.
+@BODYTEXT:Assurant
+@BODYTEXT:Avery Dennison Corp.
+@BODYTEXT:Bayer CropScience
+@BODYTEXT:Blockbuster
+@BODYTEXT:Bowne & Co.
+@BODYTEXT:CEMEX
+@BODYTEXT:CP Chips
+@BODYTEXT:City National Corp.
+@BODYTEXT:Comcast Corp.
+@BODYTEXT:Crescent Real Estate Equities
+@BODYTEXT:EMI
+@BODYTEXT:Exide Technologies
+@BODYTEXT:Health Net, Inc.
+@BODYTEXT:Hellman & Friedman LLC
+@BODYTEXT:Hewitt Assocs.
+@BODYTEXT:ITT Educational Svcs. Inc.
+@BODYTEXT:Loews Cineplex
+@BODYTEXT:MeadWestvaco Corp.
+@BODYTEXT:Mittal Steel
+@BODYTEXT:Parker Hannifin
+@BODYTEXT:Polo Ralph Lauren Corp.
+@BODYTEXT:Providian Financial
+@BODYTEXT:RR Donnelley
+@BODYTEXT:Rockstar Games
+@BODYTEXT:Safeco Corp.
+@BODYTEXT:Sandler O’Neill & Partners, L.P.
+@BODYTEXT:Showtime Networks
+@BODYTEXT:Sony Corp.
+@BODYTEXT:Swiss Re
+@BODYTEXT:The Bank of New York Co.
+@BODYTEXT:The Thomson Corp.
+@BODYTEXT:Tyson Foods
+@BODYTEXT:United Technologies Corp.
+@BODYTEXT:Viacom
+@BODYTEXT:Village Voice
+@BODYTEXT:Vodafone Group plc
+@BODYTEXT:Wachovia Corp.
+@BODYTEXT:Warburg Pincus
+@BODYTEXT:Washington Mutual, Inc.
+@BODYTEXT:
+@CO:ABI, INC.
+@BODYTEXT:29 Broadway, New York, NY 10006
+@BODYTEXT:212/529-4500; fax:212/529-4442; slove@abipr.com
+@BODYTEXT:www.abipr.com
+@BODYTEXT:Business-to-business, marketing public relations. Employees: 30. Founded: 1980.
+@AGENCY:Agency Statement: ABI, Inc, celebrating its 25th anniversary, specializes in business-to-business marketing public relations.  We work exclusively with companies that sell products and services to other businesses in domestic and international markets.  Our strategically planned efforts result in on-going publicity that cost-effectively supports sales in industrial and high-tech markets.  
+@AGENCY:ABI specializes in marketing high-tech systems and software, industrial machinery, accessories, amterials, and services to key specifiers and buyers. The agency's strategic efforts help clients grow relationships with important distributors, VARs, OEMs, and users.  ABI also provides ongoing counsel and support to launch new products, penetrate niche markets and grow sales in existing territories. ABI has extensive knowledge of numerous market segments incluing chemicals, computer technology, converting, electronics, environmental products/services, foods and beverages, graphic arts, chemicals, machinery, metals, packaging, paper, pharmaceuticals, plastics, retail and supermarkets.  The agency is proficient in web marketing.  ABI helps clients strategically use the Internet to accelerate lead generation from key prospects worldwide.
+@CCD1:Eileen Kramer,sr. VP of finance; Stephanie Love, Director of Operations
+@BODYTEXT:ABI Europe
+@BODYTEXT:130 Shaftesbury Ave., London W1D 5EU, United Kingdom, +44 (0)207-031-4411; fax: +44 (0)870-458-1867
+@BODYTEXT:ABI Asia
+@BODYTEXT:51 Hume Ave., #04-02 Singapore, 598750 Singapore, +65-6763-3436
+@BODYTEXT:
+@BODYTEXT:Anderol
+@BODYTEXT:Astaris
+@BODYTEXT:Autopak
+@BODYTEXT:Avery Dennison
+@BODYTEXT:Colder Products Company
+@BODYTEXT:Crown Holdings (CrownCork & Seal)
+@BODYTEXT:CYRO Industries
+@BODYTEXT:Centrus
+@BODYTEXT:FiberMark
+@BODYTEXT:Flint Ink
+@BODYTEXT:Foster Miller
+@BODYTEXT:FS Elliott
+@BODYTEXT:Multisorb
+@BODYTEXT:Multivac
+@BODYTEXT:Nipson
+@BODYTEXT:Pall Corporation
+@BODYTEXT:Pack Expo Trade Shows
+@BODYTEXT:Packaging Machinery Mfrs. Inst.
+@BODYTEXT:Trident
+@BODYTEXT:Yupo
+@BODYTEXT:Zip-Pak
+@BODYTEXT:
+@CO:ABOVE ALL
+@BODYTEXT:355 S. Old Woodward, #200, Birmingham, AL 48009
+@BODYTEXT:877/782-6843; fax:248/430-2617
+@BODYTEXT:Integrated business strategies, adv., marketing comms., branding, graphic design, web development, accountability, measurement and ROI.  Founded: 1998.
+@CCD1:Jim Markwalder, partner
+@BODYTEXT:ALTA International Inc.
+@BODYTEXT:VIA Information Tools, Inc.
+@BODYTEXT:
+@CO:ACCENT ON BROADCASTING, ETC., INC.
+@BODYTEXT:165 W. 66th St., New York, NY 10023
+@BODYTEXT:212/362-3616; fax:212/362-6182
+@BODYTEXT:TV, radio tours for prods., authors, personalities; entertainment, non-profit & corp. PR; special projects work only. Founded: 1974
+@CCD1:Randie Levine-Miller, pres.
+@BODYTEXT:Affinity Publishing Group
+@BODYTEXT:Cartilede
+@BODYTEXT:Discover Magazine
+@BODYTEXT:Drama Desk Awards
+@BODYTEXT:Pittsburgh Paints
+@BODYTEXT:Warner Books
+@BODYTEXT:
+@CO:ACCENT PUBLIC RELATIONS
+@BODYTEXT:6784 Field St., Arvada, CO 80004
+@BODYTEXT:303/421-7037; fax:303/421-7032; gina@accentrelations.com
+@BODYTEXT:www.accentrelations.com
+@BODYTEXT:
+@CCD1:Gina Seamans, founder
+@BODYTEXT:Colorado Style Home Furnishings
+@BODYTEXT:DVCO Technology
+@BODYTEXT:Info-Cop
+@BODYTEXT:MoneyTree Lending
+@BODYTEXT:Newmeasures
+@BODYTEXT:
+@CO:ACCESS COMMUNICATIONS
+@BODYTEXT:Interpublic Group of Cos. has an ownership interest
+@BODYTEXT:101 Howard St., 2nd flr., San Francisco, CA 94105
+@BODYTEXT:415/904-7070; fax:415/904-7055; info@accesspr.com
+@BODYTEXT:
+@AGENCY:Agency Statement: Access Communications specializes in corporate and product positioning. In both consumer and business-to-business, we drive aggressive and highly successful visibility programs for products, services and technologies. Our agency portfolio includes business technology, consumer technology, Internet infrastructure, consumer electronics and consumer products companies. We use proprietary branding and message development methodologies, client and staff training programs, media relations and research to develop and execute communications programs that put our clients on the map. Visit us at www.accesspr.com.
+@CCD1:Susan Butenhoff, president & CEO; Matthew Afflixio, Jennifer Sims-Fellner, Tuesday Uhland, Michael Young, sr. VPs
+@BODYTEXT:245 Fifth Ave., 15th flr., New York, NY 10016
+@BODYTEXT:917/522-3500; fax: 917/522-3510; info@accesspr.com
+@BODYTEXT:
+@BODYTEXT:Accelrys
+@BODYTEXT:Airframe
+@BODYTEXT:Amdocs
+@BODYTEXT:Diamond of California
+@BODYTEXT:Epiphany
+@BODYTEXT:Flarion
+@BODYTEXT:Infospace
+@BODYTEXT:ITM Software
+@BODYTEXT:Instant Effects
+@BODYTEXT:Intuit
+@BODYTEXT:iRisc
+@BODYTEXT:Kaiser Permenanti
+@BODYTEXT:Net IQ
+@BODYTEXT:Pinnacle
+@BODYTEXT:Retrobox
+@BODYTEXT:Sega of America
+@BODYTEXT:Shopping.com
+@BODYTEXT:Silicon Graphics
+@BODYTEXT:Threshold Pharmaceuticals
+@BODYTEXT:Trend Micro
+@BODYTEXT:
+@CO:ACKERMANN PUBLIC RELATIONS & MARKETING
+@BODYTEXT:1111 Northshore Dr., #N-400, Knoxville, TN 37919
+@BODYTEXT:865/584-0550; fax:865/588-3009
+@BODYTEXT:www.ackermannpr.com
+@BODYTEXT:Full-service marketing firm: media rels., crisis comms., market research, strategy development. Employees: 27. Founded: 1981.
+@CCD1:Cathy G. Ackermann, pres. & CEO; Jeff Hooper, exec. VP; Crystal Cardwell, VP/finance; Robert Cathey, VP, client services
+@BODYTEXT:Addison Airport
+@BODYTEXT:Alcoa
+@BODYTEXT:Barber McMurry architects
+@BODYTEXT:Book Market, The
+@BODYTEXT:Crossville Ceramics
+@BODYTEXT:Dallas Fort Worth International Airport
+@BODYTEXT:Dollywood
+@BODYTEXT:East Tennessee Medical Group
+@BODYTEXT:Hallsdale Powell Utility District
+@BODYTEXT:Mortgage Investors Group
+@BODYTEXT:Provider Healthnet Services
+@BODYTEXT:Radiologix
+@BODYTEXT:Rematec
+@BODYTEXT:Ruby Tuseday
+@BODYTEXT:Sports Turf Management Assn.
+@BODYTEXT:St. Mary’s Regional Medical Ctr.
+@BODYTEXT:TPI
+@BODYTEXT:TechLaw
+@BODYTEXT:Tennessee Dept. of Tourist Development
+@BODYTEXT:USEC
+@BODYTEXT:University of Tennessee
+@BODYTEXT:
+@CO:ACS COMMUNICATIONS INC.
+@BODYTEXT:425 Northern Blvd., ste. 8, Great Neck, NY 11021
+@BODYTEXT:772/466-7980; fax:516/466-7983
+@BODYTEXT:www.acsad.com
+@BODYTEXT:High-tech PR & adv. Founded: 1984.
+@CCD1:Andrew Schupak, owner; Bob Losi, pres.; Randy Savicky, exec. VP/PR director
+@BODYTEXT:
+@CO:AD AGENCY, THE
+@BODYTEXT:1010 Wisconsin Ave., N.W., #205, Washington, DC 20017
+@BODYTEXT:202/342-2122; fax:202/342-2580
+@BODYTEXT:Provides creative mktg., adv. design & PR. Founded: 1982
+@CCD1:Debbie Gasper, pres. & CEO
+@BODYTEXT:
+@CO:AD HOC COMMUNICATIONS RESOURCES
+@BODYTEXT:9030 Raven Oaks Dr., Omaha, NE 68152
+@BODYTEXT:402/572-6510; fax:402/572-6535
+@BODYTEXT:www.get-adhoc.com
+@BODYTEXT:PR, strategic planning & positioning, direct mktg., trade show & special event mgmt., mktg. comms., copywriting & editing, corp. identity, multimedia production & Internet/web mktg.
+@CCD1:Shelli Ryan, founder
+@BODYTEXT:
+@CO:AD INFINITUM
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:150 Broadway, #802, New York, NY 10038
+@BODYTEXT:212/693-2150
+@BODYTEXT:PR, ad, corp.communs., creative/design, brand development. Founded: 1998.
+@CCD1:Sue Taggart, Pres./CEO
+@BODYTEXT:
+@CO:AD LIB UNLIMITED
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:1507 Avenue M, Brooklyn, NY 11230
+@BODYTEXT:718/382-0900; fax:718/645-1985
+@BODYTEXT:PR, adv., marketing, creative design, publishing. Founded: 1982.
+@CCD1:Ruth Folger Weiss, partner, creative dir.
+@BODYTEXT:Bally’s Park Place
+@BODYTEXT:Finlandia Vodka
+@BODYTEXT:Sprint
+@BODYTEXT:Ultra Slim Fast
+@BODYTEXT:
+@CO:AD METHODS, HALPERN & EURICH ADV.
+@BODYTEXT:See AMH&E
+@BODYTEXT:
+@BODYTEXT:
+@CO:AD/EX AGENCY
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:P.O. Drawer 651400, Vero Beach, FL 32965
+@BODYTEXT:772/794-5400; fax:772/978-4333
+@BODYTEXT:PR, sales promotion, marketing research, creative design
+@CCD1:K.L. Loveland, PR director
+@BODYTEXT:
+@CO:ADAM FRIEDMAN ASSOCIATES LLS (AFA)
+@BODYTEXT:11 East 44th St., #504, New York, NY 10017
+@BODYTEXT:212/981-2529; fax:212/981-8174; adam@adam-friedman.com
+@BODYTEXT:Corporate & investor relations.  Founded: 1999.
+@AGENCY:Agency Statement: Adam Friedman Associates (AFA) is an independent corporate and investor relations firm specializing in representing clients that seek broader exposure to investors. Our approach is based on a strategic analysis of Wall Street perceptions, stock valuation and peer group research. We serve a client base that seeks an aggressive approach to IR and wants measurable results.
+@AGENCY:Complementing the investor program is an equally aggressive effort aimed at the business and financial media, which provides the “third party endorsement” so vital to the overall effort.
+@AGENCY:The firm has established a division that specializes in representing China-based companies listed on U.S. exchanges.
+@AGENCY:AFA assists companies in crisis management with regard to bankruptcies, change of control, litigation, etc.
+@AGENCY:The firm also represents professional service firms, and companies seeking to enhance their visibility. Using publicity and special events, we have been effective in opening new markets and creating a “buzz” about new products or services.
+@CCD1:Adam Friedman, principal
+@BODYTEXT:American Oriental Bioengineering
+@BODYTEXT:Brendan Wood International
+@BODYTEXT:Cabot Corporation
+@BODYTEXT:Chinadotcom
+@BODYTEXT:Dollar Tree Stores
+@BODYTEXT:Federal Realty Trust
+@BODYTEXT:General Steel
+@BODYTEXT:The Hartcourt Companies
+@BODYTEXT:Right Management
+@BODYTEXT:Rush Enterprises
+@BODYTEXT:Turner Construction
+@BODYTEXT:Waste Industries
+@BODYTEXT:
+@CO:ADAMS ASSOCIATES INC., JOHN
+@BODYTEXT:Partner in The Worldcom Public Relations Group
+@BODYTEXT:National Press Bldg., #807, Washington, DC 20045
+@BODYTEXT:202/737-8400; fax:202/737-8406
+@BODYTEXT:www.johnadams.com
+@BODYTEXT:Government, association relations and research, energy, environment, health, science and general PR.  Employees: 15. Founded: 1973.
+@AGENCY:Agency Statement: While it provides the normal range of public relations services, John Adams Associates is  known for its special strengths in the management and communication of complex health, environmental and economic issues. Its experienced team of scientists and writers has a sophisticated understanding of the interaction of the media and public policy and how this process is influenced. The firm has more than 25 years' experience in national and international issues management, media and  government relations, with superior capabilities in the research, writing and communication of scientific and technical issues before Congress or regulatory agencies.
+@AGENCY:It is a recognized authority on carcinogen and endocrine-related issues, and works with leading economists on projected impacts of government policies and regulations. The firm was one of the founders of The WORLDCOM Public Relations Group, the world's largest organization of independent public relations and government relations firms, with more than 100 offices worldwide.
+@CCD1:A. John Adams, pres.; John Heinze, sr. VP; Ann Crampton, Robert Cuthriell, Caroline Perrin, Francie Israeli, VPs; Rachna Sethi, A/E; Elizabeth Curwen, Gene P. Mater, John Fogarty, Patrick Toner, Jack LaCovey, Michael Evans, Ben Zingman, William D. Hickman, senior consultants
+@BODYTEXT:3M
+@BODYTEXT:Alliance for Chemical Awareness
+@BODYTEXT:American Chemistry Council
+@BODYTEXT:American Plastics Council
+@BODYTEXT:Aspirin Foundation of America
+@BODYTEXT:BBG-BBGM, architects
+@BODYTEXT:Center for the Study of the Presidency
+@BODYTEXT:Council for LAB/LAS Environmental Research
+@BODYTEXT:Defense Week
+@BODYTEXT:Energy Daily
+@BODYTEXT:Environmental Indus. Cncl.
+@BODYTEXT:Foundation for Clean Air Progress
+@BODYTEXT:Huntsman Corp.
+@BODYTEXT:International Science & Technology Center, Moscow
+@BODYTEXT:Japan Chemical Industry Assn., Tokyo
+@BODYTEXT:King Publishing Group
+@BODYTEXT:Manganese Metal Corp., South Africa
+@BODYTEXT:New Technology Week
+@BODYTEXT:Prince William Health System
+@BODYTEXT:Radio Free Europe/Radio Liberty
+@BODYTEXT:SAIC
+@BODYTEXT:Society of the Plastics Industry
+@BODYTEXT:Strategic Forecasting, Inc.
+@BODYTEXT:Texas Instruments
+@BODYTEXT:Tupperware
+@BODYTEXT:U.S. Assn. of Former Members of Congress
+@BODYTEXT:U.S. Dept. of Education
+@BODYTEXT:Water Environmental Federation
+@BODYTEXT:Weinberg Group
+@BODYTEXT:White House Weekly
+@BODYTEXT:
+@CO:ADAMS DESIGN AND MARKETING SOLUTIONS
+@BODYTEXT:1 Gateway Center, #301, Newton, MA 02458
+@BODYTEXT:617/471-7135; fax:617/773-7135
+@BODYTEXT:Marketing communications, PR, marketing consulting, graphic design, advertising, direct mail, media planning, child care, real estate development, food service, insurance markets. Founded: 1988
+@CCD1:Ken Cochrane, president
+@BODYTEXT:Brigham and Women’s Hospital
+@BODYTEXT:California Society for Cardiac Rehabilitation
+@BODYTEXT:Old Colony Hospice
+@BODYTEXT:WellBridge Health and Fitness Center
+@BODYTEXT:
+@CO:ADAMS UNLIMITED
+@BODYTEXT:10 Rockefeller Plaza, #900, New York, NY 10020
+@BODYTEXT:212/956-5900; fax:212/956-5913; candice@adams-pr.com
+@BODYTEXT:www.adams-pr.com
+@BODYTEXT:PR, promotional partnerships, corporate branding, marketing research, strategic planning, special events, crisis management, image development. Employees: 6. Founded: 1985.
+@CCD1:Candice Adams Kimmel, President; Marie Rosa, VP
+@BODYTEXT:Bonaire Tourist Office
+@BODYTEXT:DEMA Trade Show
+@BODYTEXT:Divi Aruba Beach Resort
+@BODYTEXT:Divi Carina Bay Resort & Casino
+@BODYTEXT:Divi Resorts
+@BODYTEXT:Dominican Tourist Office
+@BODYTEXT:Montpelier Plantation Inn, Nevis
+@BODYTEXT:Riviera Maya, Mexico, Tourist Office
+@BODYTEXT:St. Kitts Tourism Authority
+@BODYTEXT:Tamarijn Aruba Beach Resort
+@BODYTEXT:The Wings Club
+@BODYTEXT:
+@CO:ADAMSON ADVERTISING
+@BODYTEXT:222 South Central Ave., St. Louis, MO 63105
+@BODYTEXT:314/727-9500; fax:314/727-0561
+@BODYTEXT:Full-service firm specializing in strategic planning, adv., PR, sales promotion, interactive mktg., direct marketing & event mktg., consumer and bus.-to-bus.
+@CCD1:Richard Rubenstein, president; Alan Epstein, exec. VP; Gail Gardner
+@BODYTEXT:Broilmaster Premium Gas Grills
+@BODYTEXT:Crane National Vendors
+@BODYTEXT:The ROHO Group
+@BODYTEXT:
+@CO:ADCETERA GROUP, THE
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:2727 Allen Pkwy., Houston, TX 77019
+@BODYTEXT:713/522-8006; fax:713/522-8018
+@BODYTEXT:PR, adv., mktg. communs., food, gasoline/petroleum, travel/hotels/ airlines. Founded 1982
+@CCD1:Kristy Sexton, Principal
+@BODYTEXT:
+@CO:ADCOM COMMUNICATIONS,INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:1330 Old River Road, 2nd Floor, Cleveland, OH 44113
+@BODYTEXT:216/574-9100; fax:216/574-6131
+@BODYTEXT:www.adcom1.com
+@BODYTEXT:Founded: 1989.
+@CCD1:Joe Kubic, CEO
+@BODYTEXT:AAA Ohio Motorists
+@BODYTEXT:COSE
+@BODYTEXT:Nationwide Insurance
+@BODYTEXT:
+@CO:ADIENT
+@BODYTEXT:155 Rte. 46 W., Wayne Plaza 2, Wayne, NJ 07470
+@BODYTEXT:973/785-2000
+@BODYTEXT:A full-service advertising and promotion agency.  
+@CCD1:Guy Dess, president
+@BODYTEXT:
+@CO:ADLER PUBLIC AFFAIRS
+@BODYTEXT:200 Pine Ave., #300, Long Beach, CA 90802
+@BODYTEXT:562/435-5551; fax:562/435-5735; jeffadler@adlerpa.com
+@BODYTEXT:www.adlerpa.com
+@BODYTEXT:Public affairs, media relations, crisis management, community outreach, media training. Employees: 8. Founded: 1986
+@CCD1:Jeff Adler, pres.; Jonathan Brown, VP
+@BODYTEXT:Alameda Corridor Transportation Authority
+@BODYTEXT:City of Anaheim
+@BODYTEXT:Developers Diversified Realty Corp.
+@BODYTEXT:Gateway Cities Council of Government
+@BODYTEXT:Oracle USA
+@BODYTEXT:Parsons Brinckerhoff Quade and Douglas, Inc.
+@BODYTEXT:Port of Long Beach
+@BODYTEXT:Riverside County Department of Public Social Services
+@BODYTEXT:Sound Energy Solutions
+@BODYTEXT:Southern California Association of Governments
+@BODYTEXT:Watson Land Company
+@BODYTEXT:
+@CO:ADWORKS
+@BODYTEXT:278 Orland Road, Rochester, NY 14622
+@BODYTEXT:585/785-4600; fax:585/785-4875
+@BODYTEXT:Business-to-business PR. Founded: 1994
+@CCD1:Kerry T. Gleason, pres.
+@BODYTEXT:Better Contractors Bureau
+@BODYTEXT:BTU Special Events
+@BODYTEXT:sasi Intl
+@BODYTEXT:Catering Calculators
+@BODYTEXT:WNY Sizzle
+@BODYTEXT:
+@CO:AGENCY.COM
+@BODYTEXT:20 Exchange Place, 9th flr., New York, NY 10005
+@BODYTEXT:212/358-2600; fax:212/358-8255
+@BODYTEXT:Online and electronic communications, web sites, marketing and distribution stategies, interactive and editorial content, promotion and programming.  Founded: 1995
+@CCD1:Don Scales, president
+@BODYTEXT:
+@CO:AGG INTERNATIONAL
+@BODYTEXT:strategies beyond boundaries
+@BODYTEXT:500 Fifth Ave., 30th flr., New York, NY 10110
+@BODYTEXT:212/869-8230; fax:212/869-8360; info@aggintl.com
+@BODYTEXT:www.aggintl.com
+@BODYTEXT:Strategic consulting; corporate/financial/marketing communications. Employees: 15. Founded: 1996.
+@AGENCY:Agency Statement: AGG International is a strategic communications consultancy supporting European and American companies in their cross-border and cross cultural business activities. Based in New York and Washington D.C., the multinational/multilingual team provides communications counsel to top management and communications executives of some of the largest companies in the aerospace, automotive, defense, homeland security, technology, and transportation industries in Europe and the United States. AGG's expertise includes corporate image and leadership programs, re-engineering communications, and crisis/issue management.
+@CCD1:Andrew Goldberg, President
+Christine Alberti, Managing Director
+
+@BODYTEXT:@=1010 Wisconsin Avenue, #440
+@BODYTEXT:Washington, D.C. 20007
+@BODYTEXT:202/292-5192; fax: 202/298-6815
+@BODYTEXT:
+@BODYTEXT:
+@CO:AGISIM ASSOCIATES, JUDITH
+@BODYTEXT:796 Lexington Ave., 3rd flr., New York, NY 10021
+@BODYTEXT:212/966-0021; fax:212/966-5741; JAgisim@JudithAgisim.com
+@BODYTEXT:Fashion, accessories, footwear, beauty/health, business, and not-for-profit PR. Employees: 8. Founded: 1987.
+@CCD1:Judith M. Agisim, President
+@BODYTEXT:ABH Design
+@BODYTEXT:California Closets
+@BODYTEXT:Cassin
+@BODYTEXT:Corneliani
+@BODYTEXT:DeLaneau Watches
+@BODYTEXT:ENK International
+@BODYTEXT:Italian Trade Commission
+@BODYTEXT:Robert Marc Opticians
+@BODYTEXT:Warren Edwards
+@BODYTEXT:Gerald Imber, M.D., P.C.
+@BODYTEXT:
+@CO:AGNES HUFF COMMUNICATIONS GROUP, LLC
+@BODYTEXT:Howard Hughes Center, 6601 Center Drive West, #100, Los Angeles, CA 90045
+@BODYTEXT:310/641-2525; fax:310/641-2544; info@ahuffgroup.com
+@BODYTEXT:ahuffgroup.com
+@BODYTEXT:PR, marketing, special events, branding, internal comms., media training, community rels., research, adv., and crisis mgmt., including plan development, training, crisis comms., exercises and simulations.  Employees: 9. Founded: 1995.
+@AGENCY:Agency Statement: Agnes Huff Communications Group, LLC is a private, woman-owned and certified communications firm in Los Angeles. Ranked by PR Week<D> as one of the top 30 PR agencies in L.A., the award-winning firm represents a wide variety of clients in diverse industries.
+@AGENCY:With an expert in psychology at the helm, the agency offers clients Smarter (PhD) Marketing Solutions(c), including strategic PR, marketing, special events and crisis management. The company is part of a PR agency network with offices nationwide.
+@CCD1:Agnes Huff, pres. & CEO; Richard Baldwin, CFO; James Gould, VP; Anna Jerden, account dir.; Sheila Ramezani, account mgr.; Terry Paoli, creative dir.; Vanessa Chandler, graphic design; James Reilly, interactive dir.
+
+@BODYTEXT:ABM Industries, Inc.
+@BODYTEXT:American Friends of The Hebrew University
+@BODYTEXT:City of Los Angeles
+@BODYTEXT:Joint Replacement Institute
+@BODYTEXT:Morlin Management Corp.
+@BODYTEXT:Orthopaedic Hospital
+@BODYTEXT:Qantas Airways
+@BODYTEXT:Qatar Airways
+@BODYTEXT:Santa Monica-UCLA Medical Center
+@BODYTEXT:VCA Antech
+@BODYTEXT:World Airways
+@BODYTEXT:
+@CO:AH&M (ALLISON, HULL & MALNATI INC.)
+@BODYTEXT:152 North St., #340, Pittsfield, MA 01201
+@BODYTEXT:413/448-2260; fax:413/445-4026; ahm@ahminc.com
+@BODYTEXT:Press rels., product publicity, speakers’ programs, crisis mgmt., employee rels., IR, community rels. Employees: 14. Founded: 1988.
+@CCD1:James H. Allison, III, Peggy Malnati, Dallas Hull, principals
+@BODYTEXT:Conoco
+@BODYTEXT:GE Superabrasives
+@BODYTEXT:General Electric Co.
+@BODYTEXT:Harvest Group
+@BODYTEXT:Hummingbird
+@BODYTEXT:Owens Corning
+@BODYTEXT:Polymer Resources
+@BODYTEXT:PolyOne Corp.
+@BODYTEXT:Solutia
+@BODYTEXT:
+@CO:AHMANN BOYETTE
+@BODYTEXT:100 Colony Sq., 1175 Peachtree St., N.E., #1660, Atlanta, GA 30361
+@BODYTEXT:404/892-0100; fax:404/872-4591
+@BODYTEXT:www.ahmannboyette.com
+@BODYTEXT:Public & government affairs, crisis communications, issues management, economic development. Employees: 9. Founded: 1989.
+@AGENCY:Agency Statement: Ahmann Boyette is a public affairs and communications firm that helps organizations and communities with issue management and strategy development.
+@CCD1:John Ahmann, Del Boyette, principals; Jane Langley, Helen Tarleton, Rebecca Wallace, David Payne, Earl Gurr, Rebekah Whortman
+@BODYTEXT:Benevolink
+@BODYTEXT:Georgia Hospital Association
+@BODYTEXT:Metro Atlanta Chamber of Commerce
+@BODYTEXT:Pace Academy
+@BODYTEXT:Tenet Healthcare
+@BODYTEXT:Washington Group International
+@BODYTEXT:Wilmington Trust/ Atlanta
+@BODYTEXT:
+@CO:AHP DIGITAL COMMS., INC.
+@BODYTEXT:9 Calvin Place, Metuchen, NJ 08840
+@BODYTEXT:732/906-2400; fax:732/906-3233
+@BODYTEXT:Full-service advertising and PR agency. Services include media planning and buying, strategic planning, promotions & database mktg. Founded: 1979
+@CCD1:Alan Pollak, president
+@BODYTEXT:Advanta Great Expectations
+@BODYTEXT:AIG Insurance
+@BODYTEXT:Alexian Specialty Meats
+@BODYTEXT:Ernst & Young LLP
+@BODYTEXT:Postgraduate Center for Mental Health
+@BODYTEXT:SilverLine Windows and Doors
+@BODYTEXT:
+@CO:AIGNER ASSOCIATES
+@BODYTEXT:250 Everett St., Allston, MA 02134
+@BODYTEXT:617/254-9500; fax:617/254-3700
+@BODYTEXT:Events planning; media placement.  Employees: 6.  Founded: 1984
+@CCD1:Anne-Marie Aigner, pres.; Janet Prensky, VP
+@BODYTEXT:
+@CO:AIRFOIL PUBLIC RELATIONS, INC.
+@BODYTEXT:1001 Woodward Ave., #1700, Detroit, MI 48226
+@BODYTEXT:313/887-7200; fax:313/887-7201; vallee-smith@airfoilpr.com
+@BODYTEXT:PR for high-tech clients; brand dev., and corp. identity, content dev. and editorial svcs., creative svcs, market research, media relations, strategic comms. and planning, trade show and event mgmt. Employees: 27. Founded: 2000.
+@AGENCY:Agency Statement: Airfoil is an independent public relations firm that specializes in marketing high-technology products and services.  For established businesses a well as early-, mid,- and late-stage start-ups, we help create awareness, credibility, and reputation by communicating to the audiences that matter most: media, analysts, investors, customers, and employees. Airfoil is adept at using PR to help create awareness and understanding of complex technologies, and we are experienced in working with entrepreneurs.
+@CCD1:Lisa Vallee-Smith, CEO; Janet Tyler, pres. and COO; Tracey E. Parry, Eric Kushner, VPs
+@BODYTEXT:CareTech Solutions Inc.
+@BODYTEXT:EBay
+@BODYTEXT:ePrize
+@BODYTEXT:Faurecia
+@BODYTEXT:Fry Inc.
+@BODYTEXT:George P. Johnson Co., The
+@BODYTEXT:Infor
+@BODYTEXT:Latitude Consulting
+@BODYTEXT:Microsoft Corp., U.S. Sub.
+@BODYTEXT:NABR
+@BODYTEXT:National Logistics Management
+@BODYTEXT:PayPal
+@BODYTEXT:Sikkens
+@BODYTEXT:Sircon
+@BODYTEXT:
+@CO:AKER PARTNERS, INC., THE
+@BODYTEXT:2000 K St., NW, #801, Washington, DC 20006
+@BODYTEXT:202/789-2424; fax:202/789-1818; aker@akerpartners.com
+@BODYTEXT:www.akerpartners.com
+@BODYTEXT:
+@AGENCY:Agency Statement: Since 1983, the nation’s only firm offering partner-directed services. Experience with hundreds of successful programs, PR, marketing communications, public affairs, crisis communications, investor relations for corporate, energy and health care clients. Innovators of NetPR Services and Direct Response Public Relations. Clients work with senior counselors providing close attention and accountability at affordable fees. For clients large and small, we deliver on our promise of The Right Results, Right Away.<D>
+@CCD1:Colburn Aker, mng. partner; David Narsavage, senior partner; Sanda Pecina, partner
+@BODYTEXT:American Sleep Apnea Association
+@BODYTEXT:Association of Clinical Research Professionals
+@BODYTEXT:Association of Oil Pipe Lines
+@BODYTEXT:British Midlands
+@BODYTEXT:Doner Strategies Inc.
+@BODYTEXT:Ford Motor Company
+@BODYTEXT:Honeywell International Inc.
+@BODYTEXT:Maritime Intelligence Group
+@BODYTEXT:Newspaper Assn. of America
+@BODYTEXT:Nutraceutics Corporation
+@BODYTEXT:Postal Reform in the Public Interest
+@BODYTEXT:Society for Maternal-Fetal Medicine
+@BODYTEXT:Washington National Cathedral
+@BODYTEXT:
+@CO:AKHIA PUBLIC RELATIONS
+@BODYTEXT:1330 Corporate Dr., Hudson, OH 44236
+@BODYTEXT:330/463-5650; fax:330/463-5624
+@BODYTEXT:Media rels., image campaigns, new product launches, events and sponsorship mgmt., trade publicity. Employees: 13. Founded: 1996.
+@CCD1:Janice S. Gusich, pres.; Patricia Carlson, VP, business-to-business group
+@BODYTEXT:Flood Co.
+@BODYTEXT:Honey Baked Ham Co.
+@BODYTEXT:K&M International
+@BODYTEXT:Mactac
+@BODYTEXT:Micro Medical Devices
+@BODYTEXT:NeuroControl
+@BODYTEXT:Patio Enclosures, Inc.
+@BODYTEXT:Research Assocs., Inc.
+@BODYTEXT:St. Vincent Charity Hospital
+@BODYTEXT:TruSeal Technologies
+@BODYTEXT:Wild Republic
+@BODYTEXT:
+@CO:AKINS/CRISP PUBLIC STRATEGIES
+@BODYTEXT:PO Box 15171, Knoxville, TN 37901
+@BODYTEXT:865/637-0251; fax:865/637-0254
+@BODYTEXT:Employees: 13. Founded: 1989
+@CCD1:Darrell Akins, CEO  
+@BODYTEXT:
+@CO:ALAN TAYLOR COMMUNICATIONS
+@BODYTEXT:14 Penn Plaza, #610, New York, NY 10122
+@BODYTEXT:212/714-1280; fax:212/695-5685; info@alantaylor.com
+@BODYTEXT:www.alantaylor.com
+@BODYTEXT:Consumer mktg. public relations with a focus on lifestyle and sports; brand building, special events, consumer products, corporate sponsorships. Employees: 65. Founded: 1984.
+@AGENCY:Agency Statement: Recognized as the leading lifestyle and sports public relations agency, Alan Taylor Communications (ATC) is the agency of choice for the world's leading consumer companies. ATC works with the leaders from a variety of industries who strategically use sports and lifestyle marketing to build their brands and drive their business. The agency provides a full array of public relations services including marketing communications strategic counsel, comprehensive media relations, special event planning and execution, creative services, and spokesperson procurement, management and media training.
+@CCD1:Tony Signore, CEO & mng. partner; Bryan Harris, Mark Beal, John Liporace, Erin Weinberg, Bret Werner, mng. partners; Brett Jewkes, sr. VP; Frank Hernandez, Ted Fragulis, Stacey Gomoljak, VPs; Bill Holtz, Ryan Mucatel, acct. directors
+@BODYTEXT:10815 David Taylor Drive, #190, Charlotte, NC 28262
+@BODYTEXT:704/548-8556; fax: 704/548-0873
+@BODYTEXT:
+@BODYTEXT:Ameriquest Mortgage Co.
+@BODYTEXT:Diageo (Baileys, Crown Royal, Guinness, Jose Cuervo, Smirnoff
+@BODYTEXT:General Mills
+@BODYTEXT:Gillette Co., The
+@BODYTEXT:JPMorgan Chase
+@BODYTEXT:MasterCard International
+@BODYTEXT:Microsoft Xbox
+@BODYTEXT:NASCAR
+@BODYTEXT:Nestle Purina
+@BODYTEXT:Pitney Bowes
+@BODYTEXT:Reebok
+@BODYTEXT:Staples
+@BODYTEXT:Warner Bros.
+@BODYTEXT:Yahoo!
+@BODYTEXT:
+@CO:ALDRICH & ASSOCIATES, INC.
+@BODYTEXT:65 Pine Ave., #320, Long Beach, CA 90802
+@BODYTEXT:562/436-5156; fax:562/435-8204; sandy@aldrichpr.com
+@BODYTEXT:www.aldrichpr.com
+@BODYTEXT:Full service PR. Employees: 6. Founded: 1984.
+@CCD1:Larry Aldrich, pres.
+@BODYTEXT:Satcom Electronics, Inc.
+@BODYTEXT:Stealth Productions
+@BODYTEXT:Suzuki Musical Products Inc.
+@BODYTEXT:Temcor
+@BODYTEXT:Theatre LA
+@BODYTEXT:
+@CO:ALISON GROUP, THE
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:109 8th Street, Augusta, GA 30901
+@BODYTEXT:706/724-3758; fax:706/724-1093
+@BODYTEXT:PR, business-to-business, mktg., creative, dir. mktg., sales promotion, research.  Founded: 1982.
+@CCD1:Mark Alison, president
+@BODYTEXT:Augusta Chronicle
+@BODYTEXT:Carlisle Tire & Wheel
+@BODYTEXT:Eye Physicians & Surgeons of Augusta
+@BODYTEXT:Glit
+@BODYTEXT:
+@CO:ALLEN & CARON INC
+@BODYTEXT:18300 Von Karman, #410, Irvine, CA 92612
+@BODYTEXT:949/474-4300; fax:949/474-4330
+@BODYTEXT:Fin’l, investor, corp. PR; crisis comms., mktg. comms., consulting. Employees: 20. Founded: 1988.
+@CCD1:Joseph Allen, chmn.; Rene H. Caron, pres./COO; Matt Clawson, VP
+@BODYTEXT:156 Fifth Ave., #934, New York, NY 10010
+@BODYTEXT:212/691-8087; fax: 212/691-8116
+@CCD1:Michael Mason, office manager
+@BODYTEXT:
+@BODYTEXT:Align Technology, Inc.
+@BODYTEXT:Amerigon Inc.
+@BODYTEXT:Cardiogenesis Corp.
+@BODYTEXT:Careside Inc.
+@BODYTEXT:Clean Diesel Technologies
+@BODYTEXT:DermaSciences
+@BODYTEXT:Endocare, Inc.
+@BODYTEXT:Fusion Medical
+@BODYTEXT:Insci
+@BODYTEXT:International Fibercom
+@BODYTEXT:Kyzen Corp.
+@BODYTEXT:MFC Bancorp
+@BODYTEXT:National Technical Systems
+@BODYTEXT:Novellus Systems Inc.
+@BODYTEXT:Palomar Medical Technologies
+@BODYTEXT:Rita Medical Systems, Inc.
+@BODYTEXT:
+@CO:ALLEN NELSON & CO.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:PO Box 16157, Seattle, WA 98116
+@BODYTEXT:206/938-5783; fax:938-2072
+@BODYTEXT:www.info-mine.com/allen-nelson
+@BODYTEXT:PR, media buying/placement/planning, financial adv. Founded: 1977.
+@CCD1:Allen F. Nelson, president
+@BODYTEXT:
+@CO:ALLHEALTH PR
+@BODYTEXT:130 Beckwith St., North Potomac, MD 20878
+@BODYTEXT:301/948-1709; br@allhealthpr.com
+@BODYTEXT:www.allhealthpr.com
+@BODYTEXT:
+@CCD1:Brian Ruberry
+@BODYTEXT:
+@CO:ALLIED ADVERTISING, PUBLIC RELATIONS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:545 Boylston Street, llth flr., Boston, MA 02116
+@BODYTEXT:617/859-4800; fax:617/247-0880
+@BODYTEXT:PR, adv., consumer adv., media buying/placement/planning, entertainment, motion picture industry.  Founded: 1946.
+@CCD1:Jane Lanouette, VP, PR
+@BODYTEXT:
+@CO:ALLISON & PARTNERS
+@BODYTEXT:Partner in Pinnacle Worldwide
+@BODYTEXT:450 Sansome St., #200, San Francisco, CA 94111
+@BODYTEXT:415/277-4922; fax:415/217-7503; scotta@allisonpr.com
+@BODYTEXT:Company and product positioning and messaging; crisis communication; media rels.; media training; cause marketing; corporate and product brand campaigns.
+@AGENCY:Agency Statement: Allison & Partners is a strategic communications and public relations firm with a unique position. We help our clients build brands, cultivate customers and increase sales in the business-to-business and consumer markets.
+@AGENCY:Through integrating strategic communications, public relations, cause marketing and sales lead generation, we deliver a measurable difference.
+@AGENCY:Our understanding of our clients’ customers, markets and brands, enables us to bring value to every stage of communication.
+@CCD1:Scott Allison, CEO
+@BODYTEXT:
+@CO:ALLYN & COMPANY, INC.
+@BODYTEXT:Owned by Fleishman-Hillard Co.; see F-H listing
+@BODYTEXT:
+@BODYTEXT:
+@CO:ALPERN LEHMAN
+@BODYTEXT:See HMI Inc.
+@BODYTEXT:
+@BODYTEXT:
+@CO:ALTUS GROUP
+@BODYTEXT:211 N. 13th St., 8th flr., Philadelphia, PA 19107
+@BODYTEXT:215/977-9900; fax:215/977-8350
+@BODYTEXT:www.altus-group.com
+@BODYTEXT:Information technology, business-to-business, biotechnology, hospitality marketing comms. Employees: 12. Founded: 1989.
+@CCD1:David Jeffreys, pres.
+@BODYTEXT:AutoPort, Inc.
+@BODYTEXT:InKine Pharmaceutical
+@BODYTEXT:Know It All Inc.
+@BODYTEXT:Omni Hotels
+@BODYTEXT:SeaLand Chemical
+@BODYTEXT:WACO
+@BODYTEXT:
+@CO:AMATE COMMUNICATIONS, LLC
+@BODYTEXT:500 W. Cummings Park, #2500, Woburn, MA 01801
+@BODYTEXT:781/759-0015; fax:781/759-1549
+@BODYTEXT:Crisis communications, media relations, special events, strategic planning.
+@CCD1:Kathleen Sullivan
+@BODYTEXT:
+@CO:AMERICAN FINANCIAL COMMUNICATIONS, INC.
+@BODYTEXT:5801 Christy Ave., #387, Emeryville, CA 94608
+@BODYTEXT:510/597-4200; afc@sbcglobal.net
+@BODYTEXT:Boutique IR/fin'l comms. firm that specializes in small caps.
+@CCD1:Richard Carpenter, president
+@BODYTEXT:
+@CO:AMH&E ADVERTISING
+@BODYTEXT:395 Moreland Rd., #101, Hauppauge, NY 11788
+@BODYTEXT:631/434-3330; fax:631/434-1129
+@BODYTEXT:Marketing communications; helps develop client collateral, websites, newsletters and more.
+@CCD1:Hesso Bellem, CEO; Bill Coleman, director of business development
+@BODYTEXT:
+@CO:AMIDEI GROUP, THE
+@BODYTEXT:705 Mission St., San Rafael, CA 94901
+@BODYTEXT:415/256-8790; fax:415/256-8796; neal@amideigroup.com
+@BODYTEXT:Full-service general public relations; integrated marketing communi- cations. Employees: 2. Founded: 1991.
+@CCD1:L. Neal Amidei, president
+@BODYTEXT:Artists' Guild of San Francisco
+@BODYTEXT:Beth's Fine Desserts
+@BODYTEXT:Parkside Group, LLC
+@BODYTEXT:Union Bank of California
+@BODYTEXT:
+@CO:ANDERSON COMMUNICATIONS, INC.
+@BODYTEXT:Advertising and public relations firm
+@BODYTEXT:2245 Godby Rd., #202, Atlanta, GA 30349
+@BODYTEXT:404/766-8000; fax:404/767-5264
+@BODYTEXT:Corporate, product & institutional PR, Black market PR. Employees: 12.  Founded: 1971
+@CCD1:Al Anderson, chmn.; Virgil Scott, CEO
+@BODYTEXT:BellSouth Mobility
+@BODYTEXT:Kraft General Foods
+@BODYTEXT:Kroger Co.
+@BODYTEXT:Popeyes
+@BODYTEXT:Reebok
+@BODYTEXT:
+@CO:ANDOVER COMMUNICATIONS, INC.
+@BODYTEXT:One Bridge Plaza, #110, Fort Lee, NJ 07024
+@BODYTEXT:201/947-4133
+@BODYTEXT:Consumer prod./svcs; bus.-to-bus. PR. Employees: 6. Founded: 1989
+@CCD1:Steven Clark, pres.; Holly Antonoff, VP; Laura Calverley, Vicki Garfinkel, A/Ss; Ellen Yu, A/E; Nick Garrett, asst. A/E
+@BODYTEXT:Accenture
+@BODYTEXT:Barnert Hospital
+@BODYTEXT:CARE
+@BODYTEXT:Expert Home Care
+@BODYTEXT:Homecare Options
+@BODYTEXT:JH Cohn LLP
+@BODYTEXT:Kosherfest
+@BODYTEXT:Michael Awards
+@BODYTEXT:Nortronics
+@BODYTEXT:PRIO Corp.
+@BODYTEXT:Smith Design Assocs.
+@BODYTEXT:Spine Solutions
+@BODYTEXT:SpineCare Institute
+@BODYTEXT:
+@CO:ANDREA & ASSOCIATES
+@BODYTEXT:112 East 23rd St., New York, NY 10010
+@BODYTEXT:212/353-9585; fax:212/473-7864
+@BODYTEXT:Non-profit PR. Founded: 1981
+@CCD1:Andrea Mikotajuk Kotuk, pres.
+@BODYTEXT:
+@CO:ANDREA OBSTON MARKETING COMMS. LLC
+@BODYTEXT:3 Regency Drive, Bloomfield, CT 06002
+@BODYTEXT:860/243-1447; fax:860/243-5048
+@BODYTEXT:PR strategy, planning and execution; services: crisis management and recovery & media training. Founded: 1982. Employees: 3.
+@CCD1:Andrea Obston, president
+@BODYTEXT:Corporation for Independent Living
+@BODYTEXT:Integrated Loan Services
+@BODYTEXT:Lincoln Financial Group
+@BODYTEXT:Lydall, Inc.
+@BODYTEXT:New England Technical Institute
+@BODYTEXT:Pinnacle Decision Systems
+@BODYTEXT:
+@CO:ANDREWS MARKETING COMMUNICATIONS, CHERYL
+@BODYTEXT:331 Almeria Ave., Coral Gables, FL 33134
+@BODYTEXT:305/444-4033; fax:305/447-1978; cheryl@cherylandrewsmarketing.com
+@BODYTEXT:www.cherylandrewsmarketing.com
+@BODYTEXT:International travel/tourism and real estate PR specializing in image building, new resort launches plus destination awareness & positioning.  Founded: 1985.
+@CCD1:Cheryl Andrews, pres.; Jody Diamond, Margie Benziger, Holly Lee, Janelle James, Yamilet Alvarado, Kara Barbakoff, staffers
+@BODYTEXT:Breakwater Hotel
+@BODYTEXT:Cayo Espanto
+@BODYTEXT:Cheeca Lodge & Spa
+@BODYTEXT:Conrad Miami
+@BODYTEXT:Couples Resorts
+@BODYTEXT:Curacao Tourist Board
+@BODYTEXT:Edison Hotel
+@BODYTEXT:Hertz Latin America/ Caribbean
+@BODYTEXT:Iberostar Hotels & Resorts
+@BODYTEXT:LaSource Grenada
+@BODYTEXT:Magna Carta Barge Cruises
+@BODYTEXT:Mayfair Hotel & Spa
+@BODYTEXT:Miami Herald Travel Expo
+@BODYTEXT:The Mutiny Hotel
+@BODYTEXT:Nevis Tourism Authority
+@BODYTEXT:Ocean Club Resorts
+@BODYTEXT:Tides Hotel
+@BODYTEXT:Trinidad & Tobago Dept. of Tourism
+@BODYTEXT:
+@CO:ANGELWORKS PUBLIC RELATIONS
+@BODYTEXT:35 Marine View Dr., Camarillo, CA 93010
+@BODYTEXT:805/445-9738; fax:805/445-9653; angelworks@dakotacarmel.com
+@BODYTEXT:Entertainment, publishing, corporate, technology PR. Employees: 6. Founded: 1995.
+@CCD1:Elayne Angel Harbert, pres.
+@BODYTEXT:
+@CO:ANNE MCBRIDE COMPANY, THE
+@BODYTEXT:747 Third Ave., 4th flr., New York, NY 10017
+@BODYTEXT:212/983-1702; fax:212/983-1736
+@BODYTEXT:www.annemcbride.com
+@BODYTEXT:Employees: 20. Founded: 1992.
+@CCD1:Anne McBride, chair.; Eliza Gibbons, Satoshi Shimomura, Marilena LaRosa, Rachel Levine, Can Onen, managing directors; Ivette Almeida, PR manager
+@BODYTEXT:ACD Systems
+@BODYTEXT:Bancolombia
+@BODYTEXT:Brand Partners Group
+@BODYTEXT:Brasil Telecom S.A.
+@BODYTEXT:BresaGen Ltd.
+@BODYTEXT:C.I.E
+@BODYTEXT:Casa Saba
+@BODYTEXT:Cemig
+@BODYTEXT:Elbit Systems
+@BODYTEXT:Elron
+@BODYTEXT:Eurotel
+@BODYTEXT:FBI Communications
+@BODYTEXT:Gigante
+@BODYTEXT:Gold Fields Limited
+@BODYTEXT:ICTS
+@BODYTEXT:MIM Corp.
+@BODYTEXT:Mitsubishi Securities Co.
+@BODYTEXT:On Track Innovation
+@BODYTEXT:Perdigao S.A
+@BODYTEXT:Prana Biotechnology
+@BODYTEXT:Promota Group
+@BODYTEXT:S&T AG Austria
+@BODYTEXT:Satyam Computer Services
+@BODYTEXT:Satyam Infoway
+@BODYTEXT:
+@CO:ANREDER & CO.
+@BODYTEXT:10 E. 40th St., #1308, New York, NY 10016
+@BODYTEXT:212/532-3232; fax:212/679-7999
+@BODYTEXT:IR, corporate PR, financial, crisis management.  Employees: 8. Founded: 1990.
+@CCD1:Steven S. Anreder, president
+@BODYTEXT:Apollo Management LP
+@BODYTEXT:Benihana Inc.
+@BODYTEXT:Enzo Biochem Inc.
+@BODYTEXT:Huttig Building Products
+@BODYTEXT:Morgan Joseph & Co.
+@BODYTEXT:Nature's Sunshine Products Inc.
+@BODYTEXT:Oriental Financial Group
+@BODYTEXT:Scholastic Corp.
+@BODYTEXT:The Shansby Group
+@BODYTEXT:Velocity Express Corp.
+@BODYTEXT:
+@CO:ANT HILL MARKETING
+@BODYTEXT:537 S.E. Ash St., 440, Portland, OR 97214
+@BODYTEXT:503/236-3196; fax:503/236-1186
+@BODYTEXT:www.anthillmarketing.com
+@BODYTEXT:Technology-oriented clients.
+@CCD1:William B. Trainer, pres.
+@BODYTEXT:
+@CO:ANTARRA COMMUNICATIONS
+@BODYTEXT:11602 Knott St., #D13, Garden Grove, CA 92841
+@BODYTEXT:714/891-3660; fax:714/891-1490; cwarren@antarra.com
+@BODYTEXT:www.antarra.com
+@BODYTEXT:PR for technology companies including aerospace, consumer electronics, computer/gaming, business-to-business, emerging and industrial.  Employees: 5. Founded: 2001.
+@AGENCY:Agency Statement: Antarra Communications is a full-service public relations firm, bringing a seamless combination of e-marketing strategies and traditional concepts to a wide range of clientele globally.
+@AGENCY:The agency is proactive in developing innovative  programs to achieve client goals and “Real Business Outcomes” including: increasing corporate profits, marketshare, sales and share price.
+@AGENCY:Through our intimate knowledge of the aerospace and technology environments, Antarra customers get the inside scoop on the best opportunities to deliver their message.
+@CCD1:Susan van Barneveld, CEO; Carol Warren, president
+@BODYTEXT:31 High St., ste. 1-2B, Norwalk, CT 06851
+@BODYTEXT:203/663-1406; demich@antarra.com
+@CCD1:Doris Emich, VP marketing
+@BODYTEXT:
+@BODYTEXT:Accupoll, Inc.
+@BODYTEXT:Advanced Media, Inc.
+@BODYTEXT:Copernio Consulting; Copernio Holding Co.
+@BODYTEXT:Freecom Technology
+@BODYTEXT:Future Formats
+@BODYTEXT:Kagi
+@BODYTEXT:Norcent Technology Inc.
+@BODYTEXT:Ritek
+@BODYTEXT:Sony Manufacturing Systems America
+@BODYTEXT:Unikeep, LLC
+@BODYTEXT:Univenture
+@BODYTEXT:Viskase
+@BODYTEXT:
+@CO:ANTENNA GROUP
+@BODYTEXT:625 Market St., 6th flr., San Francisco, CA 94105
+@BODYTEXT:415/896-1800; fax:415/896-1094; info@antennagroup.com
+@BODYTEXT:PR for high-technology businesses; Internet software/services, wireless comms., advanced materials, energy and electronics.
+ 
+
+ Employees: 18.
+@CCD1:Melody Haller, founder & pres.; Darcy Provo, VP; Colin Smith, director
+@BODYTEXT:AgraQuest
+@BODYTEXT:Azaleos
+@BODYTEXT:Biored
+@BODYTEXT:Cambrios
+@BODYTEXT:Carmanah
+@BODYTEXT:Clean Edge
+@BODYTEXT:Commission Junction
+@BODYTEXT:Eloqua
+@BODYTEXT:Jigsaw
+@BODYTEXT:Lusora
+@BODYTEXT:New Boundary 
+@BODYTEXT:Nielsen-Norman Group
+@BODYTEXT:Quantum Dot Corp.
+@BODYTEXT:Quova
+@BODYTEXT:Small Times Magazine
+@BODYTEXT:Solaicx
+@BODYTEXT:Vapore
+@BODYTEXT:WebEx Communications
+@BODYTEXT:
+@CO:ANTHONY BARADAT & ASSOCIATES
+@BODYTEXT:1235 Coral Way, #200, Miami, FL 33145
+@BODYTEXT:305/859-8989; fax:305/859-8919
+@BODYTEXT:www.abiadvertising.com
+@BODYTEXT:Employees: 14. Founded: 1994.
+@CCD1:Anthony Baradat, president
+@BODYTEXT:ABN Amro
+@BODYTEXT:Bermello, Ajamil & Partners
+@BODYTEXT:Ciclon Energy Drink
+@BODYTEXT:Nutrition S’Mart
+@BODYTEXT:Radio Television Espanola
+@BODYTEXT:Total Support, Inc.
+@BODYTEXT:Word Magic Software
+@BODYTEXT:
+@CO:APCO WORLDWIDE
+@BODYTEXT:700 12th St., NW, #800, Washington, DC 20005
+@BODYTEXT:202/778-1061; fax:202/466-6002; information@apcoworldwide.com
+@BODYTEXT:www.apcoworldwide.com
+@BODYTEXT:Government relations, crisis management, litigation communication, PA, survey research, coalition building, media rels.  Employees: 400. Founded: 1984.
+@AGENCY:Agency Statement: APCO Worldwide, an award-winning global communication consultancy specializes in providing targeted solutions to issues and opportunities faced by clients. With offices in cities throughout North America, Europe, Asia and Africa, APCO’s areas of expertise include:
+@AGENCY:o Corporate, investor and employee communication
+@AGENCY:o Government relations
+@AGENCY:o Market entry
+@AGENCY:o Issue management
+@AGENCY:o Crisis management
+@AGENCY:o Litigation communication
+@AGENCY:o Corporate social responsibility
+@AGENCY:Governments, corporations, industry associations, and non-profit organizations benefit from an array of services including strategic counsel, media relations, opinion research, grassroots advocacy, coalition building, event management, spokesperson training and online communication.
+@AGENCY:Headquartered in Washington, D.C., clients include six of the top 10 companies on Fortune's Global 500. 
+@CCD1:Margery Kraus, pres. & CEO; Neal Cohen, chmn., North America; Larry Snoddon, vice chmn.; Mark Benson, pres., APCO Insight; Don Bonker, exec. VP; Wayne Pines, pres./regulatory services & healthcare; Jane Garvey, exec. VP/chmn., transportation practice; Chrystal Kern, worldwide CFO; Barry J. Schumacher, sr. VP & dir./int’l policy; Maggie Fitzpatrick, senior VP/director, technology public relations; Peter Goelz, sr. VP/director, worldwide crisis comms.; Evan Kraus, senior VP/dir., technology svcs.; Ellen Mignoni, sr. VP/director, corp. community strategies; Jan E. Hausrath, sr. VP/dir., media rels.; B. Jay Cooper, sr. VP/dir. of strategic comms.; Robert Schooling, senior VP-dir., PA; Donald W. Riegle Jr., senior VP/chmn., gov’t rels.; Charles Krause, sr. VP/global services; Marilyn Fancher, sr. VP/creative director; Jack Lanza, sr. VP/creative director; Kent Jarrell, sr. VP/dir. litigation comms.; John Peterson, senior VP; Laurie Labuda, senior VP/PA; Myron Marlin, sr. VP/senior strategist, public affs.; Judith Sapir, sr. VP/general counsel; Nancy Murphy, Roger Lowe, sr. VPs
+@BODYTEXT:30 Rockefeller Center, #2840, New York, NY 10112
+@BODYTEXT:212/300-1800; fax: 212/300-1819
+@CCD1:Patty Kennedy, VP
+@BODYTEXT:1215 K St., #1500, Sacramento, CA 95814
+@BODYTEXT:916/554-3400; fax: 916/554-3434
+@CCD1:Jose Hermocillo, sr. VP/managing director; Dave  Puglia, VP
+@BODYTEXT:520 Pike Street, #1001, Seattle, WA 98101
+@BODYTEXT:206/224-4340; fax: 206/224-4344
+@CCD1:Maggie Brown, managing director
+@BODYTEXT:5800 Kiva Lane, Scottsdale, AZ 85253
+@BODYTEXT:480/348-1032; fax: 480/348-1033
+@CCD1:Jay Heiler, VP
+@BODYTEXT:255 Albert Street, #703, Ottawa, Ontario K1P 6A9, Canada
+@BODYTEXT:613/565-4242; fax: 613/565-1937
+@CCD1:Henry Storgaard, sr. VP & managing director; Evan Zelikovitz, VP
+@BODYTEXT:Rue du Trone 130 Troonstaat, Brussels 1050, Belgium
+@BODYTEXT:32-2 645-9811; fax: 32-2 645-9812
+@CCD1:Brad Staples, chmn. of Europe; Laurent Chokouale Datou, managing director
+@BODYTEXT:mtpr: Poppelsdorfer Allee 114, 53115 Bonn, Germany
+@BODYTEXT:49-228/60-48-5-0; fax: 49-228/60-48-5-20
+@CCD1:Martina Tydecks, managing dir., Germany
+@BODYTEXT:Friedrichstrasse 186, 10117 Berlin, Germany
+@BODYTEXT:49-30/59-000-2010; fax: 4930/59-000-2000
+@CCD1:Bernd Wilmer, director
+@BODYTEXT:90 Long Acre, London WC2E 9R2 United Kingdom
+@BODYTEXT:44-207/526-3600; fax: 44-207 526-3699
+@CCD1:Simon Milton, managing director
+@BODYTEXT:27 Petrovka St., Bldg. 1, 3rd flr., Moscow 107031 Russia
+@BODYTEXT:7-095-937-5525; fax: 7-095-937-5526
+@CCD1:Tatiana Berls, sr. VP/mng. dir.
+@BODYTEXT:8 rue de la Michodiere, 75002 Paris, France
+@BODYTEXT:33-1-44-94-8666; fax: 33-1-44-94-8668
+@CCD1:Claire Boussagol, mng. dir.
+@BODYTEXT:APCO Italy S.p.a: Via Condotti 61/A, 00187 Rome, Italy
+@BODYTEXT:39-06-69-38-02-02; fax: 39-06-67-92-391
+@CCD1:Ivo Ilic Gabara, managing dir.
+@BODYTEXT:2005 China World Tower 2, No 1 Jianguomenwai Ave., Beijing 100004, People’s Republic of China
+@BODYTEXT:86-10-6505-5127; fax: 86-10-6505-5257
+@CCD1:Christian Murck, mng. dir., APCO China; Patrick Horgan, managing director
+@BODYTEXT:Unit 508, 5th flr., Tranco Bldg., 83A, Ly Thuong Kiet St., Hanoi, Vietnam
+@BODYTEXT:84-4-9422-221/219; fax: 84-4-9422-224
+@CCD1:Le Viet Dzung, chief representative
+@BODYTEXT:Unit 12, 4/F Saigon Centre, 65 Le Loi, District 1, Ho Chi Minh City, Vietnam
+@BODYTEXT:84-8-821-7895/827-0232; fax: 84-8-827-0232
+@CCD1:Ngo Minh Trang, consultant
+@BODYTEXT:1811-1813 Hutchison House, 10 Harcourt Rd., Central, Hong Kong
+@BODYTEXT:852-2866-2313; fax: 852-2866-1917
+@CCD1:Mark Michelson, vice chmn. Asia; Vivian Fung, managing dir., strategic comms.; Nelson Chung, CFO
+@BODYTEXT:10th flr., World Trade Center, Jl. Jend Sudirman Kav. 29-31, Jakarta 12920, Indonesia
+@BODYTEXT:62-21-5296-4611; fax: 62-21-5296-4610
+@CCD1:Hans W. Vriens, mng. dir.
+@BODYTEXT:Suites 2102-2103 Citic Square, 1168 Nanjing Rd. West, Shanghai 200041, People’s Republic of China
+@BODYTEXT:86-21-5298-4668; fax: 86-21-5298-4669
+@CCD1:Murray King, chief representative & dir.
+@BODYTEXT:Unit 2312, Block 1 News Bldg., 2 Shennanzhong Rd., Shenzhen 518027, People’s Republic of China
+@BODYTEXT:86-755-8209-0563/0527; fax: 86-755-8209-0573
+@CCD1:Kang Jun, chief representative; Maggie Zhou, consultant
+@BODYTEXT:Number 3 Anerley Rd., Arcay House, Parktown 2139, Johannesburg, South Africa
+@BODYTEXT:27-11-480-8555; fax: 27-11-480-8556
+@CCD1:Robyn de Villiers, mng. dir.; Frikkie Botha, dir.
+@BODYTEXT:
+@BODYTEXT:British Airways
+@BODYTEXT:China Ocean Shipping Company (COSCO)
+@BODYTEXT:Dow Corning
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:Lufthansa Airlines
+@BODYTEXT:Mercedes Benz
+@BODYTEXT:Microsoft
+@BODYTEXT:Norilsk Nickel
+@BODYTEXT:Pfizer Inc.
+@BODYTEXT:Pharmaceutical Research and Mfrs. of America
+@BODYTEXT:Procter & Gamble
+@BODYTEXT:Raytheon
+@BODYTEXT:Roche
+@BODYTEXT:STERIS Corp.
+@BODYTEXT:World Wrestling Entertainment, Inc.
+@BODYTEXT:
+@CO:APEX COMMUNICATIONS, INC.
+@BODYTEXT:611 Route 46 West, Hasbrouck Heights, NJ 07604
+@BODYTEXT:201/288-4800; fax:201/288-4815
+@BODYTEXT:Healthcare, pharmaceutical marketing communications.  
+@CCD1:Scott Wheaton, pres. & CEO
+@BODYTEXT:
+@CO:APPEL PUBLIC RELATIONS, JANET
+@BODYTEXT:205 W. 54th St., New York, NY 10019
+@BODYTEXT:212/757-9124; fax:212/757-2194; janetappel54@aol.com
+@BODYTEXT:
+@CCD1:Janet Appel, pres.
+@BODYTEXT:
+@CO:APPLIED COMMUNICATIONS
+@BODYTEXT:PR division acquired by Bite Communications
+@BODYTEXT:
+@BODYTEXT:
+@CO:APROPO PRESS
+@BODYTEXT:141 W. 36th St., 7th flr., New York, NY 10018
+@BODYTEXT:646/473-1440; fax:646/473-1121
+@BODYTEXT:Lifestyle PR firm specializing in fashion. Founded: 2001.
+@CCD1:Brian Long, VP & PR dir.; Laura Lachman, Richard Brandt, sr. A/Es; Rachel Greenberg, junior A/E
+@BODYTEXT:Alek Wek’s Wek 1933
+@BODYTEXT:Bettina Duncan
+@BODYTEXT:Inca by Stephanie Hirsch
+@BODYTEXT:James Higginson
+@BODYTEXT:Jennifer Scott
+@BODYTEXT:Kenneth Nilson
+@BODYTEXT:Le Coq Sportif
+@BODYTEXT:Michal Negrin
+@BODYTEXT:Mimco
+@BODYTEXT:R Danenberg
+@BODYTEXT:Ria
+@BODYTEXT:Samantha Thavasa New York by Nicky Hilton
+@BODYTEXT:Sass Eyewear
+@BODYTEXT:Tommassini
+@BODYTEXT:
+@CO:ARC - WORLDWIDE
+@BODYTEXT:35 West Wacker Drive, Chicago, IL 60601
+@BODYTEXT:312/552-5000
+@BODYTEXT:Marketing services.
+@CCD1:Marie Roche, VP/dir. of corporate comms.; Dick Thomas, president
+@BODYTEXT:
+@CO:ARC MARKETING, INC.
+@BODYTEXT:Greenwich Office Park 5, Greenwich, CT 06831
+@BODYTEXT:203/862-6000; fax:203/862-6001
+@BODYTEXT:Marketing, sales planning, sports/events and comms; promotion, planning and execution; direct mktg, B2B adv. and integrated comm. programs.  
+@CCD1:Jim Joseph, CEO
+@BODYTEXT:
+@CO:ARDELL GROUP, THE
+@BODYTEXT:2010 Jimmy Durante Blvd., #220, Del Mar, CA 92014
+@BODYTEXT:858/792-7964; fax:858/792-7967
+@BODYTEXT:www.ardellgroup.com/pr1
+@BODYTEXT:Founded: 1988. Full-service PR firm for high-tech cos.
+@CCD1:David Stowe, CEO
+@BODYTEXT:Wavetek Wandel and Goltermann, Inc.
+@BODYTEXT:
+@CO:ARENAS GROUP
+@BODYTEXT:100 N. Crescent Dr., Beverly Hills, CA 90210
+@BODYTEXT:310/385-4401
+@BODYTEXT:Advertising and PR firm specializing in entertainment and cultural PR. Founded: 1988.
+@CCD1:Santiago Pozo, founder and pres.
+@BODYTEXT:Artisan
+@BODYTEXT:Dream Works
+@BODYTEXT:Miramax
+@BODYTEXT:The National Latino Communications Center
+@BODYTEXT:The Spanish Film Institute
+@BODYTEXT:Warner Brothers
+@BODYTEXT:
+@CO:ARMANASCO PUBLIC RELATIONS INC.
+@BODYTEXT:456 Washington St., Monterey, CA 93940
+@BODYTEXT:831/372-2259; fax:831/372-4142
+@BODYTEXT:Employees: 7. Founded: 1985
+@CCD1:David Armanasco, president
+@BODYTEXT:Cannery Row Co.
+@BODYTEXT:Distinguished Restaurants of No. America
+@BODYTEXT:Monterey Wine Country Assocs.
+@BODYTEXT:Pebble Beach Co.
+@BODYTEXT:
+@CO:ARMSTRONG KENDALL, INC.
+@BODYTEXT:1100 SW Stratus, #300, Beaverton, OR 97008
+@BODYTEXT:503/643-7663; fax:503/672-4699
+@BODYTEXT:www.akipr.com
+@BODYTEXT:Public relations for tech companies.
+@CCD1:Abbie Kendall, pres.
+@BODYTEXT:CoWare Inc.
+@BODYTEXT:Design Automation Conference
+@BODYTEXT:Management Forum
+@BODYTEXT:Northwest Analytical Inc.
+@BODYTEXT:PDF Solutions Inc.
+@BODYTEXT:
+@CO:ARNOLD CORPORATE COMMUNICATIONS
+@BODYTEXT:Subsidiary of Arnold Worldwide, owned by Havas Advertising
+@BODYTEXT:101 Huntington Ave., Boston, MA 02199
+@BODYTEXT:617/587-8923; jisaf@arn.com
+@BODYTEXT:www.arnoldcc.com
+@BODYTEXT:Corporate comms., financial services, professional svcs., IR, marketing comms., employee comms.  Founded: 1995.
+@AGENCY:Agency Statement: Arnold Corporate Communications, a division of Arnold Worldwide, is a full-service public relations and marketing communications agency, specializing in corporate and financial communications. We help our clients achieve their business goals by developing communications programs that influence key constituencies and those who shape their opinions -- national business media, trade press, financial community, customers, analysts, and employees. We use in-depth research and Wall Street insight to develop strategic messages, and create programs that build and protect clients' reputations. We know that awareness has to be meaningful, strategic and smart. It's not just about getting attention. It's about getting the kind of attention that creates real value for your business. Arnold Corporate Communications. Strategic Thinking. Smartly Executed.
+@CCD1:John Isaf, director/Sr. VP; Bill Haynes, senior VP
+@BODYTEXT:ArcLight Capital Partners
+@BODYTEXT:Association for Corporate Growth (ACG)
+@BODYTEXT:BearingPoint
+@BODYTEXT:Bureau of Public Dept.
+@BODYTEXT:Forrester Research
+@BODYTEXT:Goodwin Procter LLP
+@BODYTEXT:Haverford College
+@BODYTEXT:Lava Trading
+@BODYTEXT:TA Associates
+@BODYTEXT:Tyson Foods
+@BODYTEXT:
+@CO:ARONOW & POLLOCK COMMUNICATIONS INC.
+@BODYTEXT:665 Broadway 12th flr., New York, NY 10012
+@BODYTEXT:212/941-1414; fax:212/334-2131
+@BODYTEXT:Food and nutrition PR. Employees: 16. Founded: 1991.
+@CCD1:Jani Aronow, Louise Pollock, principals; Sara Coulter, exec. VP
+@BODYTEXT:American Egg Board
+@BODYTEXT:Brassica Protection Products
+@BODYTEXT:Campbell Soup Co.
+@BODYTEXT:Egg Nutrition Center
+@BODYTEXT:Exxon Mobil Corp.
+@BODYTEXT:Kal Kan
+@BODYTEXT:M&M/Mars
+@BODYTEXT:Mars Incorporated
+@BODYTEXT:Minute Maid
+@BODYTEXT:Oticon, Inc.
+@BODYTEXT:Pillsbury
+@BODYTEXT:Tea Council of the USA
+@BODYTEXT:United Egg Products
+@BODYTEXT:
+@CO:ARPR, INC.  AUDREY REICHBLUM PR INC.
+@BODYTEXT:1420 Centre Ave., #2213, Pittsburgh, PA 15219
+@BODYTEXT:412/765-2020; fax:412/765-3672; audrey@knowledgeinanutshell.com
+@BODYTEXT:Long range planning, spec. promos., bus.-to-bus., experience in medical, legal, real estate, insur., and the arts. Founded: 1980
+@CCD1:Audrey Reichblum, pres.
+@BODYTEXT:Campos Market Research
+@BODYTEXT:DamianosGroup
+@BODYTEXT:Dr. Knowledge
+@BODYTEXT:Knowledge in a Nutshell publishers
+@BODYTEXT:Pittsburgh Family Foot Care
+@BODYTEXT:The Edible Game A Smart Cookie(R)
+@BODYTEXT:
+@CO:ART MERIMS COMMUNICATIONS INC.
+@BODYTEXT:3601 Traver Road, #1300, Cleveland, OH 44122
+@BODYTEXT:216/752-7319; amerims@yahoo.com
+@BODYTEXT:
+@CCD1:Arthur M. Merims, pres.
+@BODYTEXT:Associated Builders & Contractors Inc.
+@BODYTEXT:Cleveland Chemical Pest Control Co.
+@BODYTEXT:Clifton Steel Co.
+@BODYTEXT:ECollect of Ohio, Inc.
+@BODYTEXT:
+@CO:ARTEMISIA, INC. ADV. & PR
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:989 Broome Center Rd., Preston Hollow, NY 12469
+@BODYTEXT:518/239-6234; fax:518/239-6059
+@BODYTEXT:PR, adv., media buying, creative/design. Founded: 1985.
+@CCD1:Carol Clement, pres./creative dir.
+@BODYTEXT:Belleayre Mt. Ski Center
+@BODYTEXT:Delaware
+@BODYTEXT:
+@CO:ARTHUR COMMUNICATIONS, J.
+@BODYTEXT:4449 Easton Way, Columbus, OH 43225
+@BODYTEXT:614/378-2309
+@BODYTEXT:
+@CCD1:James Sims, president
+@BODYTEXT:
+@CO:ARTICULATE COMMUNICATIONS
+@BODYTEXT:350 Seventh Ave., #1103, New York, NY 10001
+@BODYTEXT:212/255-0080; fax:212/255-0090; lgrimmer@articulatepr.com
+@BODYTEXT:Business-to-bus., technology PR, industry analysis, comms., media training, media rels., positioning & message development and measurement.
+@CCD1:Laura Grimmer, pres. & CEO; April Hamed, VP
+@BODYTEXT:Acsis, Inc.
+@BODYTEXT:Cyberstuff
+@BODYTEXT:DataDirect
+@BODYTEXT:Data Synapse
+@BODYTEXT:Optun
+@BODYTEXT:Prescient
+@BODYTEXT:Ross Systems
+@BODYTEXT:SAS Institute
+@BODYTEXT:Workspeed
+@BODYTEXT:
+@CO:ARZT COMMS., GEORGE
+@BODYTEXT:123 Williams St., 22nd flr., New York, NY 10038
+@BODYTEXT:212/608-0333
+@BODYTEXT:Governement relations and public affairs.
+@CCD1:George Arzt, pres.; Bob Liff, Senior VP
+@BODYTEXT:
+@CO:ASHBY DILLON, INC.
+@BODYTEXT:21690 River Oaks Drive, Rocky River, OH 44116
+@BODYTEXT:440/331-5252; fax:440/331-7594
+@BODYTEXT:PR, adv., dir. mktg., sales promo., creative/design. Founded: 1960.
+@CCD1:Lowell R. Dillon, president
+@BODYTEXT:
+@CO:ASHER AGENCY INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:535 West Wayne Street, Fort Wayne, IN 46802
+@BODYTEXT:260/424-3373; fax:260/424-0848
+@BODYTEXT:Founded: 1974.
+@CCD1:Timothy S. Borne, chmn.
+@BODYTEXT:Chemical Waste Mgmt. of Indiana
+@BODYTEXT:Comcast Cablevision Cable TV
+@BODYTEXT:Fort Wayne Fury Basketball Team
+@BODYTEXT:Indiana Northeast Development
+@BODYTEXT:Ponderosa Restaurants
+@BODYTEXT:
+@CO:ASHTON PARTNERS LLC
+@BODYTEXT:33 No. LaSalle St., #1800, Chicago, IL 60602
+@BODYTEXT:312/553-6700; fax:312/553-6740
+@BODYTEXT:www.ashtonpartners.com
+@BODYTEXT:Corporate comms., investor relations, media relations, crisis/issues, reputation management. Clients in financial services, technology, life sciences/biotech, industrial manufacturing and others.   Employees: 40. Founded: 1997.
+@AGENCY:Agency Statement: Ashton Partners is a financial communications firm specializing in investor relations and corporate communications.  We work in partnership with corporate executives to manage and position the information that impacts a company's credibility, reputation and ultimately, its valuation.
+@AGENCY:o We create programs uniquely tailored to manage the Street's perception of your company so you can focus on its performance.
+@AGENCY:o We combine traditional analysis tools with investor sentiment measures to take the guesswork out of the valuation equation.
+@AGENCY:o We deliver a full range of investor relations services, both strategic and tactical, to give you a decisive advantage at that critical crossroads where finance and communications meet.
+@AGENCY:Our integrated approach to messaging, positioning and targeting combined with our deep relationships in the investment community enable us to leverage a client's messages with their key constituents: investors, media, industry and financial analysts, employees, customers and suppliers.
+@CCD1:Elizabeth Saunders, Chris Hodges, co-founding partners; Bryan Armstrong, partner
+@BODYTEXT:East Coast Practice: 175 Federal St., #506, Boston, MA 02110
+@BODYTEXT:617/342-8153
+@CCD1:Karen Oeser
+@BODYTEXT:West Coast Practice: 580 California St., #500, San Francisco, CA 94104
+@BODYTEXT:415/283-3225
+@CCD1:Dylan James
+@BODYTEXT:
+@BODYTEXT:Aksys Ltd.
+@BODYTEXT:AMERIGROUP Corp.
+@BODYTEXT:Anixter International, Inc.
+@BODYTEXT:BorgWarner Inc.
+@BODYTEXT:Briggs & Stratton Corp.
+@BODYTEXT:Catellus Development Corp.
+@BODYTEXT:Chiquita Brands International Inc.
+@BODYTEXT:Clark Consulting
+@BODYTEXT:Covance
+@BODYTEXT:Federal Signal Corp.
+@BODYTEXT:First Midwest Bancorp, Inc.
+@BODYTEXT:Fisher Scientific International Inc.
+@BODYTEXT:FTD, Inc.
+@BODYTEXT:Genuine Parts Co.
+@BODYTEXT:Insurance Auto Auctions, Inc.
+@BODYTEXT:Navistar International Corp.
+@BODYTEXT:Owens Illinois Inc.
+@BODYTEXT:Polaris Industries, Inc.
+@BODYTEXT:SPSS Inc.
+@BODYTEXT:Storage Technology Corp.
+@BODYTEXT:Taubman Centers, Inc.
+@BODYTEXT:Veritas Software Corp.
+@BODYTEXT:West Corp.
+@BODYTEXT:
+@CO:ATELIER CREATIVE SERVICES, INC.  
+@BODYTEXT:161 W. 54th St., #1201, New York, NY 10019
+@BODYTEXT:212/247-9299
+@BODYTEXT:Public rels., marketing and image development for brands in the beauty/fashion industry; special events, consumer adv., in-store programs, graphic design. Founded: 1985.
+@CCD1:Lou Iacovelli, president
+@BODYTEXT:Arnold Beant
+@BODYTEXT:Dooney & Bourke
+@BODYTEXT:Gottex Swimwear
+@BODYTEXT:John Lobb of Hermes
+@BODYTEXT:Temple St. Clair
+@BODYTEXT:
+@CO:ATHLON COMMUNICATIONS, INC.
+@BODYTEXT:19 West 44th St., #700, New York, NY 10036
+@BODYTEXT:212/354-4860; fax:212/354-4861
+@BODYTEXT:www.athlon.com
+@BODYTEXT:Business-to-business, technology PR. Employees: 10. Founded: 1997
+@CCD1:Bradley W. Bloch, pres.; Liz Garger, VP
+@BODYTEXT:Arc Partners
+@BODYTEXT:IRRC
+@BODYTEXT:Interactive Futures
+@BODYTEXT:Live@
+@BODYTEXT:MedPointe, Inc.
+@BODYTEXT:Motivano
+@BODYTEXT:Russell Reynolds Associates
+@BODYTEXT:Wirthlin Worldwide
+@BODYTEXT:
+@CO:ATKINSON PUBLIC RELATIONS
+@BODYTEXT:2100 West End Ave., #700, Nashville, TN 37203
+@BODYTEXT:615/320-7532; fax:615/329-2848
+@BODYTEXT:Full-service PR. Employees: 7. Founded: 1986.
+@CCD1:Sue G. Atkinson, chmn.
+@BODYTEXT:Cybera
+@BODYTEXT:HCA
+@BODYTEXT:Loews Vanderbilt Hotel
+@BODYTEXT:Pinnacle Fin’l Partners
+@BODYTEXT:TAMA
+@BODYTEXT:TriStar Health Systems
+@BODYTEXT:
+@CO:ATOMIC PR
+@BODYTEXT:1379A Harrison St., San Francisco, CA 94103
+@BODYTEXT:415/402-0230
+@BODYTEXT:www.atomicpr.com
+@BODYTEXT:High tech, business-to-business, entertainment PR. Founded: 1999. Employees: 25.
+@CCD1:Andy Getsey, CEO
+@BODYTEXT:
+@CO:ATREBOR GROUP, THE
+@BODYTEXT:60 East 42nd St., Suite # 1333, New York, NY 10165
+@BODYTEXT:212/764-0340; fax:212/764-3973; rgarzaroli@atreborgroup.com
+@BODYTEXT:www.atreborgroup.com
+@BODYTEXT:Travel, leisure and culinary pr. Employees: 4. Founded: 2004.
+@AGENCY:Agency Statement: The Atrebor Group Inc. is a full-service public relations, marketing communications and promotions firm specializing in travel, leisure and culinary accounts.  The New York-based agency has an affiliate network throughout the U.S. and world.
+@AGENCY:Founded in 2004 by Roberta Garzaroli, former executive at Jensen/Boga Inc., the firm offers decades of experience in marketing travel and hospitality products and services, and in developing integrated marketing campaigns incluing branding, advertising and targeted promotions.  Services include media relations, writing, special events, media tours, video news releases, advertising creative and promotional tie-ins.
+@CCD1:Roberta Garzaroli, president
+@BODYTEXT:Alken Tours
+@BODYTEXT:Alken Tours Africa Division
+@BODYTEXT:Almond Beach Resorts, Barbados
+@BODYTEXT:Apel International Travel
+@BODYTEXT:CaribbeanEverything.com
+@BODYTEXT:Graycliff Cigar Co.
+@BODYTEXT:Graycliff Hotel & Restaurant, Nassau, Bahamas
+@BODYTEXT:Jolly Beach Resort, Antigua
+@BODYTEXT:Leonard Opticians, New York
+@BODYTEXT:Saint Maarten Tourist Bureau
+@BODYTEXT:Small Treasures of Nassau & Paradise Island
+@BODYTEXT:Trade Wind Associates Inc.
+@BODYTEXT:
+@CO:AUGUST ASSOCIATES, INC.
+@BODYTEXT:2100 Manchester Rd., #925, Wheaton, IL 60187
+@BODYTEXT:630/690-1771
+@BODYTEXT:www.augustassoc.com
+@BODYTEXT:Comms., research, PR, creative svcs., database mktg. capabilities, interactive digital technologies. Founded: 1989
+@CCD1:William A. Bloink, pres.
+@BODYTEXT:
+@CO:AUGUST, LANG & HUSAK
+@BODYTEXT:4630 Montgomery Ave., #400, Bethesda, MD 20814
+@BODYTEXT:301/657-2772; fax:301/657-9895
+@BODYTEXT:Marketing, adv., PR, new media svcs., retail & food svcs., healthcare & information svcs. Founded: 1992
+@CCD1:Mike August, Bill Lang, Chuck Husak, principals
+@BODYTEXT:American Speech-Language-Hearing Assn.
+@BODYTEXT:Meat New Zealand
+@BODYTEXT:
+@CO:AULETTA AND COMPANY, INC., R.C.
+@BODYTEXT:59 E. 54th St., New York, NY 10022
+@BODYTEXT:212/355-0400; fax:212/355-0835
+@BODYTEXT:General PR, such as beauty & fashion, food, sports, financial, etc.; issue/crisis comms. Founded: 1965
+@CCD1:Richard C. Auletta, pres.; Kimberlee Auletta, Dolores Naney, VPs
+@BODYTEXT:Alamo Rent A Car
+@BODYTEXT:Bernard Haldane Assocs.
+@BODYTEXT:Brooklyn Cyclones
+@BODYTEXT:Cerberus Capital Management
+@BODYTEXT:DHB Industries, Inc.
+@BODYTEXT:Hospital for Special Surgery
+@BODYTEXT:Mavi America Sportswear Inc.
+@BODYTEXT:National Car Rental
+@BODYTEXT:Nat's Kids
+@BODYTEXT:New York Hall of Science
+@BODYTEXT:New York Mets
+@BODYTEXT:Payment Protection Systems
+@BODYTEXT:Piaggio USA Inc.
+@BODYTEXT:Point Blank Body Armor
+@BODYTEXT:Schulte, Roth & Zabel LLP
+@BODYTEXT:St. Luke's-Roosevelt Hosp., Dept. of Surgery
+@BODYTEXT:Stevens Travel Management
+@BODYTEXT:Vanguard Car Rental USA Inc.
+@BODYTEXT:Vespa Scooters
+@BODYTEXT:
+@CO:AURORA COMMUNICATIONS, INC.
+@BODYTEXT:4 East 107th St., #14C, New York, NY 10029
+@BODYTEXT:212/876-1936; fax:212/410-2999
+@BODYTEXT:Special events, Latino music and art shows; media rels. Employees: 4. Founded: 1987.
+@CCD1:Aurora Flores, pres./creative director; Olga D'andrade, Raybblin Vargas, David Fernandez
+@BODYTEXT:Aaron Davis Hall
+@BODYTEXT:Caribbean Cultural Ctr.
+@BODYTEXT:Hope Community
+@BODYTEXT:Puerto Rican Workshop
+@BODYTEXT:Viacom
+@BODYTEXT:
+@CO:AUSTIN LAWRENCE GROUP, INC.
+@BODYTEXT:Holly Pond Plaza, 1281 Main Street, Stamford, CT 06902
+@BODYTEXT:203/961-8888; fax:203/969-0266
+@BODYTEXT:www.austinlawrence.com
+@BODYTEXT:Full-service advertising and PR agency serving companies in: fin’l svcs., telecommunications, computer hardware/software, energy, foodservice, healthcare, mfg., transp., retail.
+@CCD1:Ken Lempit, president
+@BODYTEXT:
+@CO:AVA ADVERTISING, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:N14 W23833 Stone Ridge Dr., #350, Waukesha, WI 53186
+@BODYTEXT:262/523-9200; fax:262/523-9210
+@BODYTEXT:PR, adv., media buying/planning service, marketing communs./ intergrated mktg., agriculture/gardening, food, home furniishings/ textiles.  Founded 1979.
+@CCD1:Andrew A. Vallozzi, pres., CEO
+@BODYTEXT:Basic American Foods
+@BODYTEXT:Beatrice Cheese
+@BODYTEXT:Cobra 727
+@BODYTEXT:Good Humor/Breyers
+@BODYTEXT:Harley Davidson Yellow Page Projects
+@BODYTEXT:
+@CO:AVISO, INC.
+@BODYTEXT:1301 Marina Parkway, #210, Alameda, CA 94501
+@BODYTEXT:510/865-5100; fax:510/865-5165; marcom@avisoinc.com
+@BODYTEXT:www.avisoinc.com
+@BODYTEXT:PR for travel, transportation, utilities, telecomms., economic development, business products. Employees: 11. Founded: 1977
+@CCD1:Irvin Hamilton Jr., pres.; Barbara Irias, VP
+@BODYTEXT:Alameda Hospital
+@BODYTEXT:Alameda Power & Telecom
+@BODYTEXT:American Iron & Steel Institute
+@BODYTEXT:Bedford Property Investors
+@BODYTEXT:Catellus Development Corp.
+@BODYTEXT:Guam Visitors Bureau
+@BODYTEXT:Imperial Group
+@BODYTEXT:Meyers/Nave
+@BODYTEXT:Oakland Convention and Visitor’s Bureau
+@BODYTEXT:SRM Assocs.
+@BODYTEXT:Shorenstein
+@BODYTEXT:The Waterfront Development
+@BODYTEXT:Warmington Homes
+@BODYTEXT:
+@CO:AXIA PUBLIC RELATIONS & MARKETING
+@BODYTEXT:200 E. Forsyth St., Jacksonville, FL 32202
+@BODYTEXT:904/425-6652; fax:904/425-6653
+@BODYTEXT:www.axiaprm.com
+@BODYTEXT:Strategic mktg. & coms. solutions, media consulting, adv., web design, marketing.  Founded: 2002.
+@CCD1:Jason Mudd, president
+@BODYTEXT:
+@CO:AYER PR, JANE
+@BODYTEXT:3205 Ocean Park Blvd., #240, Santa Monica, CA 90405
+@BODYTEXT:310/581-1330 ext.107; fax:310/581-1335
+@BODYTEXT:www.janeayerpr.com
+@BODYTEXT:
+@CCD1:Jane Ayer, Irene Dean
+@BODYTEXT:

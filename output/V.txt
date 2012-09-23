@@ -1,0 +1,371 @@
+@BREAKER:V
+
+@CO:VALENCIA, PEREZ & ECHEVESTE
+@BODYTEXT:1605 Hope St., #250, South Pasadena, CA 91030
+@BODYTEXT:626/403-3200; fax:626/403-1700
+@BODYTEXT:www.vpepr.com
+@BODYTEXT:Hispanic market; consumer marketing, public affairs, social marketing for health, beauty, environment, high-tech, entertainment and food.  Employees: 20. Founded: 1987.
+@CCD1:John Echeveste, Manuel Valencia, Patricia Perez, partners; George Gonzales, Michael Delgado, Albert Proctor, sr. A/Es; Kayleen Maya, Maricela Cueva, account directors; Delia Lopez, A/Ss; Anna Garcia, Aimee Duenas, Victoria Portugal, asst. A/Es; Dianne Ochoa, controller
+@BODYTEXT:AltaMed Health Services
+@BODYTEXT:Bilingual Foundation of the Arts
+@BODYTEXT:BNSF Railroad
+@BODYTEXT:CA Credit Union Assn.
+@BODYTEXT:California Wellness Foundation
+@BODYTEXT:City of Los Angeles
+@BODYTEXT:Disneyland
+@BODYTEXT:GMAC Mortgage
+@BODYTEXT:Inroads
+@BODYTEXT:KCET-TV
+@BODYTEXT:LA Unified School District
+@BODYTEXT:Los Tigres del Norte Foundation
+@BODYTEXT:McDonald’s
+@BODYTEXT:Nutritional Grocer Assn. of So. CA.
+@BODYTEXT:So. California Assoc. Gov'ts
+@BODYTEXT:So. Coast Air Quality Mgmt. District
+@BODYTEXT:Southern California Edison
+@BODYTEXT:Target Stores
+@BODYTEXT:
+@CO:VAN NEGRIS & CO. INC
+@BODYTEXT:1120 Ave. of the Americas, 4th flr., New York, NY 10036
+@BODYTEXT:212/396-0606; fax:212/396-9025
+@BODYTEXT:Founded: 1969
+@CCD1:Van Negris, president
+@BODYTEXT:
+@CO:VAN VECHTEN & COMPANY, INC.
+@BODYTEXT:P.O. Box 99, Boca Raton, FL 33429
+@BODYTEXT:561/620-2900; fax:561/620-2960
+@BODYTEXT:www.vanvechtenpr.com
+@BODYTEXT:PR for corporate, healthcare/pharm., tourism, fashion, crisis mgmt., sports mktg., home furnishings, publishing and events. Employees: 6. Founded: 1979.
+@CCD1:Jay H. Van Vechten, president
+@BODYTEXT:A-T Childrens Project
+@BODYTEXT:Artists with Disabilities
+@BODYTEXT:Germaine de Cappucini
+@BODYTEXT:Holy Land Foundation
+@BODYTEXT:Independence Technology, Inc.
+@BODYTEXT:MartinAir Dutch Airlines
+@BODYTEXT:
+@CO:VANDERBILT AGENCY
+@BODYTEXT:95 Rowayton Ave., Norwalk, CT 06853
+@BODYTEXT:203/855-9111
+@BODYTEXT:
+@CCD1:Alfred G. Vanderbilt
+@BODYTEXT:
+@CO:VANDIVER GROUP , INC., THE
+@BODYTEXT:Member of Pinnacle Worldwide
+@BODYTEXT:10411 Clayton Rd., St. Louis, MO 63131
+@BODYTEXT:314/991-4641; fax:314/991-4651; TVG@vandivergroup.com
+@BODYTEXT:www.vandivergroup.com
+@BODYTEXT:Strategic communications firm providing PR, image and reputation management, word-of-mouth marketing, training and research.  Employees: 20. Founded: 1993.
+@AGENCY:Agency Statement: The Vandiver Group Inc. is a full-service, award-winning strategic communications firm helping clients strategize, visualize, articulate and navigate communications issues by providing strategic counsel, market research, public relations, graphic/web design, and executive/employee training. We create innovative and successful solutions to deliver our clients' messages with meaningful and measurable results.
+@CCD1:Donna M. Vandiver, pres. & CEO; Amy J. Crump, CFO; Mack A. Bradley, Sr. VP; Suzanne M. Holroyd, VP; Kelly Ferrara, Group Leader
+@BODYTEXT:Anheuser-Busch Recycling Corporation
+@BODYTEXT:CPI Corp.
+@BODYTEXT:Missouri DESE - Bioterrorism Training
+@BODYTEXT:Pinnacle Entertainment
+@BODYTEXT:
+@CO:VANGUARD COMMUNICATIONS
+@BODYTEXT:2121 K St., N.W., #300, Washington, DC 20037
+@BODYTEXT:202/331-4323; fax:202/331-9420; jkelly@vancomm.com
+@BODYTEXT:www.vancomm.com
+@BODYTEXT:Strategic comms., social marketing, media relations, materials design and development, public service advertising and training and technical assistance. Founded: 1987.
+@CCD1:Maria Rodriguez, pres.; Joe Kelly, exec. VP.; Tracy Farrell, VP operations
+@BODYTEXT:Casey Family Programs
+@BODYTEXT:Community Connections for Families, Allegheny County, PA
+@BODYTEXT:Farm Aid
+@BODYTEXT:Federal Trade Commission
+@BODYTEXT:Gallup Organization
+@BODYTEXT:Sister to Sister Foundation
+@BODYTEXT:U.S. Department of Health and Human Services
+@BODYTEXT:W.K. Kellogg Foundation
+@BODYTEXT:
+@CO:VASS PUBLIC RELATIONS, SARA
+@BODYTEXT:211 West 20th St., New York, NY 10011
+@BODYTEXT:212/620-7636; saravass1@aol.com
+@BODYTEXT:PR for the beauty and fashion industry, architects, retailers, and galleries.
+@CCD1:Sara Vass, pres.
+@BODYTEXT:Dansk International Design
+@BODYTEXT:Jessie Della Femina
+@BODYTEXT:Starlight Orchestras
+@BODYTEXT:
+@CO:VB GROUP, THE
+@BODYTEXT:166 Bloomfield Ave., Verona, NJ 07044
+@BODYTEXT:973/857-6606; fax:973/857-6193; info@vbgroup.net
+@BODYTEXT:www.vbgroup.net
+@BODYTEXT:Public relations for consumer, business-to-business, healthcare, high-tech, graphic and interactive design.  Employees: 5. Founded: 1999.
+@AGENCY:Agency Statement: The VB Group is a full-service public relations and marketing firm, with a focus on supporting the communications objectives of business-to-consumer and business-to-business organizations. The agency has extensive experience in providing a wide range of services and support for its clients including communications strategy development, product and corporate media relations, trade show support, graphic design, media training and event planning. In addition to traditional public relations, The VB Group’s capabilities include the design, monitoring, promotion, and partnership development for product- and corporate-focused Web sites and Web-based organizations.
+@AGENCY:The VB Group is comprised of a group of dedicated public relations professionals with broad-based experience and an understanding of integrated marketing communications strategies.  The agency’s primary goals are to forge valuable partnerships with its clients and generate tangible results that help its clients achieve their business objectives.
+@CCD1:Vickie Bello, CEO
+@BODYTEXT:Aberlour
+@BODYTEXT:ERA
+@BODYTEXT:Irish American Cultural Institute
+@BODYTEXT:Jacob's Creek
+@BODYTEXT:Jersey Gardens
+@BODYTEXT:Pernod Ricard USA News Bureau
+@BODYTEXT:Pharmacia
+@BODYTEXT:Spyglass Financial Partners
+@BODYTEXT:State Fair Meadowlands
+@BODYTEXT:Wyndham Estate
+@BODYTEXT:
+@CO:VCPR, INC.
+@BODYTEXT:1375 Burlingame Ave., Burlingame, CA 94010
+@BODYTEXT:650/340-6766; fax:650/340-6755
+@BODYTEXT:www.vcpr.com
+@BODYTEXT:PR for venture capital firms and other service providers, venture-backed start-ups in networking, wireless and storage space. Employees: 6. Founded: 2000.
+@CCD1:Lisa Kelaita, pres./CEO; Denny Brisley, COO; Steve Kaufman, VP; Kathleen Gilles, dir.; Fred Hoar, sr. counsel
+@BODYTEXT:Antara.net
+@BODYTEXT:H&Q Asia Pacific
+@BODYTEXT:Sanera Systems
+@BODYTEXT:Sound I.D.
+@BODYTEXT:Storm Ventures
+@BODYTEXT:U.S. Venture Partners
+@BODYTEXT:Worldview Technology Partners
+@BODYTEXT:
+@CO:VERSAGGI BIOCOMMUNICATIONS
+@BODYTEXT:9 Carolyn Ct., Mill Valley, CA 94941
+@BODYTEXT:415/397-3087; fax:415/383-0279
+@BODYTEXT:www.versaggibio.com
+@BODYTEXT:Advion BioSciences
+@CCD1:Charles Versaggi, president
+@BODYTEXT:Advion BioSciences
+@BODYTEXT:Bacchus Vascular
+@BODYTEXT:Metrika, Inc.
+@BODYTEXT:New Biotics, Inc.
+@BODYTEXT:Sleep Solutions, Inc.
+@BODYTEXT:
+@CO:VERSANT
+@BODYTEXT:11414 W. Park Place, #202, Milwaukee, WI 53224
+@BODYTEXT:414/410-0500
+@BODYTEXT:www.versantsolutions.com
+@BODYTEXT:PR, adv., consumer adv., branding, marketing; associations, entertainment, financial, gov./state agencies.  Founded: 1972.
+@CCD1:Will Ruch, CEO & mng. partner
+@BODYTEXT:American Lung, Assn, WI Chap.
+@BODYTEXT:Auer Steel
+@BODYTEXT:Fashion Square Mall
+@BODYTEXT:Marshfield Clinic
+@BODYTEXT:Milwaukee County Transit System
+@BODYTEXT:Mutual Savings Bank
+@BODYTEXT:
+@CO:VEST COMMUNICATIONS
+@BODYTEXT:332 Little Quarry Rd., Gaithersburg, MD 20878
+@BODYTEXT:301/208-0335; fax:301/208-0266
+@BODYTEXT:Media training & message development, crisis comms., media rels. & publicity. Founded: 2000.
+@CCD1:Kenneth Vest
+@BODYTEXT:Blue Cross Blue Shield
+@BODYTEXT:National Zoo
+@BODYTEXT:Prudential Financial
+@BODYTEXT:
+@CO:VI NELSON & ASSOCS.
+@BODYTEXT:1560 N. Sandburg Terrace, #3410, Chicago, IL 60610
+@BODYTEXT:312/944-1262
+@BODYTEXT:Beauty, media rels., event and cause-related mktg.
+@CCD1:Vi Nelson, pres.
+@BODYTEXT:Cosmetologists Chicago
+@BODYTEXT:Cut It Out Domestic Abuse Program
+@BODYTEXT:Independent Cosmetic Manufacturers & Distributors Assn.
+@BODYTEXT:National Cosmetology Assn.
+@BODYTEXT:The Leukemia Research Foundation
+@BODYTEXT:
+@CO:VIGDERHOUSE & ASSOCIATES, MILDRED
+@BODYTEXT:3001 Veazey Terrace, N.W., Washington, DC 20008
+@BODYTEXT:202/363-8748; fax:202/363-1648
+@BODYTEXT:PR counseling.
+@CCD1:Mildred Vigderhouse, pres.
+@BODYTEXT:
+@CO:VINEBERG COMMUNICATIONS
+@BODYTEXT:PO Box 205, Westhampton, NY 11977
+@BODYTEXT:631/288-6933; fax:631/288-7953
+@BODYTEXT:www.vinebergcommunications.com
+@BODYTEXT:Technology, strategic communications, institution PR; general PR.
+@CCD1:Neil Vineberg, president
+@BODYTEXT:Access I.T.
+@BODYTEXT:Arrowsight, Inc.
+@BODYTEXT:American College Media
+@BODYTEXT:Clarence Clemons; Mimi Sammis
+@BODYTEXT:Dotcast
+@BODYTEXT:Music Outreach
+@BODYTEXT:NetworkIP
+@BODYTEXT:Smart Serv Online, Inc.
+@BODYTEXT:Webshots
+@BODYTEXT:World Peace Prayer Society
+@BODYTEXT:
+@CO:VIRTUAL, INC.
+@BODYTEXT:401 Edgewater Pl., #600, Wakefield, MA 01880
+@BODYTEXT:781/224-1100; fax:781/224-1239
+@BODYTEXT:PR and related consulting services to high-tech cos.
+@CCD1:Bruce Rogers, pres.
+@BODYTEXT:CODA
+@BODYTEXT:Hardball Software
+@BODYTEXT:I-STAT Corp.
+@BODYTEXT:OBOS Inc.
+@BODYTEXT:Vibrant Technologies, Inc.
+@BODYTEXT:
+@CO:VISIBILITY PUBLIC RELATIONS
+@BODYTEXT:55 Webster Ave., #406, New Rochelle, NY 10801
+@BODYTEXT:914/712-2610; lens@visibilitypr.com
+@BODYTEXT:Employees: 3. Founded: 1983.
+@CCD1:Leonard Stein, pres.
+@BODYTEXT:Siegel & Gale
+@BODYTEXT:Zandl Group
+@BODYTEXT:The Luxury Institute
+@BODYTEXT:Brand Keyes
+@BODYTEXT:Garcia 360
+@BODYTEXT:Renegade Mktg
+@BODYTEXT:WSL Strategic Retail
+@BODYTEXT:
+@CO:VISTA GROUP
+@BODYTEXT:805 So. San Fernando Blvd., Burbank, CA 91502
+@BODYTEXT:818/840-6789; fax:818/840-6880
+@BODYTEXT:Automotive PR, motion picture & TV product placement, marketing, special events.  Founded: 1975
+@CCD1:Eric E. Dahlquist, pres. and PR dir.
+@BODYTEXT:Chevrolet
+@BODYTEXT:GM Design Staff
+@BODYTEXT:Mercedes-Benz, N.A.
+@BODYTEXT:Oldsmobile
+@BODYTEXT:
+@CO:VISTANCE GROUP
+@BODYTEXT:515 Madison Ave., 24th flr., New York, NY 10022
+@BODYTEXT:212/935-2071; fax:212/935-2855
+@BODYTEXT:Communications Advisory; leadership reputation, corp. positioning, financial comm., exec. coaching, crisis labor and litigation, issues and cause comm.
+@CCD1:Jack Gutt, Joshua Hochberg, Derwin Johnson, Adam Sigall, Ed Trissel, founding principals
+@BODYTEXT:
+@CO:VIVALDIBRANDLEADERSHIP
+@BODYTEXT:107 Grand St., New York, NY 10013
+@BODYTEXT:212/965-0900
+@BODYTEXT:Global brand strategy consulting firm.
+@CCD1:Erich Joachimsthaler, president; Emily Liu
+@BODYTEXT:
+@CO:VMW INC.
+@BODYTEXT:866 Second Ave., 10th flr., New York, NY 10017
+@BODYTEXT:212/616-6161; fax:212/832-5495; info@vmw.com
+@BODYTEXT:Investor relations, corporate relations; public offerings, high tech, fin’l svcs., fin’l technology products. Employees: 6. Founded: 1982
+@CCD1:Vicki Miles Wiener, president
+@BODYTEXT:
+@CO:VOICE COMMUNICATIONS
+@BODYTEXT:314 Lytton Ave., #200, Palo Alto, CA 94301
+@BODYTEXT:650/322-4600; fax:650/322-6466
+@BODYTEXT:www.vocepr.com
+@BODYTEXT:Full-service comms. consultancy. Employees: 30. Founded: 1999.
+@CCD1:Richard Cline, president
+@BODYTEXT:101 Arch St., 16th flr., Boston, MA 02110
+@BODYTEXT:617/421-9600; 617/217-2001
+@CCD1:Helen Dragoon, director
+@BODYTEXT:
+@BODYTEXT:Fujitsu
+@BODYTEXT:NEC Solutions (America), Inc.
+@BODYTEXT:Network Appliance
+@BODYTEXT:
+@CO:VOLLMER PUBLIC RELATIONS INC.
+@BODYTEXT:Member of IPREX
+@BODYTEXT:808 Travis, #501, Houston, TX 77002
+@BODYTEXT:713/970-2100; fax:713/970-2140
+@BODYTEXT:www.vollmerpr.com
+@BODYTEXT:General PR, Travel/hospitality, Healthcare/lifesciences, Business to Business, Investor Relations, Community Affairs, Education, Technology and Consumer Retail.  Employees: 54. Founded: 1981.
+@AGENCY:Agency Statement: Vollmer is one of the largest independent communications firms in the U.S. With offices in Houston, Dallas, Austin and New York, Vollmer is a full-service firm with core competencies in public relations, marketing communications, corporate communications and interactive marketing, as well as expertise in communications training, crisis counsel and investor relations. Vollmer is a member of IPREX. Additional information on the firm and its clients is available at www.vollmerpr.com
+@CCD1:Helen Vollmer, CEO; Allen B. Caudle, COO; Carolyn Mayo, pres.; Duane Geyer, CFO; Jennifer Tweeton, VP/IR; Tony Shelton, pres./PA division
+@BODYTEXT:1505 LBJ Freeway, #340, Dallas, TX 75234
+@BODYTEXT:972/488-4790
+@CCD1:Denisha Stevens, Exec. VP/general manager
+@BODYTEXT:106 E. 6th St., #640, Austin, TX 78701
+@BODYTEXT:512/472-3515
+@CCD1:Peggy Hubble, Exec. VP/general manager
+@BODYTEXT:230 Park Ave., 10th flr., New York, NY 10169
+@BODYTEXT:212/808-6541
+@CCD1:Judy Haveson, VP
+@BODYTEXT:
+@BODYTEXT:Air Liquide
+@BODYTEXT:AmREIT
+@BODYTEXT:Austin Film Festival
+@BODYTEXT:Boots & Coots
+@BODYTEXT:Carrabba's Italian Grill
+@BODYTEXT:Casas, Benjamin, & White 
+@BODYTEXT:Centerpoint Service Star
+@BODYTEXT:Christus Health - Gulfcoast
+@BODYTEXT:Crosstex Energy
+@BODYTEXT:DMG World Media
+@BODYTEXT:David Weekly Homes
+@BODYTEXT:Daydots International
+@BODYTEXT:Denny’s
+@BODYTEXT:DePelchin Children’s Center
+@BODYTEXT:Eastman Kodak
+@BODYTEXT:Equus II Incorporated 
+@BODYTEXT:Euro RSCG
+@BODYTEXT:Flowserve
+@BODYTEXT:GetThere
+@BODYTEXT:Granton Marketing
+@BODYTEXT:Halliburton
+@BODYTEXT:Harris County Department of Education
+@BODYTEXT:Harris County Flood Control District
+@BODYTEXT:Houston Galveston Area Council
+@BODYTEXT:Logix Communications
+@BODYTEXT:Memorial Hermann Hospital System
+@BODYTEXT:Moorehouse Construction 
+@BODYTEXT:NASA Johnson Space Center
+@BODYTEXT:National Guard Youth Challenge 
+@BODYTEXT:Park 'N Fly
+@BODYTEXT:Sabre Inc. Worldwide
+@BODYTEXT:Seitel, Inc.
+@BODYTEXT:Shell Chemicals
+@BODYTEXT:Shell Lubricants 
+@BODYTEXT:Silver Eagle Distributing
+@BODYTEXT:Southern National Bank
+@BODYTEXT:Texas Council on Family Violence
+@BODYTEXT:Texas Molecular
+@BODYTEXT:Texas Tourism
+@BODYTEXT:The Methodist Hospital
+@BODYTEXT:The Nature Conservancy
+@BODYTEXT:The One Club
+@BODYTEXT:Time Warner
+@BODYTEXT:Transwestern
+@BODYTEXT:Travelocity.com
+@BODYTEXT:University of Houston
+@BODYTEXT:Uptown Houston Association
+@BODYTEXT:UT College of Communications
+@BODYTEXT:Whole Foods Market
+@BODYTEXT:Wings Over Houston
+@BODYTEXT:Winstead Sechrest & Minick
+@BODYTEXT:
+@CO:VOLLRATH ASSOCIATES, INC.
+@BODYTEXT:1355 W. Towne Square Rd., Mequon, WI 53092
+@BODYTEXT:262/240-2400; fax:262/240-2410
+@BODYTEXT:www.vollrathpr.com
+@BODYTEXT:Full service agency: specialists in IR and strategic comms.  Employees: 8. Founded: 1979.
+@CCD1:Philip K. Vollrath, chmn.; Marilyn A. Vollrath, president
+@BODYTEXT:ARI Network Services
+@BODYTEXT:Badger Meter, Inc.
+@BODYTEXT:Hudson Highland Group
+@BODYTEXT:Kohl’s Corp.
+@BODYTEXT:Littelfuse Inc.
+@BODYTEXT:Marcus Corp.
+@BODYTEXT:Onyx North America
+@BODYTEXT:Outlook Group Corp.
+@BODYTEXT:Plunkett Raysich Architects
+@BODYTEXT:
+@CO:VOTANO MARKETING COMMUNICATIONS
+@BODYTEXT:163 Pennsylvania Ave., Yonkers, NY 10707
+@BODYTEXT:914/793-4896; fax:914/337-3752
+@BODYTEXT:Marketing PR, product publicity, corp. comms. Founded: 1988.
+@CCD1:Paul Votano, pres.
+@BODYTEXT:Encor Technologies
+@BODYTEXT:Hartsdale Pet Cemetery
+@BODYTEXT:Print Express, Inc.
+@BODYTEXT:UOP Molecular Sieves
+@BODYTEXT:
+@CO:VOX MEDICA HEALTH-CARE PUBLIC RELATIONS
+@BODYTEXT:210 W.  Washington Sq., 13th flr., Philadelphia, PA 19106
+@BODYTEXT:215/238-8500; fax:215/351-3940; voxmedica@voxmedica.com
+@BODYTEXT:www.voxmedica.com
+@BODYTEXT:Advocacy rels., corp. comms., corporate positioning, fin'l comms., health policy, issues mgmt., managed care, media rels., meeting mgmt., multicultural outreach, managed markets, medicare/medicaid, patient education, product launch, professional rels., PA, public health, research and analysis. Employees: 18. Founded: 1998.
+@AGENCY:Agency Statement: Vox Medica Health-care Public Relations Group is part of a unique, thriving communications and education company whose work has been exclusive to the healthcare industry since the 1960s. We offer expertise in corporate communications, government affairs, product marketing, media relations, advocacy relations, multicultural outreach and public health. Our therapeutic and scientific expertise extends to mental health, cardiovascular health, oncology, respiratory, autoimmune disorders and substance abuse.
+@CCD1:Eve Dryer, pres.; Warren Levy, sr. VP/chief strategy officer; Randy Mintz, sr. VP/account mgmt.; Peggy Heller, sr. VP/ally development; Lynn Shepherd, VP, media; Holly Shaw, VP
+
+@BODYTEXT:AstraZeneca
+@BODYTEXT:Berlex
+@BODYTEXT:CIGNA
+@BODYTEXT:Genentech
+@BODYTEXT:GlaxoSmithKline
+@BODYTEXT:IMS Health
+@BODYTEXT:Janssen Pharmaceutica
+@BODYTEXT:Jefferson Univ. Special Population Network for Cancer Control
+@BODYTEXT:PricewaterhouseCoopers Global Healthcare
+@BODYTEXT:Teva
+@BODYTEXT:

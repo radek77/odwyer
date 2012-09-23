@@ -1,0 +1,2074 @@
+@BREAKER:P
+
+@CO:P & R ASSOCIATES
+@BODYTEXT:1799 Akron- Peninsula Rd., Akron, OH 44313
+@BODYTEXT:330/928-8000; fax:330/929-0501; Schmitz@prassociates.com
+@BODYTEXT:PR, advertising, bus.-to-bus., direct marketing, healthcare specialty. Founded: 1975
+@CCD1:Paul L. Schmitz, president
+@BODYTEXT:A. Schulman Co.
+@BODYTEXT:Ansell Perry
+@BODYTEXT:Audio Technica
+@BODYTEXT:Commercial Aviation
+@BODYTEXT:Coyne & Assoc. Inc.
+@BODYTEXT:
+@CO:P&F COMMUNICATIONS, INC./THE BERNEY GROUP
+@BODYTEXT:210 East 86th St., #203, New York, NY 10028
+@BODYTEXT:212/861-2100; fax:212/249-1849; wdouglass@pfcomberney.com
+@BODYTEXT:PR, publicity, mktg. promotions, corp. comms. and special events for consumer products and service companies and entertainment industry projects. Founded: 1989. Employees: 10.
+@CCD1:Barbara Pflughaupt, Raymond L. Forsythe, Jeanne R. Berney, principals
+@BODYTEXT:Artistic License Films
+@BODYTEXT:Elixir Films
+@BODYTEXT:Encompass Music Theatre
+@BODYTEXT:Feld Entertainment, Inc.
+@BODYTEXT:Focus Features
+@BODYTEXT:Global Film Initiative
+@BODYTEXT:Independent Feature Project - NY
+@BODYTEXT:Lavinia's World
+@BODYTEXT:Madstone Theaters
+@BODYTEXT:New Line Home Entertainment
+@BODYTEXT:Newmarket Films
+@BODYTEXT:Ringling Bros. and Barnum & Bailey Combined Shows
+@BODYTEXT:ShoWest
+@BODYTEXT:
+@CO:PACE ADVERTISING AGENCY
+@BODYTEXT:1065 Avenue of the Americas, 7th floor, New York, NY 10018
+@BODYTEXT:212/818-0100; fax:212/818-0120
+@BODYTEXT:Advertising and PR firm, creative, direct marketing, media buying. Founded: 1949
+@CCD1:Milton Bagley, chairman
+@BODYTEXT:American Properties
+@BODYTEXT:Amrep Real Estate Corp.
+@BODYTEXT:Atkins Devel. Corp.
+@BODYTEXT:Bertram Associates
+@BODYTEXT:
+@CO:PACIFIC PUBLIC RELATIONS
+@BODYTEXT:47-761 Hui Kelu St., Apt. 5, Kaneohe, HI 96744
+@BODYTEXT:808/239-4444; fax:808/239-2127
+@BODYTEXT:
+@CCD1:Ralph Kam, president
+@BODYTEXT:
+@CO:PACIFIC VISIONS COMMUNICATIONS, INC.
+@BODYTEXT:2010 Massachusets. Ave, #202, Washington, DC 20036
+@BODYTEXT:310/274-8787; fax:310/274-1306; vam@pvcla.com
+@BODYTEXT:PR, PA and mktg. for corporate, gov’t and non-profit/ assns./foundations. Employees: 10. Founded: 1989.
+@CCD1:Jennifer Zabriskie, VP
+@BODYTEXT:2010 Massachusetts Ave., #202, Washington, DC 20036
+@BODYTEXT:202/387-8550; fax: 202/387-8335
+@CCD1:Valsin A. Marmillion, president
+@BODYTEXT:
+@BODYTEXT:American Psychological Assn.
+@BODYTEXT:America's Wetland: Campaign to Save Coastal Louisiana
+@BODYTEXT:Barlow Respiratory Hospital
+@BODYTEXT:Los Angeles Times Reading by 9
+@BODYTEXT:National Assn. of Counties
+@BODYTEXT:National Conference of State Legislatures
+@BODYTEXT:
+@CO:PACIFICO, INC.
+@BODYTEXT:99 Almaden Boulevard, #900, San Jose, CA 95113
+@BODYTEXT:408/293-8600; fax:408/293-8665
+@BODYTEXT:Full-service advertising and PR agency experienced in high technology, consumer and business-to-business clients. Founded: 1977.
+@CCD1:Mary P. Curtis, CEO
+@BODYTEXT:
+@CO:PACKAGE PUBLICITY SERVICE, INC.
+@BODYTEXT:255 W. 88th St., Apt. 3E, New York, NY 10024
+@BODYTEXT:212/799-7562; fax:212/799-7564
+@BODYTEXT:Canned publicity for theatrical attractions; custom campaigns. Employees: 3. Founded: 1949
+@CCD1:Avivah Simon, pres.
+@BODYTEXT:
+@CO:PACKETT GROUP, THE
+@BODYTEXT:410 S. Jefferson St., Roanoke, VA 24011
+@BODYTEXT:540/345-5403; tfoutz@packettgroup.com
+@BODYTEXT:Advertising, branding, strategic mktg., media svcs., travel & tourism. Founded: 1963.
+@CCD1:Todd Foutz, president; Pete Roberts, VP
+@BODYTEXT:American Background Information Svcs.
+@BODYTEXT:Carilion Health System
+@BODYTEXT:Hollins University
+@BODYTEXT:Roanoke Valley Convention & Visitors Bureau
+@BODYTEXT:Shenandoah University Historical
+@BODYTEXT:Tech Federal Credit Union
+@BODYTEXT:Tourism Center in Winchester, VA
+@BODYTEXT:
+@CO:PADILLA SPEER BEARDSLEY
+@BODYTEXT:Founding Partner of Worldcom Public Relations Group
+@BODYTEXT:1101 West River Pkwy., Minneapolis, MN 55415
+@BODYTEXT:612/455-1700; fax:612/455-1060
+@BODYTEXT:www.psbpr.com
+@BODYTEXT:Full-service public relations: business, environmental, fin'l, high-tech, investor rels., manufacturing, health care and food.  Employees: 85. Founded: 1961.
+@AGENCY:Agency Statement: Rated highly by our clients for the level of service we provide, Padilla Speer Beardsley is known for experienced, strategic counsel built on a research-based planning methodology, Communicating for Action.  We have 85 employee-owners with expertise in corporate/investor relations, marketing, employee communications and public affairs.  Founding  member, Worldcom Public Relations Group. Member of Lumin Collaborative.
+@CCD1:Lynn Casey, chair & CEO; Marian Briggs, David Kistle, Tom Jollie, Kathy Burnham, Matt Kucharski, sr. VPs; Malkie Bernheim, Kevin McArdle, Paul Omodt, Sandra Swanson, Greg Smith, Brooks West, VPs; Gerald Erickson, sr. VP & CFO
+@BODYTEXT:950 Third Ave., #1600, New York, NY 10022
+@BODYTEXT:212/752-8338; fax: 212/752-6082
+@CCD1:Michael Greece, VP & mng. director
+@BODYTEXT:
+@BODYTEXT:Acorn Cardiovascular
+@BODYTEXT:Arctic Cat
+@BODYTEXT:BASF
+@BODYTEXT:Capella University
+@BODYTEXT:CNS, Inc.
+@BODYTEXT:Cub Foods
+@BODYTEXT:Datalink
+@BODYTEXT:Entegris
+@BODYTEXT:Ernst & Young
+@BODYTEXT:Fabcon, Inc.
+@BODYTEXT:G & K Services
+@BODYTEXT:General Mills
+@BODYTEXT:Global Lead
+@BODYTEXT:Metropolitan Airports Commission
+@BODYTEXT:NOP World
+@BODYTEXT:Oshkosh Truck Corp.
+@BODYTEXT:Pemstar
+@BODYTEXT:Rockwell Automation
+@BODYTEXT:Shavlik Technologies
+@BODYTEXT:SUPERVALU
+@BODYTEXT:SurModics
+@BODYTEXT:TBM Consulting
+@BODYTEXT:Thrivent Financial
+@BODYTEXT:Tower Automotive
+@BODYTEXT:Valspar
+@BODYTEXT:Vital Images
+@BODYTEXT:Vivius
+@BODYTEXT:
+@CO:PAGAN COMMUNICATIONS, D.
+@BODYTEXT:175 Pinelawn Rd., #215, Melville, NY 11747
+@BODYTEXT:631/659-2309; fax:631/659-2310; info@dpagan.com
+@BODYTEXT:Employees: 8. Founded: 1995.
+@CCD1:Debra Pagan, pres.
+@BODYTEXT:Gepco
+@BODYTEXT:Neutrik USA
+@BODYTEXT:Summit Audio Quantegy
+@BODYTEXT:Video Design Software
+@BODYTEXT:Zelex Comms.
+@BODYTEXT:
+@CO:PAGE COMMUNICATIONS, INC.
+@BODYTEXT:111 Cloister Court, #120, Chapel Hill, NC 27514
+@BODYTEXT:919/967-1134
+@BODYTEXT:PR, marketing and advertising for broadcast/electronic media, entertainment, financial services, office equip./supplies, travel/hotels/airlines, sports marketing/fundraising. Founded: 1958.
+@CCD1:Robert C. Page III, president
+@BODYTEXT:
+@CO:PAIGE POULOS COMMUNICATIONS/PPC WINECOM
+@BODYTEXT:PO Box 8087, Berkeley, CA 94707
+@BODYTEXT:510/528-0665; fax:510/970-9778; info@paigepoulos.com
+@BODYTEXT:www.paigepoulos.com
+@BODYTEXT:Beverages, food, real estate, travel and lifestyle PR. Employees: 6. Founded: 1990
+@CCD1:Paige M. Poulos, pres.
+@BODYTEXT:Appellation Magazine
+@BODYTEXT:Berkeley Hills Books
+@BODYTEXT:Del Webb Corp.
+@BODYTEXT:E&J Gallo Winery
+@BODYTEXT:Ficklin Vineyards
+@BODYTEXT:Gloria Ferrer Champagne Caves
+@BODYTEXT:
+@CO:PAINEPR
+@BODYTEXT:19000 MacArthur Blvd., 8th flr., Irvine, CA 92612
+@BODYTEXT:213/996-3764; fax:213/996-3765
+@BODYTEXT:www.painepr.com
+@BODYTEXT:Technology, consumer, business-to-business, corporate and healthcare PR; influencer marketing, financial.  Employees: 60. Founded: 1986.
+@AGENCY:Agency Statement: PainePR is widely regarded as one of the nation’s leading mid-size firms, with a reputation for high quality client service, proactive thinking, intelligent market strategy, and creative programming. On the general consumer and business-to-business level, the firm represents a blue-chip list of national clients, including XM Satellite Radio, Procter & Gamble, Levi Strauss & Co.(Dockers), Suzuki, Polaroid, Duracell, DIRECTV, Hilton Garden Inn, Kashi Company, Toshiba America Business Solutions, among others. In healthcare, the agency’s primary accounts include Beckman-Coulter, Novartis,Toshiba Medical Systems and St. Joseph Hospital. On the corporate side, the firm represents Ernst & Young, JP Morgan Treasury Services, JPMorgan/Chase I-Solutions, Pacific Life, and NACHA (the Electronic Payments Association).
+@AGENCY:Quality service is a priority at the firm, which in 2003 was rated #1 nationally in client service in the Thomas L. Harris Survey. In 2003, PainePR was rated Creative Agency of the Year by The Holmes Report and was awarded the 2002 Best of Silver Anvil by the Public Relations Society of America, for its launch of XM Satellite Radio. Additionally, PainePR was a 2004 PR Week Agency of the Year finalist.
+@AGENCY:PainePR has essentially done away with reliance on entry-level staff support, in favor of more experienced professionals acting as day-to-day contacts, a structural difference that contributes significantly to the quality and strategic creativity of the firm’s services. PainePR is also considered one of the best places to work in the industry. The firm maintains a very open, participatory style of management that attracts some of the best people in the field.
+@CCD1:David Paine, CEO; Daryl McCullough, pres.; Cynthia Rude, Linda Landers, Eric Borsum, Beth Balsam, managing partners
+@BODYTEXT:660 S. Figueroa St., 7th flr., Los Angeles, CA 90017
+@BODYTEXT:213/430-0480; fax: 213/430-0494
+@CCD1:Daryl McCullough, president
+@BODYTEXT:1370 Broadway, 9th flr., New York, NY 10018
+@BODYTEXT:212/868-7199; fax: 212/868-7206
+@CCD1:Beth Balsam, general manager
+@BODYTEXT:
+@BODYTEXT:DIRECTV
+@BODYTEXT:Duracell Corporation
+@BODYTEXT:Ernst & Young
+@BODYTEXT:Hilton Garden Inn
+@BODYTEXT:JPMorganChase Treasury Services
+@BODYTEXT:JPMorganChase I-Solutions
+@BODYTEXT:Kashi Company
+@BODYTEXT:Docker's (A Levi Strauss & Co. Brand)
+@BODYTEXT:National Electronic Payments Association (NACHA)
+@BODYTEXT:Novartis
+@BODYTEXT:One Day's Pay
+@BODYTEXT:Pacific Life Insurance
+@BODYTEXT:Polaroid Corporation
+@BODYTEXT:Procter & Gamble Brands
+@BODYTEXT:*Ivory Soap
+@BODYTEXT:*Metamucil
+@BODYTEXT:*Old Spice
+@BODYTEXT:*Pampers
+@BODYTEXT:*Zest
+@BODYTEXT:Siemens Home Appliances
+@BODYTEXT:St. Joseph Hospital
+@BODYTEXT:Toshiba America Medical Systems
+@BODYTEXT:Toshiba America Business Solutions
+@BODYTEXT:XM Satellite Radio
+@BODYTEXT:
+@CO:PALATIELLO & ASSOCIATES, JOHN M.
+@BODYTEXT:1760 Reston Pkwy., #515, Reston, VA 20190
+@BODYTEXT:703/787-6665; fax:703/787-7550
+@BODYTEXT:Image enhancement, market identification and penetration, gov’t rels., public policy, association management. Founded: 1987. Employees: 2.
+@CCD1:John M. Palatiello, pres.
+@BODYTEXT:AeroMap, US
+@BODYTEXT:Management Assn. for Private Photogrammetric Surveyors
+@BODYTEXT:Photo Science, Inc.
+@BODYTEXT:Vernon F. Meyer and Assoc., Inc.
+@BODYTEXT:
+@CO:PALUMBO & CERRELL
+@BODYTEXT:1717 K St., NW, #500, Washington, DC 20036
+@BODYTEXT:202/466-9000; fax:202/466-9009; pcrepnumberone@covad.net
+@BODYTEXT:Government relations, public affairs.
+@CCD1:Benjamin Palumbo, chmn. & CEO; Paul Skrabut Jr., president
+@BODYTEXT:American Society of Composers, Authors and Publishers (ASCAP)
+@BODYTEXT:Catholic Relief Services
+@BODYTEXT:Immersion Medical
+@BODYTEXT:Los Angeles County Metropolitan Transportation Authority
+@BODYTEXT:Music Educators Nat’l Conference
+@BODYTEXT:
+@CO:PAN COMMUNICATIONS, INC.
+@BODYTEXT:300 Brickstone Square, Andover, MA 01810
+@BODYTEXT:978/474-1900; fax:978/474-1903; info@pancomm.com
+@BODYTEXT:www.pancommunications.com
+@BODYTEXT:Technology, professional services, consumer. Employees: 60. Founded: 1995.
+@AGENCY:Agency Statement: PAN Communications is dedicated to providing clients with customized strategy, rapid results and a significant return on their investment. Leveraging long-standing relationships with media and analysts, the firm focuses on building and increasing client awareness by planning and implementing comprehensive and aggressive public relations programs. A mark of distinction for PAN has become its ability to combine personalized service and an in-depth understanding of clients’ needs and strategies with a keen sensitivity to budget. Our service-oriented philosophy guarantees that client goals will be understood, respected and met.
+@AGENCY:While PAN remains one of the largest independent PR firms in the United States, the firm maintains a "mid-sized agency approach" to its business. PAN has best-of-breed resources, proven contacts and top-notch talent, partnering with its clients on a daily basis to provide superior customer service. Strategy, service and results will always remain PAN's vision and promise.
+@AGENCY:The agency was founded in 1995 by Philip A. Nardone, Jr. and is headquartered in Andover, Mass., with clients across the country and the world.
+@CCD1:Philip A. Nardone Jr., president; Mark Nardone, VP; Traci VanHorn, director; Jennifer Meyer, Jodie Wertheim, Joel Richman, Christina Morris, Stephanie Beagan, sr. acct. managers
+@BODYTEXT:Bain Capital Ventures
+@BODYTEXT:California Paints
+@BODYTEXT:CXO Systems
+@BODYTEXT:EPAM
+@BODYTEXT:Exact Software
+@BODYTEXT:Green Beacon
+@BODYTEXT:Impaqt
+@BODYTEXT:Identify
+@BODYTEXT:JD Events
+@BODYTEXT:KANA
+@BODYTEXT:KnowNow
+@BODYTEXT:LinearAir
+@BODYTEXT:LogicaCMG
+@BODYTEXT:Meta Software
+@BODYTEXT:New Boston Fund
+@BODYTEXT:Omnify Software
+@BODYTEXT:OneSource
+@BODYTEXT:Open Text
+@BODYTEXT:OutStart
+@BODYTEXT:Parliant
+@BODYTEXT:PetEdge
+@BODYTEXT:PixelMEDIA
+@BODYTEXT:Segue Software
+@BODYTEXT:SilkRoad
+@BODYTEXT:Summit Mortgage
+@BODYTEXT:Systinet
+@BODYTEXT:Tyco
+@BODYTEXT:Ultimus
+@BODYTEXT:U.S. Markerboard
+@BODYTEXT:Vibes Media
+@BODYTEXT:Viisage
+@BODYTEXT:Whatman
+@BODYTEXT:World Shoe Association
+@BODYTEXT:ZixCorp
+@BODYTEXT:Zorovfy StairRods
+@BODYTEXT:
+@CO:PANACHE COMMUNICATIONS, LLC
+@BODYTEXT:36 Monterey Blvd., San Francisco, CA 94131
+@BODYTEXT:415/333-9991
+@BODYTEXT:PR firm specializing in comms. strategies.
+@CCD1:Sharon Sim-Krause, pres.; Kathy Stahlman, A/S
+@BODYTEXT:@Road
+@BODYTEXT:Marsha Shenk
+@BODYTEXT:
+@CO:PANTIN/BEBER SILVERSTEIN PR
+@BODYTEXT:Division of Beber/Silverstein
+@BODYTEXT:3361 S.W. 3rd Ave., Miami, FL 33145
+@BODYTEXT:305/929-9726; fax:305/857-0027
+@BODYTEXT:www.pantin-beber.com
+@BODYTEXT:PR, marketing, community relations, special events.   Employees: 22. Founded: 1988.
+@AGENCY:Agency Statement: Among Florida’s largest public relations agencies, Pantin/Beber Silverstein Public Relations offers communications services aimed at the U.S. general, Hispanic, and Latin American markets. Areas of expertise include media and community relations, advertising, research, special events, issues and crisis management, and public policy. Agency principals maintain broad business, civic and professional affiliations, ties to individuals and organizations with leadership positions, and strong relationships with local, regional and national English and Spanish-language media. The staff is bilingual and bicultural.
+@CCD1:Leslie Pantin Jr., pres.; Carol Brady Blades, executive VP; Darcy Brito, account group director
+@BODYTEXT:American Airlines
+@BODYTEXT:Arte Americas
+@BODYTEXT:CubaNostalgia
+@BODYTEXT:DFYIT-Drug Free Youth in Town
+@BODYTEXT:El Dorado Furniture
+@BODYTEXT:Ford Motor Co.
+@BODYTEXT:Hispanic Broadcasting Corp.
+@BODYTEXT:Jackson Health System
+@BODYTEXT:Jackson Memorial Hospital
+@BODYTEXT:Leon Medical Centers
+@BODYTEXT:McDonald’s Corp.
+@BODYTEXT:MDX-Miami-Dade Expressway Authority
+@BODYTEXT:Merrill Lynch - Miami Americas Complex
+@BODYTEXT:Miami-Dade and Broward County Ford & 
+@BODYTEXT:Lincoln Mercury Dealers
+@BODYTEXT:Miami Metrozoo
+@BODYTEXT:Palace Resorts
+@BODYTEXT:PGT Industries
+@BODYTEXT:Public Health Trust
+@BODYTEXT:Ronald McDonald House Charities
+@BODYTEXT:United Way of Miami Dade County
+@BODYTEXT:Univision Television Network
+@BODYTEXT:Winguard Windows + Doors
+@BODYTEXT:
+@CO:PARADIGM/LORD & LASKER
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:109 S. Edison Ave., Tampa, FL 33606
+@BODYTEXT:813/287-0028
+@BODYTEXT:PR, adv., media buying/planning, dir. mktg.
+@CCD1:Chris Harwell, owner
+@BODYTEXT:
+@CO:PARKER & JAMES COMMUNICATIONS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:P.O. Box 104, Dedham, MA 02027
+@BODYTEXT:781/320-0061; fax:781/461-1423; eparker@parkerjames.com
+@BODYTEXT:www.parkerjames.com
+@BODYTEXT:PR, adv., bus.-to-bus., creative, direct marketing. Founded: 1990
+@CCD1:Elenore Parker, president
+@BODYTEXT:
+@CO:PARKER COMMUNICATIONS
+@BODYTEXT:P.O. Box 802, No. Andover, MA 01845
+@BODYTEXT:978/975-7339; fax:978/975-4530; sparker@parkercomms.com
+@BODYTEXT:Public relations & marketing
+@CCD1:Steven H. Parker, CEO
+@BODYTEXT:
+@CO:PARKER GROUP, INC.
+@BODYTEXT:300 West Exchange St., Providence, RI 02903
+@BODYTEXT:401/272-1510; fax:401/272-4225; team@parkergroup.com
+@BODYTEXT:Technology, industrial, business-to-business, financial, professional services PR. Founded: 1987. Employees: 4.
+@CCD1:Miles D. Parker, pres.
+@BODYTEXT:Boothroyd Dewhurst, Inc.
+@BODYTEXT:Committee for Advancement of Competitive Mfg.
+@BODYTEXT:DeWal Industries, Inc.
+@BODYTEXT:
+@CO:PARKER LEPLA
+@BODYTEXT:1735 Westlake Ave. North, #200, Seattle, WA 98109
+@BODYTEXT:206/285-5280; bethw@parkerlepla.com
+@BODYTEXT:www.parkerlepla.com
+@BODYTEXT:Specializes in high-tech, healthcare, not-for-profit.
+@CCD1:Joe Lepla, Lynn Parker, principals; Beth Woolley
+@BODYTEXT:Attachmate
+@BODYTEXT:Clark Nuber
+@BODYTEXT:CodeCorrect
+@BODYTEXT:Committee for Children
+@BODYTEXT:GoTech
+@BODYTEXT:Health New England
+@BODYTEXT:IDX
+@BODYTEXT:Kibble & Prentice
+@BODYTEXT:Microsoft
+@BODYTEXT:Perinatal Treatment Svcs.
+@BODYTEXT:Philips Medical Systems
+@BODYTEXT:QMS
+@BODYTEXT:Shurgard Storage Centers Inc.
+@BODYTEXT:Tacoma Art Museum
+@BODYTEXT:Tenzing Comms.
+@BODYTEXT:Tri-Med Amublance
+@BODYTEXT:
+@CO:PATRICIA MORRIS ASSOCIATES, INC.
+@BODYTEXT:67 Walnut Ave., Clark, NJ 07066
+@BODYTEXT:732/669-9200; fax:732/669-9202; info@pma-marketing.com.
+@BODYTEXT:www.pma-marketing.com
+@BODYTEXT:Writing, graphic design, grassroots outreach, media relations, media training, public affairs and multimedia services. Employees: 16. Founded: 1984.
+@CCD1:Patricia Morris, pres.; Trish Morris, VP
+@BODYTEXT:Atlantic Energy Partners
+@BODYTEXT:Imperial Construction
+@BODYTEXT:Jacobs Facilities
+@BODYTEXT:Jersey City Public Schools
+@BODYTEXT:Louis Berger Group
+@BODYTEXT:Mountain Hill Group
+@BODYTEXT:New Jersey Casino Reinvestment Development Authority
+@BODYTEXT:Port Authority of NY & NJ
+@BODYTEXT:Township of Aberdeen
+@BODYTEXT:Union County Educational Services Commission
+@BODYTEXT:
+@CO:PAUL & PARTNERS, LOIS
+@BODYTEXT:150 Presidential Way, Woburn, MA 01801
+@BODYTEXT:781/782-5000; fax:781/782-5999; info@lpp.com
+@BODYTEXT:www.loispaul.com
+@BODYTEXT:Strategic communications and public relations for high tech and life science companies. Founded: 1986.
+@AGENCY:Agency Statement: Founded in 1986, Lois Paul & Partners (LP&P) provides strategic counsel and communications services. LP&P creates and expands market leadership for a variety of companies -- established and emerging, private and public -- through its unique Speed to Leadership(TM) approach. LP&P's strategic, high-touch service enables it to partner with organizations that range from large, publicly held companies such as Freescale, Nortel Networks, and StorageTek, to market defining leaders like Cognos, Centra Software and Restore Medical to emerging innovative companies including Copernic and M-Qube. (www.loispaul.com)
+@CCD1:Lois Paul, founder/president; Bill McLaughlin, Ruth D'Ambra, executive VPs
+@BODYTEXT:170 Systems
+@BODYTEXT:Adesso Systems
+@BODYTEXT:Aptima
+@BODYTEXT:Avanade
+@BODYTEXT:BlueSocket
+@BODYTEXT:Brandimensions
+@BODYTEXT:Centra
+@BODYTEXT:Cognos
+@BODYTEXT:Copernic
+@BODYTEXT:Copyright Clearance Ctr.
+@BODYTEXT:Emptoris
+@BODYTEXT:Freescale
+@BODYTEXT:Kazeon
+@BODYTEXT:Klocwork
+@BODYTEXT:Kodak Infoimaging
+@BODYTEXT:M-Qube
+@BODYTEXT:Managesoft
+@BODYTEXT:Medidata Solutions
+@BODYTEXT:Navisite
+@BODYTEXT:Nortel Networks
+@BODYTEXT:Openpages
+@BODYTEXT:Pannaway
+@BODYTEXT:Philips AMS
+@BODYTEXT:Restore Medical
+@BODYTEXT:Rules Power
+@BODYTEXT:Savo Group
+@BODYTEXT:Steel Salvor
+@BODYTEXT:Sterling Commerce
+@BODYTEXT:Storability
+@BODYTEXT:StorageTek
+@BODYTEXT:Sun Microsystems
+@BODYTEXT:Target Rx
+@BODYTEXT:TAZZ Networks
+@BODYTEXT:Trilog Group
+@BODYTEXT:UPS
+@BODYTEXT:Valence 
+@BODYTEXT:VIEO
+@BODYTEXT:WilTel Communications
+@BODYTEXT:Xpitax
+@BODYTEXT:ZigBee Alliance
+@BODYTEXT:
+@CO:PAVONE
+@BODYTEXT:1006 Market St., Harrisburgh, PA 17101
+@BODYTEXT:717/234-8886
+@BODYTEXT:David Shoffner
+@CCD1:Michael Pavone, pres./CEO
+@BODYTEXT:David Shoffner
+@BODYTEXT:Indiana Downs
+@BODYTEXT:
+@CO:PAYNE MARKET DEVELOPMENT, THOMAS J.
+@BODYTEXT:865 Woodside Way, San Mateo, CA 94401
+@BODYTEXT:650/340-8311; fax:650/340-8568; 74512.2455@compuserve.com  
+@BODYTEXT:www.tjpmd.com
+@BODYTEXT:Food, marketing, international PR. Founded: 1986. Employees: 6.
+@CCD1:Thomas J. Payne, pres.
+@BODYTEXT:California Raisin Admin. Committee
+@BODYTEXT:Flax Council of Canada
+@BODYTEXT:North American Blueberry Cncl.
+@BODYTEXT:
+@CO:PELFREY ASSOCIATES, INC.
+@BODYTEXT:Acquired by Guthrie/Mayes
+@BODYTEXT:
+@BODYTEXT:
+@CO:PENNA POWERS BRIAN & HAYNES
+@BODYTEXT:1706 S. Major St., Salt Lake City, UT 84115
+@BODYTEXT:801/487-4800; fax:801/487-0707; info@ppbh.com
+@BODYTEXT:www.ppbh.com
+@BODYTEXT:Advertising and PR. Employees: 17. Founded: 1984.
+@CCD1:John Haynes, pres.; David L. Smith, VP of PR
+@BODYTEXT:CommuterLink
+@BODYTEXT:Daybreak
+@BODYTEXT:Deseret Power
+@BODYTEXT:JPMorgan Chase
+@BODYTEXT:NovaRad
+@BODYTEXT:Questar
+@BODYTEXT:Relay Utah
+@BODYTEXT:Salt Lake Convention & Visitors Bureau/Salt Palace
+@BODYTEXT:Solitude Resort
+@BODYTEXT:Sun Valley
+@BODYTEXT:SunGard SCT
+@BODYTEXT:Utah Department of Transportation Website
+@BODYTEXT:Walker Works
+@BODYTEXT:
+@CO:PENNY/OHLMANN/NEIMAN, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:1605 N. Main St., Dayton, OH 45405
+@BODYTEXT:937/278-0681; fax:937/277-1723
+@BODYTEXT:PR, adv., bus.-to-bus., creative, direct marketing. Founded: 1949
+@CCD1:Walter Ohlmann, president
+@BODYTEXT:
+@CO:PEOPLE MEDIA GROUP
+@BODYTEXT:700 East Main St., Ventura, CA 93001
+@BODYTEXT:800/600-7111; fax:800/600-7112; jlockhart@peoplemediagroup.com
+@BODYTEXT:www.peoplemediagroup.com
+@BODYTEXT:Corporate and mktg. comms. for biotech, pharmaceutical, medical device/diagnostic and food/nutrition companies, environmental organizations. Employees: 12. Founded: 1983.
+@CCD1:Wendy P. Basil, pres. & CEO; John G. Lockhart, VP; James Lockwood, target audience rels. manager
+@BODYTEXT:Amgen
+@BODYTEXT:Avigen
+@BODYTEXT:Boston Scientific
+@BODYTEXT:Gerber Baby Products
+@BODYTEXT:KPMG
+@BODYTEXT:Roche
+@BODYTEXT:
+@CO:PEOPLE'S REVOLUTION
+@BODYTEXT:7005 Melrose Ave., Los Angeles, CA 90038
+@BODYTEXT:323/658-8700
+@BODYTEXT:62 Grand St., Apt. 3, New York, NY 10013
+@CCD1:Ted Byrnese
+@BODYTEXT:62 Grand St., Apt. 3, New York, NY 10013
+@BODYTEXT:212/274-0400
+@CCD1:Kelly Cutrone
+@BODYTEXT:
+@BODYTEXT:Soho & Tribeca Grand Hotels
+@BODYTEXT:
+@CO:PEPPERCOM, INC.
+@BODYTEXT:470 Park Ave. South, 5th flr., New York, NY 10016
+@BODYTEXT:212/931-6100; fax:212/931-6159; scody@peppercom.com
+@BODYTEXT:www.peppercom.com
+@BODYTEXT:PR for financial, business-to-business, corporate, technology, healthcare, entertainment, home furnishings, professional services.  Employees: 61. Founded: 1995.
+@AGENCY:Agency Statement: Peppercom is a strategic communications agency whose core areas of concentration include: financial, business-to-business, crisis, corporate, and technology. Peppercom specializes in helping clients develop a unique, sustainable positioning, drive sales in new ways, prepare for, and respond to crises and in creating first-of-a-kind strategic partnerships and special events.
+@CCD1:Steven Cody, Edward Moed, mng. partners; Ann Barlow, Ted Birkhahn, Deborah Brown, Jackie Kolek, sr. directors/partners
+@BODYTEXT:425 California St., #1250, San Francisco, CA 94104
+@BODYTEXT:415/438-9822
+@CCD1:Pat Harden, sr. director/general manager
+@BODYTEXT:The Timber Yard, 107 Drysdale St., London N1 6ND U.K.
+@BODYTEXT:011-44-207-253-0265
+@CCD1:Jacki Vause, mng. director
+@BODYTEXT:
+@BODYTEXT:ABC
+@BODYTEXT:Above Net
+@BODYTEXT:Active International
+@BODYTEXT:Affinity
+@BODYTEXT:AT & T
+@BODYTEXT:Atari
+@BODYTEXT:Bank of Montreal
+@BODYTEXT:Bayview Financial
+@BODYTEXT:Doctor's Company
+@BODYTEXT:ESUVEE Safety Campaign
+@BODYTEXT:Finn Dixon & Hertling LLP
+@BODYTEXT:Fireman's Fund
+@BODYTEXT:Freemont Investment Advisors
+@BODYTEXT:Grenworth Financial
+@BODYTEXT:Honeywell
+@BODYTEXT:ITT industries
+@BODYTEXT:Lanier
+@BODYTEXT:Medifast
+@BODYTEXT:Panasonic
+@BODYTEXT:Recordable DVD Council
+@BODYTEXT:Retail Decisions
+@BODYTEXT:Ricoh
+@BODYTEXT:Steelcase
+@BODYTEXT:TIAA-CREF
+@BODYTEXT:Tyco
+@BODYTEXT:UNISYS
+@BODYTEXT:University of Northa Carolina, Kenan-Flagler School of Business
+@BODYTEXT:
+@CO:PERKETT PR, INC.
+@BODYTEXT:34 Cohasset Ave., Marshfield, MA 02050
+@BODYTEXT:781/834-5852; fax:708/570-6178; info@perkettpr.com
+@BODYTEXT:www.perkettpr.com
+@BODYTEXT:Tech, comsumer, post production.  Employees: 6.  Founded: 1998.
+@CCD1:Christine Perkett, pres./founder; Heather Mosley, VP; Doug Fraim, manager
+@BODYTEXT:Blackmagic
+@BODYTEXT:Intermute
+@BODYTEXT:Juniper Networks
+@BODYTEXT:Salesnet
+@BODYTEXT:
+@CO:PERRY COMMUNICATIONS GROUP, INC.
+@BODYTEXT:925 L St., #1200, Sacramento, CA 95814
+@BODYTEXT:916/658-0144; fax:916/658-0155
+@BODYTEXT:www.perrycom.com
+@BODYTEXT:PA firm specializing in healthcare issues.  Employees: 17. Founded: 1996.
+@CCD1:Kassy Perry, pres.; Steve Telliano, Senior VP
+@BODYTEXT:California Medical Assn. Foundation
+@BODYTEXT:California School Nurses Organization
+@BODYTEXT:Entertainment Industry Foundation
+@BODYTEXT:Eli Lilly and Co.
+@BODYTEXT:GE Medical Systems
+@BODYTEXT:Maximus
+@BODYTEXT:Mental Health Assn. in California
+@BODYTEXT:Pharmaceutical Research & Manufacturers of America
+@BODYTEXT:Schering Plough Corp.
+@BODYTEXT:
+@CO:PESIN PUBLIC RELATIONS
+@BODYTEXT:303 E. 83rd St., Apt. 27J, New York, NY 10028
+@BODYTEXT:212/737-7040; fax:212/737-7040; epesin@aol.com
+@BODYTEXT:Medical, (pharmaceutical & hospitals), restaurant, product, book, entertainment, corporate, professional services (lawyers and physicians) and fashion PR. Founded: 1986.
+@CCD1:Ella Pesin, principal
+@BODYTEXT:Lifetime
+@BODYTEXT:3M Pharmaceuticals
+@BODYTEXT:Sarah Lawrence College
+@BODYTEXT:Simon & Schuster
+@BODYTEXT:
+@CO:PETERS & FELDMAN MARKETING COMMUNS.
+@BODYTEXT:P.O. Box 140, Manchester, VT 05254
+@BODYTEXT:802/366-9001
+@BODYTEXT:
+@CCD1:Lee Feldman, principal
+@BODYTEXT:
+@CO:PETERSGROUP PUBLIC RELATIONS
+@BODYTEXT:3410 Far West Blvd., #170, Austin, TX 78731
+@BODYTEXT:512/794-8600; info@petersgrouppr.com
+@BODYTEXT:www.petersgrouppr.com
+@BODYTEXT:Technology, research, strategy, messaging, media. Founded: 1997.
+@CCD1:Lauren Peters, pres.
+@BODYTEXT:COPC
+@BODYTEXT:CCITriad
+@BODYTEXT:Fundsxpress
+@BODYTEXT:IBM (Tivoli Systems Inc.)
+@BODYTEXT:
+@CO:PFI COMMUNICATIONS
+@BODYTEXT:5455 Wilshire Blvd., #2103, Los Angeles, CA 90036
+@BODYTEXT:323/634-7700; fax:323/634-7077; bchew@pficom.com
+@BODYTEXT:Corporate, investor relations, marketing communications, crisis management, employee communications. Employees: 4. Founded: 1994.
+@CCD1:Bob Chew, president
+@BODYTEXT:Bax Global
+@BODYTEXT:Desert Mountain Properties
+@BODYTEXT:Finisterra Hotel
+@BODYTEXT:Haig-Barrett, Inc.
+@BODYTEXT:Palmilla Real Estate
+@BODYTEXT:Toyota
+@BODYTEXT:
+@CO:PFS NEW MEDIA
+@BODYTEXT:409 Minnisink Rd., Totowa, NJ 07512
+@BODYTEXT:973/812-8883; fax:973/812-9020; DBreakenridge@pfsmarketwyse.com
+@BODYTEXT:www.pfsmarketwyse.com
+@BODYTEXT:Adv., comms., production
+@CCD1:Jason Miletsky, CEO; Deirdre Breakenridge, pres.
+@BODYTEXT:Union County Florist Co.
+@BODYTEXT:
+@CO:PGI, INC.
+@BODYTEXT:44 Canal Ctr. Plaza, Alexandria, VA 22314
+@BODYTEXT:703/528-8484; fax:703/528-1724
+@BODYTEXT:Corp. comms., interactive solutions, exhibitions, conferences. Employees: 500 full time. Founded: 1990.
+@CCD1:Bob McCormick, VP-mktg. & comms., PGI Exhibitions
+@BODYTEXT:
+@CO:PHARR & COMPANY, C.
+@BODYTEXT:P.O. Box 1909, Addison, TX 75001
+@BODYTEXT:972/931-7576; cynthia@pharrpr.com
+@BODYTEXT:www.pharrpr.com
+@BODYTEXT:Business-to-business consulting, launch, branding, change comms.  Employees: 5. Founded: 1986.
+@AGENCY:Agency Statement: C. Pharr & Company is a strategic communications firm that is a recognized leader in business and civic communities in Dallas and North Texas. The firm ensures its limited clientele of hands-on executive attention backed by an enthusiastic, skillful team. Crisis planning, launches for product or services, Texas market-specific programs, change communications, branding and positioning programs, executive support, organizational consulting.
+@CCD1:Cynthia Pharr Lee, president
+@BODYTEXT:
+@CO:PHELPS GROUP, THE
+@BODYTEXT:901 Wilshire Blvd., Santa Monica, CA 90401
+@BODYTEXT:310/752-4400; fax:310/752-4444; judy@thephelpsgroup.com
+@BODYTEXT:www.thephelpsgroup.com
+@BODYTEXT:Travel PR, product placement, integrated mktg., consumer, business-to-business, high-tech and packaged goods, agriculture, financial, health, professional services.  Employees: 20. Founded: 1981.
+@CCD1:Judy Lynes, VP/PR; Bill Krenn, VP/team leader; Kristen Bergevin, Todd Murphy, Bill Threlkeld, Bahareh Ramin, Chris Kresch, John Dillon, Kristen McCarthy, PR specialists
+@BODYTEXT:Audiovisual Services Corporation
+@BODYTEXT:Coromeg2
+@BODYTEXT:Dunn-Edwards Paints
+@BODYTEXT:GNP
+@BODYTEXT:Great American Group
+@BODYTEXT:IndyMac Bank
+@BODYTEXT:Lodis Corporation
+@BODYTEXT:Malaysia Airlines
+@BODYTEXT:Microsemi Corp.
+@BODYTEXT:Monrovia Growers
+@BODYTEXT:NuSil Technology
+@BODYTEXT:Ocean Voyages
+@BODYTEXT:Seiko Instruments USA
+@BODYTEXT:TDK Semiconductor Corp.
+@BODYTEXT:Tahiti Tourisme
+@BODYTEXT:Western Dental Services
+@BODYTEXT:Whole Foods Markets
+@BODYTEXT:
+@CO:PHILIPS HEALTHCARE COMMUNICATIONS, INC.
+@BODYTEXT:30 Irving Place, 2nd flr., New York, NY 10003
+@BODYTEXT:212/614-2047; fax:212/614-2051; phc205@aol.com
+@BODYTEXT:Healthcare PR.
+@CCD1:Dorothy M. Philips, chairman
+@BODYTEXT:
+@CO:PHILLIPS + ASSOCIATES, INC.
+@BODYTEXT:101 W. Grand Ave., #405, Chicago, IL 60610
+@BODYTEXT:312/943-9100; fax:312/943-9668
+@BODYTEXT:www.sphillips.com
+@BODYTEXT:Full-service firm handling strategic planning, product/service marketing, crisis management and industry relations for technology, fin’l svcs. and consumer products companies. Founded: 1990. Employees: 6.
+@CCD1:Scott A. Phillips, pres.
+@BODYTEXT:Gateway Computer
+@BODYTEXT:Juvenile Diabetes Research Foundation
+@BODYTEXT:Mesirow Financial
+@BODYTEXT:NEC America Inc.
+@BODYTEXT:Second City Software
+@BODYTEXT:Terrain Natural Solutions
+@BODYTEXT:
+@CO:PHILLIPS, DICK, MEDIA INITIATIVES
+@BODYTEXT:11445 E. Via Linda #2-123, Scottsdale, AZ 85259
+@BODYTEXT:602/381-6644; fax:602/860-1912; PhillPhx@aol.com
+@BODYTEXT:National and local media initiatives with print, broadcast and trade press. Expertise in education, banking, health & the arts.
+@CCD1:R.W. Dick Phillips, pres.
+@BODYTEXT:
+@CO:PIERPONT COMMUNICATIONS, INC.
+@BODYTEXT:1800 West Loop South, #800, Houston, TX 77027
+@BODYTEXT:713/627-2223; fax:713/627-2224; pierpont@piercom.com
+@BODYTEXT:www.piercom.com
+@BODYTEXT:Media, community and IR, crisis and employee comms., issues mgmt., special events, business-to-business, e-commerce, government and public affairs. Employees: 25. Founded: 1987.
+@CCD1:Philip Morabito, pres.
+@BODYTEXT:9606 N. Mopac Expwy., #850, Austin, TX 78759
+@BODYTEXT:512/448-4950; fax: 512/448-9479
+@CCD1:Michael Russell, VP/general mgr.
+@BODYTEXT:
+@BODYTEXT:Aramark
+@BODYTEXT:Money Management Int'l
+@BODYTEXT:Penreco
+@BODYTEXT:Pervasive Software
+@BODYTEXT:SalvageSale, Inc.
+@BODYTEXT:SolArc, Inc.
+@BODYTEXT:Stewart & Stevenson
+@BODYTEXT:TBC Confuels
+@BODYTEXT:The Texas Medical Center
+@BODYTEXT:
+@CO:PIERSON GRANT PUBLIC RELATIONS
+@BODYTEXT:6301 NW 5th Way, #2600, Fort Lauderdale, FL 33309
+@BODYTEXT:954/776-1999; fax:954/776-0290; info@piersongrant.com
+@BODYTEXT:Publicity, media relations, community relations, creative promotions.  Employees: 16. Founded: 1995.
+@AGENCY:Agency Statement: Pierson Grant is a full-service public relations firm specializing in publicity, media relations, community relations, creative promotions and marketing communications, including video and corporate publications. All services also are offered in Spanish.
+@AGENCY:Pierson Grant Public Relations was formed by Maria Pierson and Jane Grant, combining 40 years of experience with clients nationwide. The firm represents clients in the financial, real estate, restaurant, hospitality, entertainment and medical industries. The firm provides a highly personalized level of client service, with one company principal taking the lead on each account team and both Pierson and Grant staying fully involved in all day-to-day client matters.
+@CCD1:Maria Pierson, CEO; Jane Grant, president
+@BODYTEXT:Bahama Breeze
+@BODYTEXT:Broward Center for the Performing Arts
+@BODYTEXT:Colonial Bank
+@BODYTEXT:Dairy Queen
+@BODYTEXT:Gill Hotels
+@BODYTEXT:GL Homes
+@BODYTEXT:Olive Garden
+@BODYTEXT:Red Lobster
+@BODYTEXT:Seasons 52
+@BODYTEXT:
+@CO:PINGER PUBLIC RELATIONS INC., DAN
+@BODYTEXT:Member IPREX
+@BODYTEXT:Pinger Bldg., 708 Walnut St., Cincinnati, OH 45202
+@BODYTEXT:513/564-0700; fax:513/564-9621
+@BODYTEXT:www.danpinger.com
+@BODYTEXT:Corporate, marketing, counseling, events, investor relations and media relations.  Founded: 1984.
+@AGENCY:Agency Statement: Dan Pinger Public Relations is the largest public relations firm in the southwestern Ohio region, serving more than 50 clients locally, regionally, nationally and internationally. Its experienced professionals provide top quality strategic counseling and offer distinctly personal attention to every client. Our purpose is straightfoward: To Be The Best We Can Be For Our Clients. Period.
+@CCD1:Daniel C. Pinger
+@BODYTEXT:
+@CO:PINNACLE WORLDWIDE
+@BODYTEXT:An int'l. organization of independent PR firms consisting of 54 offices.
+@BODYTEXT:World Headquarters: 1201 Marquette, #300, Minneapolis, MN 55403
+@BODYTEXT:612/338-2215; fax:612/338-2572; hq@pinnacleww.com
+@BODYTEXT:www.pinnacleww.com
+@BODYTEXT:
+@CCD1:Lynn McCarthy (Northstar Counselors), exec. director; Larry Wheeler (Boasberg/Wheeler Comms.),chair; Ron Hanser (Hanser & Associates), pres.; David Marriott (Gogerty Stark Marriott), treasurer; 
+@BODYTEXT:NORTH AMERICAN REGION:
+@BODYTEXT:California: Allison & Partners. San Francisco; Gladstone International, Irvine
+@BODYTEXT:Canada: Strategic Objectives, Toronto
+@BODYTEXT:Colorado: Schenkein
+@BODYTEXT:District of Columbia: Devillier Communications Inc.
+@BODYTEXT:Florida: Wragg & Casas PR, Miami
+@BODYTEXT:Idaho: Scott Peyron & Assocs., Boise
+@BODYTEXT:Illinois: HLB Communications, Chicago
+@BODYTEXT:Indiana: Coles PR, Indianapolis
+@BODYTEXT:Iowa: Hanser & Assocs., W. Des Moines
+@BODYTEXT:Massachusetts: Morrissey & Co., Boston
+@BODYTEXT:Minnesota: Northstar Counselors Inc., Minneapolis/St. Paul
+@BODYTEXT:Missouri: BoasbergWheeler Comms., Kansas City; The Vandiver Group, St. Louis
+@BODYTEXT:Nevada: Ballard Comms. Inc., Las Vegas
+@BODYTEXT:New York: LVM Group, New York; Patrice Tanaka & Co., New York
+@BODYTEXT:New Jersey/Pennsylvania: Anne Klein & Assocs. Inc., Marlton, N.J.
+@BODYTEXT:Ohio: Edward Howard & Co., Cleveland
+@BODYTEXT:Oregon: Conkling Fiskum & McCormick, Portland
+@BODYTEXT:Texas: de La Garza PR, Houston; Levenson Brinker PR, Dallas
+@BODYTEXT:Washington: Gogerty Stark Marriott, Seattle
+@BODYTEXT:LATIN AMERICAN REGION:
+@CCD1:Pinnacle Regional VP: Ray Casas (Wragg & Casas PR), Miami
+@BODYTEXT:Argentina: BD&A, Buenos Aires
+@BODYTEXT:Brazil: SPMJ Comms., Sao Paulo
+@BODYTEXT:Chile: PMC Marketing & Comms., Santiago
+@BODYTEXT:Dominican Republic: Medios Del Caribe, Santo Domingo
+@BODYTEXT:Mexico: de La Garza/Grupo PCC, Mexico City
+@BODYTEXT:ASIA/PACIFIC REGION:
+@CCD1:Pinnacle Regional VP, John Wells (Jackson Wells Morris), Sydney
+@BODYTEXT:Australia: Jackson Wells Morris Pty Ltd., Sydney
+@BODYTEXT:Korea: Gigo Comms., Seoul
+@BODYTEXT:Singapore: Mileage Comms.
+@BODYTEXT:Phillipines: Virtusio PR, Manila
+@BODYTEXT:EUROPEAN REGION:
+@CCD1:Pinnacle Regional VP: Ruud Bijl (The Netherlands)
+@BODYTEXT:Austria: Dr. Dorthea Menedetter PR, Vienna
+@BODYTEXT:Belgium: Origami, Brussels
+@BODYTEXT:Czechoslovakia: Knight & Svoboda, Prague
+@BODYTEXT:Denmark: Outcom A/S, Hellerup
+@BODYTEXT:Egypt: RadaResearch & PR Company, Cairo
+@BODYTEXT:Finland: Soprano Oy, Helsinki
+@BODYTEXT:France: Self Image Rels. Publiques, Paris
+@BODYTEXT:Germany: Public Relations Partners GmbH, Frankfurt
+@BODYTEXT:Greece: Connective Comm, Athens
+@BODYTEXT:Hungary: PeppeR Comms. Consultancy, Budapest
+@BODYTEXT:Italy: Studio Mailander, Torino
+@BODYTEXT:Poland: Partner of Promotion, Warsaw
+@BODYTEXT:Romania: API Resources, Bucharest
+@BODYTEXT:Russia: SPN Granat, St. Petersburg
+@BODYTEXT:Spain: Paniagua Consultores, Madrid
+@BODYTEXT:Sweden: Vox, Stockholm
+@BODYTEXT:Switzerland: CR Kommunication, Zurich
+@BODYTEXT:The Netherlands: Bijl Partners in PR, Rotterdam
+@BODYTEXT:Turkey: Pronto PR, Istanbul
+@BODYTEXT:Ukraine: Key Comms., Kiev
+@BODYTEXT:United Kingdom: BCLO, Bristol
+@BODYTEXT:
+@BODYTEXT:
+@CO:PIRES GROUP, INC., THE
+@BODYTEXT:32 Oak Crest Court, Greenville, SC 29605
+@BODYTEXT:864/233-5282; fax:864/233-5874; maptpg@aol.com
+@BODYTEXT:Corporate and association PR/PA, with emphasis on third-party allies and coalitions, PR marketing support, community relations and focused philanthropy; management training/audits.  Founded: 1986.
+@CCD1:Mary Ann Pires, CEO
+@BODYTEXT:
+@CO:PLACIDI & GERLICH COMMUNICATIONS
+@BODYTEXT:13447 Erwin St., Valley Glen, CA 91401
+@BODYTEXT:818/786-8687; fax:818/786-8709; pgworld@aol.com
+@BODYTEXT:Marketing and PR for travel, hospitality, and resort industries.
+@CCD1:Marian Gerlich, president; Edward Placidi
+@BODYTEXT:Arizona Biltmore Resort & Spa
+@BODYTEXT:Cheyenne Mountain Resort, Colo.
+@BODYTEXT:Hotel Casa Del Mar, Santa Monica
+@BODYTEXT:Posada La Poza
+@BODYTEXT:QuikPak, Inc.
+@BODYTEXT:Steamboat Grand Resort, Colo.
+@BODYTEXT:
+@CO:PLANNED TELEVISION ARTS
+@BODYTEXT:Division of Ruder Finn
+@BODYTEXT:1110 Second Ave., 3rd Floor, New York, NY 10022
+@BODYTEXT:212/583-2718; fax:212/715-1664; feinblumb@plannedTVarts.com
+@BODYTEXT:www.plannedtvarts.com
+@BODYTEXT:Specialists in broadcast and print media placement; satellite media tours; book publicity; products; non-profits; entertainment; health; travel; financial. Employees: 50. Founded: 1962.
+@CCD1:Richard Frishman, pres.; David Hahn, David Thalberg, senior VPs; Deborah Kohan, publicity director; Audra Berman, publicity manager; Sandy Trupp, dir., PTA Washington; Brian Feinblum, chief marketing officer
+@BODYTEXT:1-800-FLOWERS
+@BODYTEXT:AAA
+@BODYTEXT:American Express
+@BODYTEXT:American Heart Association
+@BODYTEXT:Consumers Union
+@BODYTEXT:Harper Collins
+@BODYTEXT:Harvard Business School Press
+@BODYTEXT:Mcgraw-Hill
+@BODYTEXT:National Geographic
+@BODYTEXT:Pearson
+@BODYTEXT:People Magazine
+@BODYTEXT:Smithsonian Institute
+@BODYTEXT:Time Warner
+@BODYTEXT:Wiley Books
+@BODYTEXT:
+@CO:PLESSER HOLLAND ASSOCIATES INC.
+@BODYTEXT:900 Broadway, #401, New York, NY 10003
+@BODYTEXT:212/420-8383; fax:212/420-8381
+@BODYTEXT:www.plesser.com, www.plesserholland.com
+@BODYTEXT:Bus.-to-bus. and consumer PR for traditional and new media, technology, academia, financial and cos.  Employees: 7. Founded: 2003.
+@CCD1:Andrew P. Plesser, president; Kent Holland, exec. VP; Jason Chupick, media supv.; Taryn L. Mickus, sr. A/E;  Nicole Erazo, A/E, manager; Soh Woo Cha, A/E
+@BODYTEXT:CNET; GameSpot.com
+@BODYTEXT:Forrester Magazine
+@BODYTEXT:ING Direct
+@BODYTEXT:Sanders Morris Harris
+@BODYTEXT:MIT's Technology Review
+@BODYTEXT:Tuck School of Business at Dartmouth
+@BODYTEXT:The NewsMarket
+@BODYTEXT:VAR Business
+@BODYTEXT:Vivaldi Partners
+@BODYTEXT:
+@CO:PMK/HBH
+@BODYTEXT:Acquired by McCann-Erickson Worldgroup, part of Interpublic Group of Cos.
+@BODYTEXT:700 San Vincente Blvd., G190, West Hollywood, CA 90069
+@BODYTEXT:310/289-6200; fax:310/289-6677
+@BODYTEXT:Entertainment PR; celebrity representation. Founded: 1971
+@CCD1:Pat Kingsley, pres.
+@BODYTEXT:650 Fifth Ave., New York, NY 10019
+@BODYTEXT:212/582-1111; fax: 212/582-6666
+@CCD1:Lois Smith, partner
+@BODYTEXT:
+@BODYTEXT:
+@CO:POINT B
+@BODYTEXT:887 W. Marietta St., N.W., #N108, Atlanta, GA 30318
+@BODYTEXT:404/888-1700; fax:404/888-1704
+@BODYTEXT:www.pointb-online.com
+@BODYTEXT:Strategic planning, media placement/rels., controlled message tactics, identity & branding programs. Employees: 10. Founded: 1986.
+@CCD1:Patricia Babuka, pres.
+@BODYTEXT:Chase
+@BODYTEXT:GA Power
+@BODYTEXT:Kodak
+@BODYTEXT:Oldcastle
+@BODYTEXT:TMS
+@BODYTEXT:
+@CO:POINT GROUP, THE
+@BODYTEXT:Advertising and PR
+@BODYTEXT:5949 Sherry Lane, #1800, Dallas, TX 75225
+@BODYTEXT:214/378-7970; fax:214/378-7967; sjones@thepointgroup.com
+@BODYTEXT:Major svc.-oriented industries such as telecomms., mfg., bus.-to-bus., financial, retail and food and beverage. Founded: 1990
+@CCD1:N. Scott Jones, PR pres.; Susan Owen, pres., adv.
+@BODYTEXT:
+@CO:POLITIS COMMUNICATIONS
+@BODYTEXT:65 E. Wadsworth Pk. Dr., #102, Draper, UT 84020
+@BODYTEXT:801/523-3730; fax:801/523-3750
+@BODYTEXT:www.politis.com
+@BODYTEXT:High-tech PR. Founded: 1990. Employees: 6.
+@CCD1:David L. Politis, pres.
+@BODYTEXT:AdStar
+@BODYTEXT:Bestway, Inc.
+@BODYTEXT:Dallas Woodcraft Inc.
+@BODYTEXT:MasterTrend
+@BODYTEXT:MediConnect.net
+@BODYTEXT:
+@CO:POLLACK PR MARKETING GROUP, THE
+@BODYTEXT:Member of the Worldcom Public Relations Group
+@BODYTEXT:1901 Ave. of the Stars, #1040, Los Angeles, CA 90067
+@BODYTEXT:310/556-4443; fax:310/286-2350; info@ppmgcorp.com
+@BODYTEXT:www.ppmgcorp.com
+@BODYTEXT:Corp., consumer prod. and svcs., professional svcs., bus.-to-bus. PR.  Employees: 13. Founded: 1985.
+@CCD1:Noemi Pollack, pres. & CEO; Stefan Pollack, VP & CFO
+@BODYTEXT:Al & Ed's Autosound
+@BODYTEXT:Beverly Hills Chamber of Commerce
+@BODYTEXT:Chrisman & Co.
+@BODYTEXT:Destination U
+@BODYTEXT:Eclipse
+@BODYTEXT:French Rags
+@BODYTEXT:Jeffries Quarterdeck
+@BODYTEXT:Mailshell.com
+@BODYTEXT:Morey Bodyboards
+@BODYTEXT:Quarterdeck Investment Partners
+@BODYTEXT:Rain Bird Corp.
+@BODYTEXT:Ritmo Mundo
+@BODYTEXT:Sage Group, The
+@BODYTEXT:Water & Power Community Credit Union
+@BODYTEXT:Wham-O
+@BODYTEXT:
+@CO:POLLARD COMMUNICATIONS, INC., CYNTHIA
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:13220 Arboretum, Bakersfield, CA 93312
+@BODYTEXT:661/588-6869; cindy@cynthiapollard.com
+@BODYTEXT:www.cynthiapollard.com
+@BODYTEXT:
+@CCD1:Cynthia Pollard, CEO
+@BODYTEXT:
+@CO:POLLER & JORDAN ADVERTISING AGENCY, INC.
+@BODYTEXT:Advertising, design and PR firm
+@BODYTEXT:8205 N.W. 30th Terrace, Miami, FL 33122
+@BODYTEXT:305/470-8005; fax:305/470-1937; info@pjadv.com
+@BODYTEXT:www.pjadv.com
+@BODYTEXT:PR, advertising and design for bus.-to-bus., automotive, financial, import/export, floral and heavy equipment. Florida specialists (including African-American, Hispanic and niche markets). Founded: 1975
+@CCD1:Robert H. Poller, pres.; Michael Poller, manager; Shari Brooks, PR director
+@BODYTEXT:Arthur Murray Int'l
+@BODYTEXT:SeaView Industries
+@BODYTEXT:
+@CO:POLLING COMPANY, THE
+@BODYTEXT:1220 Connecticut Ave., N.W., Washington, DC 20036
+@BODYTEXT:202/822-6804; fax:202/822-0667
+@BODYTEXT:www.pollingcompany.com
+@BODYTEXT:Employees: 5.  Founded: 1984.
+@CCD1:KellyAnne Conway, pres. & CEO
+@BODYTEXT:
+@CO:POLLOCK COMMUNICATIONS
+@BODYTEXT:665 Broadway, 12th flr., New York, NY 10012
+@BODYTEXT:212/941-1414; fax:212/334-2131
+@BODYTEXT:www.pollock-pr.com
+@BODYTEXT:Food, nutrition, consumer products and services PR. Employees: 15. Founded: 1991.
+@AGENCY:Agency Statement: Full-service PR marketing communications agency providing strategic programs, expert counsel and measurable results.  Senior staff with extensive experience marketing services, products and commodities to consumer, business and industry audiences.  Leader in food and nutrition PR, pioneer of the functional food movement.  Delivers media coverage in top U.S. and international outlets.  Services include: media relations, SMTs, VNRs, b-roll news packages, issues management, health care professional education/outreach, strategic alliances, entertainment/celebrity partnerships, TV/movie product placement, integrated programs, special events, website content and media training.
+@CCD1:Sara Coulter, exec. VP
+@BODYTEXT:Aramark
+@BODYTEXT:Brassica Protection Products
+@BODYTEXT:Exxon Mobil Corp.
+@BODYTEXT:General Mills
+@BODYTEXT:Oticon, Inc.
+@BODYTEXT:Pritikin Longevity Center & Spa
+@BODYTEXT:Tea Council of the USA
+@BODYTEXT:Top Button
+@BODYTEXT:USA Rice Federation
+@BODYTEXT:Vitalicious
+@BODYTEXT:
+@CO:PONTIS GROUP
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:6065 Frantz Road, #204, Dublin, OH 43017
+@BODYTEXT:614/764-1274; fax:617/764-1531; CBirchfield@pontisgroup.com
+@BODYTEXT:computers/computer products, financial.  Founded: 1945.
+@CCD1:H. Douglas Jones, president/CEO
+@BODYTEXT:
+@CO:PORTER & ASSOCIATES
+@BODYTEXT:400 114th St., Urbandale, IA 50322
+@BODYTEXT:515/221-4900; fax:515/221-0000; rmaahs@trilixgroup.com
+@BODYTEXT:Advertising, marketing and PR: banking, insurance, mfg., agriculture, consumer prods., higher education. Founded: 1981.
+@CCD1:Todd Senne, Kris Moorman, Ron Maahs, principals
+@BODYTEXT:
+@CO:PORTER NOVELLI
+@BODYTEXT:Owned by Omnicom Group
+@BODYTEXT:450 Lexington Ave., New York, NY 10017
+@BODYTEXT:212/601-8000; fax:212/601-8101
+@BODYTEXT:www.porternovelli.com
+@BODYTEXT:Full-service PR firm.  Founded: 1972.
+@AGENCY:Agency Statement: Porter Novelli is one of the world's leading PR firms, with owned and partner companies in all major markets. The agency was founded in Washington, D.C. in 1972. By taking a holistic, integrated approach to client business objectives, we create programs that deliver measurable value and impact.
+@AGENCY:Porter Novelli's expertise spans the three main disciplines of marketing, corporate affairs and public affairs and is applied in the core industry sectors of health care, technology, consumer, financial services, diversified industries (e.g. automotive and manufacturing), resources (e.g. energy, agriculture and chemicals) and government and advocacy institutions. Increasingly, clients look to PR to help them with multidisciplinary communications programs that tap a variety of specialties including, multicultural, crisis and issues management, interactive and investor relations.
+@CCD1:Helen Ostrowski, CEO; Gary Stockman, president; Mike Gehb, CFO; Greg Waldron, chief talent officer; Sally Williams, director, global business development; Bob Lardon, chief strategy officer; Bob Elloyan, CIO; Ada Parr, director, global network.
+@CCD1:PRACTICE LEADERS: Consumer, Julie Winskie, (New York); Health Care, Michael Durand, (New York); Technology, Steve Jursa, (Los Angeles); Food and Nutrition, Mary Christ-Erwin, (Washington, D.C.); Corporate: Jon Goldberg; Corporate Affairs, Peter Hirsch (New York); Public Affairs (see D.C. office); PN Consulting: Alan Hilburg (New York); Social Marketing: Kay Vose (Washington, D.C.); Cause-Related Marketing, David Zucker, (New York).
+@BODYTEXT:Porter Novelli Atlanta
+@BODYTEXT:3348 Peachtree Rd., N.E., #300, Atlanta, GA 30326
+@BODYTEXT:404/995-4500; fax: 404/995-4501; kathy.bremer@porternovelli.com
+@CCD1:Kathy Bremer, partner and managing director
+@BODYTEXT:Porter Novelli Austin
+@BODYTEXT:8240 North Mopac Expressway, Two Park North, #180, Austin, TX 78759
+@BODYTEXT:512/527-9881; fax: 512/527-9891; laura.beck@porternovelli.com
+@CCD1:Laura Beck, senior VP 
+@BODYTEXT:Porter Novelli Boston
+@BODYTEXT:2 Seaport Lane, #900, Boston, MA 02210
+@BODYTEXT:617/897-9200; 617/897-8203; jim.barbagallo@porternovelli.com
+@CCD1: = Jim Barbagllo, partner; Tim Hurley, partner
+@BODYTEXT:Porter Novelli Advanced Technology Division
+@BODYTEXT:1919 S. Bascom, 3rd fl., Campbell, CA 95008
+@BODYTEXT:408/369-4600; fax: 408/369-4601; john.tsantes@porternovelli.com
+@CCD1:John Tsantes, pres., Advanced Technology Division
+@BODYTEXT:Porter Novelli Silicon Valley
+@BODYTEXT:1919 S. Bascom, 3rd fl., Silicon Valley, CA 95008
+@BODYTEXT:408/300-4600; 408/369-4601; 
+@BODYTEXT:rhonda.shantz@porternovelli.com
+@CCD1:Rhonda Shantz, partner and managing director
+@BODYTEXT:Porter Novelli Chicago
+@BODYTEXT:225 N Michigan Ave., #2100, Chicago, IL 60601
+@BODYTEXT:312/856-8888; fax: 312/856-8807; linda.hadley@porternovelli.com
+@CCD1:Linda Hadley, managing director
+@BODYTEXT:Porter Novelli Florida
+@BODYTEXT:1815 Griffin Road, Suite 106, Dania Beach, FL 33004
+@BODYTEXT:954/883-3788; fax: 954/883-3783;
+@BODYTEXT:fernando.figueredo@porternovelli.com
+@CCD1:Fernando Figueredo, managing dir., regional dir., Latin America
+@BODYTEXT:Porter Novelli Irvine
+@BODYTEXT:4 Studebaker Ave., Irvine, CA 92618
+@BODYTEXT:949/583-2600; fax: 949/583-2601
+@BODYTEXT:linda.martin@porternovelli.com
+@CCD1:Linda Martin, EVP, managing director
+@BODYTEXT:FischerHealth
+@BODYTEXT:5340 Alla Road, #200, Los Angeles, CA 90066
+@BODYTEXT:310/577-7870; fax: 310/577-8151
+@BODYTEXT:rfischer@fischerhealth.com
+@BODYTEXT:Roger Fischer, president and CEO
+@BODYTEXT:Porter Novelli Los Angeles
+@BODYTEXT:10960 Wilshire Blvd., #1750, Los Angeles, CA 90024
+@BODYTEXT:310/444-7000; fax: 310/444-7004; bkolberg@porternovelli.com
+@CCD1:Bill Kolberg, managing director
+@BODYTEXT:PNConsulting
+@BODYTEXT:450 Lexington Ave., New York, NY 10017
+@BODYTEXT:212/601-8492; fax: 212/601-8101; ahilburg@pnconsulting.com
+@CCD1:Alan Hilburg, president and CEO
+@BODYTEXT:Porter Novelli New York
+@BODYTEXT:450 Lexington Ave., New York, NY 10017
+@BODYTEXT:212/601-8800; fax: 212/601-8101; julie.winskie@porternovelli.com
+@CCD1:Julie Winskie, Sr. Partner, Managing Dir.; Suzanne Gabriel, Partner, deputy managing director
+@BODYTEXT:Porter Novelli Sacramento
+@BODYTEXT:1215 K St., #2100, Sacramento, CA 95814
+@BODYTEXT:916/443-3354; fax: 916/443-3055; bill.schreiber@porternovelli.com
+@CCD1:Bill Schrieber, EVP and managing director
+@BODYTEXT:Porter Novelli San Diego
+@BODYTEXT:402 W. Broadway, #1600, San Diego, CA 92101
+@BODYTEXT:619/687-7000; fax: 619/687-7007; jim.bartell@porternovelli.com
+@CCD1:Jim Bartell, managing director
+@BODYTEXT:Porter Novelli San Francisco
+@BODYTEXT:550 Third St., San Francisco, CA 94107
+@BODYTEXT:415/975-2200; fax: 415/975-2201
+@BODYTEXT:rhonda.shantz@porternovelli.com
+@CCD1:Rhonda Shantz, partner & managing director
+@BODYTEXT:Porter Novelli Seattle
+@BODYTEXT:2025 First Ave., #1030, Seattle, WA 98121
+@BODYTEXT:206/727-2880; fax: 206/727-3439; will.ludlam@porternovelli.com
+@CCD1:Will Ludlam, partner & managing director
+@BODYTEXT:Porter Novelli Issues Advocacy, Washington, DC
+@BODYTEXT:1909 K St., N.W., #320, Washington, DC 20006
+@BODYTEXT:202/955-6200; fax: 202/955-6215;
+@BODYTEXT:carolyn.tieger@porternovelli.com
+@CCD1:Carolyn Tieger, Public Affairs Practice Leader
+@BODYTEXT:Porter Novelli Washington, DC 
+@BODYTEXT:1909 K St., N.W., 4th flr., Washington, DC 20006
+@BODYTEXT:202/973-5800; fax: 202/973-5858; rgould@porternovelli.com
+@CCD1:Rob Gould, senior partner & managing director
+@BODYTEXT:INTERNATIONAL:
+@BODYTEXT:Porter Novelli Argentina
+@BODYTEXT:Marcelo T. de Alvear 405, C1058 AAC Buenos Aires, Argentina
+@BODYTEXT:5411 5554 7200; fax: 5411 5554 7299
+@BODYTEXT:aleporati@porternovelli.com.ar
+@CCD1:Aldo Leporati, managing director
+@BODYTEXT:Porter Novelli Australia-Adelaide
+@BODYTEXT:First floor, 56 Greenhill Rd., Wayville,  5304 Adelaide, Australia
+@BODYTEXT:618 8272 8699; fax: 618 8272 8355; richardf@porternovelli.vom.au
+@CCD1:Richard Fewster, managing director
+@BODYTEXT:Porter Novelli Australia-Brisbane
+@BODYTEXT:Level 2, 33 Park Rd., Milton, 4064 Brisbane, Queensland, Australia
+@BODYTEXT:61 7 3368 2355; fax: 61 7 3367 1609; johnb@bwh.com.au
+@CCD1:John Bayly, managing director
+@BODYTEXT:Porter Novelli Australia-Hobart
+@BODYTEXT:Level 14, 644 Chapel Street, Como Centre, South Yarra 3141 Australia
+@BODYTEXT:+61 3 6290 2250; fax: +61 3 9289 9556;
+@BODYTEXT:tony@cctas.com.au; www.porternovelli.com.au
+@CCD1:Tony Harrison, managing director
+@BODYTEXT:Porter Novelli Australia-Melbourne
+@BODYTEXT:Level 14, 644 Chapel St., S. Yarra, Melbourne, VIC 3141, Australia
+@BODYTEXT:613/9289-9555; 613/9289-9556; pkent@porternovelli.com.au
+@CCD1:Peter Kent, general manager
+@BODYTEXT:Porter Novelli Australia-Perth
+@BODYTEXT:The Courtyard, 33 Broadway, Nedlands, Perth WA 6009, Australia
+@BODYTEXT:61 8 9386 1233; fax: 61 8 9386 1715;
+@BODYTEXT:pdownie@wa.porternovelli.com.au
+@CCD1:Paul Downie, director
+@BODYTEXT:Porter Novelli Australia-Sydney
+@BODYTEXT:Level 1, 153 Walker St., North Sydney NSW 2060, Australia
+@BODYTEXT:61 2 9463 7600; fax: 61 2 9463 7601;
+@BODYTEXT:dlumb@porternovelli.com.au
+@CCD1:David Lumb, general manager
+@BODYTEXT:IKP Porter Novelli
+@BODYTEXT:Liechtensteinstrasse 25/17, 1000 Vienna, Austria
+@BODYTEXT:43 1 524 7700; fax: 43 1 524 7790 5; peter.hoerschinger@ikp.at
+@CCD1:Peter Hoerschinger, managing director
+@BODYTEXT:Porter Novelli Brussels
+@BODYTEXT:Boulevard Louis Mettewielaan 272 B - 1080 Brussels, Belgium
+@BODYTEXT:32 2 413 0340; fax: 32 2 413 0349;
+@BODYTEXT:luc.missinne@porternovelli.be
+@CCD1:Dimitri Casteleyn, Luc Missinne, managing directors
+@BODYTEXT:Porter Novelli Belgium
+@BODYTEXT:Bomastraat 14a, B-9000, Gent, Belgium
+@BODYTEXT:32 9 223-8810; fax: 32 9 233-0350;
+@BODYTEXT:luc.missinne@porternovelli.be
+@CCD1:Luc Missinne, managing director
+@BODYTEXT:InPress Porter Novelli-Brasilia
+@BODYTEXT:SAS Quadia Q01 Bloco M Sales 1005 o 1006, Asa Sul, Brasilia DF, CEP 70070-000, Brazil
+@BODYTEXT:+55 61 323 8764; fax: +55 61 323 8764; 
+@BODYTEXT:InPress Porter Novelli Rio de Janeiro
+@BODYTEXT:Avenida Nossa Senhora de Copacabana 1226, 8th fl., Rio de Janeiro, RJ, 22070-010, Brazil
+@BODYTEXT:55 21 3082 0080; fax: 55 21 2267 8449; 
+@BODYTEXT:InPress Porter Novelli Sao Paulo
+@BODYTEXT:Av. Juscelino Kubitschek, 1726/10 andar, San Paulo, SP, 04543-000, Brazil
+@BODYTEXT:55 11 3323; fax: 55 11 3323 1599
+@BODYTEXT:kiki.morelti@inpresspni.com.br
+@CCD1:Kiki Moretti, partner and managing director
+@BODYTEXT:APRA Porter Novelli
+@BODYTEXT:111 Georgi S Rakovski Sir, 1000 Sofia, Bulgaria
+@BODYTEXT:359 2 981 4190; fax: 359 2 987 8079; alamanov@apraagency.com; www.apraagency.com
+@CCD1:Lubomir Alamanov, senior partner and managing dir.
+@BODYTEXT:Porter Novelli Canada (Montreal)
+@BODYTEXT:2120 rue Sharbrooke est, bureau 1117, Montreal P.Q. H2K 1C3, Canada
+@BODYTEXT:514/527-5508; fax: 514/527-5512; vital.adam@porternovelli.com
+@CCD1:Vital Adam, director
+@BODYTEXT:Porter Novelli Canada (Toronto)
+@BODYTEXT:33 Bloor St. East, Suite 1450, Toronto, Ontario M4W 3H Canada
+@BODYTEXT:416/423-6605; fax: 416/423-5154; sheila.corriveau@porternovelli.com
+@CCD1:Sheila Corriveau, president
+@BODYTEXT:Porter Novelli Canada (Vancouver)
+@BODYTEXT:600-900 Canada Pl., Vancouver, BC, VGC 3191 Canada
+@BODYTEXT:604/602-6401; fax: 604/681-0093; knox.henderson@porternovelli.com
+@CCD1:Knox Henderson, director
+@BODYTEXT:Quasar Communicaciones Porter Novelli
+@BODYTEXT:Ebro #2740, Piso 13, Las Condes, Santiago, Chile
+@BODYTEXT:562/246-7700; fax: 562-246-7759; pedwards@qu.ci
+@CCD1:Paula Edwards, president & CEO
+@BODYTEXT:Porter Novelli China
+@BODYTEXT:2F Building B8, Universal Plaza, 10 Jundanquiao Rd., Chaoyong District, 100016 Beijing, China
+@BODYTEXT:86/ 10-8456-5177; fax: 86-10-8456-9528; stevenchen@perternovelli.cn
+@CCD1:Steven Chen, VP
+@BODYTEXT:Porter Novelli Colombia
+@BODYTEXT:Calle 72, Bis 5-83-Officina 1201, Bogota, Colombia
+@BODYTEXT:571/249-0028; fax: 571/255-0498; gastel@cable.net.co
+@BODYTEXT:Fernando Gastelbondo, general manager
+@BODYTEXT:Centroamerica Porter Novelli
+@BODYTEXT:Torres del Campo, Tower 2, 2nd Fl., San Jose, Costa Rica
+@BODYTEXT:506/250-0486; fax: 506/258-7760; luiscg@pnca.com
+@CCD1:Luis Gabriel Castro, president
+@BODYTEXT:Jop, Ove, & Myrthu Porter Novelli
+@BODYTEXT:Jyllandgarden Frederiksgade 72 Aarthus C, DK-8000, Denmark
+@BODYTEXT:45/8676-1620; fax: 45/8676-1630
+@BODYTEXT:Aldersrogade 5, Copenhagen, DK-2100, Denmark
+@BODYTEXT:45/39-2750-50; fax: 45/39-2750-52
+@BODYTEXT:Degenmosen 1, Horsons, DK-8700, Denmark
+@BODYTEXT:45/76-5870-70; fax: 45/76-5870-71; ove@jom.dk
+@CCD1:Erik Ove, partner
+@BODYTEXT:Dominicana Porter Novelli
+@BODYTEXT:Calle Filomena Gornez de Cova #24, Ensancha Pianti, Santo Domingo, Dominican Republic
+@BODYTEXT:809/274-6813; fax: 809/732-2055; marionp@dominicanapn.com
+@CCD1:Marion Pages, president
+@BODYTEXT:Coordinamos Porter Novelli
+@BODYTEXT:Av Colon E4-105 y 9 de Octubra, Edificio Solamar, Piso 1, Oficina 102, Quito, Ecuador
+@BODYTEXT:503/28-210-1548; fax: 593/ 2-254-3045; 
+@BODYTEXT:rosa.alarcon@coordinamos.com
+@CCD1:Rosa Alarcon, executive director
+@BODYTEXT:Centroamerica Porter Novelli El Salvador
+@BODYTEXT:Boulevard Orden de Malta Sur, Edificio #14 Santa Elona, Antiguo, Cuscatian, San Salvador, El Salvador
+@BODYTEXT:503/248-7954; fax: 503/248-7964; lorena@porternovelli.com.sv
+@CCD1:Lorena Mendoza, general manager
+@BODYTEXT:Pohjoisranta Porter Novelli
+@BODYTEXT:Alcksanterinkatu 12, P.O. Box 122, 00171 Helsinki, Finland
+@BODYTEXT:358/98567-505; fax: 358/98567-5510; 
+@BODYTEXT:Pohjoisranta Porter Novelli
+@BODYTEXT:Elektroniikketie 2B, 90570 Oulu Finland
+@BODYTEXT:358/8-561-3939; fax: 358/8-551-3935
+@BODYTEXT:jouni.heinonen@pohjoisranta.fi
+@CCD1:Jouni Heinonen, partner
+@BODYTEXT:Porter Novelli Grenoble
+@BODYTEXT:4, Avenue Doyen Louis Weil, Europolis Grenoble 38000 France
+@BODYTEXT:334/7684-1616; fax: 334/7684-0854; leolenhard@porternovelli.fr
+@CCD1:Leo Lenhard, director
+@BODYTEXT:Porter Novelli Paris
+@BODYTEXT:8 rue de la Michodiere, 75002 Paris, France
+@BODYTEXT:331/4494-9797; fax: 331/4494-9798; jb@debellescize@porternovelli.fr
+@CCD1:Jean-Baptiste de Bellescize, president
+@BODYTEXT:F&H Porter Novelli-Dusseldorf
+@BODYTEXT:Furstenwall 99, Dusseldorf, NRW 40217 Germany
+@BODYTEXT:49 211 311630 0; fax: 49 211 311630 24; h.fircks@f-und-h.de
+@CCD1:Andreas Lankenfeld, managing director
+@BODYTEXT:F&H Porter Novelli-Munich
+@BODYTEXT:Nymphenburgerstr. 136, Munich, Germany 80636
+@BODYTEXT:49 89 121 750; fax: 49 89 121 751 97; h.fircks@f-und-h.de
+@CCD1:Helmut von Fircks, managing director
+@BODYTEXT:IKON Porter Novelli
+@BODYTEXT:7 Ethnikis Antistasseos St., Halandri, Athens 152-32, Greece
+@BODYTEXT:30 210 67 84 300; fax: 30 210 68 31 821; esavva@ikon.bbdogroup.gr
+@CCD1:Elena Savva, managing director
+@BODYTEXT:Centroamerica Porter Novelli Guatemala
+@BODYTEXT:5 Avenida 5-55, Zona 14
+@BODYTEXT:Torre 4, Nivel 18, Oficina 1801, Europlaza World Business Center, Guatemala City, Guatemala.
+@BODYTEXT:502/367-6000; 502-366-7196; margaritam@caporternovelli.com
+@CCD1:Margarita Mendoza, general manager
+@BODYTEXT:Centroamerica Porter Novelli Honduras
+@BODYTEXT:Col Alameda, 4a. Ave. N. 1222, Apartado 1891
+@BODYTEXT:Tegucigalpa, Honduras
+@BODYTEXT:504/239-7219; fax: 504/239-7379; vanessa.bendeck@porternovellihn.com
+@CCD1:Vanessa Bendeck, general manager
+@BODYTEXT:Noguchi Porter Novelli
+@BODYTEXT:Bank Center, Citibank tower, Szabadsag ter 7, 1054 Budapest, Hungary
+@BODYTEXT:36 1 312 7289; fax: 36 1 332 8117; petersz@noguchi.hu
+@BODYTEXT:Peter Szanto, president & CEO
+@BODYTEXT:PR Pundit Porter Novelli-New Delhi
+@BODYTEXT:P-2 Haus Khas, New Delhi, India 110-016
+@BODYTEXT:9111 2656 0415; fax: 9111 2685 8665; archana.j@prpundit.com
+@CCD1:Archana Jain, director
+@BODYTEXT:The PRactice Porter Novelli-Bangalore
+@BODYTEXT:812 7th fl., Oxford Towers, Airport Rd., Bangalore 560 17 India
+@BODYTEXT:9180/2520-3757/59; fax: 9180/2520-3757/59, x.35; nandital@the-practice.net
+@CCD1:Nandita Lakshmanan, founder & CEO
+@BODYTEXT:The PRactice Porter Novelli-Mumbai
+@BODYTEXT:12d-A 12th Fl, Jolly Makers Chambers 11, 225 Natiman Pt., Mumbai 400021, India
+@BODYTEXT:91 22 56 26 5240; fax: 91 22 2255 6104; 
+@BODYTEXT:vivek@the-practice.net
+@CCD1:Vivek Pradeep Rana, managing director
+@BODYTEXT:The PRactice Porter Novelli-New Delhi
+@BODYTEXT:A-51/B Hauz Khaz, New Delhi 110 016, India
+@BODYTEXT:91 11 5564 6514; fax: 91 11 5564 6514;
+@BODYTEXT:pichong@the-practice.net
+@CCD1:Pichong Misao, senior consultant
+@BODYTEXT:Drury Porter Novelli
+@BODYTEXT:1 Richview Office Park, Clonskeagh Dublin 15 Ireland
+@BODYTEXT:353/1200-5000; fax: 353/1260-5066; padraigMcKean@drurycom.com
+@CCD1:Padraig McKeon, managing director
+@BODYTEXT:Gitam Porter Novelli
+@BODYTEXT:Harel House, 11th Fl., 3 Abba Hillel St., Ramat Gan 52522 Israel
+@BODYTEXT:972/3576-5757; fax: 972/3576-5747; orna@gitam.co.il
+@CCD1:Orna Gourell, managing director
+@BODYTEXT:REPORT Porter Novelli Milan
+@BODYTEXT:Piazza Grandi 24, 20135 Milan, Italy
+@BODYTEXT:3902/701-5161; fax: 3902/701-5162-22; 
+@BODYTEXT:Via Poli 29, 186 Rome, Italy
+@BODYTEXT:3906/6992-5412; fax: 3906/6992-5397; natale.acuri@rpn.it
+@CCD1:Natale Arcuri, CFO
+@BODYTEXT:Focused Communications Co. Ltd
+@BODYTEXT:1-17-15 Nishi Shimbashi, Minato-ku, Tokyo 105-0003, Japan
+@BODYTEXT:813/5157-0033; fax: 813/5157-0031; tmiura@focused.co.jp
+@BODYTEXT:Takanshi Miura, chairman
+@BODYTEXT:KorCom Porter Novelli
+@BODYTEXT:16F, Daewoo Foundation Bldg., 526, Namdaemoon-ro, 5-ga. Jung gu, Seoul 100-095, Korea
+@BODYTEXT:822/6366-1500; fax: 822/6366-1530; jay@korcom.com
+@CCD1:Jay Park, CEO
+@BODYTEXT:DDB Porter Novelli, Brivibas 40-37, Riga, LV-1050 Latvia
+@BODYTEXT:371/750-5285; fax: 371/750-5286; aigars.nords@porternovelli.lv
+@CCD1:Aigars Nords, managing director
+@BODYTEXT:Impact Porter Novelli Beirut
+@BODYTEXT:Impact BBDO Building, PO Box 11-8483, Omar Daouk St., Jumblatt Area, Ain Mreisseh, Beirut, Lebanon
+@BODYTEXT:961/136-7890; fax: 961/136-7567; d.richa@impact.bbdo.com.lb
+@CCD1:Dani Richa, managing director
+@BODYTEXT:Martec Porter Novelli
+@BODYTEXT:La Fontaine 36, Col. Chapultepec Polanco, Mexico D.F. 11560, Mexico
+@BODYTEXT:5255/5280-9291; fax: 5255-5280-9595; kovseyevitz@porternovelli.com
+@CCD1:Karen Ovseyevitz, managing partner
+@BODYTEXT:Bennis Porter Novelli
+@BODYTEXT:Amsterdamseweg 204, PO Box 778, 1182 HL, Amstelveen, The Netherlands
+@BODYTEXT:31 20 543 7600; fax: 31 20 543 7676; ikauer@bennispn.nl
+@CCD1:Inge Kauer, managing director
+@BODYTEXT:Porter Novelli New Zealand
+@BODYTEXT:Level 16, Lumley House, 7 City Rd., Auckland
+@BODYTEXT:PO Box 108188, Symonds St., Auckland, New Zealand
+@BODYTEXT:649/373-3786; fax: 649/373-3790; malcolm@porternovelli.co.nz
+@CCD1:Malcolm Boyle, managing director
+@BODYTEXT:Porter Novelli New Zealand
+@BODYTEXT:Level 2, 5-7 Vivian St., P.O. Box 3643, Wellington, New Zealand
+@BODYTEXT:644/385-2854; fax: 644/385-2428;jane@porternovelli.co.nz
+@CCD1:Jane Sweeney, general manager
+@BODYTEXT:Centroamerica Porter Novelli Nicaragua
+@BODYTEXT:Oliplaza, EDificio No. 8, Suite 8-1-3, Managua, Nicaragua
+@BODYTEXT:505/254-7792; fax:505/254-7513; pnnica@ibw.com.ni
+@BODYTEXT:Lynx Porter Novelli
+@BODYTEXT:Bryggegata 5, 0250 Oslo, Norway
+@BODYTEXT:4723/13-1480; fax:4723/13-1481; Paal@lynx.no
+@CCD1:Paal Hambre, director
+@BODYTEXT:RU&A Porter Novelli
+@BODYTEXT:Plaza Obarrio, oficina 210, Avonida Samuel Lewis, P.O. Box 8321014 WTC, Panama, Republic of Panama
+@BODYTEXT:507/265-4183; fax: 507/263-2624; rosanau@ruapn.com
+@CCD1:Rosanna Uribe, president
+@BODYTEXT:Figueroa & Asociados Porter Novelli
+@BODYTEXT:Martir Jose Olaya 201, Oficina 801, Miraflores, Lima 18, Peru
+@BODYTEXT:511/241-8444; fax: 511/241-8444 x.290; gfigueroa@fbc.com.pe
+@CCD1:Gerardo Figueroa Graziani, managing director
+@BODYTEXT:Porter Novelli Lisbon
+@BODYTEXT:10 Av 5 de Outubro, 2 Esq, 1050-056 Lisbon, Portugal
+@BODYTEXT:351/21-351-4440; fax: 351/21-351-4441; isabel.medeiros@porternovelli.pt
+@CCD1:Isabel Medeiros, managing director
+@BODYTEXT:R.I.M. Porter Novelli
+@BODYTEXT:11 Kalanchevskaya St., Building 2, 107078 Moscow, Russia
+@BODYTEXT:7095 631 5103; fax: 7095 631 5343;andrei.terebenim@rim-pn.ru
+@CCD1:Andrei Terebenin, managing director
+@BODYTEXT:Impact Porter Novelli-Jeddah
+@BODYTEXT:Ali Reza Tower, Media Rd., PO Box 7242, Jeddah 21462, Saudi Arabia
+@BODYTEXT:966/2651-4901; fax: 966/2651-6602; t.walmsley@ipn.ae
+@CCD1:Tim Walmsley, regional director Middle East
+@BODYTEXT:Impact Porter Novelli-Riyadh
+@BODYTEXT:Cercon Building #6, 2nd fl., Olaya, PO Box 615, Riyadh 11372, Saudi Arabia
+@BODYTEXT:966/1465-9636; fax: 966/1416-3482; k.minawi@impactbbdo.com
+@CCD1:Khalil Minawi, managing director
+@BODYTEXT:Bentley Porter Novelli Singapore
+@BODYTEXT:31-03 Springleaf Tower, 3 Anson Rd., Singapore 079908
+@BODYTEXT:65/6538-1911; 65/6538-1611; patchui@porternovelli.com.sg
+@CCD1:Patricia Chui, CEO
+@BODYTEXT:Neopublic Porter Novelli
+@BODYTEXT:18 Mozortovia, 18 81102 Bratislava, Slovakia
+@BODYTEXT:421/2-6252-7025; fax: 421/2-6252-7024; stefanv@neo.sk
+@CCD1:Stefan Vadocz, managing partner
+@BODYTEXT:Sefin Porter Novelli
+@BODYTEXT:Lobedu House, 3 Simba Rd., Sunninghil, Randburg, Johannesburg, South Africa
+@BODYTEXT:2711/235-4117; fax: 2711/235-4216; vivs@sefin.co.za
+@CCD1:Vivienne Segal, chief executive director
+@BODYTEXT:Porter Novelli Barcelona
+@BODYTEXT:Mallorca 306 2, 08037, Barcelona, Spain
+@BODYTEXT:3493/457-1300; fax: 3493/457-2609; juanmas@porternovelli.es
+@CCD1:Juan-Cruz Mas Vidal, president
+@BODYTEXT:Porter Novelli Madrid
+@BODYTEXT:Zurbano St., #70, 28010 Madrid, Spain
+@BODYTEXT:34/91-702-7300; fax: 34/91-702-7301; juanmns@porternovelli.es
+@CCD1:Juan-Cruz Mas Vidal, president
+@BODYTEXT:Porter Novelli Valencia
+@BODYTEXT:Valicom, 21, c/ Moratin, 11-5, 46002 Valencia, Spain
+@BODYTEXT:3496-394-3942; fax: 3496/394-3941; juanmas@porternovelli.es
+@CCD1:Juan-Cruz Mas Vidal, president
+@BODYTEXT:Gullers Group Porter Novelli
+@BODYTEXT:Box 7004, Hamagatrun 11, 10386 Stockholm, Sweden
+@BODYTEXT:468/679-0940; fax: 468/611-0780;marianne.bjorkman@gullers.se
+@CCD1:Marianne Bjorkman, senior advisor and partner
+@BODYTEXT:Farner Porter Novelli Zurich
+@BODYTEXT:28 Oberdorfstrasse, 8001, Zurich, Switzerland
+@BODYTEXT:4112/66-6767; fax: 4112/66-6700;koenig@farner.ch
+@CCD1:Christian Koenig, general manager
+@BODYTEXT:LHC Porter Novelli
+@BODYTEXT:2/F, No. 181, Dun-Hwa South Road, Sec. 2 Da-an District Tapei, Taiwan.
+@BODYTEXT:886/22740-3388; fax: 886/22741-6133; julianchu@lhc.com.tw
+@CCD1:Julian Chu, executive board director
+@BODYTEXT:Impact Porter Novelli Dubai
+@BODYTEXT:16th Fl., Emirates Towers Offices, PO Box 19791, Dubai, United Arab Emirates
+@BODYTEXT:9714/330-44309; fax: 9714/330-4031; p.azzam@ipn.co.ae
+@CCD1:Pierre Azzam, managing director
+@BODYTEXT:Porter Novelli Banbury
+@BODYTEXT:South Bar House, South Bar, Banbury, Oxfordshire OX16 9AD, United Kingdom
+@BODYTEXT:44/1295-224400; 44/1295-224444
+@BODYTEXT:Porter Novelli Leeds
+@BODYTEXT:Mayesbrook House, Lawnswood Business Park, Redvers Close, Leeds LS16, 6QY, U.K.
+@BODYTEXT:44 870 242 4723; fax: 44 113 222 6468
+@BODYTEXT:Porter Novelli London
+@BODYTEXT:31 St. Petersburgh Place, London W2 4LA, UK
+@BODYTEXT:4420/7853-2222; fax: 4420/7853-2244; fiona.joyce@porternovelli.co.uk
+@CCD1:Fiona Joyce, managing director, UK
+@BODYTEXT:ATD Porter Novelli
+@BODYTEXT:Bulevar Artigas 1195, 11300 Montevideo, Uruguay
+@BODYTEXT:508/2/401-4445; fax: 598/2/409-4171; pnovelli@atd.com.uy
+@CCD1:Waller Nassi, president
+@BODYTEXT:
+@BODYTEXT:Almond Board of California
+@BODYTEXT:Alzheimer's Assn.
+@BODYTEXT:American Forest & Paper Assn.
+@BODYTEXT:Amgen
+@BODYTEXT:Applied Biosystems
+@BODYTEXT:Aventis
+@BODYTEXT:BMC Software
+@BODYTEXT:Baxter Pharma
+@BODYTEXT:BellSouth Corp.
+@BODYTEXT:Berlex Laboratories
+@BODYTEXT:Best Software
+@BODYTEXT:Big Brothers Big Sisters of America
+@BODYTEXT:Bristol-Myers Squibb
+@BODYTEXT:British Airways
+@BODYTEXT:Business Roundtable, The
+@BODYTEXT:Centers for Disease Control and Prevention
+@BODYTEXT:Chevron
+@BODYTEXT:Dana Corp.
+@BODYTEXT:Depuy
+@BODYTEXT:Fresh Produce Assn. of the Americas
+@BODYTEXT:Gillette Company: Braun; Gillette; Oral-B
+@BODYTEXT:GlaxoSmithKline
+@BODYTEXT:Guidant
+@BODYTEXT:The Hilton Group
+@BODYTEXT:HP - Hewlett-Packard
+@BODYTEXT:Humana
+@BODYTEXT:Integrated Device Technology (IDT)
+@BODYTEXT:Japan Automobile Manufacturers Assn.
+@BODYTEXT:MGM Consumer Products
+@BODYTEXT:Masterfoods USA
+@BODYTEXT:McDonald’s Operators of Southern California
+@BODYTEXT:McKesson
+@BODYTEXT:Merck
+@BODYTEXT:National Cancer Institute
+@BODYTEXT:Network Assocs.
+@BODYTEXT:Pfizer
+@BODYTEXT:PricewaterhouseCoopers
+@BODYTEXT:Procter & Gamble
+@BODYTEXT:Propane Education & Research Council
+@BODYTEXT:Qualcomm
+@BODYTEXT:Robert Wood Johnson Foundation
+@BODYTEXT:Safeway
+@BODYTEXT:Shire Pharmaceuticals
+@BODYTEXT:Southwest Airlines
+@BODYTEXT:TXU
+@BODYTEXT:Timberland
+@BODYTEXT:United States Dept. of Agriculture
+@BODYTEXT:Watson Pharma
+@BODYTEXT:Wyeth
+@BODYTEXT:
+@CO:PORTER, LE VAY & ROSE, INC.
+@BODYTEXT:7 Penn Plaza, #810, New York, NY 10001
+@BODYTEXT:212/564-4700; fax:212/244-3075; support@plrinvest.com
+@BODYTEXT:Marketing, financial PR.  Employees: 22. Founded: 1971.
+@CCD1:Michael J. Porter, pres.
+@BODYTEXT:All American Food Group
+@BODYTEXT:Bentley Pharmaceuticals
+@BODYTEXT:Biolase Technology
+@BODYTEXT:Empyrean Bioscience
+@BODYTEXT:Equity Corp. Int’l
+@BODYTEXT:International Motor Sports Group
+@BODYTEXT:Kranzco Realty Trust
+@BODYTEXT:Texas Microsystems
+@BODYTEXT:
+@CO:POSITIO INVESTOR & PUBLIC RELATIONS
+@BODYTEXT:226 Airport Pkwy., 3600, San Jose, CA 95110
+@BODYTEXT:408/453-2400; fax:408/453-2404; kelley@positiopr.com
+@BODYTEXT:Semiconductor-related industries: chip-mfg., consumables and equipment, hardware, internet, networking, publications, software, trade assns. Employees: 13. Founded: 1976
+@CCD1:Stew Chalmers, president; Martijn Pierik, Trine Pierik, account manager
+@BODYTEXT:3DSP
+@BODYTEXT:ACM Research
+@BODYTEXT:Asyst Connectivity Group
+@BODYTEXT:Cimetrix, INc.
+@BODYTEXT:Domain Logix
+@BODYTEXT:Genus
+@BODYTEXT:ILS
+@BODYTEXT:Jennic
+@BODYTEXT:Nanya
+@BODYTEXT:Pact Technologies Europe
+@BODYTEXT:Secap
+@BODYTEXT:SEZ
+@BODYTEXT:Suss Microtech
+@BODYTEXT:
+@CO:POSNER ADVERTISING
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:30 Broad St., New York, NY 10004
+@BODYTEXT:212/480-3440; fax:212/867-3900; iflynn@posneradv.com
+@BODYTEXT:PR, adv., bus.-to-bus., construction/building, gay and/or lesbian specialty, healthcare specialty. Founded: 1959.
+@CCD1:Peter S. Posner, president
+@BODYTEXT:
+@CO:POTASH & COMPANY
+@BODYTEXT:1050 Marina Village Pkwy., 105, Alameda, CA 94501
+@BODYTEXT:510/865-0800; fax:510/261-9598; steve@potashco.com
+@BODYTEXT:www.potashco.com
+@BODYTEXT:Container transportation, int’l trade and business assn. management PR. Employees: 2. Founded: 1980
+@CCD1:Stephen J. Potash, chmn.; Jeremy Potash, pres.
+@BODYTEXT:American President Lines
+@BODYTEXT:California-Southeast Asia Business Cncl.
+@BODYTEXT:Customs Brokers & Forwarders Assn. of No. Calif.
+@BODYTEXT:Port of Oakland
+@BODYTEXT:
+@CO:POTOMAC COMMUNICATIONS GROUP, INC.
+@BODYTEXT:2025 M St., N.W., #350, Washington, DC 20036
+@BODYTEXT:202/466-7391; fax:202/429-0365; prhelp@pcgpr.com
+@BODYTEXT:PR, PA, mktg. comms., siting. Founded: 1981. Employees: 30.
+@CCD1:Bill Perkins, Ellen M. Lepper, partners
+@BODYTEXT:AREVA Enterprises
+@BODYTEXT:BWXT Technologies Inc.
+@BODYTEXT:Coalition for Fair International Taxation
+@BODYTEXT:LaFarge North America, Inc.
+@BODYTEXT:National Assn. of Mortgage Brokers
+@BODYTEXT:National Fenestration Rating Cncl.
+@BODYTEXT:National Home Equity Mortgage Assn.
+@BODYTEXT:National Science Foundation
+@BODYTEXT:Rebuild America (U.S. Dept. of Energy)
+@BODYTEXT:Rensselaer Polytechnic Institute
+@BODYTEXT:The Brattle Group
+@BODYTEXT:USEC
+@BODYTEXT:
+@CO:POWELL TATE / WEBER SHANDWICK
+@BODYTEXT:Owned by Interpublic Group of Cos.
+@BODYTEXT:700 13th St., N.W., Washington, DC 20005
+@BODYTEXT:202/383-9700; fax:202/383-0079; jlpowell@webershandwick.com
+@BODYTEXT:Strategic public relations and public affairs. Founded: 1991.
+@CCD1:Jody Powell, chairman & CEO, Powell Tate/WS; Sheila Tate, vice chmn., PT/WS; Lance Morgan, president, PT/WS
+@BODYTEXT:
+@CO:POWERS AGENCY
+@BODYTEXT:1 W. 4th St., #1900, Cincinnati, OH 45202
+@BODYTEXT:513/721-5353; fax:513/721-0086
+@BODYTEXT:Public affs., professional svcs., consumer/event mktg., industrial and bus.-to-bus., counseling and training. Employees: 9. Founded: 1938
+@CCD1:Charles W. Powers, pres.
+@BODYTEXT:
+@CO:POZZI PUBLIC RELATIONS, BRUCE
+@BODYTEXT:821 N St., #203, Anchorage, AK 99501
+@BODYTEXT:907/272-8880; fax:907/272-8282
+@BODYTEXT:General PR.  Employees: 3. Founded: 1977.
+@CCD1:Bruce Pozzi, pres.; Kathy Robinson, Susan Pozzi
+@BODYTEXT:Altman, Rogers & Co.
+@BODYTEXT:Assoc. General Contractors of Alaska
+@BODYTEXT:Bethel Native Corp.
+@BODYTEXT:ICL Financial Services
+@BODYTEXT:North Slope Borough School Dist.
+@BODYTEXT:Northrim Bank
+@BODYTEXT:Olgoonik Corp.
+@BODYTEXT:Risk and Benefit Mgmt. Svcs.
+@BODYTEXT:Weidner Properties
+@BODYTEXT:XTO Energy
+@BODYTEXT:
+@CO:PR 21
+@BODYTEXT:See Zeno
+@BODYTEXT:
+@BODYTEXT:
+@CO:PR COLLECTIVE, THE
+@BODYTEXT:720 Wilshire Blvd., #206, Santa Monica, CA 90401
+@BODYTEXT:301/394-0444; fax:310/943-1579
+@BODYTEXT:www.theprcollective.com
+@BODYTEXT:PR Network. Employees: 100 across entire network. Founded: 2003.
+@CCD1:Jonathan Zaleski, president
+@BODYTEXT:
+@CO:PR COMMUNICATIONS INC.
+@BODYTEXT:218 Ridgewood Dr., San Rafael, CA 94901
+@BODYTEXT:415/459-5101; wesstar@ix.netcom.com
+@BODYTEXT:PR for architects, developers, engineers; marketing comms., community rels. for engineering, construction, industrial, maritime industries. Founded: 1977
+@CCD1:F. Weston Starratt, president
+@BODYTEXT:American Soc. of Civil Engineers
+@BODYTEXT:EQE International
+@BODYTEXT:International Fire Resistant Systems
+@BODYTEXT:Military Base Conversion Consultants
+@BODYTEXT:Society of American Military Engineers
+@BODYTEXT:Port of Richmond
+@BODYTEXT:
+@CO:PR CONSULTING GROUP, THE
+@BODYTEXT:230Park Ave., #850, New York, NY 10169
+@BODYTEXT:212/683-8100; fax:212/683-9363; Iparms@prcg.com
+@BODYTEXT:Legal, financial and other service firm PR; crisis and litigation comms., issues mgmt. Employees: 8.
+@CCD1:James F. Haggerty, president
+@BODYTEXT:
+@CO:PR GROUP, THE
+@BODYTEXT:PO Box 823, Woodacre, CA 94973
+@BODYTEXT:415/488-9512; fax:415/499-1409
+@BODYTEXT:www.theprg.com
+@BODYTEXT:Consumer product publicity, video production/training & healthcare PR. Employees: 2. Founded: 1987
+@CCD1:Nancy Binzen, principal
+@BODYTEXT:252 Devon Drive, San Rafael, CA 94903
+@BODYTEXT:415/499-1403
+@CCD1:Norman Levin, principal
+@BODYTEXT:
+@BODYTEXT:American Heart Assn., CA Affiliate  
+@BODYTEXT:Chevron U.S.A. Products Co.
+@BODYTEXT:Optical Coating Laboratory, Inc.
+@BODYTEXT:
+@CO:PR RIGHT NOW INC.
+@BODYTEXT:125 Williams St., Bel Air, MD 21014
+@BODYTEXT:410/420-8679; gkazimir@prrightnow.com
+@BODYTEXT:Finance, healthcare, arts, entertainment
+@CCD1:Gina Kazimir, president; Philip Hosmer, VP
+@BODYTEXT:
+@CO:PR WORKS
+@BODYTEXT:PMB 239, PO Box 9000, Edgartown, MA 02539
+@BODYTEXT:508/627-6949; fax:928/569-2491; jfeeks@prworks.net
+@BODYTEXT:Agriculture, animal health, nutrition and related fields PR. Founded: 1986.
+@CCD1:Joseph Feeks, president
+@BODYTEXT:Novartis Animal Health
+@BODYTEXT:Schering-Plough Animal Health
+@BODYTEXT:Seghers Newshorn Genetics
+@BODYTEXT:
+@CO:PR.COM
+@BODYTEXT:See On PR
+@BODYTEXT:
+@BODYTEXT:
+@CO:PRACO LTD.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:6 N. Tejon, Colorado Springs, CO 80903
+@BODYTEXT:719/473-0704; fax:719/473-0754; JerieOlson@praco.com
+@BODYTEXT:www.praco.com
+@BODYTEXT:Founded: 1970
+@CCD1:Nechie Hall, pres./CEO; Jerie Olson, CFO
+@BODYTEXT:Centura Health
+@BODYTEXT:Cheyenne Mountain Zoo
+@BODYTEXT:Chinook Bookshop
+@BODYTEXT:Colorado Interstate Gas Co.
+@BODYTEXT:Sport Fanatics
+@BODYTEXT:
+@CO:PRAXIS/MARKETING COMMUNICATIONS
+@BODYTEXT:430 W. Erie St., #400, Chicago, IL 60610
+@BODYTEXT:312/397-0007; fax:312/944-6789; Amz-praxis@mediaone.net
+@BODYTEXT:Strategic counseling, anniversary marketing, historical research, writing and media relations services for professional services firms, non-profit associations, and middle-market private companies.  Founded: 1993.
+@CCD1:Alan M. Zachary, pres.
+@BODYTEXT:American Judicature Society
+@BODYTEXT:Amphire Solutions
+@BODYTEXT:Integrated Distribution Solutions
+@BODYTEXT:International Business Systems
+@BODYTEXT:
+@CO:PREDDY PUBLIC RELATIONS INC., BETH
+@BODYTEXT:3587 Santiago Way, Naples, FL 34105
+@BODYTEXT:239/435-3938; fax:239/435-3717
+@BODYTEXT:www.preddypr.com
+@BODYTEXT:Tourism PR. Employees: 3. Founded: 1997.
+@CCD1:Beth Preddy, pres.
+@BODYTEXT:Bayside Seafood Grill & Bar
+@BODYTEXT:Coral Collection Fine Hotels & Resorts
+@BODYTEXT:Coral Beach Hotels & Clubs
+@BODYTEXT:Casa Ybel Resort
+@BODYTEXT:Ridgway Bar & Grill
+@BODYTEXT:The Buccaneer, St. Croix
+@BODYTEXT:
+@CO:PREFERRED PUBLIC RELATIONS & MARKETING
+@BODYTEXT:2630 S. Jones, Las Vegas, NV 89146
+@BODYTEXT:702/254-5704; fax:702/242-1205
+@BODYTEXT:www.preferredpublicrelations.com
+@BODYTEXT:Full-service PR firm handling crisis comms., strategic planning, promotions. Founded: 1999.
+@CCD1:James Woodrow, co-principal; Gina Yager, sr. A/E
+@BODYTEXT:Nevada Restaurant Assn.
+@BODYTEXT:
+@CO:PRENTICE ASSOCIATES INC., VICKI
+@BODYTEXT:630 5th Ave., 20th Fl., New York, NY 10111
+@BODYTEXT:212/332-3460; fax:212/332-3401
+@BODYTEXT:PR for artists, artist representation. Founded: 1983
+@CCD1:Vicki Prentice Rubin, pres.
+@BODYTEXT:
+@CO:PRESS & RADIO/TV ASSOCIATES
+@BODYTEXT:Empire State Center, P.O. Box 38, Syracuse, NY 13205
+@BODYTEXT:315/445-2900
+@BODYTEXT:Corporate PR, marketing communications, crisis communications, special events promotion.  Founded: 1976.
+@CCD1:Mountfort A. Euston, president
+@BODYTEXT:
+@CO:PRESTON-OSBORNE
+@BODYTEXT:450 Old Vine, #100, Lexington, KY 40507
+@BODYTEXT:859/231-7711; fax:859/254-1526
+@BODYTEXT:www.preston-osborne.com
+@BODYTEXT:Reputational mgmt., opinion research, utility marketing, political campaign mgmt., graphic design, public issues. Employees: 15. Founded: 1968
+@CCD1:Phil Osborne, pres. & CEO
+@BODYTEXT:
+@CO:PRICEWEBER
+@BODYTEXT:2101 Production Dr., Louisville, KY 40299
+@BODYTEXT:502/499-9220
+@BODYTEXT:www.priceweber.com
+@BODYTEXT:Marketing comms. agency. Founded: 1969
+@CCD1:Shanna Columbus, pres.
+@BODYTEXT:
+@CO:PRIMAVERA PUBLIC RELATIONS, INC.
+@BODYTEXT:2718 Hickory St., Yorktown Heights, NY 10598
+@BODYTEXT:914/245-5390; fax:914/245-0698; WilliamPrimavera@aol.com
+@BODYTEXT:Employees: 7. Founded: 1980
+@CCD1:William Primavera, pres.
+@BODYTEXT:
+@CO:PRINCETON PARTNERS DEVCOM
+@BODYTEXT:Princeton Forrestal Village, 100 Village Blvd., #200, Princeton, NJ 08540
+@BODYTEXT:609/452-8500; fax:609/452-7212; results@princetonpartners.com
+@BODYTEXT:Adv., PR and marketing; consumer, bus.-to-bus., healthcare, new media and retail. Founded: 1965
+@CCD1:Tom Sullivan, pres. & CEO
+@BODYTEXT:
+@CO:PRINCIPOR COMMUNICATIONS
+@BODYTEXT:429 N St., S.W., #5804, Washington, DC 20024
+@BODYTEXT:202/595-9008; info@principor.com
+@BODYTEXT:www.principor.com
+@BODYTEXT:Growth-oriented companies. Founded: 2002.
+@CCD1:John Jordan, president; Bonnie Manousos, senior counsel
+@BODYTEXT:Bridge Avenue Partners
+@BODYTEXT:Computing Options Co.
+@BODYTEXT:Disability Management Alternatives
+@BODYTEXT:Ilixco
+@BODYTEXT:Lightspeed Systems
+@BODYTEXT:Nucleus Solutions
+@BODYTEXT:Texacan Beef & Pork Co.
+@BODYTEXT:Workers Transition Network
+@BODYTEXT:
+@CO:PROLINE COMMUNICATIONS, INC.
+@BODYTEXT:13 Crescent Rd., Livingston, NJ 07039
+@BODYTEXT:973/716-9457; fax:973/533-0463; bfreeman@ix.netcom.com
+@BODYTEXT:High-tech PR, marketing and media relations. Founded: 1991
+@CCD1:Bruce Freeman, pres.
+@BODYTEXT:
+@CO:PROM KROG ALTSTEIL INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:11053 N. Towne Square Rd., Mequon, WI 53092
+@BODYTEXT:262/241-9414; fax:262/241-9454; carrie@pkamar.com
+@BODYTEXT:www.pkamar.com
+@BODYTEXT:PR, adv., bus.-to-bus., creative, direct marketing. Founded: 1986
+@CCD1:Tom Altstiel, partner
+@BODYTEXT:Carlson Tools
+@BODYTEXT:Compact Technologies Inc.
+@BODYTEXT:Enerpac
+@BODYTEXT:Erie Controls
+@BODYTEXT:GB Electrical
+@BODYTEXT:
+@CO:PROMERSBERGER COMPANY
+@BODYTEXT:4838 Rocking Horse Circle, Fargo, ND 58104
+@BODYTEXT:701/492-9194; fax:701/277-4611; mimi@promersberger.com
+@BODYTEXT:Adv. & PR.
+@CCD1:Ken Promersberger, pres.
+@BODYTEXT:
+@CO:PROWRITE PUBLIC RELATIONS
+@BODYTEXT:2810 Bello Panorama, San Clemente, CA 92673
+@BODYTEXT:949/366-9189; fax:949/366-0455
+@BODYTEXT:PR, consulting, media relations, high-tech specialty. Founded: 1989
+@CCD1:Christel K. Hall, CEO
+@BODYTEXT:
+@CO:PRR, INC.
+@BODYTEXT:1109 First Ave., #300, Seattle, WA 98101
+@BODYTEXT:206/623-0735; fax:206/623-0781
+@BODYTEXT:www.prbiz.com
+@BODYTEXT:Public affairs, comms. svcs., research, marketing capacity.
+@CCD1:Rita Brogan, CEO; Julie Colehour, co-president/prin.
+@BODYTEXT:City of Seattle
+@BODYTEXT:EPA
+@BODYTEXT:King County
+@BODYTEXT:Monorail's Green Line
+@BODYTEXT:Vulcan Inc.
+@BODYTEXT:Washington State DOT
+@BODYTEXT:
+@CO:PRX INC.
+@BODYTEXT:1884 The Alameda, San Jose, CA 95126
+@BODYTEXT:408/287-1700; fax:408/993-2251; Brenna_Bolger@prxinc.com
+@BODYTEXT:Healthcare, high-tech, consumer, education, entertainment, public and community affairs, media training, special events. Founded: 1975. Employees: 12.
+@CCD1:Brenna Bolger, pres. & owner; Steve Mangold, exec. VP/COO
+@BODYTEXT:Applied Materials
+@BODYTEXT:Cypress Semiconductor
+@BODYTEXT:Envirosystems, Inc.
+@BODYTEXT:Goodwill
+@BODYTEXT:Parkinson’s Institute
+@BODYTEXT:Santa Clara Valley Health & Hospital System
+@BODYTEXT:Second Harvest Food Bank
+@BODYTEXT:Seville Group Inc.
+@BODYTEXT:University Construction
+@BODYTEXT:
+@CO:PRYOR & ASSOCIATES
+@BODYTEXT:28720 Roadside Dr., 399, Agoura Hills, CA 91301
+@BODYTEXT:818/338-3555; fax:818/338-3599
+@BODYTEXT:www.pryorpr.com
+@BODYTEXT:Corporate re-branding, media, entertainment.
+@CCD1:Jeff Pryor, pres. & CEO
+@BODYTEXT:Mormon Tabernacle Choir
+@BODYTEXT:National Geographic TV & Film
+@BODYTEXT:Promax & BDA
+@BODYTEXT:SBS Broadcasting, SA
+@BODYTEXT:
+@CO:PUBLIC COMMUNICATIONS INC.
+@BODYTEXT:Partner in The Worldcom Public Relations Group
+@BODYTEXT:35 E. Wacker Dr., #1254, Chicago, IL 60601
+@BODYTEXT:312/558-1770; fax:312/558-5425; ideas@pcipr.com
+@BODYTEXT:Marketing, corp., healthcare PR, institutional, public affairs and issues management communications; sports and entertainment PR.  Employees: 38. Founded: 1963.
+@AGENCY:Agency Statement: Public Communications Inc. is widely recognized for providing results-oriented services, consistently ranking among the largest independent public relations organizations in the United States.
+@AGENCY:PCI is large enough to provide all the communications services a client might require yet small enough that the firm’s principals are directly involved in each client’s program.
+@AGENCY:PCI serves a broad range of clients with communications services and counseling support in the fields of marketing, corporate/financial, non-profit, employee, community and international communications. PCI principals provide communications counseling and issues and crisis management for a number of clients.
+@AGENCY:PCI is a founding partner of the WORLDCOM Public Relations Group, the world’s largest network of independently owned public relations counseling firms.
+@CCD1:Richard A. Barry, pres.; Dorothy Oliver Pirovano, sr. VP; Ruth A. Mugalian, group VP; Jill Allread, VP, media; Kathleen Boylan, Leigh Wagner, Bob Szafranski, Remi Gonzalez, Mary Erangey,VPs
+@BODYTEXT:@SMALLSPACE = MARKETING COMMUNICATIONS CLIENTS:
+@BODYTEXT:Care of Trees
+@BODYTEXT:The Green at Grant Park
+@BODYTEXT:Maritz, Inc.
+@BODYTEXT:Parsons Brinkerhoff Quade and Douglas Inc.
+@BODYTEXT:Tenneco Automotive
+@BODYTEXT:Urban Retail Properties Inc.
+@BODYTEXT:VS Companies
+@BODYTEXT:@SMALLSPACE = CONSERVATION CLIENTS:
+@BODYTEXT:Alliance of Marine Mammal Parks and Aquariums
+@BODYTEXT:American Zoo & Aquarium Assn.
+@BODYTEXT:Brookfield Zoo
+@BODYTEXT:Bushmeat Crisis Task Force
+@BODYTEXT:Center for Humans and Nature
+@BODYTEXT:Center for Neighborhood Technology
+@BODYTEXT:Chicago Earth Month Coalition
+@BODYTEXT:Chicago Wilderness
+@BODYTEXT:Cincinnati Zoo & Botanical Garden
+@BODYTEXT:Community Energy Cooperative
+@BODYTEXT:Conservation Psychology Conference
+@BODYTEXT:Illinois Nature Preserves Commission
+@BODYTEXT:International Ape Conferences
+@BODYTEXT:John G. Shedd Aquarium
+@BODYTEXT:Lincoln Park Zoo
+@BODYTEXT:Lowry Park Zoo
+@BODYTEXT:The Morton Arboretum
+@BODYTEXT:National Marine Fisheries Service
+@BODYTEXT:Peggy Notebaert Nature Museum
+@BODYTEXT:SOS Rhino Foundation
+@BODYTEXT:Tree House Animal Foundation, Inc.
+@BODYTEXT:Wetlands Research Inc.
+@BODYTEXT:Virginia Marine Science Museum
+@BODYTEXT:@SMALLSPACE = NOT-FOR-PROFIT CLIENTS:
+@BODYTEXT:AIDS Foundation of Chicago
+@BODYTEXT:American Acad. of Dermatology
+@BODYTEXT:American Acad. of Pediatric Dentistry
+@BODYTEXT:American Acad. of Physical Medicine and Rehabilitation
+@BODYTEXT:American Acad. of Physician Assts.
+@BODYTEXT:American College of Allergy, Asthma and Immunology
+@BODYTEXT:American College of Obstetricians & Gynecologists
+@BODYTEXT:American College of Physicians Foundations
+@BODYTEXT:American Headache Society
+@BODYTEXT:American Podiatric Medical Assn.
+@BODYTEXT:American Psychological Assn.
+@BODYTEXT:American Society for Blood and Marrow Transplantation
+@BODYTEXT:American Veterinary Med. Assn.
+@BODYTEXT:Archdiocese of Chicago Schools
+@BODYTEXT:Bloodsource
+@BODYTEXT:Catholic Extension
+@BODYTEXT:Chicago Cook County Community Health Council
+@BODYTEXT:Chicago Yacht Club
+@BODYTEXT:Chicago Youth Centers
+@BODYTEXT:Goldman Philanthropic Partnerships
+@BODYTEXT:Health and Disability Advocates
+@BODYTEXT:Health Information and Management System Society
+@BODYTEXT:Holy Family Preservation Society
+@BODYTEXT:Illinois St. Andrew Society
+@BODYTEXT:Infectious Diseases Society of America
+@BODYTEXT:Institute of Food Technologists
+@BODYTEXT:International Housewares Assn.
+@BODYTEXT:International Psychogeriatric Assn.
+@BODYTEXT:International Society of Travel Medicine
+@BODYTEXT:International Symposium on Endovascular Therapy
+@BODYTEXT:Lambs Farm
+@BODYTEXT:Medical Library Assn.
+@BODYTEXT:National Black HIV/AIDS Awareness Day
+@BODYTEXT:National Black Leadership Commission on AIDS
+@BODYTEXT:National Library of Medicine of the National Institutes of Health
+@BODYTEXT:Radiological Soc. of North Amer.
+@BODYTEXT:Side-by-Side Coalition
+@BODYTEXT:Society for Healthcare Epidemiology of America
+@BODYTEXT:Society of Interventional Radiology
+@BODYTEXT:Society of Interventional Radiology Foundation
+@BODYTEXT:Special Children's Charities
+@BODYTEXT:Streetwise
+@BODYTEXT:Tutor/Mentor Connection
+@BODYTEXT:Union League Club of Chicago
+@BODYTEXT:Women Employed
+@BODYTEXT:YMCA of the USA
+@BODYTEXT:@SMALLSPACE = ENTERTAINMENT/CULTURAL/SPORTS CLIENTS:
+@BODYTEXT:Bench America
+@BODYTEXT:Chicago Bulls
+@BODYTEXT:Chicago Park District
+@BODYTEXT:Chicago Rush
+@BODYTEXT:Chicago White Sox
+@BODYTEXT:Highland Games
+@BODYTEXT:Major League Baseball
+@BODYTEXT:Museum of Broadcast Comms.
+@BODYTEXT:Museum of Science and Industry
+@BODYTEXT:Museums in the Park
+@BODYTEXT:United Center
+@BODYTEXT:@SMALLSPACE = HEALTHCARE MKTG./HEALTHCARE SYS. CLIENTS:
+@BODYTEXT:Alexian Brothers Health System
+@BODYTEXT:American Medical Systems
+@BODYTEXT:AstraZeneca
+@BODYTEXT:Baxter Healthcare Corp., Bioscience
+@BODYTEXT:Bristol-Myers Squibb, Consumer Division
+@BODYTEXT:CryoVascular Systems Inc.
+@BODYTEXT:GlaxoSmithKline
+@BODYTEXT:Mead Johnson Nutritionals
+@BODYTEXT:Northwest Community Healthcare
+@BODYTEXT:Pfeiffer Treatment Center
+@BODYTEXT:St. Francis Hospital and Health Center
+@BODYTEXT:St. Louis Children’s Hospital
+@BODYTEXT:University of North Carolina Healthcare
+@BODYTEXT:VIVA-Medical Media 
+@BODYTEXT:Zimmer
+@BODYTEXT:@SMALLSPACE = EDUCATION CLIENTS:
+@BODYTEXT:Brother Rice H.S.
+@BODYTEXT:Catholic Theological Union
+@BODYTEXT:Chicago Catholic Schools
+@BODYTEXT:Cristo Ray Jesuit High School
+@BODYTEXT:De LaSalle Institute
+@BODYTEXT:Fenwick High School
+@BODYTEXT:Francis W. Parker School
+@BODYTEXT:Gordon Tech High School
+@BODYTEXT:Health Arts Program of the University of St. Francis
+@BODYTEXT:Loyola University and Loyola Medical School
+@BODYTEXT:Rogers Park Montessori School
+@BODYTEXT:
+@CO:PUBLIC COMMUNICATIONS INC.
+@BODYTEXT:Member Worldcom Public Relations Group
+@BODYTEXT:707 North Franklin St., 9th flr., Tampa, FL 33602
+@BODYTEXT:813/226-2772; fax:813/223-4642; info@pci-web.com
+@BODYTEXT:Full service PR firm. Employees: 8. Founded: 1974.
+@CCD1:James R. Frankowiak, pres. & CEO
+@BODYTEXT:Florida United Methodist Found.
+@BODYTEXT:Palm Island Resort
+@BODYTEXT:Saddlebrook Resort
+@BODYTEXT:Tamco
+@BODYTEXT:Urban Retail Properties
+@BODYTEXT:WCI Communities
+@BODYTEXT:
+@CO:PUBLIC COMMUNICATIONS/WORLDWIDE
+@BODYTEXT:P.O. Box 1455, Whittier, CA 90609
+@BODYTEXT:562/694-1923; fax:781/823-7882; info@pc-w.com
+@BODYTEXT:Counselors in public relations, corporate, institutional; adv./marketing comms. services
+@CCD1:John van Barneveld, CEO
+@BODYTEXT:Condor Engineering
+@BODYTEXT:DVDGC Licensing Agency
+@BODYTEXT:NTMA Training Centers
+@BODYTEXT:Panasonic Factory Automation
+@BODYTEXT:
+@CO:PUBLIC INTEREST MARKETING
+@BODYTEXT:1742 Second Ave., P.O. Box 286664, New York, NY 10128
+@BODYTEXT:212/534-5879; pimny@prodigy.net
+@BODYTEXT:Legal, corp. governance, regulated industries, IR, PA, health/sciences. Founded: 1991.
+@CCD1:David L. Rosenstein, pres.
+@BODYTEXT:
+@CO:PUBLIC RELATIONS GROUP INC., THE
+@BODYTEXT:115 Linda Knoll, Bloomfield Hills, MI 48304
+@BODYTEXT:248/646-5419; fax:248/646-5078
+@BODYTEXT:PR svcs., corp., mktg., employee comms., gov’t and community rels., political campaign mgmt., special-event planning and mgmt., media rels. and speaker training. Founded: 1986
+@CCD1:Vicki Lange, pres.
+@BODYTEXT:
+@CO:PUBLIC RELATIONS INTERNATIONAL, LTD.
+@BODYTEXT:324 S. Main St., #509, Tulsa, OK 74103
+@BODYTEXT:918/583-5816
+@BODYTEXT:Corporate, institutional, financial PR; advertising; graphics. Founded: 1965.
+@CCD1:Dean Sims, chmn.
+@BODYTEXT:2045 Brentwood, Houston, TX 77019
+@BODYTEXT:713/961-4741
+@CCD1:Tom Horan  
+@BODYTEXT:1 Grove House, Steeple Bumpstead, Essex, CB9 7DU U.K.
+@BODYTEXT:01440 730 508
+@CCD1:Peter Thomas
+@BODYTEXT:Avenda Brasil, 17-12th flr., 28020 Madrid, Spain
+@BODYTEXT:1-556-5004; fax: 1-556-0962
+@CCD1:Carlos Martin Paloma
+@BODYTEXT:
+@BODYTEXT:
+@CO:PUBLIC RELATIONS NETWORK
+@BODYTEXT:307 W. Muhammed Ali Blvd., Louisville, KY 40202
+@BODYTEXT:502/589-0123; fax:502/589-0390
+@BODYTEXT:www.prnetwork.com
+@BODYTEXT:Corp. comms., issues mgmt. and marketing comms. Founded: 1995
+@CCD1:Mark Williamson, Vice President
+@BODYTEXT:111 Monument Circle, #882, Indianapolis, IN 46204
+@BODYTEXT:317/261-0303; fax: 317/261-0304
+@CCD1:Lois Engelhardt, VP & gen. mgr.
+@BODYTEXT:
+@BODYTEXT:Delta Dental
+@BODYTEXT:Human Factors International
+@BODYTEXT:Louisville Zoo
+@BODYTEXT:McDonald’s  
+@BODYTEXT:Middleton Reutlinger
+@BODYTEXT:R.B. Banta
+@BODYTEXT:Sullivan University
+@BODYTEXT:
+@CO:PUBLIC RELATIONS PARTNERS, INC.
+@BODYTEXT:Partner in The Worldcom Public Relations Group
+@BODYTEXT:6100 Rockside Woods Blvd., #350, Cleveland, OH 44131
+@BODYTEXT:216/520-0092; jsluzewski@prpartners.com
+@BODYTEXT:www.prpartners.com
+@BODYTEXT:Corporate, business and consumer communications, video production, public affairs, e-commerce.  Employees: 15. Founded: 1994.
+@AGENCY:Agency Statement: Public Relations Partners, Inc. is a full-service public relations firm specializing in strategy-based corporate and business communications programs for a growing list of sophisticated clients. As an energetic and results-driven team, our staff produces quality work that is on target, on time and on budget. Our clients are industry-leading national and international companies that demand top-quality work, expect clear strategic thinking and appreciate good ideas.
+@CCD1:Jim Sluzewski, president;Ann N. Gurin, Allen Pfenninger, Robert C. Townsend, Kathleen T. Sluzewski, Laura S. Scharf, VPs & senior program managers; Todd W. Wroten, VP & dir. of graphics; Sharon R. DeChant, office admin. manager; Jeremy Mathis, program manager; Paige Closser, program associate
+@BODYTEXT:Amarr, Inc.
+@BODYTEXT:Applied Industrial Technologies
+@BODYTEXT:Climaco, Lefkowitz, Peca, Wilcox & Garofoli Co. LPA
+@BODYTEXT:Federated Dept. Stores, Inc.
+@BODYTEXT:Federated Merchandising Group
+@BODYTEXT:KeyCorp
+@BODYTEXT:Novelis, Inc.
+@BODYTEXT:The Cleveland Foundation
+@BODYTEXT:
+@CO:PUBLICIS DIALOG U.S.A.
+@BODYTEXT:Part of Publicis U.S.A. and Publicis Groupe S.A., the 4th largest communications firm in the world
+@BODYTEXT:950 Sixth Ave. - 4 Herald Square, New York, NY 10001
+@BODYTEXT:212/279-6950; fax:212/279-6960
+@BODYTEXT:www.publicis.com
+@BODYTEXT:PR and holistic communications firm specializing in consumer products and services, corporate/financial, technology, food and beverage, healthcare, retail, real estate, spirits, B2B and telecommunications. Founded: 1927.
+@AGENCY:Agency Statement: Publicis Dialog is ranked among the top U.S. public relations firms, specializing in consumer products and services, corporate/financial, technology, food and beverage, healthcare, retail, real estate, spirits, B2B and telecommunications.  Our world-class capabilities range from branding, media relations, editorial services and events to crisis and issues management, product launches, research, CEO campaigns, and corporate and employee communications.  We are sought out by leading brands for our top media relations capability and our excellence in client service.
+@AGENCY:Publicis Dialog has one of the most influential food practices in the nation with a specialized facility in Seattle featuring a 2,300 sq-ft Culinary Center with test kitchens, tasting rooms, sensory evaluation suite, and food photography studio.
+@AGENCY:La Holisitc Difference.  Although Publicis Dialog offers "best in class" in public relations and other marketing services, our passion is in creating holistic communications that make a difference.  This passion is evident in Publicis Dialog being named a Top 10 Agency by Promo Magazine. Our Publicis Dialog Holistic Communications (R) toolbox includes public relations, direct marketing, database management, digital/interactive/online marketing, promotional marketing, retail connections (shopper) marketing, event management, sponsorship/partnership program management, experiential "guerilla" marketing, and collateral/POS design.
+@AGENCY:Our mantra is to not only build the brand but also to drive demand. Our model is built on leveraging the brand idea in ways that contact the consumer in the most relevant places, connect with them with the most relevant message and convert them into lifetime loyal customers.
+@AGENCY:Our staff consists of some of the best and brightest marketers in the industry.  Each is committed to developing and executing marketing communications programs that are strategically sound, brand appropriate, response-oriented, and cost effective.  And, each member of the team shares the responsibility of being accountable for every aspect of the work.  It's our way of ensuring a partnership with our clients that will result in programs that build long-term success.
+@CCD1:Debbie Yount, CEO, New York; Scott Tangney, EVP,/group mgmt. director, New York
+@BODYTEXT:14186 No. Dallas Pkwy.,Dallas, TX 75240
+@BODYTEXT:972/628-7766
+@CCD1:Sheri Smith, president, Dallas
+@BODYTEXT:424 2nd Ave. W., Seattle, WA 98119
+@BODYTEXT:206/270-4664;
+@CCD1:Steve Bryant, pres./chief creative officers, Seattle
+@BODYTEXT:945 Battery St., San Francisco, CA 94111
+@BODYTEXT:415/445-2024
+@CCD1:Chris Peterson, CEO, San Francisco
+@BODYTEXT:18201 Von Karman Ave., #350, Irvine, CA 92612
+@BODYTEXT:818/545-1465
+@CCD1:Mary Puls, EVP/mng. director, Southern California
+@BODYTEXT:
+@BODYTEXT:Atlanta Pharma U.S.
+@BODYTEXT:Abbott Labs
+@BODYTEXT:Allied Domecq
+@BODYTEXT:American Lung Association
+@BODYTEXT:Bacchus Vascular
+@BODYTEXT:BMW
+@BODYTEXT:Bounty
+@BODYTEXT:Chef'n
+@BODYTEXT:Coldwell Banker
+@BODYTEXT:ConAgra
+@BODYTEXT:Consumer Electronics Association
+@BODYTEXT:Cranberry Marketing Committee
+@BODYTEXT:Curves
+@BODYTEXT:Department of Health
+@BODYTEXT:Dr. Pepper/Seven Up, Inc.
+@BODYTEXT:El Camino Hospital
+@BODYTEXT:Fleetwood
+@BODYTEXT:GSK
+@BODYTEXT:Heller Erhman
+@BODYTEXT:Hewlett-Packard
+@BODYTEXT:JETRO
+@BODYTEXT:John Q. Hammons Hotels, Inc.
+@BODYTEXT:Lanvin
+@BODYTEXT:LifeScan
+@BODYTEXT:L'Oreal
+@BODYTEXT:Masergy
+@BODYTEXT:Microsoft
+@BODYTEXT:National C.A.S.A. (Court Appointed Special Advocates)
+@BODYTEXT:Nestle
+@BODYTEXT:New York Pharma Forum
+@BODYTEXT:Nikko Hotels International
+@BODYTEXT:Procter & Gamble
+@BODYTEXT:Pegasus
+@BODYTEXT:Solutions, Inc.
+@BODYTEXT:Preston Gates & Ellis
+@BODYTEXT:Pyramid Breweries
+@BODYTEXT:SAFECO
+@BODYTEXT:Safeway Supermarkets
+@BODYTEXT:Samsung Telecommunications America
+@BODYTEXT:Sanofi-Aventis
+@BODYTEXT:Sprint
+@BODYTEXT:Texas Scottish Rite Hosptial for Children
+@BODYTEXT:T-FAL
+@BODYTEXT:The Hazelnut Council
+@BODYTEXT:Turner Broadcasting Systems/TBS Superstation
+@BODYTEXT:United Soybean Board
+@BODYTEXT:Volvo
+@BODYTEXT:Washington Lottery
+@BODYTEXT:Western Wireless
+@BODYTEXT:Whirlpol
+@BODYTEXT:Yakima Valley Memorial Hospital
+@BODYTEXT:ZESPRI Kiwifruit
+@BODYTEXT:
+@CO:PUBLICIS SANCHEZ & LEVITAN
+@BODYTEXT:See Bromley Comms.
+@BODYTEXT:
+@BODYTEXT:
+@CO:PUBLICITY MATTERS
+@BODYTEXT:14644 McKnew Road, Burtonsville, MD 20866
+@BODYTEXT:301/924-1551; fax:301/924-1141; MJAPR@aol.com
+@BODYTEXT:Local and national PR, media relations, publicity planning, media tours, marketing, media buying, new product support, promotions, writing and sports marketing.  Founded: 1993.
+@CCD1:Matt Amodeo, president
+@BODYTEXT:BACI Entertainment, Inc.
+@BODYTEXT:Cirque du Soleil, Inc.
+@BODYTEXT:Ethel M Chocolates
+@BODYTEXT:Gold’s Gym International Inc.
+@BODYTEXT:SMG/Philadelphia
+@BODYTEXT:
+@CO:PUBLICOM INC.
+@BODYTEXT:333 Albert Ave., #400, Lansing, MI 48823
+@BODYTEXT:517/487-3700; fax:517/487-3830
+@BODYTEXT:www.publicom.com
+@BODYTEXT:Assn., corp. mktg., issue mgmt. Employees: 19  Founded: 1979
+@CCD1:David T. Hayhow, chmn.; James Wardlaw, pres.
+@BODYTEXT:Associated Underground Contractors
+@BODYTEXT:Michigan Licensed Beverage Assn.
+@BODYTEXT:Oldsmobile
+@BODYTEXT:Shell Western E&P
+@BODYTEXT:State Farm Insurance
+@BODYTEXT:Upjohn Co.
+@BODYTEXT:
+@CO:PYLE & ASSOCS., INC., ROBERT N.
+@BODYTEXT:1223 Potomac St., NW, Washington, DC 20007
+@BODYTEXT:202/333-8190; fax:202/337-3809
+@BODYTEXT:Legislative, political counsel, general PR
+@CCD1:Robert N. Pyle, chmn.; Nicholas A. Pyle, pres., Alexis Fobes, sr. VP; Ann Parnow, Jan Cornelius, VPs
+@BODYTEXT:BakePAC
+@BODYTEXT:Bulgarian-Amer. Bus. Center
+@BODYTEXT:Eramet
+@BODYTEXT:Hastie Mining & Trucking
+@BODYTEXT:Independent Bakers Assn.
+@BODYTEXT:International Dairy-Deli Bakery Assn.
+@BODYTEXT:Kraft Foods, Inc.
+@BODYTEXT:McKee Foods Corp.
+@BODYTEXT:National Grape Coop. Assn.
+@BODYTEXT:Nutrition Fundamental
+@BODYTEXT:R&P Properties
+@BODYTEXT:Strategic Minerals Corp.
+@BODYTEXT:Washington Agricultural Record
+@BODYTEXT:Welch’s
+@BODYTEXT:

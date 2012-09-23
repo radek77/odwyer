@@ -1,0 +1,1809 @@
+@BREAKER:R
+
+@CO:R&J PUBLIC RELATIONS, LLC
+@BODYTEXT:35 Waterview Blvd., Parsippany, NJ 07054
+@BODYTEXT:973/331-1070; fax:973/331-1077
+@BODYTEXT:www.randjpr.com
+@BODYTEXT:
+@CCD1:John Lonsdorf, president; Scott Marioni, VP; Kyle Kappmeier, A/E; Jason Ledder, director of media relations; Jana Ettinger, admin.; Janine Applegate, acct. coord.
+@BODYTEXT:Alpharma Animal Health
+@BODYTEXT:Bogen Imaging 
+@BODYTEXT:Bon Secours Charity Health System
+@BODYTEXT:Burrelle's/Luce
+@BODYTEXT:Falcon Safety Products
+@BODYTEXT:Good Samaritan Hospital
+@BODYTEXT:Hampshire Funds
+@BODYTEXT:Ilford Imaging
+@BODYTEXT:New Jersey Organ & Tissue Sharing Network
+@BODYTEXT:Novadebt, Inc.
+@BODYTEXT:Ohaus Corp.
+@BODYTEXT:Saint Clare's Health System
+@BODYTEXT:Samsung Cameras
+@BODYTEXT:Sultan Chemists, Inc.
+@BODYTEXT:ZGC,Inc./Cooke Optics
+@BODYTEXT:
+@CO:RACEPOINT GROUP
+@BODYTEXT:404 Wyman St., 375, Waltham, MA 02451
+@BODYTEXT:781/890-5822; fax:781/487-4600; MLauzier@racepointgroup.com
+@BODYTEXT:www.racepointgroup.com
+@BODYTEXT:PR and marketing consultancy serving technology and health markets.
+@CCD1:Marijean Lauzier, president
+@BODYTEXT:Curl Corp.
+@BODYTEXT:EchoMail, Inc.
+@BODYTEXT:EDial, Inc.
+@BODYTEXT:Poindexter Systems
+@BODYTEXT:TestQuest Inc.
+@BODYTEXT:World Wide Packets
+@BODYTEXT:
+@CO:RAINIER CORPORATION
+@BODYTEXT:206 Worcester Rd., PO Box 134, Princeton, MA 01541
+@BODYTEXT:978/464-5302; fax:978/464-2968
+@BODYTEXT:www.rainierco.com
+@BODYTEXT:Technology trade and business PR and advertising. Employees: 26. Founded: 1993.
+@CCD1:Stephen Schuster, founder & chmn.
+@BODYTEXT:Ipsil
+@BODYTEXT:Texas Instruments
+@BODYTEXT:VenturCom
+@BODYTEXT:
+@CO:RAKER GOLDSTEIN & CO.
+@BODYTEXT:180 Old Tappan Rd., 4, Bldg. 3, Old Tappan, NJ 07675
+@BODYTEXT:201/784-1818; catherine@rakergoldstein.com
+@BODYTEXT:www.rakergoldstein.com
+@BODYTEXT:Consumer goods, food and beverage, financial svcs., healthcare, B2B and travel PR.
+@CCD1:Heidi Goldstein, pres.
+@BODYTEXT:Center for Aware Parenting
+@BODYTEXT:McCormick & Schmick's Seafood Restaurants
+@BODYTEXT:Mid-Manhattan Institute for Psychoanalysis
+@BODYTEXT:Naomi Berrie Diabetes Center
+@BODYTEXT:
+@CO:RAM COMMUNICATIONS
+@BODYTEXT:105 Holly St., Cranford, NJ 07016
+@BODYTEXT:908/272-3930; fax:908/272-3931; Ron@rampr.com
+@BODYTEXT:www.rampr.com
+@BODYTEXT:Corporate, trade association, non-profit. Employees: 5. Founded: 1992.
+@CCD1:Ronald A. Margulis, pres.; Patricia E. Paul, production dir.; Seth Mendelson, John Karolefski, senior advisors
+@BODYTEXT:AquiTec
+@BODYTEXT:CHEP
+@BODYTEXT:DL Steiger Co.
+@BODYTEXT:Global Trac
+@BODYTEXT:Grocery Manufacturers of America
+@BODYTEXT:IGA, Inc.
+@BODYTEXT:iHello
+@BODYTEXT:Kay Chemical, A division of Ecolab
+@BODYTEXT:Nat Sherman Inc.
+@BODYTEXT:RW3 Technologies
+@BODYTEXT:S&H Greenpoints
+@BODYTEXT:Teradata, A division of NCR
+@BODYTEXT:Voluntary Interindustry Commerce Standards Assn.
+@BODYTEXT:
+@CO:RAND ADVERTISING & PUBLIC RELATIONS
+@BODYTEXT:PO Box 505, Lincoln, NE 04457
+@BODYTEXT:207/794-8071; fax:207/794-8071; info@randadvertising.com
+@BODYTEXT:PR, adv., consumer adv., fast food/restaurants, political candidates & causes.
+@CCD1:Constance Rand, owner
+@BODYTEXT:
+@CO:RANDALL PUBLIC RELATIONS
+@BODYTEXT:Olympic Suites, 411 University St., #1200, Seattle, WA 98101
+@BODYTEXT:206/624-5727; fax:206/467-0212; info@randallpr.com
+@BODYTEXT:www.randallpr.com
+@BODYTEXT:Full service PR firm. Specializes in media rels., food & beverage promotion, special events, integrated mktg.
+@CCD1:Lori Randall, principal
+@BODYTEXT:Canon de Sol Winery
+@BODYTEXT:DiStefano Winery
+@BODYTEXT:Esquin Wine Merchants
+@BODYTEXT:Pesos Kitchen & Lounge
+@BODYTEXT:Purple Cafe & Wine Bar
+@BODYTEXT:Southcorp Wines
+@BODYTEXT:
+@CO:RANKIN ASSOCIATES, THOMAS
+@BODYTEXT:5853 Post Rd., #205, East Greenwich, RI 02818
+@BODYTEXT:401/884-4090; fax:401/884-4277; tomr@trankin.com
+@BODYTEXT:Marketing comms. for industrial, bus.-to-bus. sector. Founded: 1992. Employees: 5.
+@CCD1:Thomas R. Rankin, pres.
+@BODYTEXT:Battenfeld of America
+@BODYTEXT:Hyland Equipment Co.
+@BODYTEXT:Mahr Federal Inc.
+@BODYTEXT:Mearthane Products Corp.
+@BODYTEXT:Mule Lighting Inc.
+@BODYTEXT:Yushin America Inc.
+@BODYTEXT:
+@CO:RAP COMMUNICATIONS, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:400 Corporate Pt. #555, Culver City, CA 90230
+@BODYTEXT:310/337-1390; fax:310/337-1340
+@BODYTEXT:PR, adv., creative, media buying/placement/planning. Founded: 1975
+@CCD1:Robert A. Perlberg, CEO
+@BODYTEXT:Chicago Title
+@BODYTEXT:Colmer Development
+@BODYTEXT:Greystone Homes
+@BODYTEXT:Lee Homes
+@BODYTEXT:Playa Vista
+@BODYTEXT:Regis Homes
+@BODYTEXT:
+@CO:RASKY/BAERLEIN GROUP, INC.
+@BODYTEXT:70 Franklin St., 3rd flr., Boston, MA 02110
+@BODYTEXT:617/443-4771; fax:617/443-4772
+@BODYTEXT:www.rasky.com
+@BODYTEXT:Public relations and public affairs
+@CCD1:Joseph Baerlein, pres.; Larry Rasky, chmn./CEO
+@BODYTEXT:Arthur D. Little
+@BODYTEXT:Bank of America
+@BODYTEXT:Boston Celtics
+@BODYTEXT:Cartas Christi Health Care System
+@BODYTEXT:Collagenesis Inc.
+@BODYTEXT:Edison Electric Institute
+@BODYTEXT:Eli Lilly and Co.
+@BODYTEXT:Excelergy Corp.
+@BODYTEXT:Joseph E. Seagram & Sons Inc.
+@BODYTEXT:Jumpjot/Hypervest
+@BODYTEXT:Stop & Shop Supermarkets
+@BODYTEXT:Tech Net
+@BODYTEXT:Tricon
+@BODYTEXT:WBZ-TV
+@BODYTEXT:
+@CO:RAWLE MURDY ASSOCIATES, INC.
+@BODYTEXT:2 Beaufain St., P.O. Box 1117, Charleston, SC 29402
+@BODYTEXT:843/577-7327; fax:843/722-3960; mflynn@rawlemurdy.com
+@BODYTEXT:www.rawlemurdy.com
+@BODYTEXT:Full-service PR, marketing and adv. Founded: 1975
+@CCD1:David L. Rawle, chmn.; Bruce D. Murdy, president; Melissa Flynn, PR director
+@BODYTEXT:Charleston Regional Dev. Alliance
+@BODYTEXT:Orient Express North America
+@BODYTEXT:Piggly Wiggly Supermarkets
+@BODYTEXT:School of the Building Arts
+@BODYTEXT:South Carolina Aquarium
+@BODYTEXT:South Carolina State Ports Authority
+@BODYTEXT:
+@CO:RBB PUBLIC RELATIONS
+@BODYTEXT:355 Alhambra Circle, #800, Miami, FL 33134
+@BODYTEXT:305/448-7450; fax:305/448-5027; christine.barney@rbbpr.com
+@BODYTEXT:www.rbbpr.com
+@BODYTEXT:Business-to-business, consumer products, Hispanic, government affairs, professional services, healthcare, real estate, travel, food and sports PR.  Employees: 21. Founded: 1975.
+@AGENCY:Agency Statement: Founded in 1975, Miami-based rbb Public Relations is one of Florida’s largest and oldest independent, full-service public relations firms. rbb Public Relations has gained a national reputation for strategic, results-oriented PR, with expertise in media relations, corporate communications, crisis counseling, cutting-edge national product campaigns, integrated marketing and exceptional client services.
+@AGENCY:For more information, call CEO Christine Barney at 305/448-7456 or visit www.rbbpr.com.
+@CCD1:Christine M. Barney, CEO; Lisa Ross, president; Tina Elmowitz, Vivian Jimenez, executive VPs & partners; Tadd Schwartz, VP and partner
+@BODYTEXT:Adler Group
+@BODYTEXT:Cleveland Clinic of Florida
+@BODYTEXT:Codina Group
+@BODYTEXT:Costa Maya
+@BODYTEXT:Florida Bar, The
+@BODYTEXT:Florida Power & Light
+@BODYTEXT:Fortune Development
+@BODYTEXT:Levitt Corp.
+@BODYTEXT:M&Ms
+@BODYTEXT:Occidental Hotels & Resorts
+@BODYTEXT:Ringling Bros. And Barnum & Bailey Circus
+@BODYTEXT:Starbucks
+@BODYTEXT:Steel Hector Davis LLP
+@BODYTEXT:The Florida Marlins
+@BODYTEXT:United Airlines
+@BODYTEXT:
+@CO:RBI COMMUNICATIONS, INC.
+@BODYTEXT:Television Center, 6311 Romaine St., #7133, Hollywood, CA 90038
+@BODYTEXT:323/960-1360; fax:323/960-1362; mail@rbicom.com
+@BODYTEXT:Full-service marketing firm providing PR and advertising services. Founded: 1987
+@CCD1:Betsy Isroelit, co-founder
+@BODYTEXT:Auto-By-Tel
+@BODYTEXT:CAO International
+@BODYTEXT:Dime Bank
+@BODYTEXT:IVS, Inc.
+@BODYTEXT:Mobalist
+@BODYTEXT:
+@CO:RDW GROUP, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:125 Holden St., Providence, RI 02908
+@BODYTEXT:; info@rdwgroup.com
+@BODYTEXT:www.rdwgroup.com
+@BODYTEXT:PR, adv., bus-to-bus., creative, direct marketing.  Founded: 1986.
+@CCD1:Michael Doyle, pres.
+@BODYTEXT:American Optical Corp.
+@BODYTEXT:Amica Mutual Insurance Co.
+@BODYTEXT:Bank of Newport
+@BODYTEXT:Bay State Sterling
+@BODYTEXT:Blue Cross & Blue Shield Of RI
+@BODYTEXT:
+@CO:READ ASSOCIATES, ROLAND
+@BODYTEXT:71 Oceanport Lane, P.O. Box 738, West Chatham, MA 02669
+@BODYTEXT:508/945-2801
+@BODYTEXT:
+@BODYTEXT:
+@CO:READ COMMUNICATIONS
+@BODYTEXT:100 E. Corson St., #200, Pasadena, CA 91103
+@BODYTEXT:626/578-0705; fax:626/578-0706
+@BODYTEXT:Public affairs. Founded: 1985.
+@CCD1:Nat B. Read, prin.
+@BODYTEXT:Los Angeles Center
+@BODYTEXT:National Music Teachers Assn.
+@BODYTEXT:Western Waste Industries
+@BODYTEXT:
+@CO:REAL LIFE COMMS. & MARKETING INC.
+@BODYTEXT:425 E. 58th St., #5A, New York, NY 10022
+@BODYTEXT:646/840-1933
+@BODYTEXT:Fashion, beauty and consumer lifestyle products PR. Founded: 1991.
+@CCD1:Debra Olshan, pres.
+@BODYTEXT:
+@CO:RED STONE COMMUNICATIONS
+@BODYTEXT:32 South Ferris St., Irvington, NY 10533
+@BODYTEXT:917/854-5748; fax:718/549-7218; DorotheaMarcus@yahoo.com
+@BODYTEXT:Crisis communications, media relations, PR training, strategic re-branding.
+@CCD1:Dorothea Marcus, principal
+@BODYTEXT:Ahimsa Foundation
+@BODYTEXT:Carol C. Williams Advertising
+@BODYTEXT:Euro RSCG Worldwide
+@BODYTEXT:Paula Barr New York
+@BODYTEXT:UJA Federation of NY
+@BODYTEXT:
+@CO:REDINGTON, INC.
+@BODYTEXT:49 Richmondville Ave., #210, Westport, CT 06880
+@BODYTEXT:203/222-7399; fax:203/222-1819; info@redingtoninc.com
+@BODYTEXT:
+@CCD1:Thomas Redington, pres.
+@BODYTEXT:
+@CO:REDPOINT MARKETING PR, INC.
+@BODYTEXT:161 Avenue of the Americas, #902, New York, NY 10013
+@BODYTEXT:212/229-0119; fax:212/229-0364; defalco@redpointpr.com
+@BODYTEXT:www.redpointpr.com
+@BODYTEXT:PR for travel, tourism, hospitality, home furnishings, interior design, lifestyle, restaurant, and upscale consumer products.  Employees: 10. Founded: 2002.
+@AGENCY:Agency Statement: Redpoint Marketing PR, Inc. is a travel, hospitality and lifestyle firm that specializes in brand development and image management. Redpoint is a group of seasoned professionals who share a long and successful history together producing brand building campaigns for such distinguished clients as Hyatt Resorts, Princess Cruises, Loews Hotels, Visa USA, Pfaltzgraff, Tufenkian Carpets, The Finnish Tourist Board, and more.
+@AGENCY:We offer clients a unique advantage over other firms. We have the entrepreneurial spirit and fresh energy of a dynamic, young agency, yet we offer a proven track record as a team and extensive knowledge of the industry. It is an unusual blend of circumstances and clients benefit greatly from the combination.
+@AGENCY:Founders Victoria Feldman de Falco and Christina Miranda launched Redpoint with a firm vision in mind: to create an agency that provides clients with unexpectedly high service, direct senior level involvement on each account, and strategic solutions, while producing a noticeable difference in the client’s business.
+@AGENCY:To achieve this vision, Victoria and Christina knew they would need just one critical thing: the right staff. It is no accident that the guiding principle of Redpoint is the identification and nurturing of staff members who have a natural affinity for public relations. Redpoint staff members are sought out for their limitless curiosity, their love of the media, their knowledge of the industry, their ability to assimilate information and identity trends, their resourcefulness, and - above all - their ability to achieve results. In fact, the very name Redpoint evolved out of this philosophy - we bring Results, Energy, Direction, and a “to-the-Point” focus to each challenge.
+@CCD1:Victoria Feldman de Falco, Christina Miranda, principals; Maria Andriano, sr. VP
+@BODYTEXT:Affinia Hospitality
+@BODYTEXT:Big Brothers Big Sisters of Long Island
+@BODYTEXT:Cunard Line
+@BODYTEXT:Ensemble Travel
+@BODYTEXT:Loews Hotels
+@BODYTEXT:Luggage Concierge
+@BODYTEXT:Monaco Government Tourist Office
+@BODYTEXT:New England Inns & Resorts Assoc.
+@BODYTEXT:New Hampshire Tourism
+@BODYTEXT:Pfaltzgraff
+@BODYTEXT:Princess Cruises
+@BODYTEXT:Raffles Hotels & Resorts
+@BODYTEXT:Swissotel Hotels & Resorts
+@BODYTEXT:The Benjamin Hotel, New York
+@BODYTEXT:The Regency, New York
+@BODYTEXT:The Sagamore
+@BODYTEXT:TAG Galyean, AIA
+@BODYTEXT:Tufenkian Heritage Hotels
+@BODYTEXT:Tufenkian Carpets
+@BODYTEXT:
+@CO:REDSTONE COMMUNICATIONS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:533 North 86th St., Omaha, NE 68114
+@BODYTEXT:402/393-5435; fax:402/393-2139
+@BODYTEXT:PR, adv., sales promo, Hispanic specialty, African-American specialty, fast food/restaurants.  Founded:  1983.
+@CCD1:Claudia Martin, pres.
+@BODYTEXT:Applied Systems Technologies, Inc.
+@BODYTEXT:Mercy Hospital
+@BODYTEXT:Nebraska Special Olympics
+@BODYTEXT:People’s Natural Gas
+@BODYTEXT:Pepsi
+@BODYTEXT:
+@CO:REES PR, RHONDA
+@BODYTEXT:5221 Zelzah Ave., #211, Encino, CA 91316
+@BODYTEXT:818/325-2089; fax:818/342-9108; rhorees1@aol.com
+@BODYTEXT:www.partnershippr.com
+@BODYTEXT:
+@CCD1:Rhonda Rees, president
+@BODYTEXT:
+@CO:REGAN COMMUNICATIONS GROUP, INC.
+@BODYTEXT:106 Union Wharf, Boston, MA 02109
+@BODYTEXT:617/742-8180; fax:617/723-2414; srose@regancomm.com
+@BODYTEXT:www.regancomm.com
+@BODYTEXT:Crisis communications, public relations. Employees: 44. Founded: 1983.
+@CCD1:George K. Regan Jr., pres.; Alan Eisner, CEO
+@BODYTEXT:American Red Cross
+@BODYTEXT:Boston Celtics
+@BODYTEXT:Boston Herald
+@BODYTEXT:Clear Channel
+@BODYTEXT:Commerce Insurance
+@BODYTEXT:Dunkin' Donuts
+@BODYTEXT:EatWell, Inc.
+@BODYTEXT:Litespan
+@BODYTEXT:The Olive Group
+@BODYTEXT:The Steamship Authority
+@BODYTEXT:
+@CO:REICH COMMUNICATIONS
+@BODYTEXT:355 Lexington Ave., New York, NY 10017
+@BODYTEXT:212/573-6000; fax:212/370-7174; david@reichcommunications.com
+@BODYTEXT:www.reichcommunications.com
+@BODYTEXT:Full-service, general PR.  Employees: 3. Founded: 1990.
+@CCD1:David Reich, pres.; Susan Farro, A/E
+@BODYTEXT:B.R. Fries Assocs.
+@BODYTEXT:Cooper Wiring Devices
+@BODYTEXT:F.C. Sturtevant Co.
+@BODYTEXT:Keilet & Co.
+@BODYTEXT:Local Initiatives Support Corp.
+@BODYTEXT:National Highway Traffic Safety Admin.
+@BODYTEXT:Sanna Mattson MacLeod Inc.
+@BODYTEXT:Projects: Palm Beats Music Festival, Perillo Tours, Headroom Digital Audio, Smoking Caterpillar Music, Tamar Hirschl, artist
+@BODYTEXT:
+@CO:REILLY GROUP
+@BODYTEXT:325 W. Huron St., #404, Chicago, IL 60610
+@BODYTEXT:312/642-0789
+@BODYTEXT:www.thereillygroup.com
+@BODYTEXT:
+@CCD1:Susan Reilly, pres.
+@BODYTEXT:
+@CO:REIN NOMM & ASSOCIATES
+@BODYTEXT:PO Box 700613, Plymouth, MI 48170
+@BODYTEXT:734/420-3174; fax:734/420-3649.
+@BODYTEXT:Professional service PR, marketing and IR.
+@CCD1:Rein Nomm, pres.
+@BODYTEXT:
+@CO:RELIN COMMUNICATIONS INC.
+@BODYTEXT:215 East 68th St., New York, NY 10021
+@BODYTEXT:212/744-2612; fax:212/772-1907
+@BODYTEXT:Specializing in speeches, corporate seminars, direct marketing and sales presentations.
+@CCD1:Roz Relin, pres.
+@BODYTEXT:
+@CO:RENAISSANCE CREATIVE GROUP
+@BODYTEXT:Part of ASG Renaissance
+@BODYTEXT:21062 Bake Parkway, #100, Lake Forest, CA 92630
+@BODYTEXT:949/465-1600; fax:949/465-1611; kpellmann@asgren.com.
+@BODYTEXT:www.rencreative.com
+@BODYTEXT:Technical and communications services firm; PR for automotive, sports, technology; personal publicity, legal. Employees: 20. Founded: 1998.
+@CCD1:Karin Pellmann, agency director
+@BODYTEXT:22226 Garrison, Dearborn, MI  48126
+@BODYTEXT:313/565-4700; fax: 313/565-4701
+@CCD1:Brendan Prebo, Amy Capler
+@BODYTEXT:
+@BODYTEXT:Bella
+@BODYTEXT:Camisasca
+@BODYTEXT:Ford Motor Co.
+@BODYTEXT:Huron Maki Johnson
+@BODYTEXT:Jaguar North America
+@BODYTEXT:Kirco
+@BODYTEXT:Land Rover North America
+@BODYTEXT:Merchant's Fine Wine
+@BODYTEXT:Paragon Steel
+@BODYTEXT:Tri-Tec LLC
+@BODYTEXT:
+@CO:REPUTATION PARTNERS
+@BODYTEXT:233 North Michigan Ave., #2370, Chicago, IL 60601
+@BODYTEXT:312/222-9887; fax:312/222-9755; nick@reputationpartners.com
+@BODYTEXT:www.reputationpartners.com
+@BODYTEXT:Corporate positioning/business media relations, CEO/executive positioning; issues and crisis mgmt., employee and labor relations.  Employees: 6. Founded: 2002.
+@AGENCY:Agency Statement: Reputation Partners offers unparalleled expertise in corporate positioning, issues and crisis management, and employee and labor communications.
+@AGENCY:The Chicago-based firm was founded by Nick Kalm and Marta Rhyner, two seasoned communications consultants with a vision to provide clients with superior counsel and service -- at a fraction of the cost of most large PR firms.
+@AGENCY:Our team has extensive experience managing diverse communications challenges in a wide variety of industries.
+@CCD1:Nick Kalm, Marta Rhyner, partners; Jane Devron, Megan Hakes, senior associates; Sara Rosenthal, Eileen Boyce, associates
+@BODYTEXT:
+@CO:RES PUBLICA GROUP
+@BODYTEXT:455 N. Cityfront Plaza Dr., 15th flr., Chicago, IL 60611
+@BODYTEXT:312/755-3535; fax:312/755-1462; info@respublicagroup.com
+@BODYTEXT:www.respublicagroup.com
+@BODYTEXT:Communications & PA firm. Serves healthcare, banking, hospitality & transportation industries.
+@CCD1:Guy Chipparoni, pres.; Dennis Culloton,, exec. VP
+@BODYTEXT:
+@CO:RESNICK COMMUNICATIONS, INC.
+@BODYTEXT:P.O. Box 70, Media, PA 19063
+@BODYTEXT:610/872-2689; prres1@comcast.net
+@BODYTEXT:Cultural, educational, business, civic, community, museums, home furnishings, arts PR & mktg., strategic planning & counsel, partnership development. Founded: 1986.
+@CCD1:Phoebe R. Resnick, pres.
+@BODYTEXT:
+@CO:REVELL COMMUNICATIONS
+@BODYTEXT:1121 L St., #806, Sacramento, CA 95814
+@BODYTEXT:916/443-3816; fax:916/443-5065; revell@pacbell.net
+@BODYTEXT:Full service PR/PA  specializing in legislative, corp. and assn. PR & gov’t rels.  Employees: 6. Founded: 1984.
+@AGENCY:Agency Statement: Revell Communications’ proven performance places it among not only Sacramento’s, but California’s leading public relations/public affairs firms. Revell Communications has successfully designed and implemented public relations/public affairs efforts on behalf of such clients as the Council of State Chambers of Commerce; the California Business Council; the California Chamber of Commerce; IBM; the California Manufacturers Association; the National Football League; the Los Angeles RAMS; MetPath, Inc.; the American Chamber of Commerce (U.K.); the California Optometric Association; Hyatt Regency, Sacramento; American West Marketing, Inc.; American Promotional Events, Inc.; The Office of the California State Fire Marshal, and VivaHealth Plan.
+@CCD1:Dennis C. Revell, pres. & CEO
+@BODYTEXT:2300 M St., N.W., #800, Washington, DC 20037-1434
+@BODYTEXT:202/785-8240; fax: 202/659-5748
+@CCD1:Clara Brisard, acct. manager; Stephanie Inouye, A/S
+@BODYTEXT:
+@BODYTEXT:American Promotional Events
+@BODYTEXT:Freedom Fireworks
+@BODYTEXT:M.E.R., Inc.
+@BODYTEXT:Mad Dog Fireworks
+@BODYTEXT:Red Devil Fireworks
+@BODYTEXT:S.I.T.O.A.
+@BODYTEXT:TNT Fireworks
+@BODYTEXT:United States Fireworks Safety Commission
+@BODYTEXT:
+@CO:REYNARDUS & MOYA
+@BODYTEXT:817 Broadway, 2nd flr., New York, NY 10003
+@BODYTEXT:212/204-8340; fax:212/979-9357
+@BODYTEXT:www.reynardusandmoya.com
+@BODYTEXT:Hispanic advertising agency.
+@CCD1:Jorge Reynardus, partner; Jorge Moya, exec. creative director; Maria Romeu, dir. of PR
+@BODYTEXT:ABN AMRO LaSalle Bank
+@BODYTEXT:Cablevision
+@BODYTEXT:ITT Technical Schools
+@BODYTEXT:Pathmark Supermarkets
+@BODYTEXT:Prestaciones Universales Mexico
+@BODYTEXT:Schering Plough Healthcare
+@BODYTEXT:The Hispanic Federation
+@BODYTEXT:Time Warner Cable
+@BODYTEXT:
+@CO:REYNOLDS COMMUNICATIONS GROUP INC., THE
+@BODYTEXT:7358 North Lincoln Ave., #160, Lincolnwood, IL 60712
+@BODYTEXT:847/675-8100; fax:847/676-9372; mreynolds@reynoldsgroup.com
+@BODYTEXT:Healthcare, consumer products, technology PR and product publicity.
+@AGENCY:Agency Statement: We’re a generalist agency with strong marketing experience in technology, healthcare, outdoor products, the environment, professional services and packaged goods. Our firm is known for strategic counseling, strong writing and media placement. Several of our counselors come from America’s largest PR firms; others are former editors and reporters. We've won awards from PRSA, BMA, NIRI and The Publicity Club of Chicago.
+@CCD1:Mack Reynolds, pres. and CEO
+@BODYTEXT:ADP
+@BODYTEXT:Bowe Bell & Howell
+@BODYTEXT:Medela
+@BODYTEXT:ProQuest Co.
+@BODYTEXT:Rand McNally
+@BODYTEXT:Transamerica Finance Corp.
+@BODYTEXT:
+@CO:RF / BINDER PARTNERS, INC.
+@BODYTEXT:Member of the Ruder Finn Group
+@BODYTEXT:950 Third Ave., 7th flr., New York, NY 10022
+@BODYTEXT:212/994-7600; info@rfbinder.com
+@BODYTEXT:www.rfbinder.com
+@BODYTEXT:Corporate reputation programs, brand marketing comms., comms. strategies, crisis comms., litigation support, media rels., capital markets comms., media and market intelligence, events, opinion/mktg. research, interactive mktg., media training. Founded: 2001. Employees: 50.
+@AGENCY:Agency Statement: RFBinder Partners provides clients with communications strategies grounded in research. Our emphasis on research and knowledge-based decision-making helps us evaluate the larger context within which our clients operate, create messages that maximize awareness of our client among key constituencies; identify and leverage critical third-party influencers who can assist with message penetration, and develop creative programming that effectively communicates our clients' messages.
+@AGENCY:We are structured to serve clients in general corporate communications, brand communications, and reputation and issues management. Our senior management team is comprised of a team of professionals who collectively bring years of experience and diverse perspectives to solving client issues. We make a commitment to our clients to keep our senior team actively involved with the day-to-day management of every client. We also form our teams around our clients' needs, bringing in professionals with the "right" expertise to meet the communications challenges.
+@CCD1:David Finn, chmn., Ruder Finn Group; Amy Binder, CEO, RFBinder Partners, Inc.; Frank Walton, president, RFBinder; Robert Ferris, Joe Miller, Atalanta Rafferty, exec. managing directors; George Drucker, chief mktg. officer, Los Angeles and New York, 818/203-5845; Nancy Moss, exec. managing director, Boston, 781/455-8250; Darren Orzechowski, sr. managing dir. Portsmouth; Della Burns, senior managing dir., Chicago, 847/518-1050
+@BODYTEXT:American-Hellenic Chamber of Commerce
+@BODYTEXT:AON Consulting
+@BODYTEXT:Asbury Automotive Group
+@BODYTEXT:Bank of America
+@BODYTEXT:Benecol, McNeil Nutritionals
+@BODYTEXT:Bob Evans Farms
+@BODYTEXT:Brooks Automotive
+@BODYTEXT:Calence
+@BODYTEXT:Chimes
+@BODYTEXT:Columbia University
+@BODYTEXT:Computer Horizons
+@BODYTEXT:DealerTrack
+@BODYTEXT:EasyAsk
+@BODYTEXT:Eli Lilly and Co.
+@BODYTEXT:Friends of the High Line
+@BODYTEXT:Fuji Photo Film USA
+@BODYTEXT:German WIne Institute
+@BODYTEXT:I4Commerce
+@BODYTEXT:Lactaid, McNeil Nutritionals
+@BODYTEXT:Lamps Plus
+@BODYTEXT:LTX Corporation
+@BODYTEXT:The McGraw Hill Companies.
+@BODYTEXT:Mphasis
+@BODYTEXT:Mykrolis Corp.
+@BODYTEXT:New York Shipping Association 
+@BODYTEXT:Ranbaxy Laboratories
+@BODYTEXT:The Silk Road Project
+@BODYTEXT:Splenda, McNeil Nutritionals
+@BODYTEXT:Standard & Poors 
+@BODYTEXT:TargetCast TCM
+@BODYTEXT:TIAA-CREF
+@BODYTEXT:U.S. Conference of Catholic Bishops
+@BODYTEXT:Viactiv, McNeil Nutritionals
+@BODYTEXT:Wines of Chile
+@BODYTEXT:Zipcar
+@BODYTEXT:
+@CO:RHODES-MORELL COMMUNICATIONS, INC.
+@BODYTEXT:23 Turkey Hill No., Westport, CT 06880
+@BODYTEXT:203/341-9801; fax:203/341-9806; rhodes@optonline.net
+@BODYTEXT:General PR. Employees: 2. Founded: 1990
+@CCD1:Lisa J. Rhodes, president
+@BODYTEXT:Ashlar of Newtown
+@BODYTEXT:Expert Plan
+@BODYTEXT:Masonicare
+@BODYTEXT:Murdoch's
+@BODYTEXT:TransAct Technologies, Inc.
+@BODYTEXT:
+@CO:RIBOTSKY WORLDWIDE
+@BODYTEXT:370 Campus Dr., Somerset, NJ 08873
+@BODYTEXT:732/748-0433; fax:732/748-0430
+@BODYTEXT:www.ribotsky.com
+@BODYTEXT:Health care and pharmaceuticals PR. Founded: 1992
+@CCD1:Ken Ribotsky, president
+@BODYTEXT:Multimedia/Freedom Publishers
+@BODYTEXT:Mycomed-Amersham
+@BODYTEXT:Nabi
+@BODYTEXT:Raritan Bay Medical Center
+@BODYTEXT:
+@CO:RICCI COMMUNICATIONS
+@BODYTEXT:1625 Prince St., #230, Alexandria, VA 22314
+@BODYTEXT:703/519-7162; info@riccicom.com
+@BODYTEXT:www.riccicom.com
+@BODYTEXT:Strategic mktg. comms. firm. Provides strategic planning, media rels. consulting.
+@CCD1:Joseph Ricci, CEO; Jeff Wilson, sr. publicist
+@BODYTEXT:Firebrand Studios
+@BODYTEXT:USProtect
+@BODYTEXT:
+@CO:RICE & CO., INC., B.P.
+@BODYTEXT:13905 Equitable Road, Cerritos, CA 90703
+@BODYTEXT:562/926-5861; fax:562/404-7130; info@bprco.com
+@BODYTEXT:PR, advertising, direct marketing, media for business-to-business and non-profit. Founded: 1979.
+@CCD1:Anthony Pasquarelli, PR director
+@BODYTEXT:Pacificrest Mills
+@BODYTEXT:Rohl LLC
+@BODYTEXT:Salvation Army
+@BODYTEXT:To Market
+@BODYTEXT:
+@CO:RICHARDS COMMUNICATIONS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:3201 Enterprise Pkwy, #400, Beachwood, OH 44122
+@BODYTEXT:216/464-6660; fax:216/464-1839; info@richardscommunications.com
+@BODYTEXT:www.richardscommunications.com
+@BODYTEXT:PR, adv., bus.-to-bus., automotive, computers/computer products, construction/building, healthcare.  Founded: 1981.
+@CCD1:John Richards president
+@BODYTEXT:A-l General Insurance Agency, Inc.
+@BODYTEXT:Avery Dennison
+@BODYTEXT:FLS Automation
+@BODYTEXT:Management Reports, Inc.
+@BODYTEXT:Rockwell Automation/Allen-Bradley
+@BODYTEXT:
+@CO:RICHARDS/GRAVELLE
+@BODYTEXT:8750 N. Central Expressway, #1200, Dallas, TX 75231
+@BODYTEXT:214/891-3512
+@BODYTEXT:PR, marketing, advertising, PA
+@CCD1:David Gravelle, principal
+@BODYTEXT:Dave & Buster’s
+@BODYTEXT:Muratec
+@BODYTEXT:
+@CO:RICHARTZ FLISS CLARK & POPE
+@BODYTEXT:400 Morris Ave., Denville, NJ 07834
+@BODYTEXT:973/627-8180; fax:973/627-8410
+@BODYTEXT:www.rfcp.com
+@BODYTEXT:General PR, travel/tourism. Employees: 23. Founded: 1987.
+@CCD1:Allan S. Fliss, president/PR; Paul W. Richartz, Wendell Pope, partners
+@BODYTEXT:A&B Ingredients
+@BODYTEXT:Adventures In Travel Expo
+@BODYTEXT:Anadigics
+@BODYTEXT:Belize Tourist Board
+@BODYTEXT:Crum & Forster
+@BODYTEXT:Grenada Board of Tourism
+@BODYTEXT:Hobby Industry Assn. (HIA)
+@BODYTEXT:Inland Marine Underwriters
+@BODYTEXT:Island Expeditions
+@BODYTEXT:Jarchem
+@BODYTEXT:Kutcher's Resort
+@BODYTEXT:Mountain Creek
+@BODYTEXT:National Craft Month
+@BODYTEXT:Plan ITROI
+@BODYTEXT:R&D Council of N.J.
+@BODYTEXT:Redco
+@BODYTEXT:
+@CO:RICHMOND PUBLIC RELATIONS INC.
+@BODYTEXT:Member of The Worldcom PR Group
+@BODYTEXT:1411 Fourth Ave., #610, Seattle, WA 98101
+@BODYTEXT:206/682-6979; fax:206/682-7062; lorne@richmondpr.com
+@BODYTEXT:
+@CCD1:Louis Richmond, CEO; Lorne Richmond, president; Hamilton McCulloh, senior VP
+@BODYTEXT:Athena Water Co.
+@BODYTEXT:Benaroya Co.
+@BODYTEXT:BizXchange
+@BODYTEXT:Cascadia Restaurant
+@BODYTEXT:Chipotle
+@BODYTEXT:Detlef Schrempf Foundation
+@BODYTEXT:Elliott's Oyster House
+@BODYTEXT:Emerald Downs
+@BODYTEXT:Glaciar Bay Cruise Line
+@BODYTEXT:Grand Central Bakery
+@BODYTEXT:Great American River Journeys
+@BODYTEXT:JRJ Development
+@BODYTEXT:Kimpton Group
+@BODYTEXT:Krispy Kreme Doughnuts
+@BODYTEXT:Metropolitan Grill
+@BODYTEXT:MTM Hotels: WillowsLodge; Woodmark Hotel; Alderbrook
+@BODYTEXT:Oceanaire Restaurant Group
+@BODYTEXT:Oki Development
+@BODYTEXT:Pacific Northwest Ski Area Association- Washington Zone
+@BODYTEXT:Poll Investments Inc.
+@BODYTEXT:Port Blakely Communities
+@BODYTEXT:Prepared Response
+@BODYTEXT:Salish Lodge and Spa
+@BODYTEXT:Screenlife
+@BODYTEXT:Spirit of Washington Dinner Train
+@BODYTEXT:Starwood Hotels; Seattle Sheraton Hotel & Towers
+@BODYTEXT:Tom Douglas Restaurants
+@BODYTEXT:Tully’s Coffee
+@BODYTEXT:Union Square Grill
+@BODYTEXT:Westin Seattle
+@BODYTEXT:Woodinville Wine Country
+@BODYTEXT:
+@CO:RICHTER7
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:280 S. 400 W, #200, Salt Lake City, UT 84101
+@BODYTEXT:801/521-2903; fax:801/359-2420
+@BODYTEXT:PR, adv., consumer adv., fast food/restaurants, food, recreation, telecommunications, travel/hotels/airlines.  Founded: 1971.
+@CCD1:Dave Newbold, president
+@BODYTEXT:Arby’s Restaurants
+@BODYTEXT:Banc One
+@BODYTEXT:Jackson Hole Ski Resort
+@BODYTEXT:Tel America
+@BODYTEXT:Utah Transit Authority
+@BODYTEXT:
+@CO:RIEDMAN COMMUNICATIONS
+@BODYTEXT:2630 East St., Canandaigua, NY 14424
+@BODYTEXT:585/396-3100; fax:585/396-5941
+@BODYTEXT:Specializes in high-technology, industrial and business-to-business marketing comms. Founded: 1988
+@CCD1:Laurie Riedman, prin.
+@BODYTEXT:
+@CO:RILEY HAYES AGENCY
+@BODYTEXT:333 South First St., Minneapolis, MN 55401
+@BODYTEXT:612/338-7161; fax:612/338-7344
+@BODYTEXT:www.rileyhayes.com
+@BODYTEXT:Marketing comms., branding, direct mail, advertising, media buying, trade shows & promotions.
+@CCD1:Tom Hayes, CEO
+@BODYTEXT:
+@CO:RIPP, A., PUBLIC RELATIONS, INC.
+@BODYTEXT:200 West 72nd St., #50, New York, NY 10023
+@BODYTEXT:212/721-7468; fax:212/721-7469; arippnyc@aol.com
+@BODYTEXT:Press relations, specializing in professional services firms.  Founded: 1989.
+@AGENCY:Agency Statement: We are an editorial-driven practice, mostly for premium-niched professional service firms requiring high-quality, strategic press relations. Our client list includes accounts in publishing, investment banking, law, real estate, corporate finance, media research and e-business. We offer superior writing and media skills, with backgrounds in journalism, academia, law and financial services. We operate with a low agency profile, preferring to take on the role of in-house PR manager and press office for our clients.
+@CCD1:Allan Ripp, principal; Robin Brassner, sr. VP, client services; Joshua Spivak, Carla Main, sr. directors; Nathan Burgess, Adrien Seybert, directors; Sandra Sherman, counsel
+@BODYTEXT:Deloitte & Touche Financial Advisory Services
+@BODYTEXT:Fulbright & Jaworski L.L.P.
+@BODYTEXT:Grant & Eisenhofer, P.A.
+@BODYTEXT:Millennium Partners
+@BODYTEXT:Morrison & Foerster LLP
+@BODYTEXT:Outten & Golden
+@BODYTEXT:Pillsbury Winthrop Shaw Pittman LLP
+@BODYTEXT:Venable LLP
+@BODYTEXT:Zagat Survey LLC
+@BODYTEXT:
+@CO:RIVERCALM
+@BODYTEXT:410 Park Ave., 15th flr., New York, NY 10022
+@BODYTEXT:917/860-8575
+@BODYTEXT:www.rivercalm.com
+@BODYTEXT:Marketing comms. svcs.
+@CCD1:Maureen Nolan, acct. manager
+@BODYTEXT:Aleri
+@BODYTEXT:City Networks
+@BODYTEXT:HelioGraph
+@BODYTEXT:Mosaic Software
+@BODYTEXT:TechnologyforFinance.com
+@BODYTEXT:Trace Datawise Fin'l Ltd.
+@BODYTEXT:
+@CO:RIVES CARLBERG, L.P.
+@BODYTEXT:3 E. Greenway Plaza, Houston, TX 77056
+@BODYTEXT:713/965-0135
+@BODYTEXT:Full service comms., adv. and PR. Founded: 1949
+@CCD1:Chuck Carlberg, pres. & CEO
+@BODYTEXT:Compaq Factory Outlet
+@BODYTEXT:Houston 2012 Foundation
+@BODYTEXT:Houston Chronicle
+@BODYTEXT:KFC
+@BODYTEXT:Smith & Assocs.
+@BODYTEXT:Texas Surgical Assoc.
+@BODYTEXT:
+@CO:RL PUBLIC RELATIONS + MARKETING
+@BODYTEXT:1900 Ave. of the Stars, #288, Century City, CA 90067
+@BODYTEXT:310/226-8600; fax:310/277-1522
+@BODYTEXT:Full-service Hispanic PR & marketing firm. Founded: 1996.
+@CCD1:Roxana Lissa, pres.
+@BODYTEXT:135 Garfield Place, #6, Brooklyn, NY 11215
+@BODYTEXT:718/499-4630
+@CCD1:Melissa Karp, sr. VP
+@BODYTEXT:
+@BODYTEXT:Cover Girl Cosmetics
+@BODYTEXT:Nike
+@BODYTEXT:Sears Roebuck & Co.
+@BODYTEXT:Schieffelin & Somerset
+@BODYTEXT:Sportivo
+@BODYTEXT:
+@CO:RLM PUBLIC RELATIONS, INC.
+@BODYTEXT:989 Sixth Avenue, 3rd Floor, New York, NY 10018
+@BODYTEXT:212/741-5106; fax:212/741-5139; info@rlmpr.com
+@BODYTEXT:Healthcare, publishing and media, consumer products, and technology public relations. Employees: 18. Founded: 1991.
+@CCD1:Brian Flynn, pres. & COO; Michael Prichinello, VP; Stephen Bradley, dir. of operations; Georgette Pascale, acct. mgr for RLM Pharmaceuticals
+@BODYTEXT:12100 Wilshire Blvd., #M50, Los Angeles, CA 90025
+@BODYTEXT:800/741-5106; fax: 310/919-2970
+@CCD1:Richard Laermer, CEO & founder
+@BODYTEXT:
+@BODYTEXT:Advanced Medical Optics
+@BODYTEXT:Barnes & Noble, Inc.
+@BODYTEXT:Brand Consultancy, The
+@BODYTEXT:Full Frontal PR Books
+@BODYTEXT:Gay Millionaires Club
+@BODYTEXT:LookSmart
+@BODYTEXT:Message One
+@BODYTEXT:Nature’s Earth
+@BODYTEXT:Noodlesoup Productions
+@BODYTEXT:Plumb Design
+@BODYTEXT:Razorpoint Security
+@BODYTEXT:SparkNotes/Spark Publishing
+@BODYTEXT:Tazorac Skin Care
+@BODYTEXT:
+@CO:RLR ADVERTISING
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:836 S. Arroyo Pkwy., Pasadena, CA 91105
+@BODYTEXT:626/440-0321; fax:626/796-5634; nikki@rlradvertising.com
+@BODYTEXT:www.rlradvertising.com
+@BODYTEXT:PR, adv., bus.-to-bus., creative, direct marketing. Founded: 1982
+@CCD1:Nikki Robischon, president
+@BODYTEXT:AirTouch Cellular
+@BODYTEXT:Apple Markets
+@BODYTEXT:Bergeb Brunswig
+@BODYTEXT:Cellular Club, Inc.
+@BODYTEXT:CenFed Bank
+@BODYTEXT:
+@CO:RMR & ASSOCIATES
+@BODYTEXT:1401 Rockville Pike, #510, Rockville, MD 20852
+@BODYTEXT:301/217-0009; fax:301/217-5966; email@RMR.com
+@BODYTEXT:Full-service advertising, marketing, and PR firm, providing business-to-business marketing services to an assorted client base including high-tech, healthcare, real estate and consumer accounts.
+@CCD1:Robyn Sachs, president
+@BODYTEXT:GT Law
+@BODYTEXT:Kastle Systems
+@BODYTEXT:Lynch Retirement Corp.
+@BODYTEXT:PSINet
+@BODYTEXT:Subway Development Corp.
+@BODYTEXT:Yurie Systems
+@BODYTEXT:
+@CO:ROBBINS GROUP, THE
+@BODYTEXT:18425 Burbank Blvd., #511, Tarzana, CA 91356
+@BODYTEXT:818/776-1244; fax:818/776-1174; mrobbins@robbinsgrp.com
+@BODYTEXT:PR for sports, entertainment; event management. Employees: 6. Founded: 1985
+@CCD1:Marcia Robbins, pres./owner
+@BODYTEXT:Association of Volleyball Professionals
+@BODYTEXT:Jastrow Productions
+@BODYTEXT:Golf Projects Int'l
+@BODYTEXT:Madrid Theatre
+@BODYTEXT:Nine Bridges Golf Course So. Korea
+@BODYTEXT:Salt Festival
+@BODYTEXT:Target Stores
+@BODYTEXT:
+@CO:ROBERTS COMMUNICATIONS & MARKETING INC.
+@BODYTEXT:5405 W. Cypress Center Dr., #250, Tampa, FL 33609
+@BODYTEXT:813/281-0088; fax:813/281-0271
+@BODYTEXT:www.robertscommunications.com
+@BODYTEXT:Founded: 1978
+@CCD1:Deanne Roberts, pres.
+@BODYTEXT:Coast Dental
+@BODYTEXT:IMC Phosphates
+@BODYTEXT:Tampa Bay Water
+@BODYTEXT:
+@CO:ROBIN LEEDY & ASSOCIATES, INC.
+@BODYTEXT:118 No. Bedford Rd., #302, Mt. Kisco, NY 10549
+@BODYTEXT:914/241-0086; fax:914/242-2061; rrusso@robinleedyassociates.com
+@BODYTEXT:www.robinleedyassociates.com
+@BODYTEXT:OTC health & beauty, pharmecutical, personal care, first aid & beauty PR; Consumer/ lifestyle PR. Employees: 11. Founded: 1986.
+@AGENCY:Agency Statement: Independently owned, full-service “boutique” agency specializing in creative programs to fit all size budgets. While we do many new product introductions, we also help in the repositioning of existing brands that need revitalization. RL&A is a results-oriented agency that looks for long-term relationships with clients.
+@AGENCY:Our award-winning campaigns include comprehensive print and broadcast programs designed to achieve maximum media exposure for clients. Our location, just 45 minutes north of NYC (in Westchester County), means we can keep our overhead low, yet provide clients with the highest-caliber, professional service at reasonable rates.
+@CCD1:Robin Leedy Russo, president; Alyson O’Mahoney, senior VP
+@BODYTEXT:Alltracel
+@BODYTEXT:American College of Preventive Medicine
+@BODYTEXT:Beiersdorf
+@BODYTEXT:Biocide Inc.
+@BODYTEXT:Clorox
+@BODYTEXT:Combe Inc. 
+@BODYTEXT:Del Laboratories
+@BODYTEXT:Diopsys
+@BODYTEXT:FLUSHmedia
+@BODYTEXT:Home Instead Senior Care
+@BODYTEXT:HouseMaster
+@BODYTEXT:Humco
+@BODYTEXT:Lansinoh
+@BODYTEXT:Medtech Inc.
+@BODYTEXT:National Candle Assn.
+@BODYTEXT:National Institute of Building Inspectors
+@BODYTEXT:Numark Laboratories
+@BODYTEXT:Power Paper
+@BODYTEXT:Raylel Cardiac Monitoring
+@BODYTEXT:Se-Cure Pharmaceuticals
+@BODYTEXT:Silipos
+@BODYTEXT:SmartScience Labs
+@BODYTEXT:SunHealth Solutions
+@BODYTEXT:Woodridge Labs
+@BODYTEXT:
+@CO:ROBINSON ASSOCIATES LLC
+@BODYTEXT:1701 Redwood Terrace, N.W., Washington, DC 20012
+@BODYTEXT:202/529-1090; fax:202/545-9058; sharonrobinson@.com
+@BODYTEXT:Management consultation, marketing, strategic planning, corporate image development, PR, external/community relations.  
+@CCD1:Sharon Robinson, founder
+@BODYTEXT:
+@CO:ROBINSON LERER & MONTGOMERY
+@BODYTEXT:Owner by Young & Rubicam, a WPP Group company
+@BODYTEXT:1345 Avenue of the Americas, 4th flr., New York, NY 10105
+@BODYTEXT:646/805-2000; fax:646/557-0002
+@BODYTEXT:www.rlmnet.com
+@BODYTEXT:Strategic communications, PA, PR, gov’t relations. Employees: 130.
+@CCD1:Linda Gosden Robinson, chmn., Young & Rubicam; Walter Montgomery, CEO
+@BODYTEXT:Blue292
+@BODYTEXT:CCBN.com
+@BODYTEXT:CDNow Inc.
+@BODYTEXT:Enrev Corp.
+@BODYTEXT:Evenbetter.com AG
+@BODYTEXT:Markle Foundation
+@BODYTEXT:Multex.com
+@BODYTEXT:Panavision Inc.
+@BODYTEXT:Softcom, Inc.
+@BODYTEXT:StreetEvents.com
+@BODYTEXT:
+@CO:ROCKETT BURKHEAD & WINSLOW
+@BODYTEXT:Member of Pinnacle Worldwide
+@BODYTEXT:8601 Six Forks Rd., 7th flr., Raleigh, NC 27615
+@BODYTEXT:919/848-2600; fax:919/848-2614
+@BODYTEXT:Adv.,marketing and PR; product publicity, IR, community rels., special events/promotions, issues  mgmt. Employees: 25. Founded: 1985.
+@CCD1:Howard Rockett, chmn. & CEO; Scott Burkhead, co-chmn. & CEO; Michael Winslow, exec. VP
+@BODYTEXT:Flonase
+@BODYTEXT:GlaxoSmithKline
+@BODYTEXT:U.S. Tennis Assn.
+@BODYTEXT:XS, Inc.
+@BODYTEXT:
+@CO:ROCKEY HILL & KNOWLTON
+@BODYTEXT:Owned by WPP Group plc
+@BODYTEXT:2121 Fifth Ave., Seattle, WA 98121
+@BODYTEXT:206/728-1100; fax:206/728-1106
+@BODYTEXT:General PR, PA, IR, mktg. and tech. comms., crisis comms. Employees: 30. Founded: 1962.
+@CCD1:Randy Pepple, CEO: Art Merrick, president; John Hough, chairman; Jay Rockey, founder; Dennis Bracy, Steve Boyer, John Giese, Anne Foster, Dale Gluck, Suzanne Hartman, senior VPs
+@BODYTEXT:421 W. Riverside, #450, Spokane, WA 99201
+@BODYTEXT:509/744-3350
+@CCD1:Jennifer West, general manager
+@BODYTEXT:700 N.E. Multnomah, #975, Portland, OR 97232
+@BODYTEXT:503/248-9468
+@CCD1:Krista Hildebrand, general manager
+@BODYTEXT:
+@BODYTEXT:Boeing
+@BODYTEXT:Equity Office Properties
+@BODYTEXT:Grant County PUD
+@BODYTEXT:Group Health
+@BODYTEXT:Hancock Timber Resource Grp.
+@BODYTEXT:Itron
+@BODYTEXT:Key Bank
+@BODYTEXT:Norpac Foods
+@BODYTEXT:Port of Seattle
+@BODYTEXT:RBC Dain Rauscher
+@BODYTEXT:Riverpark Square
+@BODYTEXT:Safeco
+@BODYTEXT:Shea Homes
+@BODYTEXT:U.S. Cellular
+@BODYTEXT:Unico Properties
+@BODYTEXT:Washington Forest Protection Assn.
+@BODYTEXT:
+@CO:ROGERS & ASSOCIATES
+@BODYTEXT:1875 Century Park East, #300, Los Angeles, CA 90067
+@BODYTEXT:310/552-6922; fax:310/552-9052; info@rogersassoc.com
+@BODYTEXT:General public relations, public affairs, marketing communications and issues management.  Employees: 80. Founded: 1978.
+@AGENCY:Agency Statement: Rogers & Associates, the largest independent public relations/public affairs firm in Los Angeles, provides counsel to a wide variety of public and private sector clients. The firm offers a diverse practice integrating all aspects of communications including media relations, corporate identity, product marketing, public affairs, issues management and community relations. Rogers & Associates has consistently been ranked as one of the country’s top issues management and crisis communications firms. The varied capabilities of the firm span a broad base of industries including specialized practices in consumer products, automotive, health care, non-profit, government and Latino outreach.
+@CCD1:Ron Rogers, CEO; Lynne M. Doll, pres.; Elliott Fils, CFO; Manuel Camargo Jr., Shelly Holmes, executive VPs; Alan Arkatov, chief strategic officer, executive VP
+@BODYTEXT:Acura
+@BODYTEXT:American Honda Motor Co.
+@BODYTEXT:B/S/H Home Appliances (Bosch, Thermador)
+@BODYTEXT:Bandai America Inc. (Power Rangers, Hello Kitty)
+@BODYTEXT:California Dept. of Health Svcs.
+@BODYTEXT:Kellogg Co.
+@BODYTEXT:Office of National Drug Control Policy
+@BODYTEXT:Wellpoint, Inc.
+@BODYTEXT:Yokohama Tire Corp.
+@BODYTEXT:
+@CO:ROGERS & COWAN
+@BODYTEXT:Part of The Interpublic Group of Companies
+@BODYTEXT:Pacific Design Center, 8687 Melrose Ave., 7th floor, Los Angeles, CA 90069
+@BODYTEXT:310/854-8100; fax:310/854-8101; inquiries@rogersandcowan.com
+@BODYTEXT:www.rogersandcowan.com
+@BODYTEXT:
+@AGENCY:Agency Statement: Rogers & Cowan, located in Los Angeles, New York and London, designs and implements consumer marketing campaigns that build connections between brands and consumers through entertainment and lifestyle influences. The agency creates integrated marketing campaigns that blend publicity, promotions and product placement strategies to enhance or revitalize brand image, increase brand awareness, extend market positioning, and raise consumer recognition levels.
+@AGENCY:As leaders in "managing the intersections" of entertainment, technology and consumer marketing, Rogers & Cowan assists technology and digital entertainment companies in building alliances with the Hollywood community and positioning them as vital partners in the entertainment industry.
+@AGENCY:The agency handles a diverse range of clientele ranging from fashion/beauty to consumer technology, food/beverage to entertainment properties, travel/tourism to digital entertainment and charitable organizations to sports. Services include brand strategy, cross promotions, entertainment tie-ins, product placement, celebrity/influential seeding, viral marketing, entertainment industry outreach, event marketing, strategic alliances/sponsorships, youth marketing, product launches and sports marketing.
+@CCD1:Tom Tardio, CEO; Paul Bloch, co-chairman; Dave Nobs, general manager; Steve Doctrow, exec. VP, integrated mtkg.; Tara Walls, exec. VP, entertainment mktg.
+@BODYTEXT:640 Fifth Ave., 5th flr., New York, NY 10019
+@BODYTEXT:212/445-8400; fax: 212/445-8290
+@CCD1:Fran Curtis, exec. VP, entertainment; Ann Peterson, sr. VP, business development
+@BODYTEXT:
+@BODYTEXT:Bombay Sapphire
+@BODYTEXT:Coca-Cola
+@BODYTEXT:Conde Nast
+@BODYTEXT:Diet Coke
+@BODYTEXT:EA SPorts
+@BODYTEXT:FHM Magazine
+@BODYTEXT:French Kitty
+@BODYTEXT:General Mills
+@BODYTEXT:Gibson Musical Instruments
+@BODYTEXT:Grammy Awards
+@BODYTEXT:IBM
+@BODYTEXT:ID Software
+@BODYTEXT:Islands of the Bahamas
+@BODYTEXT:Klutz
+@BODYTEXT:LPGA
+@BODYTEXT:Microsoft
+@BODYTEXT:Napster
+@BODYTEXT:NASCAR
+@BODYTEXT:Ray-Ban/Luxottica Group
+@BODYTEXT:Shopzilla
+@BODYTEXT:Texas Instruments DLP Cinema
+@BODYTEXT:
+@CO:ROHER PUBLIC RELATIONS
+@BODYTEXT:59 So. Greeley Ave., Ste. 3, Chappaqua, NY 10514
+@BODYTEXT:914/238-2200; fax:914/238-2299
+@BODYTEXT:Marketing and corporate PR; investor relations; specializing in technology, consumer and bus.-to-bus., telecom, trade assn., broadcast and cable TV, entertainment industry.  Employees: 10. Founded: 1968.
+@AGENCY:Agency Statement: Roher in a nutshell: Accomplished, enthusiastic professionals. Experienced and technologically savvy. Top management planning and supervision of every client program. Specialties -Information Technology (from personal electronics through Enterprise networks); telecom/wireless; Internet marketing and website promotion; business-to-business; consumer products. Principal focus — building brand image and product awareness for clients through publicity in traditional (print and broadcast) and new media. Over 35 continuous years of creative programming and superior client service. Nationally known for quality performance.
+@CCD1:Richard Roher, pres.
+@BODYTEXT:20501 Ventura Blvd., #115, Woodland Hills, CA 91364
+@BODYTEXT:818/887-8838; fax: 818/887-8909
+@CCD1:Torin C. Roher, exec. VP
+@BODYTEXT:
+@BODYTEXT:Antex Electronics
+@BODYTEXT:Consumer Electronics Assn.
+@BODYTEXT:Dr. Ernest Bartsich, FACS
+@BODYTEXT:Executive Assn. of Greater NY
+@BODYTEXT:HomeTech
+@BODYTEXT:Kenwood Home Audio & Mobile Electronics
+@BODYTEXT:Nikada
+@BODYTEXT:Raysat
+@BODYTEXT:Sharp Decisions
+@BODYTEXT:Sonance
+@BODYTEXT:
+@CO:ROLLE, WILLIAM C., CONSULTANT
+@BODYTEXT:302 Lisa Oaks Way, Rockville, MD 20850
+@BODYTEXT:301/251-1534; brolle33@verizon.net
+@BODYTEXT:Public relations consulting. Founded: 1989
+@CCD1:William C. Rolle Jr., chairman
+@BODYTEXT:Anniversary Marketing Group
+@BODYTEXT:Low Vision Center
+@BODYTEXT:Maggie Moo's/ Frederick
+@BODYTEXT:Randall Hagner
+@BODYTEXT:Social List of Washington
+@BODYTEXT:
+@CO:ROMAN BRAND GROUP
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:117 E. Washington St., Indianapolis, IN 46204
+@BODYTEXT:317/686-7800
+@BODYTEXT:www.RomanBrandGroup.com
+@BODYTEXT:PR, adv., bus./consumer services, fast food/restaurants, healthcare, retail stores/chains.
+@CCD1:Daniel B. Roman, chairman
+@BODYTEXT:
+@CO:ROMAN/PESHOFF, INC.
+@BODYTEXT:432 N. Superior, Toledo, OH 43604
+@BODYTEXT:419/241-2221; fax:419/241-2297
+@BODYTEXT:Marketing & PR firm, adv., media rels., branding, direct mktg., sales promotion. Founded: 1993.
+@CCD1:Martha Peshoff Vetter, owner
+@BODYTEXT:Borders Books and Music
+@BODYTEXT:HCR/ManorCare
+@BODYTEXT:HNTB Consulting
+@BODYTEXT:Koch Industries
+@BODYTEXT:Mercy Health Systems
+@BODYTEXT:
+@CO:RONALD TRAHAN ASSOCIATES, INC.
+@BODYTEXT:5 Walpole St., 1st flr., Norwood, MA 02062
+@BODYTEXT:781/762-9782; fax:781/769-9782; rtrahan@ronaldtrahan.com
+@BODYTEXT:www.ronaldtrahan.com
+@BODYTEXT:Biotechnology, pharmaceutical, medical technology and
+@CCD1:Ronald C. Trahan, pres.; Susan Sweenie, Senior Exec.
+@BODYTEXT:Enanta Pharmaceuticals
+@BODYTEXT:NeoTherapeutics
+@BODYTEXT:PharMetrics, Inc.
+@BODYTEXT:Roche, Inc.
+@BODYTEXT:SuperGen
+@BODYTEXT:
+@CO:ROOP & CO.
+@BODYTEXT:650 Huntington Bldg., 925 Euclid Ave., Cleveland, OH  44115
+@BODYTEXT:216/902-3800; fax:216/902-3807
+@BODYTEXT:www.roopco.com
+@BODYTEXT:Corporate, marketing, financial, public affairs, IR, crisis comms. Employees: 7. Founded: 1996.
+@AGENCY:Agency Statement: Roop & Co. is a strategically oriented boutique consultancy offering a full complement of public relations, investor relations and graphic design services. The firm is recognized for creative, results-driven programming, as evidenced by three Silver Anvil awards in recent years and consistent strong showings in regional competition. The firm recently changed its name from the James J. Roop Company.
+@CCD1:James J. Roop, pres.; Stephen G. Lorton, Jim Kenny, senior advisors; Lynn DeChant, dir., graphic design; Brad Kostka, VP; Mary Potter, A/E; Kathy Muir, controller
+@BODYTEXT:Cleveland Botanical Garden
+@BODYTEXT:Cleveland-Cuyahoqa County Port Authority
+@BODYTEXT:Collins & Scanlon
+@BODYTEXT:Ferro Corp.
+@BODYTEXT:Flight Options
+@BODYTEXT:Gould Electronics Inc.
+@BODYTEXT:Johnny’s Restaurants
+@BODYTEXT:Lee Meier Interiors
+@BODYTEXT:Mills, Potoczak & Co./Reef Chief
+@BODYTEXT:RPM International, Inc.
+@BODYTEXT:Skoda, Minotti & Co.
+@BODYTEXT:Urban Community School
+@BODYTEXT:Vivo Restaurant
+@BODYTEXT:WKSKG, Ltd.
+@BODYTEXT:
+@CO:ROSEN GROUP, THE
+@BODYTEXT:30 W. 26th St., 3rd flr., New York, NY 10010
+@BODYTEXT:212/255-8455; thelma@rosenbergpr.com
+@BODYTEXT:www.rosengrouppr.com/
+@BODYTEXT:Media, automotive, food PR. Founded: 1984.
+@CCD1:Lori Rosen, prin.
+@BODYTEXT:Cooking Light
+@BODYTEXT:Kiplinger’s Personal Finance
+@BODYTEXT:Latin Girl
+@BODYTEXT:My Generation
+@BODYTEXT:Smithsonian Magazine
+@BODYTEXT:
+@CO:ROSEN-COREN AGENCY, INC.
+@BODYTEXT:362 2nd St. Pike, #122, So. Hampton, PA 18966
+@BODYTEXT:215/741-2003; fax:215/741-3886
+@BODYTEXT:Founded: 1983
+@CCD1:Abe S. Rosen, senior partner; Stuart N. Coren, pres.
+@BODYTEXT:Atlantic Cheinco Corp.
+@BODYTEXT:Atkin Office Prods.
+@BODYTEXT:Direct Response Network
+@BODYTEXT:Ocean Yachts, Inc.
+@BODYTEXT:Rehabco
+@BODYTEXT:Seniors Management Inc.
+@BODYTEXT:TASA
+@BODYTEXT:
+@CO:ROSENBERG GROUP INC., THE
+@BODYTEXT:11778 E. Mariposa Grande Dr., Scottsdale, AZ 85255
+@BODYTEXT:480/538-1613; fax:480/538-0593; grosenberg@therosenberggroup.com
+@BODYTEXT:www.therosenberggroup.com
+@BODYTEXT:Consultants to PR firms; executive coaching. Founded: 2000.
+@CCD1:George A. Rosenberg, principal
+@BODYTEXT:
+@CO:ROSICA STRATEGIC PUBLIC RELATIONS
+@BODYTEXT:95 Route 17 South, #109, Paramus, NJ 07652
+@BODYTEXT:201/843-5600; fax:201/843-5680; pr@rosica.com
+@BODYTEXT:www.rosica.com
+@BODYTEXT:Celebrating it's 25th year, Rosica Strategic Public Relations is a national consumer and business-to-business public relations and marketing firm that goes beyond the ordinary. The agency's strategic services include sales-boosting media relations, cause-related marketing, media events, corporate PR, crisis management, public affairs and new product introductions. Employees: 15. Founded: 1980.
+@AGENCY:Agency Statement: Rosica develops goal-oriented PR programs and measures its results- making PR more tangible. Withits proprietary Sales Smart PR methodology, the agency takes campaigns beyond the oordinary and into the stratosphere of iconic branding. The firm is accountable to sales and saturates the marketplace with our clients' messages, always working to improve visibility and brand equity. Rosica's efforts not only create consumer/end user (pull through), but also motivate key influencers to advocate or push its clients' products or services. The agency then takes proactiv measures to ensure a solid return on its clients' PR and marketing investments.
+@CCD1:Chris Rosica, president & CEO; John Rosica, chief strategist; Allyne Mills, general manager; Keith Zakheim, director public affairs
+@BODYTEXT:A & H Hot Dogs
+@BODYTEXT:Boys & Girls Clubs of NJ
+@BODYTEXT:Caring Institute
+@BODYTEXT:Eggland's Best Eggs
+@BODYTEXT:Foxtons Real Estate
+@BODYTEXT:Independent Jewelers Organization
+@BODYTEXT:National Assn. of Home Care & Hospice
+@BODYTEXT:Nice-Pak
+@BODYTEXT:RitzTheater
+@BODYTEXT:Rollerblade
+@BODYTEXT:United Way
+@BODYTEXT:Yule Tree Farms
+@BODYTEXT:
+@CO:ROSS & LAWRENCE PUBLIC RELATIONS
+@BODYTEXT:117 East 57th St., New York, NY 10022
+@BODYTEXT:212/308-3333; fax:212/207-8096; kpross@rosslawpr.com
+@BODYTEXT:Service industry PR: law firms, fin’l, real estate. Employees: 6. Founded: 1966.
+@CCD1:Kurt P. Ross, Guy B. Lawrence, mng. partners
+@BODYTEXT:Alston & Bird LLP
+@BODYTEXT:Edwards & Angell LLP
+@BODYTEXT:Milbank, Tweed, Hadley & McCloy LLP
+@BODYTEXT:Northern Trust Global Investments; Northern Trust and Northern Funds; Northern Trust Global Securities Lending; Northern Trust Corp. & Institutional Services Marketing
+@BODYTEXT:WolfBlock LLP
+@BODYTEXT:
+@CO:ROSS ASSOCIATES INC., BRUCE
+@BODYTEXT:1501 Broadway, #1401, New York, NY 10036
+@BODYTEXT:212/768-1155; fax:212/944-6435
+@BODYTEXT:General PR; corp. for architecture/engineering/construction/real estate cos. Employees: 5. Founded: 1983
+@CCD1:Bruce Ross, pres.
+@BODYTEXT:
+@CO:ROSS-CAMPBELL, INC.
+@BODYTEXT:1912 F St., Sacramento, CA 95814
+@BODYTEXT:916/446-4744; fax:916/446-0386
+@BODYTEXT:PR and advertising, associations/foundations, gov./state agencies, public utilities, publishing/printing, environment.  Founded: 1983.
+@CCD1:Ted J. Ross, president
+@BODYTEXT:
+@CO:ROSSMAN GROUP
+@BODYTEXT:920 No. Washington, Lansing, MI 48906
+@BODYTEXT:517/487-9320; fax:517/487-5080; info@rmapr.com
+@BODYTEXT:Founded: 1988
+@CCD1:Kelly Rossman McKinney, owner/CEO
+@BODYTEXT:
+@CO:ROTHENBERG COMMUNICATIONS, SUZANNE
+@BODYTEXT:1942 Westlake Ave., Seattle, WA 98101
+@BODYTEXT:206/448-6206; fax:206/448-6207
+@BODYTEXT:www.rothenberg-pr.com
+@BODYTEXT:Public relations consultant for televison, children, nonprofits, and education. Founded: 1992.
+@CCD1:Suzanne Rothenberg, principal
+@BODYTEXT:Aspen Institute
+@BODYTEXT:National Geographic Society
+@BODYTEXT:PBS
+@BODYTEXT:Science Museum of Minnesota
+@BODYTEXT:
+@CO:ROUNTREE GROUP INC.
+@BODYTEXT:Member of IPREX
+@BODYTEXT:8325 Dunwoody Place, Bldg. 2, Atlanta, GA 30350
+@BODYTEXT:770/645-4545; fax:770/645-0147
+@BODYTEXT:www.rountreegroup.com
+@BODYTEXT:Communications mgmt., general counsel, marketing comms. and issues mgmt. for corp., consumer products/svcs., retail/real estate, technology and hospitality firms. Employees: 11. Founded: 1985.
+@CCD1:Neva Rountree, pres.; Don Rountree, general manager; Kay Cavender, Pam Cash, VPs
+@BODYTEXT:Cinnabon
+@BODYTEXT:CyraCom International
+@BODYTEXT:Georgia, State of, Dept. of Human Resources
+@BODYTEXT:Industrial Developments International
+@BODYTEXT:Mothers Against Drunk Driving (MADD)
+@BODYTEXT:Mrs. Smith’s Bakeries, Inc.
+@BODYTEXT:North Georgia Public Health
+@BODYTEXT:Randstad North America
+@BODYTEXT:
+@CO:ROWAN BLEWITT/WEBER SHANDWICK
+@BODYTEXT:Part of Weber Shandwick; owned by Interpublic Group of Cos.
+@BODYTEXT:13454 Sunrise Valley Dr., #100, Herndon, VA 20171
+@BODYTEXT:703/234-4400; fax:703/234-4420; blewitt@blewitt.com. International, crisis, issue management and communication training firm.
+@BODYTEXT:
+@CCD1:Rich Blewitt, president
+@BODYTEXT:90 Second St., Mineola, NY 11501
+@BODYTEXT:516/741-8877; fax: 516/741-3131; hboerner@rowanblewitt.com
+@CCD1:Hank Boerner, managing director, New York and senior VP; Mary Ann Boerner, partner
+@BODYTEXT:
+@BODYTEXT:
+@CO:ROWLAND COMMUNICATIONS WORLDWIDE
+@BODYTEXT:Subsidiary of Publicis Groupe
+@BODYTEXT:1675 Broadway, New York, NY 10019
+@BODYTEXT:212/527-8800; fax:212/527-8850; info@rowland.com
+@BODYTEXT:www.rowland.com
+@BODYTEXT:Strategic communications management. Employees: 250. Founded: 1961.
+@AGENCY:Agency Statement: Rowland Communications Worldwide is a mid-sized communications network that offers clients a multi-disciplinary approach to meeting their communications needs in public relations, advertising, direct marketing, new media, event management and sales promotion. The agency specializes in harnessing the power of influencers to help clients achieve their marketing objectives through the disciplines of media relations, word-of-mouth marketing and viral marketing.
+@AGENCY:Rowland strives for excellence in all aspects of its business, including strategy, creativity, execution and service. Critical to the success of Rowland's programs is its commitment to forming true partnerships with its clients. By learning and understanding an organization's culture, vision and markets, Rowland becomes a member of their strategic infrastructure-passionate about their goals, products, services, image and reputation.
+@AGENCY:Rowland programs are developed through the application of distinctive methodologies, products and implementation processes that enable the agency to identify the most powerful points of influence that affect the dynamics of each client's business and then tailor communications to encourage perception and action.
+@CCD1:Ann Moravick, president & CEO
+@BODYTEXT:INTERNATIONAL OFFICES:
+@BODYTEXT:175 Bloor St. E, South Tower Suite 1007, Toronto M4 W 3R8 Canada
+@BODYTEXT:416/968-7311; fax: 416/968-6281
+@CCD1:Daniel Tisch, APR-Pres.
+@BODYTEXT:6-8 Kifisias Ave., 15125 Marousi, Athens, Greece
+@BODYTEXT:30-210-685-7280; fax: 30-210-685-7197
+@CCD1:Kimon Antypas, managing director
+@BODYTEXT:U1 Sw. Bonifacego 112, Warszawa, 02-909 Poland
+@BODYTEXT:48-11-593-9100, fax: 48-11-593-9101
+@CCD1:Agata Tyszkiewicz, General Manager
+@BODYTEXT:Imperiastraat 16, Brussels, B-1930 Belgium47, Ag. Konstantinou St., 151 24 Marousi, Athens, Greece
+@BODYTEXT:322-714-0765; fax: 322-714-0762
+@CCD1:Serge Dekoninck, managing director
+@BODYTEXT:14 Promenade Du Mont Blanc, CH-1260 Nyon, Switzerland
+@BODYTEXT:41-22-994-2930
+@CCD1:Erika Darmstaedter, managing director
+@BODYTEXT:23 Howland St., London W1A 4XA United Kingdom
+@BODYTEXT:44-207-462-7766; fax:44-207-462-7967
+@CCD1:Richard Moss, managing director
+@BODYTEXT:Comstat/Rowland
+@BODYTEXT:1506 F.D. Roosevelt Ave., San Juan, P.R. 00922 Puerto Rico
+@BODYTEXT:787/622-1078; 787/622-3574
+@CCD1:Marisa Pont, president
+@BODYTEXT:
+@BODYTEXT:Advo
+@BODYTEXT:Berlex
+@BODYTEXT:Dermik Laboratories
+@BODYTEXT:Dermik Benzaclin
+@BODYTEXT:Dermik Carac
+@BODYTEXT:Dermik Penlac
+@BODYTEXT:Dermik Sculptura
+@BODYTEXT:ESI Design
+@BODYTEXT:Fenwick Group
+@BODYTEXT:Grand Hyatt Tokyo
+@BODYTEXT:Johnson & Johnson/Merck
+@BODYTEXT:Juvenile Diabetes Research Foundation
+@BODYTEXT:Mori Arts Center
+@BODYTEXT:Panera Bread
+@BODYTEXT:Pediatrix
+@BODYTEXT:Roche
+@BODYTEXT:Shanghai World Financial Center
+@BODYTEXT:Sanofi-Aventis
+@BODYTEXT:Sanofi Eligard
+@BODYTEXT:Sanofi Elitek
+@BODYTEXT:Saofi Eloxatin
+@BODYTEXT:Sanofi Hyalgan
+@BODYTEXT:Sanofi Taxotere
+@BODYTEXT:
+@CO:RPR MARKETING COMMUNICATIONS
+@BODYTEXT:136 E. 57th St., #505, New York, NY 10022
+@BODYTEXT:212/317-1462; fax:212/317-1776; RPRNY@aol.com
+@BODYTEXT:Full-service agency specializing in specialty consumer products & beauty and lifestyle; product launches, special media events, product placement, cause-related mktg. efforts, retail events, video & TV production. Employees: 12. Founded: 1995
+@CCD1:Regina Kulik, CEO; Cora Rood, president
+@BODYTEXT:Aveeno Skincare
+@BODYTEXT:Boucheron Watches
+@BODYTEXT:Givenchy Cosmetics, Skincare & Fragrances
+@BODYTEXT:Johnson’s Baby Products
+@BODYTEXT:Neutrogena Skincare & Cosmetics
+@BODYTEXT:
+@CO:RT&E PUBLIC RELATIONS
+@BODYTEXT:Part of RT&E Integrated Communications
+@BODYTEXT:1105 Market St., Wilmington, DE 19801
+@BODYTEXT:302/652-3211; fax:302/888-7884
+@BODYTEXT:www.rteideas.com
+@BODYTEXT:PR, bus.-to-bus., chemicals, electronics, transportation, interiors, active lifestyle, Mid-Atlantic tourism, real estate and economic development.
+@CCD1:Andrew Penney, president/partner
+@BODYTEXT:Delaware Lottery
+@BODYTEXT:DuPont: Chemical Solutions Enterprise; Bio-Based Materials; Advanced Fiber Systems (Kevlar, Nomex)
+@BODYTEXT:GE Capital Modular Space; GE Capital Tip
+@BODYTEXT:Lyondell Chemical Co.
+@BODYTEXT:Southco
+@BODYTEXT:University of Delaware
+@BODYTEXT:
+@CO:RUANE COMMUNICATIONS INC.
+@BODYTEXT:Member, Worldcom PR Group
+@BODYTEXT:580 W. Crossville Rd., #104, Roswell, GA 30075
+@BODYTEXT:678/585-0176
+@BODYTEXT:www.rcipr.com
+@BODYTEXT:Public relations, communications, media relations. Founded: 1992
+@AGENCY:Agency Statement: RUANE Communications is a full-service public relations agency, which offers director-level service at cost-effective rates. The firm has expertise in health care, consumer products, corporate communications and sports marketing.  RUANE is committed to becoming a true extension of our clients’ staffs, so they can depend on us to provide reliable turnkey service. RUANE has built a long track record of success, which has resulted in many satisfied clients. Our in-depth knowledge of the media, combined with our effective communication of key messages and aggressive pursuit of media placements, enables us to gain a high rate of message placements for our clients. The bottom-line: We provide great results at a fair price.
+@CCD1:John Ruane, president and CEO
+@BODYTEXT:
+@CO:RUBEL COMMUNICATIONS
+@BODYTEXT:313 Fretz Rd., Perkasie, PA 18944
+@BODYTEXT:215/249-4977; fax:249-0901
+@BODYTEXT:www.FuriaRubelPR.com
+@BODYTEXT:Integrated strategic comms. firm specializing in PR, mktg. & business dev.
+@CCD1:Gina Furia Rubel, president
+@BODYTEXT:JustCommunity, Inc.
+@BODYTEXT:Roska Direct Marketing
+@BODYTEXT:Sheller, Ludwig & Badey
+@BODYTEXT:
+@CO:RUBENSTEIN ASSOCIATES, INC.
+@BODYTEXT:1345 Ave. of the Americas, New York, NY 10105
+@BODYTEXT:212/843-8000; fax:212/843-9200; hrubenstein@rubenstein.com
+@BODYTEXT:General PR.  Employees: 170. Founded: 1954.
+@AGENCY:Agency Statement: Rubenstein Associates, Inc. is a full-service, results-driven public relations agency with a strong publicity orientation. By emphasizing the strategic  use of publicity, Rubenstein Associates strives to help a broad and diverse range of clients meet their specific business and professional objectives.
+@AGENCY:Founded in 1954, Rubenstein Associates is one of the largest independent public relations agencies in the world with a staff of 170 professionals well-schooled in media relations, business and financial communications, investor relations, public and governmental affairs, consumer and business-to-business marketing support, product publicity, internet, e-commerce, technology, crisis management and events. Howard J. Rubenstein, the founder of the firm and its president, actively supervises the firm day-to-day and also serves as a valued counselor to some of the most influential and high-profile corporations and individuals in the world today.
+@AGENCY:The firm’s varied roster of very active and well-known clients includes financial services concerns; real estate entrepreneurs, developers and managers; manufacturing and service companies; entertainment and publishing firms; large multinational corporations; sports teams; public figures and personalities; emerging businesses; law firms; universities; hospitals; museums; trade associations; non-profit organizations, and industry groups.
+@CCD1:Howard J. Rubenstein, president; Marcia Horowitz, Gary Lewi, Steven Rubenstein, senior executive VPs; Nancy Haberman, Jim Grossman, Pat Smith, Steve Solomon, Edna Wilson, Gerry Casanova, Gerald McKelvey, Bill Anderson, Amanita Duga-Carroll, Suzi Halpin, John Henderson, Alice McGillion, Debbie Raskin, Parke Spencer, Susie Arons, executive VPs
+@BODYTEXT:Albert Einstein College of Medicine
+@BODYTEXT:Alliance for the Arts
+@BODYTEXT:American Kennel Club
+@BODYTEXT:American Media
+@BODYTEXT:Association for a Better Long Island
+@BODYTEXT:Association for a Better NY
+@BODYTEXT:Atco Properties Mgmt.
+@BODYTEXT:Bear Stearns
+@BODYTEXT:Bloomberg
+@BODYTEXT:BMW of North America
+@BODYTEXT:Boston Properties
+@BODYTEXT:Capital Trust
+@BODYTEXT:City Univ. of NY
+@BODYTEXT:College Sports TV
+@BODYTEXT:Columbia University
+@BODYTEXT:Commerce Bank
+@BODYTEXT:Consolidated Edison
+@BODYTEXT:Cooper Union
+@BODYTEXT:Covenant House
+@BODYTEXT:Danielle Steele
+@BODYTEXT:David Blaine Productions
+@BODYTEXT:Daytop Village
+@BODYTEXT:Deloitte & Touche
+@BODYTEXT:Duchess of York
+@BODYTEXT:Empire Blue Cross Blue Shield
+@BODYTEXT:Fashion Institute of Technology
+@BODYTEXT:Fisher Bros.
+@BODYTEXT:Fordham Univ.
+@BODYTEXT:Fortunoff
+@BODYTEXT:Franklin Resources
+@BODYTEXT:Group Health, Inc.
+@BODYTEXT:Guggenheim Museum
+@BODYTEXT:Health Insur. Plan, Greater NY
+@BODYTEXT:Helen Keller National Center
+@BODYTEXT:Hunter College
+@BODYTEXT:Ian Schrager Hotels
+@BODYTEXT:Intrepid Museum
+@BODYTEXT:Jack Resnick & Sons
+@BODYTEXT:John Jay College
+@BODYTEXT:Kraft Foods Global, Inc.
+@BODYTEXT:Kushner Companies
+@BODYTEXT:Lifetime Television
+@BODYTEXT:Lone Star Steakhouse & Saloon
+@BODYTEXT:MacAndrews & Forbes Group
+@BODYTEXT:Mack-Cali Realty Corp.
+@BODYTEXT:Madame Tussaud's
+@BODYTEXT:Manhattan Theatre Club
+@BODYTEXT:Merck & Co.
+@BODYTEXT:Metropolitan Opera 
+@BODYTEXT:Metropolitan TV Assn.
+@BODYTEXT:Miami Convention & Visitors Bureau
+@BODYTEXT:Modell's Sporting Goods
+@BODYTEXT:Morgan Stanley
+@BODYTEXT:Mt. Sinai Medical Center
+@BODYTEXT:Muriel Siebert & Co.
+@BODYTEXT:National Hockey League
+@BODYTEXT:New York Bankers Assn.
+@BODYTEXT:New York Cares
+@BODYTEXT:New York Historical Society
+@BODYTEXT:New York Marathon Committee
+@BODYTEXT:New York Post
+@BODYTEXT:New York State Beer Wholesalers Assn.
+@BODYTEXT:New York Waterway
+@BODYTEXT:New York Yankees
+@BODYTEXT:News America Publising
+@BODYTEXT:News Corp.
+@BODYTEXT:North General Hospital
+@BODYTEXT:NYC 2012
+@BODYTEXT:NYU Medical Center
+@BODYTEXT:Panasonic
+@BODYTEXT:Partnership for New York City
+@BODYTEXT:Plaza Hotel
+@BODYTEXT:Quinnipiac University
+@BODYTEXT:Research Found. for Mental Health
+@BODYTEXT:Rockefeller Center
+@BODYTEXT:Rodale
+@BODYTEXT:Rudin Mgmt. Co., Inc.
+@BODYTEXT:Rush Communications
+@BODYTEXT:Salk Institute for Biological
+@BODYTEXT:School of Amer. Ballet
+@BODYTEXT:Silverstein Properties
+@BODYTEXT:Sony Music Entertainment
+@BODYTEXT:St. John's University
+@BODYTEXT:Stop & Shop
+@BODYTEXT:Templeton Funds
+@BODYTEXT:Times Square Business Improvement District
+@BODYTEXT:Tishman Realty & Construction Co.
+@BODYTEXT:Tishman Speyer Properties
+@BODYTEXT:Tribeca Film Institute
+@BODYTEXT:UJA-Federation
+@BODYTEXT:Uniformed Sanitationmen’s Assn.
+@BODYTEXT:United Federation of Teachers
+@BODYTEXT:Vornado Realty Trust
+@BODYTEXT:Walt Disney Company
+@BODYTEXT:Wellchoice, Inc.
+@BODYTEXT:Whitney Museum of American Art
+@BODYTEXT:Worldwide Pants - The Late Show with David Letterman
+@BODYTEXT:YES Network
+@BODYTEXT:Yeshiva Univ.
+@BODYTEXT:
+@CO:RUBENSTEIN PUBLIC RELATIONS
+@BODYTEXT:1345 Ave. of the Americas, 30th flr., New York, NY 10105
+@BODYTEXT:212/843-9222; fax:212/843-9275
+@BODYTEXT:www.rubensteinpr.com
+@BODYTEXT:Founded: 1987.
+@CCD1:Richard Rubenstein, president
+@BODYTEXT:Healthexpo
+@BODYTEXT:Meadowcroft Estate
+@BODYTEXT:Mikimoto America
+@BODYTEXT:New York College of Health Professions
+@BODYTEXT:Red Fish Farms
+@BODYTEXT:Related Rentals "Lifestyle Services"
+@BODYTEXT:Walter Turken Training for Adoption Program
+@BODYTEXT:Wycleff Jean
+@BODYTEXT:
+@CO:RUBIN COMMUNICATIONS, MICHAEL
+@BODYTEXT:613 Fourth St., #203-B, Santa Rosa, CA 95404
+@BODYTEXT:707/571-1521; fax:707/571-1809
+@BODYTEXT:General PR, consumer mktg., corp. comms., wine and food PR. Employees: 3. Founded: 1991
+@CCD1:Michael Rubin, principal
+@BODYTEXT:
+@CO:RUDER-FINN INC.
+@BODYTEXT:301 East 57th St., New York, NY 10022
+@BODYTEXT:212/593-6400; fax:212/715-1556
+@BODYTEXT:www.ruderfinn.com
+@BODYTEXT:General PR.  Employees: 700. Founded: 1948.
+@AGENCY:Agency Statement: Ruder Finn, Inc., a member of the Ruder Finn Group.
+@AGENCY:Over half a century ago, Ruder Finn, Inc. redefined our profession by developing programs for clients that created unmistakable identities.  Today, that reputation  for impacting public opinion and achieving positive change for our leading-edge clients has been extended around the world. Our insight and the breadth of hands-on experience have created some of the most successful communication campaigns of the last few decades. Ruder Finn clients include world organizations, blue chip companies and brands as well as Fortune 1000 companies.
+@AGENCY:As one of the world’s most respected, creative, and innovative public relations firms, Ruder Finn has a professional staff of approximately 700 in 15 cities around the world, and key practices in healthcare, technology, corporate strategy and branding as well as cultural and social issues. According to 
+@AGENCY:O'Dwyer's PR trade newsletter, Ruder Finn is ranked #1 PR agency in New York, based on resources and professional staff. We provide a full range of public relations services and strategic consulting as well as integrated communications for issues management, worldwide media placement, website design, interactive marketing, advertising, video production and printing services. In addition, Ruder Finn boasts one of the largest arts and culture practices in the world.
+@CCD1:Management Committee: David Finn, chairman; Kathy Bloomgarden, Peter Finn, CEOs; Dena Merriam, vice chmn.; Tony Esposito, EVP and CFO; Richard Funess, president, RF Americas; Michael Schubert, chief creative officer.
+@CCD1:New York Practice Leaders: Alicia Dollard (Technology), Christine Dusek (Corporate Reputation), Rick Frishman (Media Services), Anne Glauber (Global Issues), David Langston (Employee Marketing), Gail Moaney (Tourism & Economic Development), Karen Reina & Susan Smirnoff (Healthcare), Scott Schneider (Digital Studios), Bob Seltzer (Consumer Marketing), Rachel Spielman (Branding) and Judith Harrison (Human Resources).
+@BODYTEXT:211 E. Ontario, #1600, Chicago, IL 60611
+@BODYTEXT:312/644-6800; fax 312/932-0367; solomonh@ruderfinn.com
+@BODYTEXT:14000 Olympic Blvd., #850, Los Angeles, CA 90064
+@BODYTEXT:310/479-9929; fax 310/479-9989
+@CCD1:Howard Solomon, mng. dir., Chicago & Los Angeles
+@BODYTEXT:Ruder Finn/Switzer PR
+@BODYTEXT:388 Market St., #1400, San Francisco, CA 94111
+@BODYTEXT:415/541-0750; fax 415/541-0720; switzerj@ruderfinnswitzer.com
+@CCD1:Jessica Switzer, managing director
+@BODYTEXT:808  17th Street, #600, Washington, DC 20074
+@BODYTEXT:202/466-7800; fax 202/887-0905; keatings@ruderfinn.com
+@CCD1:Sharon Keating, VP of operations
+@BODYTEXT:Ruder Finn Israel
+@BODYTEXT:61 Keren Kayamet St., P.O. Box 7834, Rehavia, Jerusalem 91078
+@BODYTEXT:(972 2) 561-2005; fax (972 2) 561-9159;
+@BODYTEXT:levinec@ruderfinn.co.il
+@CCD1:Charley Levine, managing director
+@BODYTEXT:Ruder Finn U.K., Ltd.
+@BODYTEXT:ISIS House, 74 New Oxford St., London WC1A 1BL U.K.
+@BODYTEXT:(44-207) 462-8900; fax (44-207) 462-8999;
+@BODYTEXT:prestonj@rf.co.uk
+@CCD1:John Preston, mng. director
+@BODYTEXT:Ruder Finn France, Sarl
+@BODYTEXT:71 bis rue du Cardinal Lemoine, 75005 Paris, France
+@BODYTEXT:(33 1 56) 81 1500; fax (331 43) 25 0606;
+@BODYTEXT:mtran@ruderfinn.fr
+@CCD1:Mai Tran, mng. director
+@BODYTEXT:Ruder Finn Asia Limited
+@BODYTEXT:1 Coleman St., 08-11, The Adelphi, Singapore 179803
+@BODYTEXT:(65) 6235-4495; fax (65) 6235-7796;
+@BODYTEXT:harrisl@ruderfinnasia.com
+@CCD1: Louise Harris, mng. director
+@BODYTEXT:7th flr., Block 7, 789 Huang Pi Nan Road, Shanghai 200025, PRC
+@BODYTEXT:(86-21) 5383-1188; fax (86-21) 6248 3176;
+@BODYTEXT:cheni@ruderfinnasia.com
+@CCD1: Iris Chen, exec. VP
+@BODYTEXT:9th floor, Jubilee Center, Phase One, 18 Fenwick St., Wanchai, Hong Kong
+@BODYTEXT:(852) 2521-0800; fax (852) 2521-7088;
+@BODYTEXT:wonga@ruderfinnasia.com
+@CCD1: Anissa Wong, general manager
+@BODYTEXT:No. 10, Peace Rd., Overseas Chinese Village, Guangzhou, 510095 PRC
+@BODYTEXT:(86-20) 8349-5783; fax: (86-20) 8357-4902;
+@BODYTEXT:liang@ruderfinnasia.com
+@CCD1:Grace Liang 
+@BODYTEXT:E101, East Lake Villas, 35 Dongzhimenwai Main Street, Dongcheng District, Beijing  100027 China, PRC
+@BODYTEXT:(86-10) 6462 7321-26; fax (86-10) 6462 7327-28;
+@BODYTEXT:dumontj@ruderfinnasia.com
+@CCD1:Jean Michel Dumont, managing dir., Ruder Finn Asia
+@BODYTEXT:Rear 11 Lackey St., PO Box 364, Summer Hill NSW, Sydney, Australia 2130
+@BODYTEXT:(61-2) 9716-0489; fax: (61-2) 9716-0658;
+@BODYTEXT:austink@ruderfinnasia.com
+@CCD1:Kristin Austin
+@BODYTEXT:
+@BODYTEXT:1stAir.net
+@BODYTEXT:1-800-FLOWERS
+@BODYTEXT:A Different Future
+@BODYTEXT:AboveNet
+@BODYTEXT:Acumation
+@BODYTEXT:Ad Council
+@BODYTEXT:Adams Media Corp.
+@BODYTEXT:Air France
+@BODYTEXT:Albert Ellis Institute
+@BODYTEXT:All-America Rose Selections
+@BODYTEXT:Alliance Data Systems
+@BODYTEXT:Ambient Devices
+@BODYTEXT:American Automobile Association
+@BODYTEXT:AMS/Towerstreet
+@BODYTEXT:Antony Todd
+@BODYTEXT:Arelnet (Israel)
+@BODYTEXT:Arena Football League
+@BODYTEXT:Armand Hammer
+@BODYTEXT:ARTS Inc.
+@BODYTEXT:Astra Medica
+@BODYTEXT:Astra/Takeda
+@BODYTEXT:Audi of America, Inc.
+@BODYTEXT:Bank of New York (Israel)
+@BODYTEXT:Barbados Investment & Development Corp.
+@BODYTEXT:BAWLS
+@BODYTEXT:Baxx.net
+@BODYTEXT:BetonSports.com
+@BODYTEXT:Bible Lands Museum
+@BODYTEXT:Biomerieux
+@BODYTEXT:Bioport
+@BODYTEXT:Brahma Kumaris
+@BODYTEXT:Bristol-Myers Squibb
+@BODYTEXT:Brookings Institution
+@BODYTEXT:CadCentre
+@BODYTEXT:California Arts Council
+@BODYTEXT:Cambridge Credit
+@BODYTEXT:Catskill Assn. for Tourism Services
+@BODYTEXT:CCAT
+@BODYTEXT:Century Council
+@BODYTEXT:Cepf
+@BODYTEXT:Children’s Dietary Health & Nutrition Foundation
+@BODYTEXT:Cilag Dermatology
+@BODYTEXT:Citibank
+@BODYTEXT:City of Los Angeles/Youth Workforce Development
+@BODYTEXT:Citysearch
+@BODYTEXT:Cleveland Museum of Modern Art
+@BODYTEXT:Clockwise
+@BODYTEXT:Coastview Capital
+@BODYTEXT:Common Cause 
+@BODYTEXT:CommonQuest
+@BODYTEXT:Compugen
+@BODYTEXT:Comsys (Israel)
+@BODYTEXT:Concord Communications
+@BODYTEXT:Countrywide Financial
+@BODYTEXT:CREO (Israel)
+@BODYTEXT:CSAT
+@BODYTEXT:Deloitte & Touche
+@BODYTEXT:Downtown NYC River to River Festival
+@BODYTEXT:D-Pharma (Israel)
+@BODYTEXT:DSPG (Israel)
+@BODYTEXT:Ebedroom.com
+@BODYTEXT:Efoora
+@BODYTEXT:El Al Israel Airlines Ltd.
+@BODYTEXT:Electric Aquagenics Unlimited
+@BODYTEXT:El Museo del Barrio
+@BODYTEXT:Electronic Paper Exchange
+@BODYTEXT:Embassy Suites Hotels
+@BODYTEXT:Energy Conversion Devices
+@BODYTEXT:ESPN Magazine
+@BODYTEXT:Eurocancer
+@BODYTEXT:Factory & Party Outlet
+@BODYTEXT:Family Violence Prevention Fund
+@BODYTEXT:FDG Associates
+@BODYTEXT:Financial Times Interactive Data
+@BODYTEXT:FNC
+@BODYTEXT:Fod Motor Company
+@BODYTEXT:Forest Laboratories, Inc.
+@BODYTEXT:Forsythe Solutions
+@BODYTEXT:Forum for Women Entrepreneurs
+@BODYTEXT:GE International Inc.
+@BODYTEXT:Genometrix
+@BODYTEXT:GeoTrust
+@BODYTEXT:Gerber Products Co.
+@BODYTEXT:The J. Paul Getty Trust
+@BODYTEXT:Glo-Via
+@BODYTEXT:HarperCollins Publishers
+@BODYTEXT:Hartford Image Project
+@BODYTEXT:HEAF
+@BODYTEXT:Hidenet (Israel)
+@BODYTEXT:Hillwood
+@BODYTEXT:HK Strategy & Finance
+@BODYTEXT:Home Access Health
+@BODYTEXT:Homewood Suites by Hilton
+@BODYTEXT:Hospice for the Carolinas
+@BODYTEXT:Howard Gilman Institute for Valvular Heart Disease
+@BODYTEXT:ICA
+@BODYTEXT:ICEJ
+@BODYTEXT:ICG Commerce
+@BODYTEXT:Indix Pharmaceutical
+@BODYTEXT:Indocs (Israel)
+@BODYTEXT:Infonet
+@BODYTEXT:Inforte
+@BODYTEXT:Initiate
+@BODYTEXT:InnoZen
+@BODYTEXT:Intelligent Information Systems
+@BODYTEXT:Intercultural Cancer Council
+@BODYTEXT:InterDigital Communications Corp.
+@BODYTEXT:Interface Software
+@BODYTEXT:International Assn. for Human Values
+@BODYTEXT:Invus
+@BODYTEXT:ISA Services
+@BODYTEXT:Itech
+@BODYTEXT:Jamaica Tourist Board
+@BODYTEXT:JANMA
+@BODYTEXT:Japan Society
+@BODYTEXT:Japanese American National Museum
+@BODYTEXT:Jeff Hawkins
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:Katsof
+@BODYTEXT:KEC Holdings, Inc.
+@BODYTEXT:Keppel Consulting
+@BODYTEXT:Keurig
+@BODYTEXT:KMR
+@BODYTEXT:Lava Trading
+@BODYTEXT:Learning Framework
+@BODYTEXT:LEGO Systems, Inc.
+@BODYTEXT:Lincoln Center Redevelopment Project
+@BODYTEXT:Logistics.com
+@BODYTEXT:Los Angeles Philharmonic/Walt Disney Concert Hall
+@BODYTEXT:Leukemia & Lymphoma Society
+@BODYTEXT:Made2Manage
+@BODYTEXT:Marsh McLennan
+@BODYTEXT:Martell
+@BODYTEXT:McNeil Consumer & Specialty Pharmaceuticals
+@BODYTEXT:MedAssets
+@BODYTEXT:Media Group
+@BODYTEXT:Richard Meier & Partners
+@BODYTEXT:Millenium Park
+@BODYTEXT:Merial
+@BODYTEXT:MGCF
+@BODYTEXT:Michaels & Jackson
+@BODYTEXT:Michelin
+@BODYTEXT:Microgaming
+@BODYTEXT:The Middle East Institute
+@BODYTEXT:The Miho Museum
+@BODYTEXT:Mobius
+@BODYTEXT:Model U.N.
+@BODYTEXT:Morgan Stanley
+@BODYTEXT:Mori Art Center/Mori Building Co.
+@BODYTEXT:Moshal
+@BODYTEXT:Moto Guzzi (Italy)
+@BODYTEXT:Museum of Modern Art
+@BODYTEXT:Museum of Glass
+@BODYTEXT:The Museum of World Religions
+@BODYTEXT:National Council on Patient Information and Education (NCIPIE)
+@BODYTEXT:National Geographic Society
+@BODYTEXT:National Patients Rights Foundation
+@BODYTEXT:National Rural Electric Cooperative Assn.
+@BODYTEXT:Natural History Museum
+@BODYTEXT:Network for Good
+@BODYTEXT:NEC America
+@BODYTEXT:NEC Labs
+@BODYTEXT:NEC USA
+@BODYTEXT:Network for Good
+@BODYTEXT:Neurovisions
+@BODYTEXT:New York Life
+@BODYTEXT:Newseum
+@BODYTEXT:Norsk Hydro
+@BODYTEXT:North Face, The
+@BODYTEXT:Norton Simon Museum
+@BODYTEXT:Novartis
+@BODYTEXT:Novartis Oncology
+@BODYTEXT:Open Mind Initiative
+@BODYTEXT:OpinionWare
+@BODYTEXT:Opus Foundation
+@BODYTEXT:ORINCON Corporation International
+@BODYTEXT:Orsus
+@BODYTEXT:Ortho-Clinical
+@BODYTEXT:Ortho-McNeil Pharmaceutical
+@BODYTEXT:PaineWebber Inc.
+@BODYTEXT:Palm Beach Institute of Contemporary Art
+@BODYTEXT:Parrish Art Museum
+@BODYTEXT:Partec
+@BODYTEXT:Pasteur Merieux Connaught
+@BODYTEXT:PayCycle
+@BODYTEXT:Performing Arts Center
+@BODYTEXT:Pfizer, Inc.
+@BODYTEXT:Philadelphia Art Museum
+@BODYTEXT:Pinnacle Systems (China)
+@BODYTEXT:Planet Portal
+@BODYTEXT:Polshek Partnership
+@BODYTEXT:Premium Standard Farms
+@BODYTEXT:Prochon Biotech (Israel)
+@BODYTEXT:Pronto Networks
+@BODYTEXT:Provia
+@BODYTEXT:Rampal
+@BODYTEXT:RBI
+@BODYTEXT:RCN
+@BODYTEXT:Reckson Service Industry
+@BODYTEXT:Remy Amerique
+@BODYTEXT:Retinoblastoma International (RBI)
+@BODYTEXT:Richard Meier & Partners
+@BODYTEXT:Riverstone Networks (China)
+@BODYTEXT:Rome Cavalieri Hilton
+@BODYTEXT:Roosevelt Hotel, The
+@BODYTEXT:S.J.R. Associates (Israel)
+@BODYTEXT:Salans Law Firm
+@BODYTEXT:Sanofi-Synthelabo
+@BODYTEXT:SDC
+@BODYTEXT:SDI 541
+@BODYTEXT:Seagrams
+@BODYTEXT:Seattle Art Museum
+@BODYTEXT:SeaWeb
+@BODYTEXT:SemBiosys Genetics Inc
+@BODYTEXT:Sheinfeld Construction
+@BODYTEXT:Shumei International
+@BODYTEXT:Silk Road
+@BODYTEXT:Simon Wiesenthal Center
+@BODYTEXT:Sirtex Medical
+@BODYTEXT:Society of Actuaries
+@BODYTEXT:Softwatch
+@BODYTEXT:Software Council of Southern California (SCSC)
+@BODYTEXT:Solel
+@BODYTEXT:Sony
+@BODYTEXT:South African Airways
+@BODYTEXT:SpendCash.com
+@BODYTEXT:Square Enix
+@BODYTEXT:St. Martin’s Press
+@BODYTEXT:State Capital Law Firm Group
+@BODYTEXT:Suite101.com
+@BODYTEXT:TED Prize
+@BODYTEXT:Thompson Financial
+@BODYTEXT:3M
+@BODYTEXT:Transgene
+@BODYTEXT:The Tobe Report
+@BODYTEXT:UBS
+@BODYTEXT:UDI/campusgroups: campusgroups.com
+@BODYTEXT:Ucmore (Israel)
+@BODYTEXT:UNDP
+@BODYTEXT:Unite LA
+@BODYTEXT:United Nations Development Fund for Women
+@BODYTEXT:V-Entertainment
+@BODYTEXT:Veritas (Israel)
+@BODYTEXT:Vidius
+@BODYTEXT:Viewlocity.com
+@BODYTEXT:Vilcom
+@BODYTEXT:VHP
+@BODYTEXT:VP Records
+@BODYTEXT:Weight Watchers International
+@BODYTEXT:The White House
+@BODYTEXT:Women Matter
+@BODYTEXT:Women's Peace Summit
+@BODYTEXT:XOsoft
+@BODYTEXT:Zemedix
+@BODYTEXT:Zengen
+@BODYTEXT:Zoomix (Israel)
+@BODYTEXT:
+@CO:RUDERMAN PUBLIC RELATIONS, HARRIETT
+@BODYTEXT:44 Harbor Park Dr., Port Washington, NY 11050
+@BODYTEXT:516/484-9245
+@BODYTEXT:Big Blue
+@CCD1:Harriett Ruderman
+@BODYTEXT:Big Blue
+@BODYTEXT:Charmer Industries
+@BODYTEXT:Citizens Watch Co.
+@BODYTEXT:Davis Vision
+@BODYTEXT:Dri Mark Products
+@BODYTEXT:
+@CO:RUNYON SALTZMAN & EINHORN
+@BODYTEXT:One Corporate Mall, #400, Sacramento, CA 95814
+@BODYTEXT:916/446-9900
+@BODYTEXT:Specializes in PR, adv., PA. Founded: 1960.
+@CCD1:Estelle Saltzman, pres.; Chris Holben, VP
+@BODYTEXT:Robeks Corp.
+@BODYTEXT:
+@CO:RUSS REID COMPANY
+@BODYTEXT:2 North Lake Ave., #600, Pasadena, CA 91101
+@BODYTEXT:626/449-6100; fax:626/449-6190
+@BODYTEXT:www.russreid.com
+@BODYTEXT:Advertising and PR: humanitarian, healthcare, cause-related non-profit orgs., social marketing; marketing comms. Employees: 6 in PR; 110 total. Founded: 1964.
+@CCD1:Thomas A. Harrison, exec. VP
+@BODYTEXT:American Cancer-California
+@BODYTEXT:American Red Cross/Inland Empire
+@BODYTEXT:House Ear Institute
+@BODYTEXT:Los Angeles Mission
+@BODYTEXT:
+@CO:RUSSELL & COMPANY, C.
+@BODYTEXT:224 E. Douglas, #500, Wichita, KS 67260
+@BODYTEXT:316/932-9000; fax:316/932-9001
+@BODYTEXT:www.crusselandco.com
+@BODYTEXT:Corp. comms., employee comms., PR. Founded: 1997.
+@CCD1:Carolyn Russell, principal
+@BODYTEXT:
+@CO:RUSSELL & HERDER
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:100 South Fifth St., #1295, Minneapolis, MN 55419
+@BODYTEXT:800/450-3055; fax:612/333-7636; chris.murphy@russellherder.com
+@BODYTEXT:Full-service agency specializing in strategic planning, PR, creative work, research and interactive development, brand dev., website design and marketing, media and event planning. Founded: 1984. Employees: 40
+@CCD1:Christopher Murphy, VP, corporate comms.; Carol Russell, Brian Herder, principals
+@BODYTEXT:Anchor Wall Systems
+@BODYTEXT:Bemidji State University
+@BODYTEXT:Benedictine Health System
+@BODYTEXT:Genmar
+@BODYTEXT:Herdricks Regional Health Care
+@BODYTEXT:Minnesota Thunder
+@BODYTEXT:
+@CO:RUSSELL PARTNERS INC., C/A
+@BODYTEXT:678 Grant St., Denver, CO 80203
+@BODYTEXT:303/860-1040; fax:303/831-1724; charlie@carussellpartners.com
+@BODYTEXT:www.carussellpartners.com
+@BODYTEXT:Employees: 4. Founded: 1984. Corporate PR, issues, crisis, marketing
+@CCD1:Charles Russell, president; Anita Russell, exec. VP
+@BODYTEXT:
+@CO:RUTH GROUP, THE
+@BODYTEXT:141 Fifth Ave., 5th flr., New York, NY 10010
+@BODYTEXT:646/536-7000; fax:646/536-7100; cruth@theruthgroup.com
+@BODYTEXT:Investor relations, media rels., crisis & corporate communications, M&A, positioning, and branding. Employees: 15. Founded: 1999.
+@CCD1:Carol Ruth, president & CEO; Corey Cutler, exec. VP; David Pasquale, Greg Tiberend, Jeff Goldberger, senior VPs; Stephenie Carrington, VP
+@BODYTEXT:BoneCare
+@BODYTEXT:ChipPAC
+@BODYTEXT:Covalent Group Inc.
+@BODYTEXT:Evergreen Solar
+@BODYTEXT:Genetic Technologies
+@BODYTEXT:Immunicon Corp.
+@BODYTEXT:Immtech International
+@BODYTEXT:InTest Corp.
+@BODYTEXT:LogicVision, Inc.
+@BODYTEXT:On Assignment
+@BODYTEXT:Overstock.com
+@BODYTEXT:Sangart, Inc.
+@BODYTEXT:SeeBeyond
+@BODYTEXT:Sina Corp.
+@BODYTEXT:SRA International
+@BODYTEXT:Sterling Bancorp
+@BODYTEXT:Sterling National Mortgage
+@BODYTEXT:TransAct Technologies Inc.
+@BODYTEXT:Trimble
+@BODYTEXT:Windrose Medical Properties Trust
+@BODYTEXT:
+@CO:RX COMMUNICATIONS GROUP, LLC
+@BODYTEXT:445 Park Ave., 10th flr., New York, NY 10022
+@BODYTEXT:917/322-2571; fax:917/322-2570
+@BODYTEXT:www.rxir.com
+@BODYTEXT:Financial communications for the healthcare/lifesciences industry. Founded: 2000.
+@CCD1:Melody A. Carey, Rhonda Chiger,  co-presidents
+@BODYTEXT:Alexion Pharmaceuticals, Inc.
+@BODYTEXT:Bone Care International, Inc.
+@BODYTEXT:Curon Medical, Inc.
+@BODYTEXT:Dr. Reddy's Laboratories, Inc.
+@BODYTEXT:ImpactRx, Inc.
+@BODYTEXT:Syngenta AG
+@BODYTEXT:
+@CO:RYAN ASSOCIATES, INC., CHARLES
+@BODYTEXT:300 Summers St., #1100, Charleston, WV 25301
+@BODYTEXT:304/342-0161; fax:304/342-1941
+@BODYTEXT:www.charlesryan.com
+@BODYTEXT:Integrated marketing communications for corp., utilities, fin’l, health care, interactive communications, PR and adv. svcs. Employees: 65.
+@AGENCY:.
+@CCD1:Charles Ryan, chmn. & CEO; Harry Peck, president & COO; Joe Gollehon, president of PR; John Auge, president of advertising; David Sampson, CFO; Tom Winner, vice president 
+ 
+
+@BODYTEXT:American Electric Power
+@BODYTEXT:CHA Health
+@BODYTEXT:Charleston Area Medical Center
+@BODYTEXT:Dow Chemical
+@BODYTEXT:Edison Mission Energy
+@BODYTEXT:Flexsys
+@BODYTEXT:Go-Mart
+@BODYTEXT:Greater Richmond Chamber of Commerce
+@BODYTEXT:Kentucky Transportation Cabinet
+@BODYTEXT:Michael Baker Corp.
+@BODYTEXT:Motion Picture Assn. of America
+@BODYTEXT:NTELOS
+@BODYTEXT:Peabody Coal
+@BODYTEXT:Pilgrim’s Pride
+@BODYTEXT:Purdue Pharma
+@BODYTEXT:Toyota Motor Manufacturing: WV & No. America
+@BODYTEXT:Toyota Motor Sales, USA Inc.
+@BODYTEXT:Trilegiant Loyalty Solutions
+@BODYTEXT:Virginia Dept. of Transportation
+@BODYTEXT:Virginia Transportation Construction Alliance
+@BODYTEXT:West Virginia Lottery
+@BODYTEXT:West Virginia Tourism Division
+@BODYTEXT:Woolpert Engineering
+@BODYTEXT:
+@CO:RYAN PUBLIC RELATIONS
+@BODYTEXT:2612 Hurley Mountain Rd., Kingston, NY 12401
+@BODYTEXT:845/339-7858; fax:845/339-3404; phil@ryanpr.biz
+@BODYTEXT:www.ryanpr.biz
+@BODYTEXT:Marketing comms. and public relations for professional services firms, business-to-business. Founded: 1981
+@CCD1:Philip G. Ryan, president
+@BODYTEXT:John J. Davis & Assocs.
+@BODYTEXT:Novations/J. Howard & Assocs.
+@BODYTEXT:Novations Selection, Development & Comms.
+@BODYTEXT:Securities Training Corp.
+@BODYTEXT:
+@CO:RYDER COMMUNICATIONS, ELLEN
+@BODYTEXT:580 Broadway, #1201, New York, NY 10024
+@BODYTEXT:212/226-6563; fax:212/274-8417
+@BODYTEXT:Full-service PR firm specializing in work for authors, publishers, literary and art organizations. Employees: 4. Founded: 1994.
+@CCD1:Ellen Ryder, pres.
+@BODYTEXT:Art Resource
+@BODYTEXT:National Book Foundation
+@BODYTEXT:New York University Press
+@BODYTEXT:Philadelphia Magazine
+@BODYTEXT:Picador
+@BODYTEXT:

@@ -1,0 +1,1353 @@
+@BREAKER:K
+
+@CO:KAHAN ASSOCIATES, NANCY
+@BODYTEXT:PO Box 1921, Lakeville, CT 06039
+@BODYTEXT:860/435-4884; fax:860/435-4945
+@BODYTEXT:Creative marketing, special events and PR. Founded: 1990
+@CCD1:Nancy Kahan, pres.
+@BODYTEXT:
+@CO:KAHN TRAVEL COMMUNICATIONS (KTC)
+@BODYTEXT:77 North Centre Ave., #215, Rockville Ctr., NY 11570
+@BODYTEXT:516/594-4100
+@BODYTEXT:PR, marketing, consulting and publishing company for hospitality industry.
+@CCD1:Richard S. Kahn, founder and president; Linda Kahn, VP; Hilari Graff, acct. director; Theresa Oaks, Kristen Schneider, Diana Jones, senior A/Es; Joshua Kahn, A/E; Anne Daloia, project admin.
+@BODYTEXT:Blue Horizons Garden Hotel, Grenada
+@BODYTEXT:Bolongo Bay Beach Club, St. Thomas
+@BODYTEXT:Caribbean Tourism Organization
+@BODYTEXT:Club Getaway, Kent, CT
+@BODYTEXT:Garden City Hotel, New York
+@BODYTEXT:Grafton Beach Resort, Tobago
+@BODYTEXT:Hospitality Sales & Mktg. Assn. Int’l (HSMAI)
+@BODYTEXT:Interval International
+@BODYTEXT:La Cabana All Suite Beach Resort, Aruba
+@BODYTEXT:Le Grand Courlan Spa Resort, Tobago
+@BODYTEXT:Pink Beach Club, Bermuda
+@BODYTEXT:Radisson Cable Beach Resort, Bahamas
+@BODYTEXT:Rich Worldwide Travel
+@BODYTEXT:Ritz Tours, Asia
+@BODYTEXT:Spice Island Beach Resort, Grenada
+@BODYTEXT:Vacation.com
+@BODYTEXT:Victoria Cruises, China
+@BODYTEXT:
+@CO:KAISER MARKETING
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:1631 Pontius Ave., W. Los Angeles, CA 90025
+@BODYTEXT:310/479-8999; fax:310/479-8006
+@BODYTEXT:www.kaisermarketing.com
+@BODYTEXT:PR, adv., automotive, entertainment, financial, sporting goods, travel/ hotels/airlines.  Founded: 1971.
+@CCD1:Michael Kaiser, chmn./CEO
+@BODYTEXT:
+@CO:KALT ROSEN & CO.
+@BODYTEXT:220 Montgomery St., #1900, San Francisco, CA 94104
+@BODYTEXT:415/397-2686; fax:415/781-3458
+@BODYTEXT:Financial/investor relations, corp. comms. and PR for companies and organizations.  Employees: 6. Founded: 1982.
+@AGENCY:Agency Statement: Headquartered in San Francisco, KRC enables clients throughout the West and across the nation to develop and implement results-oriented programs that target investors, media and other critical audiences. A small team of experienced professionals provides counsel, develops strategies and messaging, arranges investor meetings, communicates with shareholders, garners media coverage, and measures impact. For some clients we act as the IR or CorpComm Department; for others we supplement internal functions with "risk management" reflecting experience across a broad client range or by supplementing internal resources with skills and manpower not available on staff.
+@AGENCY:We don't seek awards for our work, only results and client satisfaction.
+@CCD1:Howard Kalt, Neal Rosen, principals; Pierre Hirsch
+@BODYTEXT:Beckman Coulter, Inc.
+@BODYTEXT:Catalyst Semiconductor
+@BODYTEXT:Catalytica Energy Systems
+@BODYTEXT:ClickSoftware Technologies
+@BODYTEXT:Digital Impact, Inc.
+@BODYTEXT:Dolby Laboratories, Inc.
+@BODYTEXT:Extended Systems Inc.
+@BODYTEXT:Hecla Mining
+@BODYTEXT:Indus Int’l Inc.
+@BODYTEXT:NeuStar, Inc.
+@BODYTEXT:Rio Narcea
+@BODYTEXT:Riverstone Networks, Inc.
+@BODYTEXT:Smart & Final
+@BODYTEXT:Thoratec Corp.
+@BODYTEXT:VantageMed Corp.  
+@BODYTEXT:
+@CO:KALVIN PUBLIC RELATIONS
+@BODYTEXT:114 Ogden Ave., 2nd flr., Dobbs Ferry, NY 10522
+@BODYTEXT:914/693-0123; fax:914/693-5111; jkalvin@kalvinpr.com
+@BODYTEXT:Full-service PR & comms. firm. corp.
+@CCD1:Judy Kalvin, president
+@BODYTEXT:
+@CO:KAMBER GROUP, THE
+@BODYTEXT:1775 K St., NW., #620, Washington, DC 20006
+@BODYTEXT:202/223-8700; fax:202/659-5559; dc@kamber.com
+@BODYTEXT:www.kamber.com
+@BODYTEXT:Public affairs/advocacy, graphic design, media production, mktg., campaigns, convention services. Employees: 50. Founded: 1980.
+@CCD1:Victor Kamber, pres. & CEO; Thomas J. Mackell, mng. director; Pamela Greenwall, dir., client svcs.; Lee Huber, graphic design director; Jim Cummins, video production
+@BODYTEXT:801 Second Ave., New York, NY 10017
+@BODYTEXT:212/983-6100
+@CCD1:Nicole Korkolis, senior VP; Richard Ahorn, sr. VP-public policy
+@BODYTEXT:
+@BODYTEXT:African American Strategic Planning Group
+@BODYTEXT:Airbus
+@BODYTEXT:Amalgamated Life Insurance Co.
+@BODYTEXT:Amalgamated Transit Union
+@BODYTEXT:Atlantic Council of the United States
+@BODYTEXT:Boies Schiller & Flexner
+@BODYTEXT:Center for Marine Conservation
+@BODYTEXT:Coalition of University Employees
+@BODYTEXT:Defenders of Wildlife
+@BODYTEXT:First Union Bank
+@BODYTEXT:International Lawyers Network
+@BODYTEXT:International Longshoreman’s Assn.
+@BODYTEXT:Laborer’s Int’l Union of No. America
+@BODYTEXT:Lawphone
+@BODYTEXT:National Coordinating Committee for Multi-Employer Plans
+@BODYTEXT:National Energy Management Institute
+@BODYTEXT:National Law Enforcement Officers Memorial Fund
+@BODYTEXT:National Parks and Conservation Assn.
+@BODYTEXT:Office & Professional Employees Int’l Union
+@BODYTEXT:Retail Wholesale and Dept. Store Union
+@BODYTEXT:Safe Alert
+@BODYTEXT:Sheet Metal Workers’ Int’l Assn.
+@BODYTEXT:The Freddie Mac Foundation
+@BODYTEXT:The Nature Conservancy
+@BODYTEXT:The Phi Beta Kappa Society
+@BODYTEXT:United Assn. of Journeymen and Apprentices of Plumbing & Pipefitting Industry
+@BODYTEXT:U.S. Dept. of Education
+@BODYTEXT:U.S. Dept. of Labor
+@BODYTEXT:Washington Coalition for Comfort Women Issues, Inc.
+@BODYTEXT:Work and Family Benefits
+@BODYTEXT:
+@CO:KAMER CONSULTING GROUP
+@BODYTEXT:Larry Kamer joined Manning, Selvage & Lee
+@BODYTEXT:
+@BODYTEXT:
+@CO:KANCEN ADVERTISING/PUBLIC RELATIONS
+@BODYTEXT:Box 221, Salina, KS 67402
+@BODYTEXT:785/823-6356; fax:785/827-3029
+@BODYTEXT:PR and advertising for argriculture/gardening, automotive, recreation, sporting goods.  Founded: 1954.
+@CCD1:Robert D. McClure, president
+@BODYTEXT:AC Sport Colanders
+@BODYTEXT:Ag Trailer
+@BODYTEXT:Bell & Carlson Fiberglass
+@BODYTEXT:Grain Belt Mill Equip.
+@BODYTEXT:MMI Farm Equip.
+@BODYTEXT:
+@CO:KANTER + CO.
+@BODYTEXT:5313 Lee Hwy., 2nd flr., Arlington, VA 22207
+@BODYTEXT:703/534-2150; fax:703/534-6199
+@BODYTEXT:www.kanterandcompany.com
+@BODYTEXT:Financial public relations specializing in mutual fund publicity.
+@CCD1:Victoria Odinotska, pres.
+@BODYTEXT:
+@CO:KAPLOW COMMUNICATIONS, INC.
+@BODYTEXT:19 West 44th St., #601, New York, NY 10036
+@BODYTEXT:212/221-1713; fax:212/768-1960; evan@kaplowpr.com
+@BODYTEXT:Full-service firm specializing in beauty, consumer products, consumer health field, lifestyle and Internet consumer technology clients.  Employees: 42. Founded: 1991.
+@AGENCY:Agency Statement: We are a full-service firm specializing in consumer marketing through public relations. We create long-term partnerships with our clients by providing outstanding service and strategic results. The programs we develop are designed to help clients achieve specific business goals and garner quantifiable results--be it brand marketing, consumer trial or positioning. At the same time, we thrive on developing new ways to execute creative programs.
+@AGENCY:We service clients in the Internet, new media and e-commerce arena; beauty, personal care and consumer healthcare areas; home furnishings; as well as business-to-business.
+@CCD1:Liz Kaplow, pres. & CEO; Evan B. Jacobs, CFO; Marjorie Cader, Tina Haskins, senior VPs; Bonnie Rothman Morris,  Therese Lowe, Leo Schmerl, Beth Kitnger, VPs
+@BODYTEXT:Avon/mark
+@BODYTEXT:Cosmetic Executive Women Beauty Awards
+@BODYTEXT:CVS
+@BODYTEXT:EBay
+@BODYTEXT:Leap Frog
+@BODYTEXT:Lawyers.com
+@BODYTEXT:Mondavi Wine
+@BODYTEXT:NetFlix
+@BODYTEXT:Shiseido Cosmetics America
+@BODYTEXT:St. Ives
+@BODYTEXT:Target
+@BODYTEXT:
+@CO:KARBO/FONKALSRUD COMMUNICATIONS
+@BODYTEXT:81 Langton St., #10, San Francisco, CA 94103
+@BODYTEXT:415/255-6510; fax:415/503-0744; info@kfcomm.com
+@BODYTEXT:www.kfcomm.com
+@BODYTEXT:Full-service public relations.  Employees: 6. Founded: 2001.
+@CCD1:Julie Karbo, Dave Fonkalsrud, principals
+@BODYTEXT:Arcwave
+@BODYTEXT:Caymas Systems
+@BODYTEXT:Composite Software
+@BODYTEXT:Equinix
+@BODYTEXT:Network Physics
+@BODYTEXT:Traffic Relief Alliance
+@BODYTEXT:
+@CO:KARWOSKI & COURAGE
+@BODYTEXT:Subsidiary of Martin/Williams Inc., an Omnicom Group company
+@BODYTEXT:60 S. Sixth St., #2500, Minneapolis, MN 55402
+@BODYTEXT:612/342-9898; fax:612/342-4340
+@BODYTEXT:www.creativepr.com
+@BODYTEXT:Marketing, interactive, crisis PR, media rels., event marketing, employee comms., issues mgmt. Employees: 17. Founded: 1993.
+@CCD1:Glenn Karwoski, sr. VP, managing director
+@BODYTEXT:
+@CO:KATCHER VAUGHN & BAILEY
+@BODYTEXT:5141 Virginia Way, #420, Brentwood, TN 37027
+@BODYTEXT:615/248-8202; fax:615/248-8120; kvbmail@kvbpr.com
+@BODYTEXT:PR, marketing planning, crisis comms., media rels., publicity, strategic social responsibility.; financial, consumer, real estate development, utilities, and health.  Employees: 13. Founded: 1996.
+@CCD1:Aileen Katcher, Roy Vaughn, Greg Bailey, Nancy Holding DeKalb, principals
+@BODYTEXT:American Hometown Publishing Inc.
+@BODYTEXT:Blue Cross/Blue Shield of Tennessee
+@BODYTEXT:Comcast Cable
+@BODYTEXT:First Tennessee
+@BODYTEXT:Franklin American Mortgage Championship
+@BODYTEXT:Global Cash Access
+@BODYTEXT:Harrah's Metropolis Casino
+@BODYTEXT:Mailnet Services Inc.
+@BODYTEXT:Pharmaceutical Research and Manufacturers of America
+@BODYTEXT:Smith Seckman Reid, Inc.
+@BODYTEXT:Tennessee Medical Assn.
+@BODYTEXT:Tennessee Wildlife Federation
+@BODYTEXT:Wal-Mart Stores, Inc.
+@BODYTEXT:
+@CO:KAUFMAN RYAN STRAL INC.
+@BODYTEXT:650 No. Dearborn St., #700, Chicago, IL 60610
+@BODYTEXT:312/649-9408; fax:312/649-9418; info@bworld.com
+@BODYTEXT:www.bworld.com
+@BODYTEXT:PR, counseling, marketing, promotion, specializing in  bus.-to-bus. Employees: 7. Founded: 1960.
+@CCD1:Laurence Kaufman, chmn.; Robert Ryan, pres.  
+@BODYTEXT:Belmont Trading (electronic components)
+@BODYTEXT:Bison Gear & Engineering
+@BODYTEXT:Coombs Assocs.
+@BODYTEXT:Electronic Distribution Show Corp.
+@BODYTEXT:Electronics Representatives Assn.
+@BODYTEXT:Nelson & Assocs.
+@BODYTEXT:
+@CO:KAZA ASSOCIATES, INC., PAUL
+@BODYTEXT:1233 Shelburne Rd. C-3, South Burlington, VT 05403
+@BODYTEXT:802/863-5956; fax:802/864-8232
+@BODYTEXT:www.paulkaza.com
+@BODYTEXT:PR and advertising for bus.-to-bus., creative, direct marketing. Founded: 1981
+@CCD1:Paul Kaza, president; Rachel Carter, dir. of PR
+@BODYTEXT:Fletcher Allen Health Care
+@BODYTEXT:Vermont Fish & Wildlife
+@BODYTEXT:Vermont Tourism
+@BODYTEXT:Woodstock Inn & Resort
+@BODYTEXT:
+@CO:KC PUBLIC RELATIONS, INC. (KCPR)
+@BODYTEXT:3400 Peachtree Road, NE, #939, Atlanta, GA 30326
+@BODYTEXT:404/233-3993
+@BODYTEXT:www.kcpr.net
+@BODYTEXT:Boutique PR firm, hospitality, retail and entertainment
+@CCD1:Karen Canavan and Kristin Cowart, principals
+@BODYTEXT:McCormick & Schmick’s Seafood Restaurant
+@BODYTEXT:Raffles Int’l Hotels & Resorts, The Americas
+@BODYTEXT:Spice Restaurant
+@BODYTEXT:Swissotel Atlantic
+@BODYTEXT:The Palm Restaurant
+@BODYTEXT:WNNX Radio (99X)
+@BODYTEXT:WSB-TV
+@BODYTEXT:WWWQ Radio (Q100)
+@BODYTEXT:
+@CO:KCD INC.
+@BODYTEXT:450 West 15th St., #604, New York, NY 10011
+@BODYTEXT:212/590-5100; fax:212/590-5101; griffeth@kcdworldwide.com
+@BODYTEXT:Fashion/beauty PR, special events, fashion shows.  Founded: 1985.
+@CCD1:Ed Filipowski, Julie Mannion, partners; Nian Fish, Keith Baptista, Marty Griffeth, VPs
+@BODYTEXT:6 Rue de Braque, 75003 Paris, France
+@CCD1:Laurence Laure, managing director
+@BODYTEXT:
+@BODYTEXT:Alexander McQueen
+@BODYTEXT:Anna Sui
+@BODYTEXT:Calvin Klein
+@BODYTEXT:Cartier
+@BODYTEXT:CFDA
+@BODYTEXT:Chloe
+@BODYTEXT:Earl Jean
+@BODYTEXT:Generra
+@BODYTEXT:Gucci
+@BODYTEXT:Helmut Lang
+@BODYTEXT:Interview Magazine
+@BODYTEXT:Lacoste Fragrance
+@BODYTEXT:Louis Vuitton
+@BODYTEXT:Marc Jacobs
+@BODYTEXT:Narciso Rodriguez
+@BODYTEXT:Phillips de Pury & Company
+@BODYTEXT:Ralph Lauren
+@BODYTEXT:Sergio Rossi
+@BODYTEXT:Sophia Kokosalaki
+@BODYTEXT:The Gap
+@BODYTEXT:Versace Profumi
+@BODYTEXT:Victoria’s Secret
+@BODYTEXT:Yves Saint Laurent Beaute
+@BODYTEXT:Yves Saint Laurent Rive Gauche
+@BODYTEXT:Zac Posen
+@BODYTEXT:
+@CO:KCSA PR WORLDWIDE
+@BODYTEXT:U.S. Member of ECP Global Ltd.
+@BODYTEXT:800 Second Ave., New York, NY 10017
+@BODYTEXT:212/682-6300; fax:212/697-0910; jcorbin@kcsa.com
+@BODYTEXT:www.kcsa.com
+@BODYTEXT:Marketing, fin’l/inv. rels., high-tech, assns., trade, industrial and int'l government PR.  Employees: 43. Founded: 1969.
+@AGENCY:Agency Statement: KCSA Public Relations Worldwide is a full-service public relations firm and one of the major independent investor relations firms. Founded in 1969, KCSA specializes in representing fortune 500 and emerging growth companies with corporate positioning, investor relations, media relations, marketing communications and graphic design for online and traditional applications.
+@AGENCY:As part of KCSA’s investor relations practice, the firm has represented hundreds of public and private companies to financial and investment institutions around the world. While global in reach, KCSA has an established reputation for communicating a client’s story to Wall Street. It is one of the few agencies in New York that offers a seamless integration of full-service public relations programming, full-service investor relations services and full-service graphic design capabilities.
+@AGENCY:With more than 40 professionals, KCSA focuses its programming on the consistent delivery of key messages to audiences, as well as on understanding and serving client needs. The goal is to build long-term relationships, not only moving product off the shelves, improving share price or motivating site visits.
+@AGENCY:With headquarters in New York City, KCSA has an office in Los Angeles, and affiliate relationships in major markets throughout the U.S. Internationally, KCSA has offices in Tel Aviv and London. It is also the U.S. agency representative and partner in ECP Global, Ltd., an international consortium of public relations firms throughout Europe and Canada.
+@CCD1:Herbert L. Corbin, Chairman and Founding Partner; Jeff Corbin, CEO and Managing Partner; Henry Feintuch, Todd Fromer, Leslie A. Schupak, Joseph A. Mansi, Vince Calio, Managing Partners; Yin Chang, Lewis Goldberg, Jeffrey Goldberg, Andrew Santamaria, Managing Directors; Sandra Droste, Controller
+@BODYTEXT:4Kids Entertainment Inc.
+@BODYTEXT:Academic Study Associates
+@BODYTEXT:Adspace Networks
+@BODYTEXT:Alexander & Baldwin, Inc.
+@BODYTEXT:Amedia Networks
+@BODYTEXT:American Pallet Leasing
+@BODYTEXT:American Stock Exchange
+@BODYTEXT:Amex IR Alliance
+@BODYTEXT:Arena Media Networks
+@BODYTEXT:Arbitron Inc.
+@BODYTEXT:Baker Footwear
+@BODYTEXT:Berger & Montague PLC
+@BODYTEXT:BethCo
+@BODYTEXT:Bioanalytical Systems, Inc.
+@BODYTEXT:Boomerang Mobile Media
+@BODYTEXT:Broadband Capital
+@BODYTEXT:Brooke Corporation
+@BODYTEXT:Carry-A-Tune Technology
+@BODYTEXT:CMOR
+@BODYTEXT:COESfx
+@BODYTEXT:Continuum Health Partners
+@BODYTEXT:Defense Industries International
+@BODYTEXT:Delta Apparel
+@BODYTEXT:Deltek Systems
+@BODYTEXT:Dewey Electronics Corp.
+@BODYTEXT:Docucorp Int’l, Inc.
+@BODYTEXT:DVS
+@BODYTEXT:Grand Heritage Hotel
+@BODYTEXT:Gregg Manning Auctions
+@BODYTEXT:HiEnergy Technologies Inc.
+@BODYTEXT:IEEE Spectrum
+@BODYTEXT:Israel 21C
+@BODYTEXT:LSB Industries, Inc.
+@BODYTEXT:Lipman
+@BODYTEXT:Living Independently
+@BODYTEXT:M-Systems Flash Disk Pioneers, Ltd.
+@BODYTEXT:Macquarie Infrastructure Co.
+@BODYTEXT:McCormick & Company, Inc.
+@BODYTEXT:Nephros, Inc.
+@BODYTEXT:Ophthalmic Imaging
+@BODYTEXT:Optibase Ltd.
+@BODYTEXT:Orckit Comms. Ltd.
+@BODYTEXT:Orion
+@BODYTEXT:Ormat Technologies
+@BODYTEXT:Paincare Holdings
+@BODYTEXT:Path One Network
+@BODYTEXT:Pennsylvania Real Estate Investment Trust
+@BODYTEXT:Pfizer, Inc.
+@BODYTEXT:PowerDsine
+@BODYTEXT:PXRE Group
+@BODYTEXT:Rehabilitation Institute of Chicago
+@BODYTEXT:Rutledge Capital
+@BODYTEXT:SimCorp USA
+@BODYTEXT:Six Flags Inc.
+@BODYTEXT:Smith Medical
+@BODYTEXT:Source Interlink Companies
+@BODYTEXT:Target Logistics Inc.
+@BODYTEXT:Thinkequity partners
+@BODYTEXT:Time America, Inc.
+@BODYTEXT:Tioga Technologies Ltd.
+@BODYTEXT:Traffix, Inc.
+@BODYTEXT:VNU
+@BODYTEXT:
+@CO:KEARNS & WEST, INC.
+@BODYTEXT:1425 K St., N.W., #410, Washington, DC 20005
+@BODYTEXT:202/535-7800; fax:202/535-7801
+@BODYTEXT:www.kearnswest.com
+@BODYTEXT:Issues mgmt., consensus building, public affairs. Employees: 28. Founded: 1984.
+@CCD1:Kenneth D. Kearns, Anne Gunning, principals; Keith Decie, VP; Sarah Allen, senior associate; Leola Abraham, Chaat Butsunturn, Emily Enderle, Stacia Harrje, Greg Kozak, Stephanie Obadia, Janet Thomson
+@BODYTEXT:475 Sansome St., #570, San Francisco, CA 94111-3136
+@BODYTEXT:415/391-7900; fax: 415/391-8223
+@CCD1:Anna L. West, Sharif Ebrahim, Bill Pistor, principals; Christine Kennelly, senior associate; Angie Saltsman
+@BODYTEXT:
+@BODYTEXT:Ameren UE
+@BODYTEXT:BP
+@BODYTEXT:Duke Power
+@BODYTEXT:Edison Electric Institute
+@BODYTEXT:Electric Power Research Inst.
+@BODYTEXT:Eller College
+@BODYTEXT:FERC
+@BODYTEXT:Meridian Gold
+@BODYTEXT:Olin School of Business
+@BODYTEXT:PEC Solutions
+@BODYTEXT:Pacificorp
+@BODYTEXT:Southern California Edison
+@BODYTEXT:USDA Forest Service
+@BODYTEXT:
+@CO:KEATING & CO., LLC
+@BODYTEXT:Formerly Keating Public Relations
+@BODYTEXT:100 Campus Dr., Florham Park, NJ 07932
+@BODYTEXT:973/966-1100; fax:973/966-6080
+@BODYTEXT:Provides PR, PA and consulting services to garner greater brand recognition and value for clients.
+@CCD1:Richard J. Keating, president & CEO; Vicki Banner, sr. VP; Deborah Scicchitano, acct. manager
+@BODYTEXT:Blanket Bay
+@BODYTEXT:Cafe Bom Dia Ltda.
+@BODYTEXT:Cherokee Uniforms
+@BODYTEXT:Defined Health
+@BODYTEXT:Double Alpha
+@BODYTEXT:Drinker Biddle & Reath
+@BODYTEXT:Easy Link Services
+@BODYTEXT:Franklin County Chamber of Commerce
+@BODYTEXT:HearUSA
+@BODYTEXT:I-trax
+@BODYTEXT:Interchange Bank
+@BODYTEXT:Jesup & Lamont
+@BODYTEXT:McElroy, Deutsch, Mulvaney & Carpenter
+@BODYTEXT:Nikon Instruments
+@BODYTEXT:Tekmark Global Solutions
+@BODYTEXT:
+@CO:KEATING MAGEE ADVERTISING
+@BODYTEXT:600 Decatur St., 5th flr., New Orleans, LA 70130
+@BODYTEXT:504/299-8000
+@BODYTEXT:Full-service PR, marketing and advertising. Founded: 1981
+@CCD1:Amy Ferguson, PR director; Jennifer K. Magee, CEO
+@BODYTEXT:Entergy Solutions
+@BODYTEXT:Fleetcar Technology
+@BODYTEXT:Galatoire's
+@BODYTEXT:Partners for Healthy Babies
+@BODYTEXT:Semolina Int'l Pasta
+@BODYTEXT:Singer Kitchens
+@BODYTEXT:
+@CO:KEEPINTOUCH COMMUNICATIONS
+@BODYTEXT:310 E. 55th St., New York, NY 10022
+@BODYTEXT:212/371-9518; fax:212/371-8149; betty@keepintouchpr.com
+@BODYTEXT:Media relations, special events consultant. Founded: 1995.
+@CCD1:Betty Keepin, principal
+@BODYTEXT:Covenant House New York
+@BODYTEXT:McCurley Enterprises, Ltd.
+@BODYTEXT:Women Executives in Public Relations (special projects and website management)
+@BODYTEXT:
+@CO:KEILER PUBLIC RELATIONS GROUP
+@BODYTEXT:(Div. of Keiler & Company)
+@BODYTEXT:304 Main St., Farmington, CT 06032
+@BODYTEXT:860/677-8821; fax:860/676-8164
+@BODYTEXT:www.keiler.com
+@BODYTEXT:Specialties in automotive aftermarket, industrial,  aviation/aerospace, paper/graphic design, consumer and trade.  Founded: 1973.
+@CCD1:Don Wilson, Mel Moffei, Mike Scricco, Lynn Taylor, Bill Smith, managing partners; Rita Quinn, Sarah Melnitsky, Stephanie Ancellai, acct. managers
+@BODYTEXT:Autolite
+@BODYTEXT:Bendix
+@BODYTEXT:Fram
+@BODYTEXT:Global Gourmet
+@BODYTEXT:Office Cafe
+@BODYTEXT:Permatex, Inc.
+@BODYTEXT:Prestone
+@BODYTEXT:RICS Americas
+@BODYTEXT:
+@CO:KEKST AND COMPANY
+@BODYTEXT:437 Madison Ave., New York, NY 10022
+@BODYTEXT:212/521-4800; fax:212/521-4900
+@BODYTEXT:www.kekst.com
+@BODYTEXT:Corporate, financial, special issues and crisis PR. Founded: 1970
+@CCD1:Gershon Kekst, pres.; Lawrence Rand, James Fingeroth, Robert Siegfried, Jeffrey Taufield, Thomas Daly Jr., Fredric Spar, Lissa Perlman, Roanne Kulakoff, Thomas Davies, Ruth Pachman, Roy Winnick, Dawn Dover, Michael Freitag, Thomas Fogarty, Wendi Kopsick, Adam Weiner, Mark Semer, Caroline Gentile, Eric Berman, Victoria Weld, Michael Herley, Michal Chafets, Molly Morse
+@BODYTEXT:Alexander’s
+@BODYTEXT:AT&T
+@BODYTEXT:Bayer
+@BODYTEXT:Citigroup
+@BODYTEXT:DaimlerChrysler
+@BODYTEXT:Deutsche Bank
+@BODYTEXT:Estee Lauder
+@BODYTEXT:Hicks Muse Tate & Furst Inc.
+@BODYTEXT:K-mart
+@BODYTEXT:KKR
+@BODYTEXT:Korn/Ferry International
+@BODYTEXT:LVMH Inc.
+@BODYTEXT:Loral
+@BODYTEXT:Lucent Technologies
+@BODYTEXT:Marsh McLennan
+@BODYTEXT:McGraw Hill
+@BODYTEXT:Northrop Grumman
+@BODYTEXT:PP&L Corp.
+@BODYTEXT:Polaroid
+@BODYTEXT:PricewaterhouseCoopers
+@BODYTEXT:Rothschild
+@BODYTEXT:Russia’s NTV Network
+@BODYTEXT:The Limited
+@BODYTEXT:Toys "R" Us
+@BODYTEXT:
+@CO:KELLEN COMMUNICATIONS
+@BODYTEXT:Formerly Sumner Rider & Assocs.
+@BODYTEXT:355 Lexington Ave., 17th flr., New York, NY 10017
+@BODYTEXT:212/297-2100; fax:212/370-9047
+@BODYTEXT:www.kellenpr.com
+@BODYTEXT:PR, marketing comms., public affairs, advertising: general, corporate, associations, industrial, shelter, food, environmental, high-tech, TV broadcasting, interactive, web, graphics, crisis management and consumer.  Employees: 160. Founded: 1945.
+@AGENCY:Agency Statement: Kellen Communications assists its clients with strategic thinking, creative programs and cost-effective implementation. By forging a partnership with the client, Kellen has developed dramatic loyalty and longevity.
+@AGENCY:Every effort we make on the client’s behalf begins with hard listening, well-defined expectations and a detailed plan of action. As recognized experts in a number of industries, Kellen staff is respected for their knowledge and experience. We believe in aggressive communication for our clients in the global marketplace of ideas.
+@CCD1:Peter Rush, president; Holly Koenig, Michael Morris, VPs
+@BODYTEXT:5775 Peachtree Dunwoody Rd., #500, Bldg. G, Atlanta, GA 30342
+@BODYTEXT:404/836-5050
+@CCD1:Keith Keeney, VP
+@BODYTEXT:1156 15th St., #900, Washington, DC 20005
+@BODYTEXT:202/207-0915
+@CCD1:Barbara Miller, director of PR
+@BODYTEXT:1604 N. Country Club, Tucson, AZ 85716
+@CCD1:Debbie Barnett, VP
+@BODYTEXT:Avenue Marcel Thirty, B-1200, Brussels, Belgium
+@CCD1:Alfons Westgcost
+@BODYTEXT:
+@BODYTEXT:Association for Dressings and Sauces
+@BODYTEXT:Association of Fund-Raising Distributors and Suppliers
+@BODYTEXT:Asphalt Roofing Mfrs. Assn.
+@BODYTEXT:Builders Hardware Mfrs. Assn.
+@BODYTEXT:Calorie Control Council
+@BODYTEXT:Comics Magazine Assn.of Amer.
+@BODYTEXT:Copper Development Assn.
+@BODYTEXT:Distinguished Restaurants of North America
+@BODYTEXT:European Hydrogen Association
+@BODYTEXT:Freight Foward International
+@BODYTEXT:Greeting Card Assn.
+@BODYTEXT:Healthcare Convention & Exhibitors Assn.
+@BODYTEXT:Home Fashion Products Assn.
+@BODYTEXT:International Copper Assn.
+@BODYTEXT:International Federation of Exhibition Services
+@BODYTEXT:Lennox Industries
+@BODYTEXT:Nat’l Assn. of Margarine Mfrs.
+@BODYTEXT:National Candle Assn.
+@BODYTEXT:National Association of Elder Law Attorneys
+@BODYTEXT:National Labor Management Cooperation Committee
+@BODYTEXT:New York Women in Communications
+@BODYTEXT:North American Profiles Group
+@BODYTEXT:Processed Apples Institute
+@BODYTEXT:Red Devil
+@BODYTEXT:TARCO Products
+@BODYTEXT:Unilever
+@BODYTEXT:Window Covering Mfrs. Assn.
+@BODYTEXT:Window Covering Safety Council
+@BODYTEXT:
+@CO:KELLER CRESCENT PUBLIC RELATIONS
+@BODYTEXT:1100 E. Louisiana St., Evansville, IN 47711
+@BODYTEXT:812/464-2461; fax:812/426-7780
+@BODYTEXT:www.kellercrescent.com
+@BODYTEXT:Marketing, general PR and communications. Employees: 5. Founded: 1970.
+@CCD1:Terry McWilliams, VP-PR
+@BODYTEXT:Airtex
+@BODYTEXT:Heaven Hill Distilleries
+@BODYTEXT:InterSearde Group, Inc.
+@BODYTEXT:Shionogi Qualicaps
+@BODYTEXT:United Components, Inc.
+@BODYTEXT:
+@CO:KELLIHER SAMETS VOLK
+@BODYTEXT:212 Battery St., Burlington, VT 05401
+@BODYTEXT:802/862-8261; fax:802/863-4724; info@ksvc.com
+@BODYTEXT:www.ksvc.com
+@BODYTEXT:General PR, publicity, media rels., community rels., product and service PR. Founded: 1977
+@CCD1:Timothy R. Volk, president
+@BODYTEXT:
+@CO:KELLY & LUGBAUER
+@BODYTEXT:35 Newell Dr., #300, Cumberland, RI 02864
+@BODYTEXT:401/333-5464; fax:401/333-6546; kelly@kellylugbauer.com
+@BODYTEXT:www.kellylugbauer.com
+@BODYTEXT:Communications mgmt. consulting firm.
+@CCD1:Lois Kelly, partner
+@BODYTEXT:
+@CO:KELLY COMMUNICATIONS
+@BODYTEXT:6872 S. Clermont Dr., Little, CO 80122
+@BODYTEXT:303/740-8278; fax:303/770-4532
+@BODYTEXT:PR and advertising, advocacy/campaign, business/consumer services, corporate communications, entertainment.  Founded: 1979.
+@CCD1:Lynn Kelly, president
+@BODYTEXT:
+@CO:KELLY MICHENER
+@BODYTEXT:333 N. Arch St., Lancaster, PA 17608
+@BODYTEXT:717/393-9776; fax:717/393-0443
+@BODYTEXT:Consumer and business-to-business advertising, PR and  marketing; brand-based comms., promotions, new media, research, direct mktg., broadcast production. Founded: 1973
+@CCD1:Catherine Farmer, VP/PR director
+@BODYTEXT:
+@CO:KEMPER LESNIK COMMUNICATIONS
+@BODYTEXT:500 Skokie Blvd., Northbrook, IL 60062
+@BODYTEXT:847/291-9666; fax:847/291-0271
+@BODYTEXT:www.klc.com   
+@BODYTEXT:General PR, PA, financial, technology, events, sports mktg. and mgmt. Founded: 1979
+@CCD1:Steven H. Lesnik, CEO
+@BODYTEXT:A.T. Kearney
+@BODYTEXT:Horseshoe Gaming
+@BODYTEXT:Kemper Insurance
+@BODYTEXT:Maui Convention Bureau
+@BODYTEXT:Ravinia Festival
+@BODYTEXT:Urban Properties
+@BODYTEXT:
+@CO:KENNEDY COMMUNICATIONS SERVICES, DANIEL
+@BODYTEXT:157 West 79th St., New York, NY 10024
+@BODYTEXT:212/580-3454; fax:212/580-7164; dkennedyco@aol.com
+@BODYTEXT:PR, media rels. and marketing comms.  Founded: 1992.
+@CCD1:Daniel Kennedy, managing director
+@BODYTEXT:Austrian Airlines/USA
+@BODYTEXT:Historic New England Driving Tours
+@BODYTEXT:Lady Henrietta Spencer-Churchill (London)
+@BODYTEXT:Lattelekom (Riga, Latvia)
+@BODYTEXT:New York School of Interior Design
+@BODYTEXT:Romanian Nat’l Tourism Office (USA)
+@BODYTEXT:State Historical Soc. of Wisconsin
+@BODYTEXT:
+@CO:KENTON SMITH ADVERTISING & PR   
+@BODYTEXT:8000 S. Orange Ave., #200, Orlando, FL 32809
+@BODYTEXT:407/856-6680; fax:407/856-6684
+@BODYTEXT:www.kentonsmithadv.com
+@BODYTEXT:
+@CCD1:Susan O’Reilly, director, PR & promotions; Brenda Carter de Treville, senior VP-marketing; Mason Moore, PR A/E
+@BODYTEXT:Central Florida Boat Show
+@BODYTEXT:Devereux Florida
+@BODYTEXT:Hair Cuttery
+@BODYTEXT:Ocala Eye
+@BODYTEXT:Offshore Sailing School
+@BODYTEXT:Regulator Boats
+@BODYTEXT:SAK Comedy
+@BODYTEXT:Signature Graphics
+@BODYTEXT:Stirling Int’l Realty Inc.
+@BODYTEXT:The Mercado
+@BODYTEXT:
+@CO:KERI LEVITT COMMUNICATIONS
+@BODYTEXT:19 W. 21st St., #602, New York, NY 10010
+@BODYTEXT:212/754-1400; fax:212/754-8987
+@BODYTEXT:PR for fashion, lifestyle clients.
+@CCD1:Keri Levitt, president
+@BODYTEXT:
+@CO:KERMISH-GEYLIN PUBLIC RELATIONS INC.
+@BODYTEXT:4 Park St., Harrington Park, NJ 07640
+@BODYTEXT:201/750-3533; fax:201/750-2010; info@kgpr.com
+@BODYTEXT:Corporate, consumer, trade & product PR.  Employees: 8. Founded: 1985.
+@AGENCY:Agency Statement: Kermish-Geylin Public Relations is a full-service agency offering passionate service from senior professionals. Specialties for this 20-year-old firm include the automotive, hi-tech, consumer electronics, motorsports and publishing industries. From its offices in metropolitan New York, Philadelphia, Beverly Hills and New England, the agency can provide comprehensive media relations, presentations, event management, strategic consultation and tactical implementation of programs tailored to any size client or budget.
+@CCD1:Michael Geylin, pres.; Fred Hammond, exec. VP; Dave Engelman, A/S; Chris Dirato, motorsports gen. mgr./AE
+@BODYTEXT:9595 Wilshire Blvd., #805, Beverly Hills, CA 90212
+@BODYTEXT:310/246-1810; fax: 310/246-1827
+@CCD1:Lisa Barrow, general manager
+@BODYTEXT:1944 Warwick Ave., Warwick, RI 02889
+@BODYTEXT:401/739-5677; fax: 401/739-6729
+@CCD1:Andrew Schupack, general manager
+@BODYTEXT:
+@BODYTEXT:DaimlerChrysler Corp.
+@BODYTEXT:Mercedes-Benz USA
+@BODYTEXT:NEBCO
+@BODYTEXT:Nokia-Mobira
+@BODYTEXT:O'Gara-Hess & Eisenhardt
+@BODYTEXT:Porsche Cars North America
+@BODYTEXT:U.S. Army Racing
+@BODYTEXT:Volvo Cars of North America
+@BODYTEXT:
+@CO:KETCHUM
+@BODYTEXT:Subsidiary of the Omnicom Group
+@BODYTEXT:1285 Avenue of the Americas, New York, NY 10019
+@BODYTEXT:646/935-3900; fax:646/935-4499
+@BODYTEXT:General PR: brand marketing, corporate, food & nutrition, healthcare, technology. Founded: 1923.
+@AGENCY:Agency Statement: Ketchum’s mission is to deliver breakthrough, integrated and consistent public relations solutions to our clients on a global basis. We focus on recruiting, retaining and developing the best and brightest people in the business, and as a result of our commitment to training and technologies, our people become experts at accessing and utilizing, on our clients’ behalf, the full range of resources and expertise available throughout our network.
+@AGENCY:We offer our clients deep expertise in five global practice areas:  Brand Marketing, Corporate, Food and Nutrition, Healthcare and Technology. We have experts in every facet of public relations, including media relations, public affairs and grassroots, litigation communication, communications training, research and measurement, investor relations, sports marketing, production, crisis management, entertainment marketing, internal event services, lobbying, constituency relations, change management, multicultural marketing, media/communication strategy, issues and crisis management, corporate social responsibilites, consulting, and influencer relationship management.
+@AGENCY:Founded in 1923, Ketchum was one of the first public relations firms in the country.  Today, it ranks among the top firms, with offices in Atlanta, Beijing, Chengdu, Chicago, Dallas, Guangzhou, Hamburg, Hong Kong, London, Los Angeles, Madrid, Mexico City, Milan, Munich, New York, Paris, Pittsburgh, San Francisco, São Paulo, Shanghai, Taipei, Toronto and Washington, D.C.
+@AGENCY:Ketchum also has affiliate relationships in Athens, Auckland, Bangalore, Bangkok, Bogota, Brussels, Buenos Aires, Budapest, Cape Town, Caracas, Chennai, Copenhagen, Dubai, Dublin, Guatemala City, Hanoi, The Hague, Istanbul, Jakarta, Karachi, Kuala Lumpur, Lima, Lisbon, Managua, Manila, Moscow, Mumbai, New Dehli, Panama City, Prague, San Jose, San Juan, San Salvador, Santiago, Seoul, Singapore, Stockholm, Sydney, Tel Aviv, Tokyo, Vienna, Warsaw, Wellington, and Urich.
+@CCD1:CORPORATE STAFF: Raymond L. Kotcher, senior partner/CEO; David R. Drobis, chairman emeritus; Robert C. Flaherty, managing director/global corporate practices; Daniel Madia, senior partner/global chief admin. officer; Robert Lorfink, partner/CFO; Jerry Olszewski, sr. partner/int’l; Lorraine Thelian, sr. partner, North America; Mindy Rubinstein, partner/director, corp. comms. & business dev.
+@CCD1:NEW YORK STAFF: Dale Bornstein, partner/director; Ray Katcher, Sr. Partner/CEO; Rob Flaheay, Sr. Partner. MD, Global Corporate Practice.
+@BODYTEXT:U.S. OFFICES:
+@BODYTEXT:Promenade II, 1230 Peachtree St., N.E., #2100, Atlanta, GA 30309
+@BODYTEXT:404/879-9000; fax: 404/879-9001
+@CCD1:Barri Rafferty, partner/director, Ketchum South
+@BODYTEXT:200 E. Randolph, Suite 3530, Chicago, IL 60601
+@BODYTEXT:312/228-6800; fax: 312/228-6868
+@CCD1:Paul Rand, partner/mng. dir., Globtech Practice; Adaire Putnam, Partner/Dir. Ketchum Midwest; Peter Fleischer, Mike Hatcliffe, partners/sr. counselors
+@BODYTEXT:Six PPG Place, Pittsburgh, PA  15222-5488
+@BODYTEXT:412/456-3500; fax: 412/456-3900
+@CCD1:Adaire Putnam, partner/director, Ketchum Midwest; Kelley Skoloda, dir., global brand mktg. practice
+@BODYTEXT:Harwood Center, 1999 Bryan St., #2500, Dallas, TX  75201
+@BODYTEXT:214/953-1778; fax: 214/953-1890
+@CCD1:Teresa Henderson, SVP/director, Ketchum South
+@BODYTEXT:340 Main St., #200, Venice, CA  90291
+@BODYTEXT:310/584-8300; fax: 310/584-8304
+@CCD1:Sean Fitzgerald, partner/mng. dir.; Deanne Yamamoto, associate dir., Ketchum West
+@BODYTEXT:1050 Battery St., San Francisco, CA 94111
+@BODYTEXT:415/984-6100; fax: 415/984-6102
+@CCD1:David Chapman, director, Ketchum West
+@BODYTEXT:2000 L St., N.W., #300, Washington, DC 20036
+@BODYTEXT:202/835-8800; fax: 202/835-8879
+@CCD1:Liz McLean, partner/director, Washington, D.C.
+@BODYTEXT:The Washington Group: 1401 K St., N.W., Washington, DC 20005
+@BODYTEXT:202/789-2111; fax: 202/789-4883
+@CCD1:Susan Molinari, chairman & CEO; John Raffaelli, Kevin Allen, Bill Bunce, principals
+@BODYTEXT:INTERNATIONAL:
+@BODYTEXT:Axel-Springer-Platz 3, 10355, Hamburg
+@BODYTEXT:4940/36907-850; fax: 4940/36907-851
+@BODYTEXT:1701 Western Tower, No. 19, 4th section, Renminnan Rd., Chengdu, Sichuan China
+@BODYTEXT:028/8526-8983; fax: 028/8526-8993
+@CCD1:Sam Xiang, dir.
+@BODYTEXT:Ketchum-Newscan: Rm.1806, Twr. B, Soho Office Bldg., No. 88 Jianguo Rd., Chaoyang District, Beijing 100022, China
+@BODYTEXT:8610-8580-3388; fax:  8610-8580-3318
+@CCD1:Nick Wheeler, general manager
+@BODYTEXT:Ketchum-Newscan: Peace World Plaza, 362-366 Huanshi Dong Lu, Guangzhou 510060, China
+@BODYTEXT:+8620-8385-2532; fax: +8620-8385-2476
+@CCD1:Phoebe Leung, VP/South China
+@BODYTEXT:Ketchum-Newscan: 26F K Wan Centre, 191 Java Rd., North Point, Hong Kong
+@BODYTEXT:+852-2566-1311; fax:  +852-2510-8199
+@CCD1:Kenneth Chu, partner/CEO/exec. dir.; Chris Liu, SVP/gen. mgr.
+@BODYTEXT:Ketchum-Newscan: Unit B, 29/F, Catic Tower 212 Jiang Ning Rd. West, Shanghai 200041 China
+@BODYTEXT:+8621-5289-5838; fax:  +8621-5289-5363
+@CCD1:Kenneth Chu, partner/CEO; Eva Lavo, general mgr.
+@BODYTEXT:Ketchum-Newscan: 13 Fl., No. 368, Fuhsing South Road, Sec. 1, Taipei 106, Taiwan
+@BODYTEXT:+8862-2700-3136; fax:  +8862-2784-4874
+@CCD1:Jerry Peng, SVP/general mgr.
+@BODYTEXT:Ketchum London: 35-41 Folgate St., London E1 6BX U.K.
+@BODYTEXT:44 207 611-3500; fax: 44-207-611-3501
+@CCD1:Jon Higgins, partner/CEO, Europe; David Gallagher, partner/CEO, London; Mark Hume, COO, London
+@BODYTEXT:Ketchum SEIS: Luchana, 23, 4th fl., 28010 Madrid, Spain
+@BODYTEXT:+34 91 788 3200; fax:  +34 91 788 3299
+@CCD1:Tony Noel, chairman; Teresa Garcia Cisneros, partner/general mgr.
+@BODYTEXT:R. Alvaro Rodrigues, 182 - 2 andar, Brooklin, Sao Paulo, SP, Brazil  04582-000
+@BODYTEXT:+55-11-5096-4334; fax: +55-11-5096-4335
+@CCD1:Valeria Perito, executive dir.; Rosana Monteiro, account and operational manager.
+@BODYTEXT:Bosque de Ciruelos 186-301, Col Bosques de las Lomas, Mexico, 11700 D.F.
+@BODYTEXT:+011-52-555-245-8855; fax: + 52-55-5245-8851
+@CCD1:Alejandro Rodriguez, Pres., General Manager
+@BODYTEXT:Via Fatebenefratelli 19, 20121 Milan, Italy
+@BODYTEXT:+39-02-6241-1911; fax: +39-02-2901-1411
+@CCD1:Pinuccia Paraboni, CEO
+@BODYTEXT:Nymphenburger Strasse 86, 80636 Munich, Germany
+@BODYTEXT:+49-89-124450; fax:  +49-89-12445114
+@CCD1:Sabine Stadel-Strauch, partner/mng. dir.; Nicola Pizzoni, mng. director
+@BODYTEXT:55, rue d'Amsterdam, 75391 Paris Cedex 08, France
+@BODYTEXT:+331-53-32-5350; fax: +331-53-32-5628
+@CCD1:Jean Martial-Ribes, dir.; Eric Maillard, assoc. director
+@BODYTEXT:10 Lower Spadina Ave., Toronto, Ontario M5V 2Z2 Canada
+@BODYTEXT:416/544-4412; fax: 416/544-4919
+@CCD1:Geoffrey Rowar, director
+@BODYTEXT:
+@BODYTEXT:3M
+@BODYTEXT:Absolut
+@BODYTEXT:Almond Board of California
+@BODYTEXT:American Iron & Steel Institute
+@BODYTEXT:AstraZeneca
+@BODYTEXT:Aventis
+@BODYTEXT:Bank One/First USA
+@BODYTEXT:BestBuy
+@BODYTEXT:Biogen
+@BODYTEXT:Biopure
+@BODYTEXT:BP
+@BODYTEXT:Bristol-Myers Squibb
+@BODYTEXT:Britvic
+@BODYTEXT:CMA German Agricultural Industries
+@BODYTEXT:California Dried Plum Board
+@BODYTEXT:Cardinal Health
+@BODYTEXT:Centers for Medicare
+@BODYTEXT:Cingular Wireless
+@BODYTEXT:Combe Inc.
+@BODYTEXT:ConAgra
+@BODYTEXT:Cox
+@BODYTEXT:Deloitte Consulting
+@BODYTEXT:Delta
+@BODYTEXT:Dow Chemical Company
+@BODYTEXT:Duckling Council
+@BODYTEXT:Dulux
+@BODYTEXT:Elan Pharmaceutical
+@BODYTEXT:Equifax
+@BODYTEXT:Estee Lauder
+@BODYTEXT:Federated Dept. Stores
+@BODYTEXT:FedEx
+@BODYTEXT:Fireman's Fund
+@BODYTEXT:Florida State Board of Administration
+@BODYTEXT:Frito-Lay
+@BODYTEXT:Genentech
+@BODYTEXT:Gillette
+@BODYTEXT:Hampton Hotel
+@BODYTEXT:Hyundai Motor America
+@BODYTEXT:IBM
+@BODYTEXT:International Carwash Assn.
+@BODYTEXT:International Truck &  Engine (Navistar)
+@BODYTEXT:Invista, Inc.
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:Kikkoman International
+@BODYTEXT:Kimberly-Clark
+@BODYTEXT:Kodak
+@BODYTEXT:Levi Strauss & Co.
+@BODYTEXT:Lions Club International
+@BODYTEXT:Master Foods
+@BODYTEXT:Mattel
+@BODYTEXT:Medtronic
+@BODYTEXT:Merck
+@BODYTEXT:Merial
+@BODYTEXT:Montefiore Medical Center
+@BODYTEXT:National Cattlemen's Beef Assn.
+@BODYTEXT:Newport News
+@BODYTEXT:Nokia
+@BODYTEXT:Novartis Pharmaceutical Corp.
+@BODYTEXT:OrthoMcNeil Pharmaceuticals
+@BODYTEXT:PeopleSoft
+@BODYTEXT:Pfizer
+@BODYTEXT:Philips
+@BODYTEXT:Pitney Bowes
+@BODYTEXT:Procter & Gamble
+@BODYTEXT:Quaker Oats
+@BODYTEXT:Roche
+@BODYTEXT:ServiceMaster
+@BODYTEXT:Solvay Pharmaceuticals
+@BODYTEXT:Starbucks
+@BODYTEXT:State of South Carolina
+@BODYTEXT:The Clorox Co.
+@BODYTEXT:The Home Depot
+@BODYTEXT:U.S. Dept. of Health & Human Services
+@BODYTEXT:U.S. Potato Board
+@BODYTEXT:UCB Pharma, Inc.
+@BODYTEXT:Universal Health Services
+@BODYTEXT:VNU
+@BODYTEXT:Walt Disney Company, The
+@BODYTEXT:Warner Brothers
+@BODYTEXT:Water Pik Technologies Inc.
+@BODYTEXT:Wendy’s International Inc.
+@BODYTEXT:Wyeth Pharmaceuticals
+@BODYTEXT:Yahoo! en espanol
+@BODYTEXT:Zapf Creation
+@BODYTEXT:
+@CO:KIDWELL MCGOWAN ASSOCIATES, LTD.
+@BODYTEXT:22377 Cedar Green Rd., Sterling, VA 20166
+@BODYTEXT:703/406-3655; fax:703/406-3654; dwayne@kma.net
+@BODYTEXT:Advertising, marketing, design, web pages, high-tech PR, trade assns., politicians. Founded: 1988
+@CCD1:Jay Kidwell, Dwayne McGowan, principals
+@BODYTEXT:
+@CO:KILGANNON MCREYNOLDS
+@BODYTEXT:1275 Peachtree St., #400, Atlanta, GA 30309
+@BODYTEXT:404/876-2800; fax:404/876-2830
+@BODYTEXT:www.kilgannon.com
+@BODYTEXT:Database communications and direct marketing. Founded: 1988
+@CCD1:Rena Kilgannon, Rick McReynolds, principals
+@BODYTEXT:
+@CO:KIMBALL COMMUNICATIONS
+@BODYTEXT:529 Mixsell St., College Hill, PA 18042
+@BODYTEXT:610/559-7585; fax:610/559-7586; contact@kimballcomm.com
+@BODYTEXT:www.kimballcomm.com
+@BODYTEXT:Full-service PR, adv. & mktg. comms. firm.
+@CCD1:Gary Kimball, pres.
+@BODYTEXT:AMSKier Insurance
+@BODYTEXT:Commonwealth Risk Svcs. L.P.
+@BODYTEXT:Insuretrust.com
+@BODYTEXT:Lehigh Valley Hospitals and Health Network
+@BODYTEXT:Loon Technologies
+@BODYTEXT:
+@CO:KING & CO., INC., D.F.
+@BODYTEXT:48 Wall St., New York, NY 10005
+@BODYTEXT:212/269-5550; fax:212/968-8054
+@BODYTEXT:www.dfking.com
+@BODYTEXT:Corporate & investor rels., fin’l media rels., consulting svcs. for tender & exchange offers; proxy contests; defense planning; fin’l printing, telemktg.; post-merger clean-up  programs. Founded: 1942
+@CCD1:James E. Long, chmn. & exec. VP; Peter C. Harkins, pres. & CEO
+@BODYTEXT:2 London Wall Buildings, 2nd flr., London Wall, London EC2M 5PP England
+@BODYTEXT:011-44 207 920-9700
+@CCD1:Franklin M. Stephens, Elizabeth Paton, managing directors
+@BODYTEXT:
+@BODYTEXT:
+@CO:KING ASSOCIATES, HILARY S.
+@BODYTEXT:P.O. Box 234, 98 S. Ferry Rd., Shelter Island, NY 11964
+@BODYTEXT:631/749-2339
+@BODYTEXT:Marketing, advertising, PR & editorial.
+@CCD1:Hilary S. King, president; Erik Adams, MD/PhD.
+@BODYTEXT:China Institute
+@BODYTEXT:International Fire Sprinklers' Assn.
+@BODYTEXT:Marco di Castello Italian Decorating Accessories
+@BODYTEXT:Vision Magazine
+@BODYTEXT:
+@CO:KING PUBLIC RELATIONS, LIS
+@BODYTEXT:30 Dundee Court, Mahwah, NJ 07430
+@BODYTEXT:201/529-1240; fax:201/529-1241; lisking@earthlink.net
+@BODYTEXT:PR for design, architecture, building products, home furnishings, food, education, politics. Employees: 3. Founded: 1970.
+@CCD1:Lis King, pres.; T.A. Pace, VP
+@BODYTEXT:American & International Design
+@BODYTEXT:Beaverhome.com
+@BODYTEXT:Beret Design
+@BODYTEXT:Blonder Wallcoverings
+@BODYTEXT:Earthfloor.com
+@BODYTEXT:Hammer & Nail
+@BODYTEXT:Period Lighting
+@BODYTEXT:SRM Design
+@BODYTEXT:Tanglewood Conservatories
+@BODYTEXT:Terra Tiles
+@BODYTEXT:Walpole Woodworkers
+@BODYTEXT:
+@CO:KIRK PUBLIC RELATIONS
+@BODYTEXT:26310 Countryside Dr., Spicewood, TX 78669
+@BODYTEXT:830/693-4447; fax:830/693-9898; kirk@281.com
+@BODYTEXT:General PR, specializing in media & inv. rels., crisis PR.  Employees: 3. Founded: 1982.
+@CCD1:Preston F. Kirk, owner; Virginia Stuart, assoc.; Dale Kirk, off. mgr.
+@BODYTEXT:John M. Floyd & Assocs., Inc.
+@BODYTEXT:Johnny Light, Inc.
+@BODYTEXT:PFSweb, Inc. (Nasdaq-PFSUD)
+@BODYTEXT:Travelaxe, Inc.
+@BODYTEXT:
+@CO:KIRSHENBAUM BOND & PARTNERS/PR
+@BODYTEXT:See Lime
+@BODYTEXT:
+@BODYTEXT:
+@CO:KLEBER & ASSOCIATES
+@BODYTEXT:1215 Hightower Trail, Bldg. C, Atlanta, GA 30350
+@BODYTEXT:770/518-1000; fax:770/518-2700
+@BODYTEXT:www.kleberadvertising.com
+@BODYTEXT:Full-service mktg. comms. firm specializing in strategic plannning, mktg., adv. & PR. Founded: 1987.
+@CCD1:Steven Kleber, president; Mark Abbas, VP, client svcs.; Yancey Casey, director of integrated comms.
+@BODYTEXT:Apex Showrooms
+@BODYTEXT:Coastal Industries
+@BODYTEXT:Diva de Provence
+@BODYTEXT:DreamMaker
+@BODYTEXT:Enkeboll
+@BODYTEXT:Honeywell Int'l
+@BODYTEXT:KWC America
+@BODYTEXT:Louisiana Pacific
+@BODYTEXT:
+@CO:KLEIN & ASSOCIATES INC., ANNE
+@BODYTEXT:Member of Pinnacle Worldwide
+@BODYTEXT:Ten Lake Center, #108, Marlton, NJ 08053
+@BODYTEXT:856/988-6560; fax:856/988-6564; mailroom@akleinpr.com
+@BODYTEXT:Full-service PR counseling firm. Employees: 10. Founded: 1982.
+@AGENCY:Agency Statement: Anne Klein & Associates (www.akleinpr.com) is one of the Philadelphia region's leading independent public relations firms. We provide strategic counseling and communications programs to help clients achieve business goals. Our clients include Fortune 500 companies and other national and regional businesses and organizations.
+@AGENCY:We create customized communications programs that help position our clients, their products and their services in the marketplace and establish their reputations among their key target audiences. We also design communications programs to help our clients create a favorable public opinion climate in which to operate. Corporations and organizations undergoing change seek our advice in managing communications.
+@AGENCY:In addition to the traditional PR services - such as media relations, employee communications, marketing communications and publications - we also specialize in environmental and crisis communications and community relations.
+@AGENCY:The firm is a member of Pinnacle Worldwide ( www.pinnacleww.com), an international network of independent public relations firms, with offices throughout the world.
+@CCD1:Anne Sceia Klein, president; Gerhart Klein, executive VP; John Moscatelli, senior VP/COO
+@BODYTEXT:
+@CO:KLEIN & ASSOCS. INC., PHYLLIS, MARKETING PR
+@BODYTEXT:8383 Wilshire Blvd., #1018, Beverly Hills, CA 90211
+@BODYTEXT:323/655-4200; fax:323/655-4210; PKlein@PKAPR.com
+@BODYTEXT:Consumer marketing PR, Hollywood outreach, new product launches, support for mature brands, cause-related and integrated marketing campaigns, special events; consumer and trade media rels., media events, surveys. Employees: 5. Founded: 1992.
+@AGENCY:Agency Statement: Phyllis Klein & Associates is a marketing public relations firm that develops innovative, strategic national programs and events for companies that market primarily to women, influencers of the vast majority of consumer purchasing decisions. Clients seek out PK&A for celebrity connections, strategic thinking, creative execution, constant attention from senior staff, close connections with the media and results that build brands.
+@AGENCY:With over 20 years experience in New York and Los Angeles, we put our powerful connections with both the national media and the entertainment industry to work every day.
+@CCD1:Phyllis Klein, pres.; Rhonda Racz, VP-N.Y.
+@BODYTEXT:California Optometric Assn.
+@BODYTEXT:Dermacia
+@BODYTEXT:Sun Salutations, Inc.
+@BODYTEXT:Toyota Prius for Oscars
+@BODYTEXT:VitalTrak/Kid Tracker
+@BODYTEXT:Way Out Toys
+@BODYTEXT:
+@CO:KLEIN COMMUNICATIONS INC.
+@BODYTEXT:17112 Newport Club Dr., Boca Raton, FL 33496
+@BODYTEXT:561/995-0016; fax:561/995-1695; sklein@kleincomm.com
+@BODYTEXT:Media specialist: bus.-to-bus., personal finance, consumer products, healthcare, authors.  Founded: 1991.
+@CCD1:Sherri Klein, president
+@BODYTEXT:Bravado Designs
+@BODYTEXT:Deb Bigelesien
+@BODYTEXT:Daphna Fine Art Gallery
+@BODYTEXT:Dolf de Roos
+@BODYTEXT:EZ Carry
+@BODYTEXT:Neat Receipts (Digital Business Process)
+@BODYTEXT:Robert Shemin
+@BODYTEXT:Ruth Shermen, Communications
+@BODYTEXT:
+@CO:KLEPPER ASSOCIATES INC., MICHAEL
+@BODYTEXT:350 East 51st St., New York, NY 10022
+@BODYTEXT:212/644-1100; fax:212/644-1866
+@BODYTEXT:Marketing communications, media, speech and presentation skills training, crisis communications, financial services/investor relations. Founded: 1978
+@CCD1:Michael Klepper, chmn.
+@BODYTEXT:
+@CO:KLIMLEY COMMUNICATIONS
+@BODYTEXT:28 Riverside Ave., Suite 6H, Red Bank, NJ 07701
+@BODYTEXT:732/530-1639; fax:732/842-2311; april@klimley.com
+@BODYTEXT:Writing, editing and online content services for financial service companies, corporations, and associations.  Specialties include creating and editing newsletters and company magazines; writing advertorials, marketing/communications materials, and online newsletters, websites and alerts. Founded: 1982.
+@CCD1:April W. Klimley, pres.; Christine Choi, editorial ass.; Adam Cotton, jr writer.  
+@BODYTEXT:Bank of America Prime Brokerage
+@BODYTEXT:Black Enterprise Magazine
+@BODYTEXT:Fortune Magazine
+@BODYTEXT:Jack Dalton Esq. Law Firm
+@BODYTEXT:Merrill Lynch
+@BODYTEXT:Product Development & Management Assn. (PDMA)
+@BODYTEXT:Standard & Poor's
+@BODYTEXT:Sundberg & Associates
+@BODYTEXT:
+@CO:KLORES COMMUNICATIONS, DAN
+@BODYTEXT:See DKC/Dan Klores Communications
+@BODYTEXT:
+@BODYTEXT:
+@CO:KLUTE COMMUNICATIONS
+@BODYTEXT:6625 E. North Lane, Scottsdale, AZ 85253
+@BODYTEXT:480/951-6525; fax:480/951-6559; pr@klutecommunications.com
+@BODYTEXT:High tech and issues oriented organizations PR, rural community tourism & hospitality. Founded: 1984
+@CCD1:Pete Klute, owner
+@BODYTEXT:Graham County Chamber
+@BODYTEXT:Pinetop-Lakeside
+@BODYTEXT:San Carlos Apache Tribe
+@BODYTEXT:White Mountains Partnership
+@BODYTEXT:
+@CO:KM COMMUNICATIONS
+@BODYTEXT:1601 Connecticut Ave., N.W., #701, Washington, DC 20009
+@BODYTEXT:202/331-0175; fax:202/331-7428
+@BODYTEXT:www.kmcpr.com
+@BODYTEXT:PR firm specializing in media rels. Serves clients in the hospitality, medical, corp. & non-profit industries. Founded: 1996.
+@CCD1:Kirk Monroe, president
+@BODYTEXT:Alliance of Acupuncture & Oriental Medicine
+@BODYTEXT:MD Linx
+@BODYTEXT:Navy League of the United States
+@BODYTEXT:The John Templeton Foundation
+@BODYTEXT:USA Votenet
+@BODYTEXT:
+@CO:KMA COMMUNICATIONS
+@BODYTEXT:PO Box 83577, Los Angeles, CA 90083
+@BODYTEXT:310/258-9801; fax:240/536-6546
+@BODYTEXT:www.kmacommunications.com
+@BODYTEXT:Independent PR firm specializing in enterprise software. Founded: 1999.
+@CCD1:Kerry McGagin, president
+@BODYTEXT:GoAhead Software
+@BODYTEXT:
+@CO:KMC GROUP, THE
+@BODYTEXT:2821 SE 213 Av., Sammamish, WA 98005
+@BODYTEXT:425/450-9965; fax:425/864-6485
+@BODYTEXT:www.kmcgroup.com
+@BODYTEXT:High-tech PR. Employees: 12. Founded: 1993
+@CCD1:Pam Miller, CEO
+@BODYTEXT:Airspan Communications
+@BODYTEXT:Conversay
+@BODYTEXT:Encompass Ventures
+@BODYTEXT:Epoch Internet
+@BODYTEXT:Wireless Services Corp.
+@BODYTEXT:
+@CO:KMR COMMUNICATIONS
+@BODYTEXT:114 E. 32nd St., #1200, New York, NY 10016
+@BODYTEXT:212/213-6444; fax:212/213-4699
+@BODYTEXT:www.KMRCommunications.com
+@BODYTEXT:PR firm specializing in beauty, fashion, medical, pharmaceutical, and fitness. Employees: 15. Founded: 1998.
+@AGENCY: KMR Communications, Inc. has secured top-notch media coverage for a broad range of health, beauty, fitness and lifestyle clients worldwide since 1998.  We handle a wide spectrum of projects including media coverage, national product launches, press kits and strategic alliances.  At KMR, we stay true to our niche.  As a result, our clients benefit from years of well honed media contacts in local and national media.  We know how media people think and how to strategically position a story.  At KMR, we are large enough to be a strong prescence in the field of PR, but small enough so that each client receives the utmost in personal attention.  PR Week Magazine named KMR, "one of the top 50 healthcare PR firms in the nation."  We are adept at catapulting start up companies as well as perpetuating the recognition of established entities and individuals.  
+@CCD1:Katherine M. Rothman, CEO
+@BODYTEXT:American Laser Centers
+@BODYTEXT:Bosley Hair Restoration
+@BODYTEXT:Environ Skincare
+@BODYTEXT:Eye Care 20/20
+@BODYTEXT:Georgia Chiropractic Association
+@BODYTEXT:GM Collin Skincare
+@BODYTEXT:Hairmax Laser Comb 
+@BODYTEXT:La Cote USA Skincare
+@BODYTEXT:Rene Futerer Hair Care
+@BODYTEXT:Skin Spa Therapies
+@BODYTEXT:Sweet Spot Labs, Inc.
+@BODYTEXT:The Zone Diet Delivery System
+@BODYTEXT:Tupli Couture Shoe Salon
+@BODYTEXT:
+@CO:KNCB/DAVE
+@BODYTEXT:Fourth and Vine Building, 2601 Fourth Ave., #600, Seattle, WA 98121
+@BODYTEXT:206/262-0395; fax:206/262-0915; scallahan@kncb.com
+@BODYTEXT:PR, PA, crisis comms., adv., marketing, promotion.
+@CCD1:Dave Syferd, managing partner
+@BODYTEXT:Banner Bank
+@BODYTEXT:Cell Therapeutics
+@BODYTEXT:Corus Pharma
+@BODYTEXT:Miller/Hull Partnership
+@BODYTEXT:Washington State Medical Assn.
+@BODYTEXT:Windstar Cruises
+@BODYTEXT:
+@CO:KODORA COMMUNICATIONS, LLC
+@BODYTEXT:2150 Joshua’s Path, #100, Hauppauge, NY 11788
+@BODYTEXT:631/952-4600; fax:631/952-4686; kodora@kodora.com
+@BODYTEXT:Corporate, financial PR, consumer marketing, technology. Employees: 10. Founded: 1999.
+@CCD1:Daniel O’Connell, CEO
+@BODYTEXT:
+@CO:KOHNSTAMM COMMUNICATIONS
+@BODYTEXT:400 No. Robert St., #1450, St. Paul, MN 55101
+@BODYTEXT:651/228-9141; fax:651/298-0628; josh@kohnstamm.com
+@BODYTEXT:www.kohnstamm.com
+@BODYTEXT:National business and consumer media relations, community relations and business ethics, brand positioning and product launches.  Employees: 12. Founded: 1991.
+@AGENCY:Agency Statement: Kohnstamm Communications is an award-winning, Twin Cities-based PR firm that helps companies build brand and generate sales. Kohnstamm Communications is the only Minnesota PR firm to have received the Holmes' Report's Client Seal of Approval rating in that publication's 2003 PR Agency Report Card - one of a select number of small PR agencies nationwide to do so. The rating is based on how clients rated firms.
+@AGENCY:Agency founder Josh Kohnstamm, formerly of Hill and Knowlton, and  Account Director Trish Scorpio, formerly of Weber Shandwick, have created a cohesive “results-oriented” 12-person team that has earned a “go-to” reputation among business and consumer clients nationwide.
+@CCD1:Joshua Kohnstamm, CEO; Ricka Kohnstamm, COO; Trish Scorpio, account director
+@BODYTEXT:Cornerstone Development Group
+@BODYTEXT:Gorilla Glue
+@BODYTEXT:Green Mill Restaurants
+@BODYTEXT:Halleland Lewis Nilan
+@BODYTEXT:Hyland's Homeopathics 
+@BODYTEXT:JNBA Financial Advisors
+@BODYTEXT:St. Paul Travelers Insurance Co.
+@BODYTEXT:University of Minnesota, College of Continuing Education
+@BODYTEXT:University of St. Thomas, College of Business
+@BODYTEXT:
+@CO:KOLBER MARKETING INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:The Kolber Bldg., 500 N. Easton Road, Box 648, Willow Grove, PA 19090
+@BODYTEXT:215/657-4600; fax:215/657-8192; genek@bigplanet.com
+@BODYTEXT:recreation.  Founded: 1989.
+@CCD1:Gene K. Kolber, president
+@BODYTEXT:
+@CO:KOROBERI, INC
+@BODYTEXT:1506 E. Franklin St., #300, Chapel Hill, NC 27514
+@BODYTEXT:919/960-9794; david@koroberi.com
+@BODYTEXT:www.koroberi.com
+@BODYTEXT:Full-service int'l marketing firm.; print & digital adv., brand development & corp. identity, direct mktg., lead mgmt., strategic planning & market research. Founded: 1999.
+@CCD1:Bruce Olive, CEO; David Abels, sr. A/E
+@BODYTEXT:CipherOptics, Inc.
+@BODYTEXT:FKI Logistex
+@BODYTEXT:Flowserve Corp.
+@BODYTEXT:Metagenix, Inc.
+@BODYTEXT:
+@CO:KORSHAK INC
+@BODYTEXT:875 N. Michigan, Suite 1535, Chicago, IL 60611
+@BODYTEXT:312/751-2121
+@BODYTEXT:Corporate positioning, press releases, product launches and other marketing PR activities. 
+@CCD1:Margie Korshak, president
+@BODYTEXT:McDonalds
+@BODYTEXT:
+@CO:KORTENHAUS COMMUNICATIONS, INC.
+@BODYTEXT:29 Commonwealth Ave., 7th flr., Boston, MA 02116
+@BODYTEXT:617/536-5352; fax:617/536-8883; info@kortenhaus.com
+@BODYTEXT:www.kortenhaus.com
+@BODYTEXT:General PR. Employees: 11. Founded: 1984.
+@CCD1:Lynne Kortenhaus, pres. & CEO
+@BODYTEXT:Artists For Humanity
+@BODYTEXT:Haley & Steele
+@BODYTEXT:Nine Zero
+@BODYTEXT:Salon Fontana
+@BODYTEXT:Stephanie's
+@BODYTEXT:Wrentham Village Premium Outlet
+@BODYTEXT:
+@CO:KOSS PR CONSULTING, MAYBURN
+@BODYTEXT:167 Putnam Park, Greenwich, CT 06830
+@BODYTEXT:203/869-8553; fax:203/869-8553
+@BODYTEXT:PR for food & cooking equipment. Founded: 1990.
+@CCD1:Mayburn Koss, principal
+@BODYTEXT:
+@CO:KOSTKA/GLEASON COMMUNICATIONS
+@BODYTEXT:Partner in The Worldcom Public Relations Group
+@BODYTEXT:820 16th St., #250, Denver, CO 80202
+@BODYTEXT:303/623-8421; fax:303/573-5426; wkostka@aol.com
+@BODYTEXT:Corporate, general PR. Employees: 10. Founded: 1949
+@CCD1:William Kostka, Jr., chmn.; Cynthia Gleason, pres. & CEO
+@BODYTEXT:Aurora Public Schools
+@BODYTEXT:Bromley Cos.
+@BODYTEXT:Bromley Park
+@BODYTEXT:Centricom Colorado
+@BODYTEXT:College Invest
+@BODYTEXT:Colorado Student Loan Program
+@BODYTEXT:Colorado Student Obligation Bond Auth.
+@BODYTEXT:Consumer Credit Counseling Service of Greater Denver
+@BODYTEXT:Covenant Village of Colorado
+@BODYTEXT:Deutsch & Sheldon
+@BODYTEXT:Four Corners Sustainable Forests Partnership
+@BODYTEXT:Gateway American Properties LLC
+@BODYTEXT:M.D.C. Holdings
+@BODYTEXT:Rocky Mountain Health Plans
+@BODYTEXT:
+@CO:KOTCHEN GROUP, THE
+@BODYTEXT:Firehouse Square, 21 Brace Rd., West Hartford, CT 06107
+@BODYTEXT:860/521-2266; fax:860/521-2204; pr@kotchengroup.com
+@BODYTEXT:PR, brand awareness, sales promo. and TV placement for consumer products, retail, automotive, DIY, beauty/fashion, home furnishings, experts and authors.  Employees: 7. Founded: 1993.
+@AGENCY:Agency Statement: The Kotchen Group is a full-service PR firm with a focus in retail, lifestyle, home, crafts, non-profit and publishing. Agency contacts in the business, consumer, media and entertainment industry enable clients to benefit from creative partnership opportunities, cross promotions and strong media placement.
+@AGENCY:The Public Relations team is made up of communications professionals and broadcast journalists dedicated to meet the timely needs of media. Representing a variety of lifestyle experts, TV hosts, authors and celebrity spokespersons, The Kotchen Group has also developed a unique niche in TV placement and national media tours.
+@CCD1:Deborah Kotchen, pres.; Barbara Carpenter, Robert Bernarduci, sr. A/Es; Emily Hermann, Elizabeth Cowles, A/Es
+@BODYTEXT:Dunkin Donuts
+@BODYTEXT:Health Communications
+@BODYTEXT:Hitchcock Chair Co.
+@BODYTEXT:Mary Jones Show
+@BODYTEXT:Mr. Gadget
+@BODYTEXT:National Program for Playground Safety
+@BODYTEXT:Raytek Corp.
+@BODYTEXT:Storey Publishing
+@BODYTEXT:Terri O
+@BODYTEXT:U.S Presswire
+@BODYTEXT:York Wall Coverings
+@BODYTEXT:
+@CO:KOVAK-LIKLY COMMUNICATIONS
+@BODYTEXT:23 Hubbard Rd., Wilton, CT 06897
+@BODYTEXT:203/762-8833; fax:203/762-9195; info@KLCpr.com
+@BODYTEXT:PR to healthcare, corporate and business-to-business consumer clients.  Founded: 1987.
+@AGENCY:Agency Statement: Kovak-Likly Communications is a leading independent public relations and marketing communications firm focused on the pharmaceutical, biotech and medical technology industries. With headquarters in Wilton, CT, the firm also services clients from its New York offices at 300 Park Avenue.
+@CCD1:Bruce M. Likly, Elizabeth D. Likly, principals
+@BODYTEXT:ALTANA Pharma
+@BODYTEXT:Apollo Diamond
+@BODYTEXT:Cochlear Americas
+@BODYTEXT:Ferring Pharmaceuticals Inc.
+@BODYTEXT:Integrated Nano-Technologies
+@BODYTEXT:Schwarz Pharma
+@BODYTEXT:
+@CO:KOWAL COMMUNICATIONS, INC.
+@BODYTEXT:28 Hemlock Dr., Northboro, MA 01532
+@BODYTEXT:508/393-7023; fax:508/393-7043
+@BODYTEXT:www.kowal.com
+@BODYTEXT:PR and advertising for B2B, financial, industrial, manufacturing, healthcare.  Founded: 1990.
+@CCD1:David P. Kowal, president
+@BODYTEXT:
+@CO:KPR
+@BODYTEXT:333 E. 38th Street, 4th flr., New York, NY 10016
+@BODYTEXT:212/856-8600; fax:212/856-8549
+@BODYTEXT:www.kprny.com
+@BODYTEXT:Healthcare PR. Employees: 12.  Founded: 1993.
+@CCD1:Bob Muratore, president
+@BODYTEXT:Ethican Endo-Surgery
+@BODYTEXT:Ortho Biotech
+@BODYTEXT:3M Pharmaceuticals
+@BODYTEXT:
+@CO:KPR, INC.
+@BODYTEXT:17057 Chatsworth St., Granada Hills, CA 91344
+@BODYTEXT:818/368-8212; fax:818/368-8857
+@BODYTEXT:www.kprinc.com
+@BODYTEXT:High-tech, product, image, corporate PR.  Employees: 9. Founded: 1976.
+@CCD1:David Kaye, pres.; Bea Kaye, exec. VP
+@BODYTEXT:Aspire Digital
+@BODYTEXT:Comarco
+@BODYTEXT:Identity Web
+@BODYTEXT:Pacific Image
+@BODYTEXT:TMA Assocs.
+@BODYTEXT:Wizzard Software
+@BODYTEXT:
+@CO:KPR, KAPPLER PUBLIC RELATIONS
+@BODYTEXT:401 Terry Francois St., San Francisco, CA 94158
+@BODYTEXT:415/777-4019; fax:415/777-1975
+@BODYTEXT:PR, PA, corporate communications; marketing communications; travel; events. Founded: 1990
+@CCD1:Frank K. Kappler, pres.
+@BODYTEXT:Campfire Safaris
+@BODYTEXT:D’Accord Financial Services
+@BODYTEXT:Hello Direct
+@BODYTEXT:LBE Technologies, Inc.
+@BODYTEXT:LeapFrog Toys
+@BODYTEXT:
+@CO:KRAUS & COMPANY, HERBERT M.
+@BODYTEXT:333 North Michigan Ave., #2032, Chicago, IL 60601
+@BODYTEXT:312/578-9114; fax:312/726-9520; hkraus921@sbcglobal.net
+@BODYTEXT:Non-profit, civic, public affairs, crisis communications.  Founded: 1954.
+@CCD1:Herb Kraus, president
+@BODYTEXT:Chicago Crime Commission
+@BODYTEXT:Gev Corp.
+@BODYTEXT:Giordano & Neilan Ltd., Attorney
+@BODYTEXT:Morton Grove Pharmaceuticals
+@BODYTEXT:
+@CO:KRAUT COMPANY INC., G.A.
+@BODYTEXT:275 Madison Ave., New York, NY 10016
+@BODYTEXT:212/696-5600; fax:212/685-2413; gkraut@gakraut.com
+@BODYTEXT:Investor relations only. Founded: 1969.
+@CCD1:Gary A. Kraut, president
+@BODYTEXT:
+@CO:KREISBERG GROUP LTD., THE
+@BODYTEXT:130 West 25th St., #800, New York, NY 10001
+@BODYTEXT:212/799-5515; fax:212/799-5535
+@BODYTEXT:Cultural PR. Employees: 10. Founded: 1984
+@CCD1:Claire Whittaker, pres.; Stuart Klawans, Bree Jeppson, VPs; Luisa Kreisberg, chairman
+@BODYTEXT:Aga Khan Award for Architecture
+@BODYTEXT:American University in Cairo
+@BODYTEXT:Beyer Blinder Belle Architects and Planners
+@BODYTEXT:Jewish Museum
+@BODYTEXT:National Endowment for the Arts Jazz Masters Program
+@BODYTEXT:Office of Zaha Hadid
+@BODYTEXT:Price Tower Art Center
+@BODYTEXT:Rensselaer Polytechnic Institute
+@BODYTEXT:Rolex Corp.
+@BODYTEXT:Santiago Calatrava SA
+@BODYTEXT:Smithsonian American Art Museum
+@BODYTEXT:The Kitchen
+@BODYTEXT:University of Oklahoma Museum of Art
+@BODYTEXT:Vassar College
+@BODYTEXT:
+@CO:KRIER & ASSOCS., KEVIN
+@BODYTEXT:430 W. 14th St., 5th flr., New York, NY 10014
+@BODYTEXT:212/431-0550; fax:212/242-8415
+@BODYTEXT:PR and marketing agency for fashion cos.
+@CCD1:Kevin Krier, president
+@BODYTEXT:Ellen Tracy
+@BODYTEXT:Gene Meyer
+@BODYTEXT:Halston
+@BODYTEXT:Hugo Boss
+@BODYTEXT:
+@CO:KROEGER ASSOCIATES, INC.
+@BODYTEXT:4338 South Dr., #104, Allentown, PA 18103
+@BODYTEXT:800/503-1299; info@kroegerpr.com
+@BODYTEXT:Environmental, pharmaceutical, consumer products, crisis management, power generation.  Employees: 10. Founded: 1988.
+@CCD1:Judith C. Anderson, president
+@BODYTEXT:
+@CO:KRUPP KOMMUNICATIONS
+@BODYTEXT:10 West 74th St., #1E, New York, NY 10023
+@BODYTEXT:212/579-2010; fax:212/579-2997; hkrupp@kruppcommunications
+@BODYTEXT:www.kruppkommunications.com
+@BODYTEXT:Personal and corporate PR; specializing in publishing, authors, celebrities, consumer goods & services, and technology. Founded: 1996.
+@CCD1:Heidi Krupp, president; Phil Kares, CFO; Jennifer Heeseler, senior A/E; Laura Robinson, exec. asst.
+@BODYTEXT:Harper Collins
+@BODYTEXT:Rodale Books
+@BODYTEXT:South Beach Diet
+@BODYTEXT:Warner Books
+@BODYTEXT:Catherine Crier
+@BODYTEXT:Oz Garcia
+@BODYTEXT:Terry Real
+@BODYTEXT:Dr. Harvey Karp
+@BODYTEXT:
+@CO:KSC PUBLIC RELATIONS
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:40 Sarasota Ctr. Blvd., #107, Sarasota, FL 34240
+@BODYTEXT:941/906-1555; fax:941/906-1556
+@BODYTEXT:www.kscadvpr.com
+@BODYTEXT:PR, issues and crises management, media relations, media training.
+@CCD1:Christopher Carroll, Cheray Keyes-Shima, managing partners
+@BODYTEXT:
+@CO:KUBASEK & ASSOCIATES, INC., JOHN R.
+@BODYTEXT:391 Hoyt Ave., Staten Island, NY 10301
+@BODYTEXT:718/727-4366; fax:718/448-8737
+@BODYTEXT:General PR and adv., marketing, graphics. Employees: 6. Founded: 1963
+@CCD1:John R. Kubasek, president
+@BODYTEXT:
+@CO:KULAT COMMUNICATIONS, INC.
+@BODYTEXT:39 Bladesrun Drv., Shrewsbury, NJ 07702
+@BODYTEXT:732/219-5816; fax:732/219-9580; kucomm@hotmail.com
+@BODYTEXT:Aviation Week Group
+@CCD1:Robert Kulat, president
+@BODYTEXT:Aviation Week Group
+@BODYTEXT:Lincoln Technical Institute
+@BODYTEXT:New Jersey Aviation Assn.
+@BODYTEXT:North American Airlines
+@BODYTEXT:Primac Air
+@BODYTEXT:Select Italy
+@BODYTEXT:
+@CO:KUNDELL COMMUNICATIONS
+@BODYTEXT:330 Madison Ave., New York, NY 10017
+@BODYTEXT:212/877-2798, 646/495-5300; fax:212/877-3387; www.kundellcommunications.com/ www.publicspeaking4u.com
+@BODYTEXT:Travel, hospitality, lifestyle, association, not-for-profit, and public speaking training. Founded: 2000.
+@AGENCY: Agency Statement: Kundell Communications offers strategically-driven public relations and marketing  communications services, specializing in travel and tourism, hospitality, lifestyle, nor for profit, and association clients.  A public speaking training division offers performance-based coaching for speakers of all levels.
+@AGENCY: Working with a network of senior-level, independent associates who help conceive and execute innovative and solid communications programs, Kundell Communications designs campaigns for long-term visibility, both in consumer and trade media.  P.R. services include consultation, press releases and press kits, print and broadcast media relations, press conferences, speechwriting, editorial services, crisis communications and issue management.
+@CCD1:Linda Kundell, pres.
+@BODYTEXT:ATS Tours
+@BODYTEXT:Gate 1 Travel
+@BODYTEXT:Islands in the Sun
+@BODYTEXT:United States Tour Operators Assn.
+@BODYTEXT:
+@CO:KUPPER PARKER COMMUNICATIONS INC.
+@BODYTEXT:8301 Maryland Ave., #200, St. Louis, MO 63105
+@BODYTEXT:314/290-2000; fax:314/290-2126; mbarber@kupperparker.com
+@BODYTEXT:www.kupperparker.com
+@BODYTEXT:PR, interactive mktg., website development, creative dev.; media planning/buying, direct mktg.; corporate positioning, product publicity, community rels., special events planning for health, fin'l, food, high-tech, others.  Employees: 30.
+@CCD1:Mary Scholz Barber, partner, IR and PR; Bruce Kupper, chmn. & CEO
+@BODYTEXT:American Water
+@BODYTEXT:Coolsavings, Inc.
+@BODYTEXT:Domino Sugar
+@BODYTEXT:Emerson Motors
+@BODYTEXT:Key Principal Partners
+@BODYTEXT:Missouri State Medical Association
+@BODYTEXT:National Marine Manufacturers Assn.
+@BODYTEXT:Quest Diagnostics Incorporated
+@BODYTEXT:SmartReply
+@BODYTEXT:Stern Brothers & Company
+@BODYTEXT:Vein Centers of Excellence
+@BODYTEXT:Watlow
+@BODYTEXT:
+@CO:KUR CARR GROUP
+@BODYTEXT:815 North First Ave., ste. 3 East, Phoenix, AZ 85003
+@BODYTEXT:602/253-5838; fax:602/253-4611.
+@BODYTEXT:Investor and public relations. Founded: 1989
+@CCD1:Sally Kur, president
+@BODYTEXT:Amtech Systems, Inc.
+@BODYTEXT:Phoenix Associates
+@BODYTEXT:Sound Listening & Learning Ctr.
+@BODYTEXT:
+@CO:KURMAN COMMUNICATIONS, INC.
+@BODYTEXT:345 No. Canal, #1404, Chicago, IL 60606
+@BODYTEXT:312/651-9000; fax:312/651-9006; kurman@kurman.com
+@BODYTEXT:Full service PR/mktg./special events; automotive, pharmaceutical, Internet, technology, medical/nutrition, product intros, publishing, non-profit orgs., foods, beverages, restaurants and hotels.  Employees: 8. Founded: 1983.
+@CCD1:Cindy Kurman, president
+@BODYTEXT:Akorn, Inc.
+@BODYTEXT:Coco Pazzo 
+@BODYTEXT:MJ2
+@BODYTEXT:Northalsted Area Merchants Association
+@BODYTEXT:Pheasant Run Resort
+@BODYTEXT:Pili Pili
+@BODYTEXT:Prairie Grass Cafe
+@BODYTEXT:Sutton Place Hotel
+@BODYTEXT:Trio Atelier
+@BODYTEXT:
+@CO:KWE GROUP, INC.
+@BODYTEXT:4425 Ponce de Leon Blvd., #260, Coral Gables, FL 33146
+@BODYTEXT:305/476-5424; fax:305/476-5434; pr@kwegroup.com
+@BODYTEXT:www.kwegroup.com
+@BODYTEXT:PR services for clients in the travel and leisure industry.
+@AGENCY:Agency Statement: KWE Group is a marketing PR firm and bilingual consulting group specializing in travel and leisure. For 26 years, Karen Weiner Escalera and her team of specialists have spearheaded programs for brand leaders from Visa USA, ASTA, Hyatt Hotels and Virtuoso to the governments of Mexico City and Hong Kong. In 2002, Escalera, president and founder of KWE Associates, launched the KWE Group in Miami as a consulting and full service PR firm for a select group of clients.
+@CCD1:Karen Weiner Escalera, Pres./CEO; 
+@BODYTEXT:Clinton Hotel, Miami
+@BODYTEXT:Esencia/Mexico
+@BODYTEXT:E-Site Marketing
+@BODYTEXT:Hyatt Resorts Caribbean
+@BODYTEXT:Ikal del Mar Villa Resort & Spa
+@BODYTEXT:Inn at Robert's Grove/Belize
+@BODYTEXT:Marquis Hotels and Resorts
+@BODYTEXT:The Palms/Turks & Caicos
+@BODYTEXT:The Sands/Turks & Caicos
+@BODYTEXT:
+@CO:KWGC, INC.
+@BODYTEXT:3838 Oak Lawn Ave., Dallas, TX 75219
+@BODYTEXT:214/528-8167; fax:214/528-0972
+@BODYTEXT:www.KWGC.com
+@BODYTEXT:PR, advertising, design.  Founded: 1985
+@CCD1:Kay Williams, CEO
+@BODYTEXT:
+@CO:KX ASSOCIATES INC.
+@BODYTEXT:525 Broadway, 7th flr., New York, NY 10012
+@BODYTEXT:212/925-2507
+@BODYTEXT:www.kxassociates.com
+@BODYTEXT:Fashion and cosmetics PR, home furnishings PR.
+@CCD1:Annik Klein, pres.
+@BODYTEXT:Expofil   
+@BODYTEXT:Luxepack Monaco
+@BODYTEXT:L.D.F.
+@BODYTEXT:Petit Bateau
+@BODYTEXT:Pratt Institute
+@BODYTEXT:Yarn Fair International
+@BODYTEXT:

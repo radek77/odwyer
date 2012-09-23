@@ -1,0 +1,142 @@
+@BREAKER:ORGANIZATIONS
+
+@CO:ECCO NETWORK
+@BODYTEXT:International PR & marketing comms. network
+@BODYTEXT:192-198 Vauxhall Bridge Rd., SW1V 1DX, London, United Kingdom
+@BODYTEXT:44-207-592-3102; fax:44-207-931-9640
+@BODYTEXT:
+@CCD1:Mike Bawden, chairman
+@BODYTEXT:Members:
+@BODYTEXT:Arabian Gulf: Total Coms.
+@BODYTEXT:Australia: LOOP PR
+@BODYTEXT:Austria: Communications Matters
+@BODYTEXT:Belgium: EDW-Pyramid
+@BODYTEXT:Bulgaria: Princeps Comms.
+@BODYTEXT:China: Guangming PR
+@BODYTEXT:Egypt: CID
+@BODYTEXT:Finland: Imageneering
+@BODYTEXT:France: Wellcom
+@BODYTEXT:Germany: DiKom
+@BODYTEXT:Greece: Solid Relations
+@BODYTEXT:Ireland: Heneghan PR
+@BODYTEXT:Italy: Comboni Comunicazione
+@BODYTEXT:Poland: Mmd PR
+@BODYTEXT:South Africa: 3D Global Comms.; Scribe Comms.
+@BODYTEXT:Spain: Aleph; MARCO de Comunicacion Sl; Newsline Press Comms. & PR
+@BODYTEXT:Sweden: Rita Platzer PR
+@BODYTEXT:Switzerland: Howald & Partner PR
+@BODYTEXT:U.K.: Kinross + Render Ltd.; Lockwood Lewis Assocs.
+@BODYTEXT:U.S: Brand Central Station; Alan Weinkrantz & Co.
+@BODYTEXT:
+@CO:FD INTERNATIONAL
+@BODYTEXT:380 Lexington Ave., 50th flr., New York, NY 10168
+@BODYTEXT:212/850-5639
+@BODYTEXT:
+
+@CCD1:Charles Watson, CEO; Dana Mulvihill, CFO; Steve Jacobs, COO; Declan Kelly, int'l business development officer
+
+@BODYTEXT:Members:
+@BODYTEXT:Financial Dynamics in the U.K. and France FD Morgen-Walke in the U.S.
+@BODYTEXT:Financial Dynamics in Ireland
+@BODYTEXT:Ahrens & Behrent, Financial Dynamics in Germany FD Accento in Italy FD Hallvarsson & Halvarsson in Scandinavia C&FD in the U.K.
+@BODYTEXT:
+@CO:INTERLINK
+@BODYTEXT:Bracq Gauvin
+@BODYTEXT:40 ter avenue de Suffren, 75015, Paris, France
+@BODYTEXT:011-33-1-43-06-10-20; fax:011-33-1-43-06-80-64; c.michel@carolebracq.com
+@BODYTEXT:
+@CCD1:Carole Bracq, president
+
+@BODYTEXT:Segmenta PR
+@BODYTEXT:Feldbrunnenstrasse 52, 20148 Hamburg, Germany 
+@BODYTEXT:011-49-40-441130-0; fax: 011-49-40-459722; 011-49-40-4504057; schwarzweller@segmenta.de
+@CCD1:Heide Schwarzweller, managing director 
+@BODYTEXT:Attila & Co. Milano via Guerrazzi, 1 20145 Milano, Italy 011-39-2-349701; fax: 011-39-2-34970741 (or 743); attila@planet.it
+@CCD1:Andreina Longhi, pres.
+@BODYTEXT:Tokyo Senko Planet Inc.
+@BODYTEXT:1-14-7 Minami Aoyama, Minato-Ku, Tokyo 107-0062, Japan
+@BODYTEXT:011-81-3-5772 2267; fax: 011-81-3-3475-1012; mario@tsplanet.co.jp
+@CCD1:Mario Itoh, pres. & CEO
+@BODYTEXT:Cachet Communicatie BV
+@BODYTEXT:Randstad 21-49, NL 1314BH Almere-stad Holland 011-31-36-548-21-21; fax: 011-31-36-534-12-83; www.cachetcommunicatie.com; johan@cachetcommunicatie.com
+@CCD1:Jolanda Rijling, pres.
+@BODYTEXT:Enege, Pau Casals, 22 4o 1, 08021 Barcelona, Spain 011-34-93-209-07-43; fax: 011-34-93-201-12-27; n.gene@enege.net
+@CCD1:Nuria Gene, gen. mgr.
+@BODYTEXT:Caroline Neville Assocs.
+@BODYTEXT:The Rankin Bldg., 139-143 Bermondsey St., London SE1 3W, U.K.
+@BODYTEXT:011-44-207-940-2900; fax: 011-44-207-940-2901; caroline@nevillemccarthy.com
+@CCD1:Caroline Neville, mng. dir.
+@BODYTEXT:Star Public Relations, Tegnergatan 39, P.O. Box 3369, SE-103 67 Stockholm, Sweden.
+@BODYTEXT:011-46-8-545-29850; fax: 011-46-8-545-298-69; david.hesselman@starpr.se
+@CCD1:David Hesselman, Account Manager
+@BODYTEXT:
+@CO:PUBLIC RELATIONS CONSULTANTS ASSOCIATION
+@BODYTEXT:Willow House
+@BODYTEXT:Willow Place Victoria, SW1P 1JH, London, United Kingdom
+@BODYTEXT:44-71 233 6026
+@BODYTEXT:www.prca.org.uk
+@BODYTEXT:Trade assn. Employees: 7. Founded: 1968.
+@CCD1:Tom Watson, chmn.; Chris McDowall, director general
+@BODYTEXT:
+@CO:PUBLIC RELATIONS ORGANISATION INT'L INC. (PROI)
+@BODYTEXT:Contact: Box 45011, Ocean Park RPO, White Rock, B.C., Canada V4A 9L1
+@BODYTEXT:604/473-6495; avanveen@proi.com
+@BODYTEXT:www.proi.com
+@BODYTEXT:
+@AGENCY:@AGENCY = Agency Statement: PROI is an international, strategic Partnership of independent public relations agencies. Established in Europe in 1970, PROI, with 2004 fee income in excess of $130 million, is the oldest Partnership of PR/Marketing agencies in the world, the largest in Europe and rated #1 in various country markets. PROI represents more than 1,350 clients in 50+ offices.
+@AGENCY:@AGENCY = The number of PROI Partners is restricted worldwide. Each partner is either the leading agency or within the Top 5 in their own market. Applications can be sent to PROI's Corporate Secretary.
+@CCD1:International Management Board: Jeff Julin,APR (MGA Comms., Denver), pres.; Nancy Bacher-Long (Dorland PR, Dorland Global Health Comms., Philadelphia), VP, Americas; Loring Phinney, APR (Optimum PR, Vancouver), VP, Americas; Philip Roffey (i+e consultants, Paris), VP, Europe; Dr. Marcel Trachsel (int/ext comms., Basel) VP, Europe; Allard W. van Veen, APR, Fellow CPRS, Corporate Secretary. 
+@BODYTEXT:Partner Agencies:
+@BODYTEXT:THE AMERICAS-USA + MEXICO:
+@BODYTEXT:<b>Atlanta + Athens</b>: Jackson Spalding Comms.; <b>Boston:</b> Ronald Trahan Assocs. Inc.; <b>Chicago:</b> Cushman/Amberg Comms. Inc.; <b>Cleveland:</b> Robert Falls & Co. PR; <b>Dallas:</b> Shelton; <b>Denver:</b> MGA Communications Inc.; <b>Irvine:</b> PainePR; <b>Los Angeles:</b> PainePR; <b>Mexico City:</b> The Jeffrey Group; <b>Minneapolis:</b> LaBreche Murray PR; <b>New York:</b> Broadgate Consultants, Inc.; PainePR; Stanton Crenshaw Communications; <b>Philadelphia:</b> Dorland PR, Dorland Global Health Comms.; <b>San Francisco:</b> Torme & Company; Dorland PR; Dorland Global Health Comms.; <b>Seattle:</b> The Frause Group; <b>St. Louis:</b> Cushman/Amberg Comms., Inc.; <b>Tampa:</b> Tucker/Hall Inc.; <b>Washington, DC:</b> Widmeyer Comms.
+@BODYTEXT:THE AMERICAS-CANADA:
+@BODYTEXT:<b>Halifax, Montreal, Ottawa, Quebec City, Toronto, and
+@BODYTEXT:Vancouver:</b> Optimum PR
+@BODYTEXT:THE AMERICAS-SOUTH AMERICA
+@BODYTEXT:<b>Buenos Aires</b> (Argentina): The Jeffrey Group; <b>Sao Paulo</b> (Brazil): The Jeffrey Group
+@BODYTEXT:EUROPE-ASIA-PACIFIC AND AFRICA:
+@BODYTEXT:<b>Amsterdam</b> (The Netherlands): van Luyken Communicatie Adviseurs; <b>Athens</b> (Greece): Solid PR; <b>Barcelona, Madrid + Valencia,</b> (Spain): Inforpress; <b>Basel</b> (Switzerland): int/ext Comms. AG (BPRA); <b>Berlin, Dusseldorf, Frankfurt, Hamberg + Munich</b> (Germany): fischerAppelt Kommunikation; <b>Bratislava</b> (Slovak Republic): Interel; <b>Brussels</b> (Belgium): Interel; <b>Copenhagen</b> (Denmark): Kommunikations Kompagniet; <b>Hertfordshire + London</b> (England): icas PR; <b>Lisbon</b> (Portugal): Inforpress; <b>Milan</b> (Italy): TT&A-Theodore Trancu & Associates; <b>Paris</b> (France): i&e Consultants; <b>Prague</b> (Czech Republic): Interel; <b>Stockholm</b> (Sweden): Informedia Comms. AB; <b>Tokyo</b> (Japan): Asahi Agency; <b>Vienna</b> (Austria): communications: Agentur fur Text, PR & Events.
+@BODYTEXT:PROI's Corresponding Partners are located in New Zealand, Taiwan, and South Africa.
+@BODYTEXT:
+@CO:TRIMEDIA COMMUNICATIONS
+@BODYTEXT:Parent co. is Trimedia Int'l Ag (Trimedia Group of Cos.)
+@BODYTEXT:Zollikerstrasse 141, CH-8008, Zurich, Switzerland
+@BODYTEXT:41 1 388 9111; fax:41 1 388 9112
+@BODYTEXT:www.trimediagroup.com
+@BODYTEXT:
+@CCD1:Marion Starck, director, international business 
+@BODYTEXT:Trimedia Communications France SAS:
+@BODYTEXT:10, rue de la Pepiniere, F 75008 Paris, France
+@BODYTEXT:33-1 5530 7070; fax: 33-1 5530 7071; info@trimedia.fr
+@CCD1:Martine Broncher, CEO, Trimedia France Harvard Public Relations SARL c/o Trimedia Comms. France SAS 10, rue de la Pepiniere, F 75008 Paris, France
+@BODYTEXT:33-1 5530 7070; fax: 33-1 5530 7071; info@trimedia.fr
+@CCD1:Yann Le Flohic
+@BODYTEXT:Trimedia Communications Suisse AG:
+@BODYTEXT: 7, rue de Battoirs, CH 1211 Geneva, Switzerland
+@BODYTEXT:41-22 807 3300; fax: 41-22 807 3311; info@ge.trimedia.ch
+@CCD1:Michel Gutknecht, CEO, Trimedia Switzerland Zollikerstrasse 141, CH-8008, Zurich, Switzerland
+@BODYTEXT:41 1 388 9111; fax: 41 1 388 9112
+@CCD1:Marion Starck
+@BODYTEXT:Hirschengraben 5, CH 3011 Berne, Switzerland
+@BODYTEXT:41-31 320 3838; fax: 41-31 328 3839; info@be.trimedia.ch
+@CCD1:Manuela Christen
+@BODYTEXT:Trimedia Communications - European Affairs:
+@BODYTEXT:9, rue du Moniteur, B 1000 Brussels, Belgium
+@BODYTEXT:32-2 219 1249; fax: 32-2 219 3215; martin.saeckl@trimedia.at
+@CCD1:Martin Saeckl
+@BODYTEXT:Trimedia Communications Deutschland GmbH:
+@BODYTEXT:Lindenmannstrasse 75, D40237 Dusseldorf, Germany
+@BODYTEXT:49 211 9648 50; fax: 49 211 9648 545; info@dus.trimedia.de
+@CCD1:Bodo Kirf, CEO, Trimedia Germany Hanauer Landstr. 175-179, D 60314 Frankfurt am Main, Germany
+@BODYTEXT:4969 962 2190; fax: 4969 962 21996; info@fra.trimedia.de
+@CCD1:Sabine Klaas
+@BODYTEXT:Haus der Schweiz, Unter den Linden 24, D10117 Berlin, Germany 4930 726 152 200; fax: 4930 726 152 222; info@bln.trimedia.de
+@CCD1:Katrin Ehlers
+@BODYTEXT:Trimedia Communications Austria GmbH:
+@BODYTEXT:Siebensterngasse 31, A 1070 Vienna, Austria
+@BODYTEXT:43-1 524 43000; fax: 43-1 524 430020; office@trimedia.at
+@CCD1:Alfred Autischer, CEO, Trimedia Communications Austria GmbH; Elisabeth Babnik, manager, Trimedia Public Affairs GmbH Franz-Hinterholzer-Kai 2c, A 5020 Salzburg, Austria
+@BODYTEXT:43 662 843 735; fax: 43 662 843 735-5
+@BODYTEXT:sieglinde.trunkenpolz@trimedia.at
+@CCD1:Sieglinde Trunkenpolz
+@BODYTEXT:

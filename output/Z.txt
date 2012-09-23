@@ -1,0 +1,214 @@
+@BREAKER:Z
+
+@CO:ZABRISKIE AND ASSOCIATES
+@BODYTEXT:1600 S. Main St., Salt Lake City, UT 84115
+@BODYTEXT:801/484-7272; fax:801/484-7294
+@BODYTEXT:Full-service PR. Employees: 5. Founded: 1982.
+@CCD1:Dale O. Zabriskie, pres.; Michele Zabriskie, VP
+@BODYTEXT:Delta Air Lines
+@BODYTEXT:Ensign Bickford Co.
+@BODYTEXT:Gold Cross Ambulance
+@BODYTEXT:National Securities Financial Corp.
+@BODYTEXT:PricewaterhouseCoopers
+@BODYTEXT:University of Phoenix
+@BODYTEXT:Utah Assn. of CPAs
+@BODYTEXT:Utah Broadcasters
+@BODYTEXT:Utah Manufactured Housing Assn.
+@BODYTEXT:
+@CO:ZEHNDER COMMUNICATIONS, INC.
+@BODYTEXT:650 Poydras St., #245, New Orleans, LA 70130
+@BODYTEXT:504/558-7778; fax:504/558-7779
+@BODYTEXT:Full-service adv. & PR firm. Founded: 1998
+@CCD1:Jeffrey Zehnder, pres.
+@BODYTEXT:Boudreaux’s Jewelers
+@BODYTEXT:Deanie’s Seafood
+@BODYTEXT:Hilton Riverside New Orleans
+@BODYTEXT:LUBA Workers’ Compensation Fund
+@BODYTEXT:New Orleans Downtown Development District
+@BODYTEXT:
+@CO:ZELINSKI PR
+@BODYTEXT:55 New Montgomery St., #401, San Francisco, CA 94105
+@BODYTEXT:415/882-7787; fax:415/882-7929
+@BODYTEXT:Founded: 1997.
+@CCD1:James Zelinski, pres.
+@BODYTEXT:
+@CO:ZEMI COMMUNICATIONS, LLC
+@BODYTEXT:99 Madison Ave., 2nd flr., New York, NY 10016
+@BODYTEXT:212/689-9560; fax:212/689-9330
+@BODYTEXT:www.zemi.com
+@BODYTEXT:International comms. consultants, investor relations, and media rels.
+@CCD1:Alan J. Stoga, CEO; Daniel Wilson, managing director; Mariana Campero, VP
+@BODYTEXT:
+@CO:ZENO COMMUNICATIONS
+@BODYTEXT:Advertising and PR
+@BODYTEXT:7 Whitney Place, Princeton Junction, NJ 08550
+@BODYTEXT:609/716-1296; fax:609/716-1297; zenocom@aol.com
+@BODYTEXT:www.zenonet.com
+@BODYTEXT:Marketing-oriented communications company specializing in travel and tourism
+@CCD1:Nosh Anzar Nalavala, president
+@BODYTEXT:Cox & Kings
+@BODYTEXT:International Ventures & Travel
+@BODYTEXT:Malaysian Tourism Promo. Board
+@BODYTEXT:
+@CO:ZENO GROUP, THE
+@BODYTEXT:Formerly PR 21, Independent Unit of the Daniel J. Edelman Companies
+@BODYTEXT:215 Park Ave. S., 16th fl., New York, NY 10003
+@BODYTEXT:212/299-8888; fax:212/462-1026
+@BODYTEXT:www.zenogroup.com
+@BODYTEXT:Healthcare, consumer products, corporate and public affairs, professional services, speaking female, Competitive Insights Employees: 110. Founded: 1998.
+@AGENCY:Agency Statement: The Zeno Group is a marketing and corporate communication firm, with offices in New York, Washington, DC, Chicago, Los Angeles and San Francisco, plus international offices in Amsterdam and Rome. Founded in 1998, Zeno is an independent unit of the Daniel J. Edelman companies.
+@AGENCY:Formerly PR21, Zeno re-launched in 2004 to reflect the evolution of our approach to marketing comms. (consumer and bus.-to-bus.), corporate comms. (crisis and issue management, financial comms.) and public affair (legislative and regulatory consulting). Zeno takes its name from the Greek philosopher Zeno of Citium, who argued that science leads to insight and that action should be aligned with nature.
+@AGENCY:At Zeno we use our proprietary research methodology to shape our programs to meet our clients' business goals. We use research to target, design, deliver and measure programs based on deep domain knowledge of the media, analysts, academics, customers and others who "make a market" for our clients.
+@AGENCY:Zeno provides a range of services for clients in multiple industry sectors and categories, including Health Care, Consumer Products, Financial Services, Technology, Manufacturing and Consumer Electronics. We consult on marketing to women through our Speaking FemaleTM practice.
+@AGENCY:At Zeno, we are discipline and media agnostic, recommending the best mix of comms. activities to achieve business goals, and our integrated programs may feature advertising, direct marketing, online comms. and grassroots activities.
+@CCD1:Jerry Epstein, Pres. and CEO; Stephen Russell, COO and CFO; Phil Armstrong, managing dir. Washington D.C.; John Berard, managing dir. San Fransicco; Bridget Brennan, managing dir. Chicago; Sheldon Lamphier, managing dir. human resources; Lisa Robinson, managing dir. Los Angeles; Hiroshi Wald, managing dir. Competitive Insights; Charlotte Wray, managing dir. New York 
+@BODYTEXT:Berlex Laboratories
+@BODYTEXT:Borland Software
+@BODYTEXT:Clorox Co., The
+@BODYTEXT:Evenflo Co.
+@BODYTEXT:Kia Motors America
+@BODYTEXT:Nuheat
+@BODYTEXT:Oracle
+@BODYTEXT:Schering AG
+@BODYTEXT:Sepracor
+@BODYTEXT:Sirius Satellite Radio
+@BODYTEXT:Skil Power Tools
+@BODYTEXT:Whirlpool Corp.
+@BODYTEXT:
+@CO:ZEPPOS & ASSOCIATES, INC.
+@BODYTEXT:400 E. Mason St., #200, Milwaukee, WI 53202
+@BODYTEXT:414/276-6237; fax:414/276-2322; zeppos@zeppos.com
+@BODYTEXT:www.zeppos.com
+@BODYTEXT:Issues management, crisis communications, strategic PA, publicity, government rels., community affairs.  Employees: 16. Founded: 1994.
+@AGENCY:Agency Statement: Zeppos & Associates is a full-service firm that provides strategic counsel and practical results. Its team of professionals includes former  print and broadcast journalists and former government staffers, as well as public relations practitioners with many years of experience. The firm specializes in strategic planning, crisis management, government affairs, media relations, publicity and issues management.
+@CCD1:Evan N. Zeppos, pres.; Kristine Naidl, exec. VP; Brenna Kriviskey Sadler, VP; Brian Knox, director of strategic svcs.; Jennifer Rivera, Christine Wallace, Kathleen Newcomb, Audra Jacobs, Samantha Andrews, A/Es
+@BODYTEXT:Blockbuster Entertainment
+@BODYTEXT:Bradley Center Sports and Entertainment
+@BODYTEXT:Eli Lilly & Co.
+@BODYTEXT:Extendicare
+@BODYTEXT:HNTB
+@BODYTEXT:Mental Health Assn. in Milwaukee County
+@BODYTEXT:Miller Brewing Company
+@BODYTEXT:North Shore Bank
+@BODYTEXT:Onyx North America
+@BODYTEXT:Quarles & Brady LLP
+@BODYTEXT:Roundy's
+@BODYTEXT:S.C. Johnson
+@BODYTEXT:Southeast Wisconsin Professional Baseball Park District
+@BODYTEXT:WPS Health Insurance
+@BODYTEXT:Wisconsin Connections Academy
+@BODYTEXT:Wisconsin State Cranberry Growers
+@BODYTEXT:
+@CO:ZERO GRAVITY GROUP
+@BODYTEXT:155 Ave. of the Americas, 7th flr., New York, NY 10013
+@BODYTEXT:212/229-1177; fax:212/229-0855
+@BODYTEXT:www.zerogravitygroup.com
+@BODYTEXT:Advertising, brand campaign, new product launches, corp. restructuring, print production.
+@CCD1:Larry Eckerle, mng. partner
+@BODYTEXT:
+@CO:ZIGMAN-JOSEPH-STEPHENSON
+@BODYTEXT:Member of IPREX (Int’l PR Exchange)
+@BODYTEXT:735 West Wisconsin Ave., #1200, Milwaukee, WI 53233
+@BODYTEXT:414/273-4680; fax:414/273-3158; PR@zjs.com
+@BODYTEXT:General PR, long term and projects.
+@CCD1:Linda Stephenson, chmn.; Craig Peterson, CEO
+@BODYTEXT:ABB Industrial Systems
+@BODYTEXT:Briggs & Stratton
+@BODYTEXT:CMC Heartland
+@BODYTEXT:Foley & Lardner
+@BODYTEXT:Marklin
+@BODYTEXT:Racine Industries
+@BODYTEXT:SC Johnson Wax
+@BODYTEXT:Von Schrader Co.
+@BODYTEXT:Wm. M. Mercer, Inc.
+@BODYTEXT:
+@CO:ZIMMERMAN AGENCY, THE
+@BODYTEXT:1821 Miccosukee Commons, Tallahassee, FL 32308
+@BODYTEXT:850/668-2222; fax:850/877-5354; carrie@zimmerman.com
+@BODYTEXT:www.zimmerman.com
+@BODYTEXT:Founded: 1987. Employees: 22 in PR (80 total).
+@CCD1:Carrie Englert Zimmerman, Curtis Zimmerman, principals
+@BODYTEXT:Aflac
+@BODYTEXT:Bishop's Lodge Resort and Spa (Sante Fe)
+@BODYTEXT:CitiBUsiness Credit Cards
+@BODYTEXT:Costa del Mar
+@BODYTEXT:Diners Club Carte Blanche Card
+@BODYTEXT:Diners Club
+@BODYTEXT:Don CeSar Beach Resort, Loews
+@BODYTEXT:Doral Tesoro Dallas
+@BODYTEXT:Emerald Coast Conventions and Visitors Bureau
+@BODYTEXT:Florida’s Space Coast Tourist Development Council
+@BODYTEXT:Inn at Harbour Town (Hilton Head Island)
+@BODYTEXT:Inns of Sanibel Islands
+@BODYTEXT:Interstate Hotels and Resorts
+@BODYTEXT:Loews New Orleans Hotel
+@BODYTEXT:Ocean Walk Village (Daytona Beach, FL)
+@BODYTEXT:Sarasota/Longboat Key Convention and Visitors Bureau
+@BODYTEXT:Sawgrass Marriott Resort & Spa (Ponte Verda Beach, FL)
+@BODYTEXT:Sea Pines Resort (Hilton Head Island)
+@BODYTEXT:South Seas (Captiva Island)
+@BODYTEXT:The Edgewater Beach
+@BODYTEXT:The Ritz-Carlton Lodge, Reynolds Plantation 
+@BODYTEXT:The Roosevelt Hotel (NYC)
+@BODYTEXT:The Muse (NYC)
+@BODYTEXT:Tallahassee Convention and Visitors Bureau
+@BODYTEXT:
+@CO:ZIMMERMAN, LAURENT & RICHARDSON, INC.
+@BODYTEXT:303 Watson Powell, Des Moines, IA 50309
+@BODYTEXT:515/244-4456; fax:515/244-5749
+@BODYTEXT:www.zlr.com
+@BODYTEXT:Full-service mktg. comms. agency.
+@CCD1:Louis Laurent, president
+@BODYTEXT:American Rental Assn.
+@BODYTEXT:Beam Industries
+@BODYTEXT:Consulting Engineers Cncl., Iowa
+@BODYTEXT:Iowa Dept. of Transportation
+@BODYTEXT:Lincoln Savings Bank
+@BODYTEXT:Riverboat Development Authority
+@BODYTEXT:Tobacco Free Iowa
+@BODYTEXT:
+@CO:ZIMMERMAN/EDELSON, INC.
+@BODYTEXT:5 Bond St., Great Neck, NY 11021
+@BODYTEXT:516/829-8374; fax:516/829-1561; zimmed@aol.com
+@BODYTEXT:www.zimmed.com
+@BODYTEXT:Educational, real estate, legal PR. Employees: 20.
+@CCD1:Robert Zimmerman, Ron Edelson, partners
+@BODYTEXT:
+@CO:ZLOKOWER COMPANY
+@BODYTEXT:60 Madison Ave., New York, NY 10010
+@BODYTEXT:212/447-9292; fax:212/447-8323; harry@zlokower.com
+@BODYTEXT:Corporate, fin’l, product PR, public affs., healthcare. Founded: 1983.
+@AGENCY:Agency Statement: Zlokower Company is a full-service public relations firm specializing in publicity, press relations, and investor relations. Our clients include consumer product companies, healthcare organizations, professional service firms, public service groups, and public companies. We are distinguished for our strategic thinking and ability to achieve excellent publicity results. For public companies, we provide excellent outreach to investors and financial press and are capable of handling all aspects of shareholder relations.
+@AGENCY:Zlokower Company was founded in 1983 by Harry Zlokower, a former vice president of several prominent New York PR firms. The firm has seven employees, primarily senior practitioners with extensive PR and journalism experience. Recognizing that our clients’ time and financial resources  are precious, we take special care to work in an efficient yet engaging manner to optimize results. Zlokower Company was recognized for its achievements with two Big Apple Awards from the New York Chapter of the Public Relations Society of America, and a Silver Icon from Technology Marketing Magazine.
+@CCD1:Harry Zlokower, pres.; Phyllis Stevens, Dave Closs, VPs
+@BODYTEXT:Carrier Logistics Inc.
+@BODYTEXT:CleanRite Centers
+@BODYTEXT:East Coast Venture Capital
+@BODYTEXT:Equis Corp.
+@BODYTEXT:Equity Now
+@BODYTEXT:General Patent Corp.
+@BODYTEXT:Georgia Malone & Co.
+@BODYTEXT:Greenwich Hospital
+@BODYTEXT:Grubb & Ellis
+@BODYTEXT:INS Web
+@BODYTEXT:ISJ Management
+@BODYTEXT:J.D. Power and Associates
+@BODYTEXT:Manhattan Neighborhood Network
+@BODYTEXT:Mann Realty Associates
+@BODYTEXT:Medallion Financial Corp.
+@BODYTEXT:Townhouse Management
+@BODYTEXT:Stadtmauer Bailkin
+@BODYTEXT:Paula Moynahan, M.D.
+@BODYTEXT:Upside Ventures
+@BODYTEXT:
+@CO:ZUBI ADVERTISING SERVICES, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:355 Al Hambra Circle, Coral Gables, FL 33134
+@BODYTEXT:305/448-9824; fax:305/443-1928
+@BODYTEXT:PR, adv., direct marketing, media buying/placement/planning, strategic planning/marketing. Founded: 1973
+@CCD1:Tere A. Zubizarreta, president
+@BODYTEXT:El Nuevo Herald Newspaper
+@BODYTEXT:First Union Bank
+@BODYTEXT:Ford Motor Co.
+@BODYTEXT:Hatuey Beer
+@BODYTEXT:

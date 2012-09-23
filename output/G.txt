@@ -1,0 +1,2066 @@
+@BREAKER:G
+
+@CO:G&G ADVERTISING
+@BODYTEXT:2388 Titan Row, Orlando, FL 32809
+@BODYTEXT:407/426-7737; fax:407/426-7422, 800/390-2893
+@BODYTEXT:Full service agency specializing in human resources recruitment adv.
+@CCD1:Nicholas Trimarche, president
+@BODYTEXT:
+@CO:GABBEGROUP
+@BODYTEXT:104 Fifth Ave., New York, NY 10011
+@BODYTEXT:212/220-4444; fax:212/220-4343; gabbe@gabbe.com
+@BODYTEXT:www.gabbe,com
+@BODYTEXT:External/internal comms.; corp. positioning and identity dev.; media relations, corporate and product campaigns; brand marketing; mktg. & management comms., interactive media, video/film production.  Employees: 15. Founded: 1980.
+@AGENCY:Agency Statement: gabbegroup is a full-service firm skilled in assisting for-profit and not-for-profit organizations to plan effective external and internal communications strategies, develop proactive, creative corporate and institutional programs, and work with national and international media.  Our broad communications expertise enables us to assist clients in creating distinctive competitive positioning programs and in galvanizing corporate culture in support of management goals.
+@AGENCY:gabbew@ve specializes in Web and interactive media and gabbeLIGHTS is our award-winning video and film production team.  We focus on healthcare, education and philanthropy, with experience also encompassing financial services, technology, management consulting and other professional services, industrial and energy.
+@CCD1:Jill S. Gabbe, Jim I. Gabbe, partners; Jennifer Robinson, VP
+@BODYTEXT:ALZA
+@BODYTEXT:American Red Cross September 11 Recovery Program
+@BODYTEXT:Carbon Disclosure Project
+@BODYTEXT:Carnegie Mellon/Tepper School of Business
+@BODYTEXT:Goldman, Sachs & Co.
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:Johnson & Johnson Pediatric Institute
+@BODYTEXT:McKinsey & Company
+@BODYTEXT:N.S. Bienstock
+@BODYTEXT:Ortho Clinical Diagnostics
+@BODYTEXT:Richard S. Wurman/TEDMED
+@BODYTEXT:Rockefeller Philanthropy Advisors
+@BODYTEXT:The Conference Board
+@BODYTEXT:UBS
+@BODYTEXT:University of Texas M.D. Anderson Cancer Center
+@BODYTEXT:Vanderbilt University/Owen Graduate School of Management
+@BODYTEXT:Veridex, LLC
+@BODYTEXT:Vineyard Theatre
+@BODYTEXT:WNET/PBS
+@BODYTEXT:Whitney & Co.
+@BODYTEXT:
+@CO:GAFFNEY BENNETT PUBLIC RELATIONS
+@BODYTEXT:One Liberty Square, New Britain, CT 06051
+@BODYTEXT:860/229-0301; fax:860/225-4627
+@BODYTEXT:www.gbpr.com
+@BODYTEXT:Brand management, media rels., grassroots, crisis comms., corporate sponsorship, special event mgmt., cause-related marketing. Founded: 2001. Employees: 7.
+@CCD1:Hank Spring, Patrick Kinney, Adam Jeamel, Tracy Cerrone, Maura Fitzgerald
+@BODYTEXT:Hospital for Special Care
+@BODYTEXT:Northeast Utilities
+@BODYTEXT:Pitney Bowes
+@BODYTEXT:
+@CO:GALE GROUP
+@BODYTEXT:44 W. 28th St., PH, New York, NY 10001
+@BODYTEXT:212/685-6789; fax:212/685-6944
+@BODYTEXT:www.galegroup.net
+@BODYTEXT:Fashion, beauty and lifestyle PR and advertising.  Employees: 17. Founded: 1987.
+@AGENCY:Agency Statement: Gale Group specializes in building brands for image-driven companies in the fashion, beauty and lifestyle categories. We accomplish this by creating innovative and result-driven public relations and advertising programs that provide maximum impact and cost effectiveness leading to our client’s success.
+@AGENCY:Our full-service PR agency has expertise in national and regional product placement, feature stories, celebrity wardrobing, movie/TV tie-ins, sponsorships, in-store events, music affiliations and full scale fashion shows.
+@CCD1:Mindy Gale, president
+@BODYTEXT:8444 Wilshire Blvd., Beverly Hills, CA 90211
+@BODYTEXT:323/782-0600
+@CCD1:Gabrielle Goldstein, dir., new business
+@BODYTEXT:
+@BODYTEXT:AHAVA
+@BODYTEXT:Dirty Girl
+@BODYTEXT:Dollhouse
+@BODYTEXT:Glass Hand Dental
+@BODYTEXT:Just Calm Down
+@BODYTEXT:Jessica Simpson (Fashion & Lifestyle)
+@BODYTEXT:K-Swiss
+@BODYTEXT:Little Big Jeans
+@BODYTEXT:Oleg Cassini
+@BODYTEXT:Styli-Style
+@BODYTEXT:The Art Farm
+@BODYTEXT:Torri Richard
+@BODYTEXT:Yellow Box
+@BODYTEXT:
+@CO:GALLAGHER GROUP, THE
+@BODYTEXT:4115 Blackhawk Plaza Circle, #100, Danville, CA 94506
+@BODYTEXT:925/648-2014; fax:925/886-2301; info@gg-comm.com
+@BODYTEXT:www.gg-comm.com
+@BODYTEXT:Full-service high technology PR.  Employees: 15. Founded: 1992.
+@AGENCY:Agency Statement: Experience counts. Results prove it. Gallagher Group teams have been the driving force behind some of high technology’s brightest successes, including category-breaking startups, record-breaking IPOs and acquisitions, and market-leading technology stars. Serving technology companies exclusively, the Gallagher Group has developed unparalleled technical know-how, market savvy, and media and analyst relationships that drive sales and market value for its clients.
+@CCD1:Kevin Gallagher, managing partner
+@BODYTEXT:AirFlow Networks
+@BODYTEXT:Autonomic Software
+@BODYTEXT:Chordiant Software
+@BODYTEXT:Haliplex Comm. Systems
+@BODYTEXT:Mahi Networks
+@BODYTEXT:Matisse Networks
+@BODYTEXT:Peribit Networks
+@BODYTEXT:Sky Pilot Network
+@BODYTEXT:Tidal Networks
+@BODYTEXT:
+@CO:GANULIN PUBLIC RELATIONS, JUDY
+@BODYTEXT:1117 West San Jose, Fresno, CA 93711
+@BODYTEXT:559/222-7411; fax:559/226-7326; jganulin@comcast.net
+@BODYTEXT:General PR; community rels. and political campaigns.  Founded: 1984.
+@CCD1:Judy Ganulin, prin.
+@BODYTEXT:Friends of Susan B. Anderson
+@BODYTEXT:Friends of Vicki Crow
+@BODYTEXT:Gilmore, Wood, Vinnard & Magness, Attorneys
+@BODYTEXT:Professional Pharmacy Alliance of California
+@BODYTEXT:
+@CO:GARCIA 360
+@BODYTEXT:719 S. Flores St., San Antonio, TX 78204
+@BODYTEXT:210/222-1591; fax:210/222-9986
+@BODYTEXT:Advertising and PR firm, broadcast/electronics media, finacial, Hispanic specialty insurance, telecommunications. Founded: 1987.
+@CCD1:Luis Garcia, owner/mng. director
+@BODYTEXT:
+@CO:GARD & GERBER
+@BODYTEXT:209 SW Oak St., #200, Portland, OR 97204
+@BODYTEXT:503/221-0100; fax:503/226-4854
+@BODYTEXT:PR and advertising for consumer adv., financial services, food, healthcare.  Founded: 1910.
+@CCD1:Brian Gard, president & CEO
+@BODYTEXT:
+@CO:GARFIELD GROUP PUBLIC RELATIONS
+@BODYTEXT:411 South State St., Newtown, PA 18940
+@BODYTEXT:215/867-8600; fax:215/867-8615; pr@garfieldgroup.com
+@BODYTEXT:www.garfieldgroup.com
+@BODYTEXT:Media rels., industry analyst rels., message development, speaking opportunities, event mktg., executive training, financial PR, PA, book and author publicity, reseller & partner programs, word-of-mouth and viral marketing.
+@CCD1:Larry Garfield, president
+@BODYTEXT:ATX Communications
+@BODYTEXT:CoreComm
+@BODYTEXT:Eastern Technology Council
+@BODYTEXT:Ipsum Networks
+@BODYTEXT:Motorola Broadband
+@BODYTEXT:Prentice Hall PTR
+@BODYTEXT:Princeton eCom
+@BODYTEXT:Princeton Softech
+@BODYTEXT:Switchboard Inc.
+@BODYTEXT:V-SPAN
+@BODYTEXT:Vis.align
+@BODYTEXT:W.L. Gore & Assocs.
+@BODYTEXT:Worldgate Communications
+@BODYTEXT:Xpherix Corp.
+@BODYTEXT:
+@CO:GARNETT COMMUNICATIONS, INC.
+@BODYTEXT:331 Melrose Dr., #114, Richardson, TX 75080
+@BODYTEXT:972/234-4482; fax:972/234-6747; info@garnettcomm.com
+@BODYTEXT:High-technology/telecom PR. Founded: 1991. Employees: 5
+@CCD1:Margaret Garnett Smallwood, principal
+@BODYTEXT:
+@CO:GARRAND AND COMPANY
+@BODYTEXT:594 Congress St., Portland, ME 04101
+@BODYTEXT:207/772-3119; fax:207/828-1699
+@BODYTEXT:PR, advertising, direct mktg., beer/wine/liquor, business/consumer services, government/state agencies. Founded: 1988.
+@CCD1:Brenda Garrand, pres.
+@BODYTEXT:Atlantic Salmon of Maine
+@BODYTEXT:Blue Cross Blue Shield of Maine
+@BODYTEXT:C-Nex
+@BODYTEXT:Dexter Shoe Co.
+@BODYTEXT:H.P. Hood, Inc.
+@BODYTEXT:
+@CO:GARRETT, YU HUSSEIN, MCCABE & REIS
+@BODYTEXT:See GYMR, LLC
+@BODYTEXT:
+@BODYTEXT:
+@CO:GARZA COMMUNICATIONS, INC.
+@BODYTEXT:2601 Hibernia St., #200, Dallas, TX 75204
+@BODYTEXT:214/720-3888; fax:214/720-3889; vicki@garzacommunications.com
+@BODYTEXT:www.garzacommunications.com
+@BODYTEXT:Advertising & PR
+@CCD1:Vicki L. Garza, principal/CEO
+@BODYTEXT:
+@CO:GAVIN ANDERSON & COMPANY INC.
+@BODYTEXT:Owned by Omnicom Group
+@BODYTEXT:220 East 42nd St., 4th flr., New York, NY 10017
+@BODYTEXT:212/515-1900; fax:212/515-1909
+@BODYTEXT:www.gavinanderson.com
+@BODYTEXT:Corporate, fin’l and public policy communications issues.  Employees: 180. Founded: 1981.
+@AGENCY:Agency Statement: Gavin Anderson & Company is a global consultancy expert in corporate and financial communcations and public affairs. We offer a full suite of solutions to help our clients achieve core strategic objectives, manage complex issues, affect transformational change and build stakeholder value.  In addition to handling a wide variety of client communications needs, we have a special expertise assisting top management on highstakes issues and strategically critical corporate events.
+@AGENCY:We provide our clients with senior, seasoned counselors that have diverse backgrounds and a multitude of experiences in business, public affairs and communications.  Gavin Anderson also brings strong capabilities in cross-border, multicultural situations for companies and organizations that operate in diverse markets around the world.  We maintain wholly-owned offices in 13 commercial and political centers in North America, Europe and the Asia-Pacific region and have a network of other affiliates in other major markets worldwide.
+@CCD1:Richard Constant, CEO-worldwide, Robert Mead, president & deputy CEO-worldwide, head of the Americas; Eugene Golembeski, CFO & COO worldwide; Ian Smith, CEO/Australia; Jim Weeks, exec. vice chmn., worldwide, head of corp. practice group-worldwide and chmn./Asia, Japan and pres./Tokyo (based in Tokyo); Robert Chlopak, exec. vice chmn., Gavin Anderson, and partner, Chlopak, Leonard, Schechter & Assocs.; Peter Schechter, partner, CLS&A, and head of PA practice group worldwide
+@BODYTEXT:Chlopak, Leonard, Schechter & Assocs., A Gavin Anderson Co.
+@BODYTEXT:1850 M St., #550, Washington, DC 20036
+@BODYTEXT:202/289-5900; fax: 202/289-4141; www.clsdc.com
+@CCD1:Shannon Hunt, sr. vp, Washington, shunt@clsde.com
+@BODYTEXT:EUROPE
+@BODYTEXT:London: 85 Strand, London WC2R 0DW, UK
+@BODYTEXT:44/207-554-1400; fax: 44/207-554-1499;
+@CCD1:Fergus Wylie, Deputy CEO,
+@BODYTEXT:fwylie@gavinanderson.co.uk
+@BODYTEXT:Paris: 30 Rue des Epinettes, 75017 Paris, France
+@BODYTEXT:33-1-4522-2230; fax: 33-1-4522-2298
+@CCD1:Fabrice Baron, head of Paris, fbaron@gavinanderson.fr
+@BODYTEXT:Frankfurt: Gutleutstrasse 82, D-60329 Frankfurt am Main, Germany
+@BODYTEXT:49-69-9596-1010; fax: 49-69-9596-1011;
+@CCD1:Thorston Widow, Deputy CEO/Frankfurt, twidow@gavinanderson.de
+@BODYTEXT:Brussels: Square de Meeus, 35, 1000 Brussels, Belgium
+@BODYTEXT:32-2-504-7850; fax: 32-2-504-7860; 
+@CCD1:Nick Andrews, CEO/Brussels, nandrews@gavinanderson.be
+@BODYTEXT:Madrid: Marques de Riscal, 6-1B, 28010 Madrid, Spain
+@BODYTEXT:34-91-702-7170; fax: 34-91-308-2467;
+@CCD1:Eugenio Martinez Bravo, CEO/Madrid emartinez@gavinanderson.es
+@BODYTEXT:ASIA
+@BODYTEXT:Tokyo: Shibakoen Ridge Bldg. 1-8-21, Shibakoen, Minato-ku, Tokyo 105-0011 Japan
+@BODYTEXT:81-3-5404-0640; fax: 81-3-5404-7120
+@CCD1:Jim Weeks, president, CEO/Tokyo, jweeks@gajapan.co.jp
+@BODYTEXT:Hong Kong: 18/F Kinwick Centre, 32 Hollywood Rd., Central, Hong Kong
+@BODYTEXT:852-2523-7189; fax: 852-2810-1239
+@CCD1:Richard Barton, CEO/Asia, rbarton@gavinanderson.com.hk
+@BODYTEXT:Singapore: 50 Raffles Place, 24-06 Singapore Land Tower, Singapore 048623
+@BODYTEXT:65-6339-9110; fax: 65-6339-9578
+@CCD1:Terence Foo, general manager, director/Singapore, tfoo@gavinanderson.com.sg
+@BODYTEXT:AUSTRALIA
+@BODYTEXT:Sydney: 137 Pyrmont St., Level 2, Pyrmont, Sydney, NSW 2009 Australia
+@BODYTEXT:61-2-9552-4499; fax: 61-2-9552-4899
+@CCD1:Brian Tyson, managing director/Head of Office, Sydney, btyson@gavinanderson.com.au
+@BODYTEXT:Melbourne: Level 10, 171 La Trobe St., Melbourne Victoria 3000, Australia
+@BODYTEXT:61-3-9654-6555; fax: 61-3-9654-8179 
+@CCD1:Felicity Allen, managing director/Head of Office, Melbourne
+@BODYTEXT:Canberra: Minter Ellison Bldg., 25 National Circuit, Forrest, PO Box 3584, Manuka ACT 2603, Australia
+@BODYTEXT:61-2-6295-3522; fax: 61-2-6239-6622
+@CCD1:Geoff Brennan, managing director/Head of Office, Canberra, gbrennan@gavinanderson.com.au
+@BODYTEXT:
+@BODYTEXT:Abbey National France
+@BODYTEXT:Aberdeen Asset Management
+@BODYTEXT:ABN Amro
+@BODYTEXT:ABN AMRO Asset Management
+@BODYTEXT:ACE Limited
+@BODYTEXT:Acquisitor Holdings
+@BODYTEXT:Actelion
+@BODYTEXT:Actielec
+@BODYTEXT:Addleshaw Goddard
+@BODYTEXT:Advanced Healthcare
+@BODYTEXT:Aeco NV
+@BODYTEXT:AEG Partners
+@BODYTEXT:Agere Systems
+@BODYTEXT:AGF
+@BODYTEXT:Agusta Westland Inc.
+@BODYTEXT:AIMR
+@BODYTEXT:Air France
+@BODYTEXT:Alcohol Education
+@BODYTEXT:ALE
+@BODYTEXT:Alesco
+@BODYTEXT:Alliance UniChem
+@BODYTEXT:Allianz
+@BODYTEXT:Allweiler
+@BODYTEXT:ALPHA Airports
+@BODYTEXT:Alti
+@BODYTEXT:Alvarez & Marsal
+@BODYTEXT:AM Corp
+@BODYTEXT:AMCI
+@BODYTEXT:American Bureau of Shipping
+@BODYTEXT:American Express Intl. Inc.
+@BODYTEXT:American Health Insurance Plans
+@BODYTEXT:American Protein Corporation
+@BODYTEXT:Americans for Secure Retirement
+@BODYTEXT:Amper
+@BODYTEXT:Anglo American
+@BODYTEXT:Asian Clean Fuels Association
+@BODYTEXT:AstraZeneca
+@BODYTEXT:Aubay
+@BODYTEXT:Audika
+@BODYTEXT:Augusta Westland Inc.
+@BODYTEXT:Austereo
+@BODYTEXT:Austin Reed
+@BODYTEXT:Australia Post
+@BODYTEXT:Australian Assn. of Information Monitors
+@BODYTEXT:Australian Banana Growers Council
+@BODYTEXT:Australian Jockey Club
+@BODYTEXT:Australian Podiatrists
+@BODYTEXT:Australian Pork Corp.
+@BODYTEXT:Australian Rugby Union (RWC Issues Management)
+@BODYTEXT:Australian Toy Assn.
+@BODYTEXT:AWB Ltd
+@BODYTEXT:AWEX
+@BODYTEXT:BAE Systems
+@BODYTEXT:Bank of America
+@BODYTEXT:Bastide
+@BODYTEXT:Baugur
+@BODYTEXT:Bayer Yakuhin
+@BODYTEXT:BBC
+@BODYTEXT:Becton Dickinson – APT
+@BODYTEXT:Beer Institute
+@BODYTEXT:Beijing Capital International Airport (ADP)
+@BODYTEXT:Belvedere
+@BODYTEXT:Berkley Fink
+@BODYTEXT:Better World Fund
+@BODYTEXT:BIL International
+@BODYTEXT:Boehringer Ingelheim
+@BODYTEXT:Bond Market Assn.
+@BODYTEXT:Bonvests Holdings
+@BODYTEXT:Boots Healthcare
+@BODYTEXT:Bosch
+@BODYTEXT:Boston Scientific
+@BODYTEXT:Bream Investments
+@BODYTEXT:Bridgewater
+@BODYTEXT:Brilliance
+@BODYTEXT:Brisbane Airport
+@BODYTEXT:BriteSmile
+@BODYTEXT:Burren Energy
+@BODYTEXT:Burtonwood Brewery
+@BODYTEXT:Cable and Wireless
+@BODYTEXT:Calvo
+@BODYTEXT:Camisea Project
+@BODYTEXT:Capitol Watch
+@BODYTEXT:Captain Morgan
+@BODYTEXT:Caremark Rx
+@BODYTEXT:Carnival Corporation
+@BODYTEXT:Cayzer Trust
+@BODYTEXT:Cendant Europe
+@BODYTEXT:Centaur Holdings Plc
+@BODYTEXT:Central Equity
+@BODYTEXT:Cepes
+@BODYTEXT:Cerberus
+@BODYTEXT:CH2M Hill
+@BODYTEXT:Charity Day
+@BODYTEXT:Chicago Board of Trade
+@BODYTEXT:Chugai Pharmaceutical
+@BODYTEXT:Chunghwa Picture Tubes
+@BODYTEXT:CIMA
+@BODYTEXT:CIS
+@BODYTEXT:Citigroup
+@BODYTEXT:City Index
+@BODYTEXT:CIVC (Champagne)
+@BODYTEXT:Clayton Utz
+@BODYTEXT:CLSA
+@BODYTEXT:Comindico
+@BODYTEXT:Consors Discount Broker AG
+@BODYTEXT:Constellation
+@BODYTEXT:Crane Group
+@BODYTEXT:Creative Master Bermuda Int’l
+@BODYTEXT:Credit Agricole
+@BODYTEXT:Credit Suisse First Boston
+@BODYTEXT:Credit Suisse Group
+@BODYTEXT:CRI
+@BODYTEXT:CSA
+@BODYTEXT:CSK Corporation
+@BODYTEXT:Cullen Frost
+@BODYTEXT:Dairy Council, The
+@BODYTEXT:Department of Commerce
+@BODYTEXT:Department of Health-Medicare
+@BODYTEXT:Deutsche Bank
+@BODYTEXT:Dibb Lupton Alsop
+@BODYTEXT:DMS
+@BODYTEXT:Domnick Hunter
+@BODYTEXT:Dresdner Bank AG
+@BODYTEXT:Dresdner Kleinwort Wasserstein
+@BODYTEXT:DTI
+@BODYTEXT:Duro Felguera
+@BODYTEXT:Eastern Distributor
+@BODYTEXT:EATCO
+@BODYTEXT:E Bay
+@BODYTEXT:Economic Development Board of Singapore
+@BODYTEXT:Elgas
+@BODYTEXT:Eli Lilly
+@BODYTEXT:Elliot Associates
+@BODYTEXT:Endemol
+@BODYTEXT:English Australia
+@BODYTEXT:Enterprise Inns
+@BODYTEXT:Environment Australia
+@BODYTEXT:Eramet
+@BODYTEXT:Ernst & Young
+@BODYTEXT:Ethyl Corp
+@BODYTEXT:Euronext
+@BODYTEXT:Europac
+@BODYTEXT:European Commission/Turkey
+@BODYTEXT:European Food Information Council
+@BODYTEXT:Excel Coal
+@BODYTEXT:Exide Technologies
+@BODYTEXT:Fat Face
+@BODYTEXT:Feria Valencia
+@BODYTEXT:Ferring
+@BODYTEXT:Fidelity Investments
+@BODYTEXT:Fii Group
+@BODYTEXT:Film Industry Coalition
+@BODYTEXT:Fimalac
+@BODYTEXT:Fitness First
+@BODYTEXT:FJA
+@BODYTEXT:Fonterra
+@BODYTEXT:Fortis Bank
+@BODYTEXT:Foxtel
+@BODYTEXT:Freight Australia
+@BODYTEXT:Game Fishing Assn.
+@BODYTEXT:Garden Ridge
+@BODYTEXT:GE Marketing
+@BODYTEXT:GEC
+@BODYTEXT:Generix
+@BODYTEXT:Genwood Financial 
+@BODYTEXT:George Wimpey
+@BODYTEXT:GfK
+@BODYTEXT:Ghim Li Holdings
+@BODYTEXT:Globopar
+@BODYTEXT:Gol Linhas
+@BODYTEXT:Goodman Fielder
+@BODYTEXT:Goss International
+@BODYTEXT:Gottbetter & Partners
+@BODYTEXT:Government Communications Unit
+@BODYTEXT:Groupe Diffusion Plus
+@BODYTEXT:Grundig
+@BODYTEXT:Grupo Actua
+@BODYTEXT:Grupo GED
+@BODYTEXT:Haemophilia Foundation
+@BODYTEXT:Hartford Life
+@BODYTEXT:Haslemere Estates
+@BODYTEXT:Hastings
+@BODYTEXT:HIH Liquidator
+@BODYTEXT:Hochtief
+@BODYTEXT:Hope Downs Management Services
+@BODYTEXT:ICAP
+@BODYTEXT:IMental Health
+@BODYTEXT:Indonesian Culture & Tourism Board
+@BODYTEXT:Integrated Health Services
+@BODYTEXT:Inter Parfums
+@BODYTEXT:Interactive Entertainment Assn. Australia (IEAA)
+@BODYTEXT:International Bankers’ Assn.
+@BODYTEXT:Intuit
+@BODYTEXT:Intur
+@BODYTEXT:Iotech
+@BODYTEXT:Ipac
+@BODYTEXT:IPOH
+@BODYTEXT:Ixo
+@BODYTEXT:James Hardie
+@BODYTEXT:James Hull Assocs.
+@BODYTEXT:Japan Telecom
+@BODYTEXT:Johnson Matthey
+@BODYTEXT:JP Morgan
+@BODYTEXT:Just Jeans
+@BODYTEXT:Kelloggs
+@BODYTEXT:Konecta
+@BODYTEXT:Krispy Kreme
+@BODYTEXT:La Cie
+@BODYTEXT:Laing & Cruickshank
+@BODYTEXT:Lastminute.com
+@BODYTEXT:League of American Theaters & Producers
+@BODYTEXT:Lehman Brothers
+@BODYTEXT:Lejaby
+@BODYTEXT:Liability Reform Steering Group
+@BODYTEXT:Linedata Services
+@BODYTEXT:Livecorp
+@BODYTEXT:Loch Fyne Restaurants
+@BODYTEXT:Longreach Partners
+@BODYTEXT:Looksmart
+@BODYTEXT:Lopez Rodo
+@BODYTEXT:Lucas Heights
+@BODYTEXT:M4 Motorway
+@BODYTEXT:M5 Motorway
+@BODYTEXT:Macquarie Bank
+@BODYTEXT:Maersk Shipping
+@BODYTEXT:Malcolm Group
+@BODYTEXT:Mars
+@BODYTEXT:Mayflower Corp., The
+@BODYTEXT:McDonald's
+@BODYTEXT:McKinsey
+@BODYTEXT:Meat New Zealand
+@BODYTEXT:Medco Energi
+@BODYTEXT:Media Asia Entertainment Group
+@BODYTEXT:Media6
+@BODYTEXT:Mediagerance
+@BODYTEXT:Medical Infrared Digital Imaging
+@BODYTEXT:Medidep
+@BODYTEXT:Melbourne & Olympic Parks
+@BODYTEXT:Merck
+@BODYTEXT:Metro Group AG
+@BODYTEXT:Metrologic
+@BODYTEXT:Micap
+@BODYTEXT:MIG
+@BODYTEXT:Miller Childcare
+@BODYTEXT:MIM Holdings
+@BODYTEXT:Mitsubishi Developments
+@BODYTEXT:Mobile Surgical Services (NZ)
+@BODYTEXT:Mobile TeleSystems
+@BODYTEXT:Monash University
+@BODYTEXT:Monsanto
+@BODYTEXT:Monsoon
+@BODYTEXT:Morgan Stanley
+@BODYTEXT:Morley Fund Management
+@BODYTEXT:M-Real
+@BODYTEXT:Murray Irrigation Ltd
+@BODYTEXT:N Brown
+@BODYTEXT:Nasdaq International, Ltd.
+@BODYTEXT:Nasional Australia Bank
+@BODYTEXT:National Air Support
+@BODYTEXT:National Competition Council
+@BODYTEXT:National Pharmacies
+@BODYTEXT:National Stem Cell Centre
+@BODYTEXT:Naturex
+@BODYTEXT:Nazca Capital
+@BODYTEXT:Neopost
+@BODYTEXT:New Zealand Kabocha Council
+@BODYTEXT:NewSmith Capital Partners
+@BODYTEXT:NHBC
+@BODYTEXT:Nikko Asset Management
+@BODYTEXT:NorthernWestern Corp
+@BODYTEXT:Novartis Pharmaceuticals
+@BODYTEXT:Novera
+@BODYTEXT:Numis
+@BODYTEXT:Nynas
+@BODYTEXT:Oeneo
+@BODYTEXT:OHL
+@BODYTEXT:Parkeon
+@BODYTEXT:Onet
+@BODYTEXT:Optima Fund Managment
+@BODYTEXT:Oracle
+@BODYTEXT:Orbis
+@BODYTEXT:Orc Software
+@BODYTEXT:Orica
+@BODYTEXT:ORN Capital
+@BODYTEXT:Pacific Equity Partners
+@BODYTEXT:Panpac Media Group
+@BODYTEXT:Parcours
+@BODYTEXT:Pasminco
+@BODYTEXT:PayPal
+@BODYTEXT:PBL
+@BODYTEXT:Personal Watercraft Industry Assn.
+@BODYTEXT:Pfizer
+@BODYTEXT:Pillar Property
+@BODYTEXT:Pioneer Investments
+@BODYTEXT:Plastivaloire
+@BODYTEXT:Port of Melbourne
+@BODYTEXT:PricewaterhouseCoopers LLP; PwC Financial Services
+@BODYTEXT:Prima Limited
+@BODYTEXT:Profect
+@BODYTEXT:Promina
+@BODYTEXT:Property Council of Australia
+@BODYTEXT:Proval
+@BODYTEXT:Prudential
+@BODYTEXT:PwC
+@BODYTEXT:QAD
+@BODYTEXT:Qantas
+@BODYTEXT:Rabobank
+@BODYTEXT:Ramsay Health Care
+@BODYTEXT:Red X
+@BODYTEXT:Reliance Group Holdings
+@BODYTEXT:Renault
+@BODYTEXT:Reserve Bank of Australia
+@BODYTEXT:Retail Food Group
+@BODYTEXT:Ricardo Group
+@BODYTEXT:Ripplewood
+@BODYTEXT:Roche Products
+@BODYTEXT:Romag
+@BODYTEXT:Rothschild Bank
+@BODYTEXT:Royal Bank of Scotland
+@BODYTEXT:RSA Financial Services
+@BODYTEXT:Sagardoy Abogados
+@BODYTEXT:Sal Oppenheim
+@BODYTEXT:Schneider Electric
+@BODYTEXT:Scottish Radio Holdings
+@BODYTEXT:SDIA
+@BODYTEXT:Securidev
+@BODYTEXT:SES Global
+@BODYTEXT:SG
+@BODYTEXT:Shepherd Neame
+@BODYTEXT:SICPA
+@BODYTEXT:SIG
+@BODYTEXT:Simon Group
+@BODYTEXT:Singapore Airport Terminal Services
+@BODYTEXT:Societe Generale Japan
+@BODYTEXT:Soitec
+@BODYTEXT:Sovereign Asset Management
+@BODYTEXT:Sovereign Star
+@BODYTEXT:Spear, Leeds & Kellog
+@BODYTEXT:Sportfive
+@BODYTEXT:SQLI
+@BODYTEXT:Standard & Poor’s
+@BODYTEXT:Standard Life Investments
+@BODYTEXT:State Street
+@BODYTEXT:Sun Capital Partners
+@BODYTEXT:Sunbeam
+@BODYTEXT:Swiss Re
+@BODYTEXT:Sydney Airports
+@BODYTEXT:Sydney Turf Club
+@BODYTEXT:T Rowe Price
+@BODYTEXT:TBI Holdings
+@BODYTEXT:TDR Capital
+@BODYTEXT:Telegraph
+@BODYTEXT:Teleplan
+@BODYTEXT:Teleplan NV
+@BODYTEXT:Telstra
+@BODYTEXT:Tenaga National Berhad
+@BODYTEXT:Tesco Plc
+@BODYTEXT:Time Warner
+@BODYTEXT:Tobacco Free Kids Campaign
+@BODYTEXT:Tower Automotive
+@BODYTEXT:Towers Perrin
+@BODYTEXT:TradeWeb
+@BODYTEXT:Trafalgar Property Group
+@BODYTEXT:Trammel Crow
+@BODYTEXT:Turbo Genset
+@BODYTEXT:UBS O’Connor
+@BODYTEXT:UBS Warburg
+@BODYTEXT:UFJ Holdings
+@BODYTEXT:UK Coal
+@BODYTEXT:UK Trade & Investment
+@BODYTEXT:Ulric de Varens
+@BODYTEXT:UNICEF
+@BODYTEXT:Uniq
+@BODYTEXT:United Airlines
+@BODYTEXT:United Nations Foundation
+@BODYTEXT:United Overseas Bank
+@BODYTEXT:United Surgical Partners
+@BODYTEXT:UTS
+@BODYTEXT:Vallourec
+@BODYTEXT:Vattenfall
+@BODYTEXT:Verizon
+@BODYTEXT:Vestar Capital
+@BODYTEXT:Victorian Hire Car Assn.
+@BODYTEXT:Visiodent
+@BODYTEXT:Vodafone
+@BODYTEXT:Volkswagen
+@BODYTEXT:VP Records
+@BODYTEXT:VRA
+@BODYTEXT:Wallace Funds
+@BODYTEXT:Wal-Mart
+@BODYTEXT:Warnaco
+@BODYTEXT:Wells Fargo Financial; Wells Fargo Mortgage
+@BODYTEXT:Wolff Olins
+@BODYTEXT:World Bank
+@BODYTEXT:WRP Corporation
+@BODYTEXT:Xchanging
+@BODYTEXT:Yeoman Group
+@BODYTEXT:
+@CO:GBA HEALTH COMMUNICATIONS
+@BODYTEXT:4920 Conference Way South, #8, Boca Raton, FL 33431
+@BODYTEXT:561/241-8900; fax:561/241-8222; info@gbafl.com
+@BODYTEXT:www.gbafl.com
+@BODYTEXT:Health and food comms., consumer affairs, telecommunications.  Employees: 10. Founded: 1975.
+@AGENCY:Agency Statement: GBA Health Communications is a full-service agency specializing in the food, health and nutrition industries. Our health communications experts provide strategic marketing solutions for national consumer goods and service companies.
+@AGENCY:Our services include corporate and product publicity, media tours, video news releases, health professional communications, special event management, Web site development, surveys, educational materials, issues management, crisis communications, recipe development, and cookbooks, and consumer affairs support. GBA Customer Care offers comprehensive nutrition for call center solutions.
+@CCD1:Gail L. Becker, president; Keith Gallant VP
+@BODYTEXT:Butter Buds
+@BODYTEXT:NatraTaste
+@BODYTEXT:Sugar In The Raw
+@BODYTEXT:Sundown Vitamins
+@BODYTEXT:Sweet ‘N Low
+@BODYTEXT:
+@CO:GCI GROUP INC.
+@BODYTEXT:Wholly owned subsidiary of Grey Global Group
+@BODYTEXT:Worldwide and Americas Headquarters:, 825 Third Ave., New York, NY 10022
+@BODYTEXT:212/537-8000; fax:212/537-8050; rfeldman@gcigroup.com
+@BODYTEXT:www.gcigroup.com
+@BODYTEXT:
+@AGENCY:Agency Statement: GCI Group is global leader in the public relations industry and a wholly owned partner company of Grey Global Group.  Its success extends across six practies areas, indluding healthcare, corporate, consumer, technology, public affairs and media relations.  The firm is committed to supporting the business objectives of its clients through superior industry knowledge and measurable solutions.  GCI serves a broad base of multinational consumer clients including Bayer, Dell, Forest Laboratories, Merck, Pioneer Electronics, RadioShack, Schick, and Starbucks.
+@CCD1:Robert C. Feldman, pres. & CEO; John Pyne, sr. VP/finance, North America
+@BODYTEXT:GCI Europe Headquarters:
+@BODYTEXT:New Bridge St. House, 30-34 New Bridge St., London EC4V 6BJ U.K.
+@BODYTEXT:44-207 072 4000; fax: 44-207 072-4010; awheeler@gciuk.com
+@CCD1:Adrian Wheeler, head of GCI Europe; Sue Ryan, general manager, GCI London (sryan@gciuk.com)
+@BODYTEXT:GCI Latin America Headquarters:
+@BODYTEXT:327 Congress Ave., #500, Austin, TX 78701
+@BODYTEXT:512/471-4122; fax: 512/472-5970; jhunt@gcigroup.com
+@CCD1:Jeff Hunt, president, Latin America and head of GCI Read Poland in Texas
+@BODYTEXT:NORTH AMERICA:
+@BODYTEXT:6100 Wilshire Blvd., #840, Los Angeles, CA 90048
+@BODYTEXT:323/930-0811; fax: 323/930-1241; jdrake@gcigroup.com
+@CCD1:Jake Drake, general manager
+@BODYTEXT:1545 Peachtree St., N.E., #400, Atlanta, GA 30309
+@BODYTEXT:404/873-5330; fax: 404/872-3945; kwillis@gcigroup.com
+@CCD1:Bill Marks, general manager
+@BODYTEXT:225 W. Illinois St., 4th Fl.
+@BODYTEXT:Chicago, IL 60610
+@BODYTEXT:P: 312-229-8700 F: 312-229-8778
+@BODYTEXT:GCI Read Poland/Austin, (see info above for Austin office)
+@BODYTEXT:GCI Read Poland/Dallas
+@BODYTEXT:3811 Turtle Creek Blvd., #950, Dallas, TX 75219
+@BODYTEXT:214/760-6022; fax: 214/760-6067; dbartholomew@gcigroup.com
+@CCD1:Don Bartholomew, general manager
+@BODYTEXT:GCI Read Poland/Houston
+@BODYTEXT:5177 Richmond Ave., #610, Houston, TX 77056
+@BODYTEXT:713/622-5040; fax: 713/622-7658; jgimenez@gcigroup.com
+@CCD1:Joe Gimenez
+@BODYTEXT:40 Holly St., #600, Toronto, Ontario M4S 3C3 Canada
+@BODYTEXT:416/486-7200; fax: 416/486-9783; jangel@geigroup.com
+@CCD1:Jeff Angel, President
+@CCD1:Cynthia Zamaria, sr. VP
+@BODYTEXT:LATIN AMERICA:
+@BODYTEXT:Group GCI Mexico
+@BODYTEXT:Jaime Balmes No. 8, 1st flr., Chaputepec Morales, Mexico D.F. 11510
+@BODYTEXT:55 2122 2860; fax: 55 5282 1621; michele.foster@gcigroup.com.mx
+@CCD1:Michele Foster, President
+@BODYTEXT:Wing Latino Group
+@BODYTEXT:270 Munoz Rivera Ave., 3rd flr., Hato Rey, PR 00918
+@BODYTEXT:787/282-9000; fax: 787/282-9040; tdardet@gcigroup.com
+@CCD1:Tomas Dardet
+@BODYTEXT:640 Bajo el Mirador de Urbanor, Antes Tequilala, Guayaquil Equador
+@BODYTEXT:593-9-9482-179; fax: 593-9-9482-179; aseminario@mcg.com.ec
+@CCD1:Andres Seminario
+@BODYTEXT:GCI Strategies
+@BODYTEXT:Don Carlos 2939 of. 701
+@BODYTEXT:Las Condes-Santiago, Chile
+@BODYTEXT:P: 562-475-4400 F: 562-472-4401
+@BODYTEXT:jackie.seemann@strategies.cl
+@CCD1:Jackie Seeman
+@BODYTEXT:EUROPE, MIDDLE EAST AND AFRICA:
+@BODYTEXT:Trg bana J. Jelacica 3, Zagreb 10 000, Croatia
+@BODYTEXT:385-1-4896-999; fax: 385-1-4816-205; www.gcieurope.com
+@BODYTEXT:mirna.juvancic@grey.hr
+@CCD1:Mirna Juvancic
+@BODYTEXT:Na Maninach 14, Prague 17000, Czech Republic
+@BODYTEXT:420-2-667-98221; fax: 420-266-798214; radek.vitek@gci.cz
+@BODYTEXT:www.gci.cz
+@CCD1:Radek Vitek
+@BODYTEXT:Szekacs utca 16, Budapest 1122, Hungary
+@BODYTEXT:361/214-6750; fax: 361/214-6758; sylvia.graczka@gci.grey.hu
+@BODYTEXT:www.grey.hu/gci
+@CCD1:Sylvia Graczka
+@BODYTEXT:Ul. Przemyslowa 30/32, Warsaw 00-450, Poland
+@BODYTEXT:48-22-622-6791; fax: 48-22-622-6790; www.gcieurope.com;
+@BODYTEXT:w_cieslukowski@grey.com.pl
+@CCD1:Wojtek Cieslukowski
+@BODYTEXT:c/o Grey Kiev
+@BODYTEXT:36, Ivana Franka St., Kiev 01030, Ukraine
+@BODYTEXT:38-044-238-6073; fax: 38-044-238-6072; www.gcieurope.com
+@BODYTEXT:tatiana@greyk.kiev.ua
+@CCD1:Tatiana Kachovovskaya
+@BODYTEXT:GCI Mannov
+@BODYTEXT:Studsgade 29, Postboks 315, Aarhus 8000 C, Denmark
+@BODYTEXT:45-70-2775-00; fax: 45-70-2775-01; ek@mannov.dk
+@BODYTEXT:www.mannov.dk
+@CCD1:Ebbe Kristensen
+@BODYTEXT:GCI Groupe Grey
+@BODYTEXT:37 rue de Bellefond, Paris 75009, France
+@BODYTEXT:(33.1) 4970-4300; fax: (33.1) 4970-4400; nguertin@gci-grey.com
+@CCD1:Nicky Guertin
+@BODYTEXT:GCI Hering Schuppener Group
+@BODYTEXT:Leuschnerdamm 31, Berlin 10999, Germany
+@BODYTEXT:4930 616 84200; fax: 4930 6168 4223; shansen@gci-berlin.de
+@BODYTEXT:www.gci-berlin.de
+@CCD1:Stefan Hansen
+@BODYTEXT:GCI Hering Schuppener Group
+@BODYTEXT:Kreuzstrasse 60, Dusseldorf 40210, Germany
+@BODYTEXT:(49-211) 430-790; fax: (49-211) 430-7979; rhering@gcihsd.de
+@BODYTEXT:www.gcihs.de
+@CCD1:Ralf Hering
+@BODYTEXT:GCI Hering Schuppener
+@BODYTEXT:Gruenburgweg 64, Frankfurt am Main, 60322 Germany
+@BODYTEXT:49-69-92-18-74-0; fax: 49-69-92-18-74-70
+@BODYTEXT:www.gcihs.de; bschuppener@gcihsf.de
+@CCD1:Dr. Bernd Schuppener
+@BODYTEXT:GCI Healthcare
+@BODYTEXT:Haus der Seefahrt, Hohe Brucke 1, 20459 Hamburg, Germany
+@BODYTEXT:49-40 3680 750; fax: 49-40 3680 7599; www.gci-healthcare.de
+@CCD1:Horst-Hermann Muther
+@BODYTEXT:294 Syngrou Ave., Kalithea, 17673 Athens, Greece
+@BODYTEXT:302-10 957-8000; fax: 302-10 951-2691; www.greyathens.gr
+@BODYTEXT:y.moschos@greyathens.gr
+@CCD1:Yannis Moschos
+@BODYTEXT:Parnassusweg 103, Amsterdam NL, 1077 DE The Netherlands
+@BODYTEXT:(31.20)676-8666; fax: (31.20)673-5431; www.gci.nl
+@BODYTEXT:bvandeven@gci.nl
+@CCD1:Balou van de Ven
+@BODYTEXT:GCI Monsen
+@BODYTEXT:Lilleakerveien 10, Postboks 194, Lilleaker, Oslo 0216 Norway
+@BODYTEXT:47-2206-4800; fax: 47-2206-4880; www.monsen.no
+@BODYTEXT:kigen@monsen.no
+@CCD1:Atle Kigen
+@BODYTEXT:GCI Stockholm
+@BODYTEXT:Hollandargatan 13, Box 1313, Stockholm 11183, Sweden
+@BODYTEXT:46-8-40227-00; fax: 46-8-40227-10; www.gcirinfo.com
+@BODYTEXT:cecilia.gannedahl@gci.se
+@CCD1:Cecilia Gannedahl
+@BODYTEXT:GCI Rinfo
+@BODYTEXT:Lilla Bommen 1, Goteborg SE-411 04, Sweden
+@BODYTEXT:46-31-6168-80; fax: 46-31-6168-99
+@BODYTEXT:46-520-48-84-18; fax: 46-520-48-85-47; www.gcirinfo.com
+@BODYTEXT:kjell.svensson@gcirinfo.com
+@CCD1:Kjell Svensson
+@BODYTEXT:GCI Agora
+@BODYTEXT:Santalo, 10, Barcelona ES 08021, Spain
+@BODYTEXT:34-933-636-536; fax: 34-933-536-537; www.gcieurope.com;
+@BODYTEXT:vayala@gciagora.com
+@CCD1:Victor Ayala
+@BODYTEXT:GCI Agora
+@BODYTEXT:Pso. Castellana, 91, 9P, Madrid ES 28046, Spain
+@BODYTEXT:34-915-550-140; fax: 34-915-559-050; www.gcieurope.com
+@BODYTEXT:djarillo@gciagora.com
+@CCD1:Diego Jarillo
+@BODYTEXT:GCI South Africa/Arcay Corporate Communications
+@BODYTEXT:Arcay House, 3 Anerley Rd., Parktown, Johannesburg 2193, South Africa
+@BODYTEXT:27-11-480-8555; fax: 27-11-480-8556;
+@BODYTEXT:rdevilliers@gcisa.co.za
+@CCD1:Robyn de Villiers
+@BODYTEXT:Beybi Giz Plaza, Dereboyu Caddesi, Meydan Sokak, No: 28, Kat:5, 80670 Maslak-Istanbul, Turkey
+@BODYTEXT:90 212 290-2820; fax: 90 212 290-2821; www.gcieurope.com
+@BODYTEXT:sebnem.camas@grey.com.tr
+@CCD1:Sebnem Camas
+@BODYTEXT:Media in PR
+@BODYTEXT:Matuskova 15, 83101 Bratislava, Slovakia
+@BODYTEXT:421 7 5477-5014; fax: 421 7 5477-4548; www.gcieurope.com
+@BODYTEXT:diana@mediain.sk
+@CCD1:Diana Garbierova
+@BODYTEXT:Mivka 25, 1000 Ljubljana, Slovenia
+@BODYTEXT:386 1 2803-777; fax: 386 1 2803-790; vili.grdadolnik@grey.sl
+@CCD1:Viljem O. Grdadolnik
+@BODYTEXT:GCI India
+@BODYTEXT:Grey House, 28 Dr. E. Borges Rd., Pavel, Mumbai 400 012 India
+@BODYTEXT:(9122) 5663 6100/6101; fax: (9122) 566 3622;
+@BODYTEXT:Nirvik_singh@greyindia.com
+@CCD1:Nirvik Singh
+@BODYTEXT:ASIA PACIFIC:
+@BODYTEXT:29th flr., Empire Tower, Jalan Tun Razak, 50400 Kuala Lumpar, Malaysia
+@BODYTEXT:(603) 2723-0033; fax: (603) 2162-6363; davidGCI@grey.com.my
+@CCD1:David Allan
+@BODYTEXT:GCI Sun Pub
+@BODYTEXT:Nikkan Sports L. Bldg., 7-6-1 Tsukiji, Chuo-Ku, Tokyo 104-0045 Japan
+@BODYTEXT:813 3542-6181; fax: 813 3542-7005
+@BODYTEXT:nick-nishida@gci-sunpub.co.jp
+@CCD1:Nick Nishida
+@BODYTEXT:Other Grey Global Group Companies:
+@BODYTEXT:APCO Worldwide (see listing under APCO)
+@BODYTEXT:Batey Burn Investment Consulting
+@BODYTEXT:20th flr., China World Tower 2, No. 1 Jianguomenwai Ave., Beijing 100004, People’s Republic of China
+@BODYTEXT:86-10-6505-5128; fax: 86-10-6505-5257; mail@apcochina.com
+@BODYTEXT:  Peter Batey, chmn.
+@BODYTEXT:Unit 508, 5th flr., Tranco Bldg., 83A Ly Thuong Kiet St., Hanoi, Vietnam
+@BODYTEXT:84-4-9422-221/219; fax: 84-4-9422-224; bbhanoi@hn.vnn.vn
+@BODYTEXT:  Le Viet Dzung
+@BODYTEXT:Suite 12, 4/F, Saigon Business Centre, 65 Le Loi Blvd., District 1, Ho Chi Minh City, Vietnam
+@BODYTEXT:84-8-821-7895/827-0232; fax: 84-8-822-5404;
+@BODYTEXT:bbsgn@hcm.vnn.vn
+@BODYTEXT:  Minh Trang Nga, consultant
+@BODYTEXT:Suites 2102-2103, CITIC Square, 1168 Nanjing Rd. West, Shanghai 200041, People’s Republic of China
+@BODYTEXT:86-21-5298-4668; fax: 86-21-5298-4669;
+@BODYTEXT:shanghai@apcochina.com; jwang@apcochina.com
+@BODYTEXT:  Jason Wang
+@BODYTEXT:Unit 2312, Block 1, News Bldg., 2 Shennanzhong Rd., Shenzhen 518027, People’s Republic of China
+@BODYTEXT:755 8209 0563; fax: 755 8209 0573;
+@BODYTEXT:jkang@apcochina.com
+@BODYTEXT:  Kang Jun, chief representative
+@BODYTEXT:Blackie McDonald
+@BODYTEXT:470 St. Kilda Rd., 5th flr., Melbourne, Victoria 3004, Australia
+@BODYTEXT:61-3-9856-3400; fax: 61-3-9856-3433; s.fitton@bmcdvic.com.au
+@BODYTEXT:  Sarah Fitton
+@BODYTEXT:Level 4, 118 Alfred St., Milsons Point, Sydney NSW 2061, Australia
+@BODYTEXT:61-2-9929-0200; fax: 61-2-9929-0300
+@BODYTEXT:tony.blackie@bmcd.com.au
+@BODYTEXT:  Tony Blackie
+@BODYTEXT:96 Club St., Singapore 069464
+@BODYTEXT:65-324-4432; fax: 65-324-4465; erin.atan@bmcd.com.sg
+@CCD1:Erin Atan
+@BODYTEXT:Carr Communications
+@BODYTEXT:The Comms. Center, Booterstown Ave., Blackrock, Dublin 4, Ireland
+@BODYTEXT:353-1-278-5000; fax: 353-1-278-5001
+@BODYTEXT:dermot@carrcommunications.ie; www.carrcommunications.ie
+@CCD1:Dermot McCrum
+@BODYTEXT:Consultores Del Plata
+@BODYTEXT:Arroyo 880 1st floor Of: 1, C1007AAB Ciudad de Buenos Aires, Argentina
+@BODYTEXT:54-11-43-27-76-00; fax: 54-11-43-27-76-00;
+@BODYTEXT:landonin@cdelplata.com
+@CCD1:Nestor Landoni
+@BODYTEXT:GCI Finland/G2 Helsinki Oy
+@BODYTEXT:Eerikinkatu 38, Helsinki, 00100 Finland
+@BODYTEXT:3589 6957 810; fax: 3589 6957 840; eija.manninen@g2helsinki.fi
+@CCD1:Eija Manninen-Stenroos
+@BODYTEXT:Gaspar & Assocs.
+@BODYTEXT:Rua Dona Ana H.S. Gusmao, 230, 01457 040 Sao Paulo, SP, Brazil
+@BODYTEXT:55-11 3816-2344; fax: 55-11 3816-4362; agaspar@gaspar.com.br
+@CCD1:Agostinho Gaspar
+@BODYTEXT:Havera AS
+@BODYTEXT:Narva mnt. 7, Tallinn 10117, Estonia
+@BODYTEXT:372-6-109-380; fax: 372-6-109-381; www.havera.ee
+@BODYTEXT:aivar.hanson@havera.ee
+@CCD1:Aivar Hanson
+@BODYTEXT:Havera PR  
+@BODYTEXT:9 Antonijas Street, Riga LV 1010, Latvia
+@BODYTEXT:371-722-4368; fax: 371-721-1942; www.havera.ee
+@BODYTEXT:ojars@havera.lv
+@CCD1:Ojars Sture
+@BODYTEXT:Havera UAB
+@BODYTEXT:Konstitucijos pr. 12-305, Vilnius 2005, Lithuania
+@BODYTEXT:370-52 750004; fax: 370-52 755030; www.havera.ee
+@BODYTEXT:tautvydas@havera.lt
+@CCD1:Tautvydas Musteikis
+@BODYTEXT:Headline PR
+@BODYTEXT:P.O. Box 64349, Dubai, United Arab Emirates
+@BODYTEXT:971 4 228-9655; fax: 971 4 228-2125;
+@BODYTEXT:sadri@headlinepr.com
+@CCD1:Sadri Barrage
+@BODYTEXT:Musqueteers AG, The Identity Company & PR Company
+@BODYTEXT:Muhlebachstrasse 43, Postfach CH-8032, Zurich, Switzerland
+@BODYTEXT:41 43 244 8442; fax: 41 43 244 8440; www.musqueteers.com;
+@BODYTEXT:michael.egloff@musqueteers.ch
+@CCD1:Michael Egloff
+@BODYTEXT:Pepe, Rossi e Partner
+@BODYTEXT:Via Baracchini, 1, Milan 1, 20123 Italy
+@BODYTEXT:39 02 880-0081; fax: 39 02 877-294; www.prpconsulting.it
+@BODYTEXT:daniele.rossi@prpconsulting.it
+@CCD1:Daniele Rossi
+@BODYTEXT:Stern Ariely PR
+@BODYTEXT:9 Habonim St., Ramat-Gan, Tel-Aviv 52523, Israel
+@BODYTEXT:972-3-612-2130; fax: 972-3-612-2131; pupi@sapr.co.il
+@CCD1:Pupi Ariely
+@BODYTEXT:Strategic PR Group
+@BODYTEXT:Cr 7 No. 124-93, Bogota, Colombia
+@BODYTEXT:57-1-213-5004; fax: 57-1-620-2293; sprgroup@cable.net.co
+@CCD1:Juan Manuel Cuellar
+@BODYTEXT:
+@BODYTEXT:
+@CO:GCI TUNHEIM
+@BODYTEXT:Reaquired from GCI Group; see Tunheim Partners
+@BODYTEXT:
+@BODYTEXT:
+@CO:GCS PR (GABLE-COOK-SCHMID)
+@BODYTEXT:5060 Shoreham Place, #200, San Diego, CA 92122
+@BODYTEXT:858/458-5835; fax:858/259-8201; tgable@gcs-pr.com
+@BODYTEXT:www.gcs-pr.com
+@BODYTEXT:Business-to-business, consumer, crisis, entertainment, financial/IR, real estate development, science/technology PR.  Employees: 8. Founded: 2001.
+@AGENCY:Agency Statement: GCS PR (Gable-Cook-Schmid) has turned the agency business upside-down, with senior counselors managing every program, including strategic consulting, branding, positioning, marketing communications, media relations, IR and crisis communications. The firm has unequalled media relationships, spearheaded by two Pulitzer Prize nominees and former journalists, and award-winning results for companies from startups to Fortune 1000. Team members hold four Silver Anvils for client programs. Tom Gable, CEO, is author of the best-selling PR Client Service Manual.
+@CCD1:Tom Gable, CEO; Rick Cook, partner; Jon Schmid, partner; Jennifer Chidester, acct. mgr.; Robin Laatz, Maya Del Guidice, A/E; Erin Koch, public affairs director
+@BODYTEXT:Fair Isaac
+@BODYTEXT:Forward Ventures
+@BODYTEXT:Freedom Voice Systems
+@BODYTEXT:Lankford & Assocs. Development
+@BODYTEXT:Pfizer LaJolla
+@BODYTEXT:San Diego County Regional Airport Authority
+@BODYTEXT:UCSD Connect
+@BODYTEXT:
+@CO:GD&A
+@BODYTEXT:1774 Platte St., Denver, CO 80202
+@BODYTEXT:303/623-1190; fax:303/623-1191
+@BODYTEXT:www.gda-advertising.com
+@BODYTEXT:PR, advertising, direct marketing. Founded: 1997.
+@CCD1:Jim Koehler, pres./CEO
+@BODYTEXT:Absolute Performance
+@BODYTEXT:
+@CO:GEARON HOFFMAN, INC.
+@BODYTEXT:360 Newbury St., 6th flr., Boston, MA 02115
+@BODYTEXT:617/247-1522; fax:617/247-6821
+@BODYTEXT:www.gearonhoffman.com
+@BODYTEXT:Brand building and integrated marketing communications
+@CCD1:Bob Hoffman, pres./creative dir.
+@BODYTEXT:Brown & Co.
+@BODYTEXT:Duofold
+@BODYTEXT:Omni Hotels
+@BODYTEXT:Pringle of Scotland
+@BODYTEXT:Samuel Adams Beer
+@BODYTEXT:
+@CO:GEDULDIG & FERGUSON PUBLIC RELATIONS
+@BODYTEXT:Merged into Fleishman-Hillard
+@BODYTEXT:
+@BODYTEXT:
+@CO:GEHRUNG ASSOCIATES UNIVERSITY RELATIONS COUNSELORS, INC.
+@BODYTEXT:222 Main St., Keene, NH 03431
+@BODYTEXT:603/352-5300; fax:603/357-8685
+@BODYTEXT:Full range of svcs. for post-secondary educ. institutions
+@CCD1:John McGauley, pres.
+@BODYTEXT:
+@CO:GELFOND ASSOCIATES INC., GORDON
+@BODYTEXT:P.O. Box 17818, Beverly Hills, CA 90209
+@BODYTEXT:310/203-9982; fax:310/203-9512
+@BODYTEXT:PR, adv., business/consumer services, electronics, entertainment, financial, travel/hotel/airlines.  Founded: 1967.
+@CCD1:Gordon Gelfond, president
+@BODYTEXT:Beverly Hills Hotel
+@BODYTEXT:Deluxe Film Laboratories
+@BODYTEXT:Lewis Horwitz Organization
+@BODYTEXT:
+@CO:GELIA WELLS & MOHR
+@BODYTEXT:11342 Main St., Clarence, NY 14031
+@BODYTEXT:716/759-0930; fax:716/759-0933
+@BODYTEXT:www.gelia.com
+@BODYTEXT:Business-to-business, high-tech PR.
+@CCD1:James Phipps, president
+@BODYTEXT:Hannay Peels
+@BODYTEXT:Jewett, Inc.
+@BODYTEXT:M L Campbell
+@BODYTEXT:Stant
+@BODYTEXT:
+@CO:GELLER, GRACE & ASSOCIATES
+@BODYTEXT:99 Mohawk Trail, #18, Stamford, CT 06903
+@BODYTEXT:203/329-0386
+@BODYTEXT:Soundshore Technology Group
+@CCD1:Polly Geller, president
+@BODYTEXT:
+@CO:GELLMAN PUBLIC RELATIONS CO., INC.
+@BODYTEXT:3671 Hudson Manor Terrace, Riverdale, NY 10465
+@BODYTEXT:845/354-3346; fax:845/354-3364; Newsbraker@AOL
+@BODYTEXT:Industrial & consumer durables PR: automotive, consumer, electronics, appliances, pharmaceuticals, medical, fin’l & legal, environmental. Employees: 6. Founded: 1982
+@CCD1:Mark G. Gellman, pres.
+@BODYTEXT:American Plastics Council
+@BODYTEXT:Corporate Express Delivery Systems
+@BODYTEXT:Montell Automotive
+@BODYTEXT:SGA
+@BODYTEXT:Society of the Plastics Indus.
+@BODYTEXT:
+@CO:GELPHMAN ASSOCIATES
+@BODYTEXT:50 Airport Parkway, San Jose, CA 95110
+@BODYTEXT:408/451-8420; fax:408/451-8426; robert@gelphman.com
+@BODYTEXT:www.gelphman.com
+@BODYTEXT:Technolgy, consumer, financial PR. Employees: 6.  Founded: 1993.
+@CCD1:Robert Gelphman, pres.; Steve Sutter, VP
+@BODYTEXT:Silverbuck Systems
+@BODYTEXT:Trident Microsystems
+@BODYTEXT:Xyron Semiconductor
+@BODYTEXT:
+@CO:GEORGESON SHAREHOLDER COMMUNS. INC.
+@BODYTEXT:17 State St., New York, NY 10004
+@BODYTEXT:212/805-7000; fax:212/248-2727
+@BODYTEXT:Financial relations/investor relations firm. Founded: 1935.
+@CCD1:W. Sam Chandoha, CEO; William M. Crane, COO; John Wilcox, vice chair; Ronald M. Boronkay, exec. VP; Robert S. Brennan, Thomas G. Kies, senior VPs
+@BODYTEXT:
+@CO:GERBIG, SNELL/WEISHEIMER & ASSOCIATES, INC.
+@BODYTEXT:See GSW Worldwide
+@BODYTEXT:
+@BODYTEXT:
+@CO:GERMINDER & ASSOCIATES, INC.
+@BODYTEXT:102 Charlton St., New York, NY 10014
+@BODYTEXT:212/367-2170; fax:212/414-0538
+@BODYTEXT:www.germinder.com
+@BODYTEXT:Full-service strategic PR counseling, product launches, Internet & mktg. comms., business/not-for-profit partnerships, event planning & local, trade & nat’l media rels. Founded: 1998.
+@CCD1:Lea-Ann Germinder, pres.
+@BODYTEXT:
+@CO:GESSERT GROUP, THE
+@BODYTEXT:5369 North 118th Court, Milwaukee, WI 53225
+@BODYTEXT:414/466-3400; fax:414/466-9369
+@BODYTEXT:An integrated comms. company specializing in interactive media and marketing comms.
+@CCD1:Bob Gessert, CEO
+@BODYTEXT:American Bowling Congress
+@BODYTEXT:ESPN
+@BODYTEXT:Kohler Co.
+@BODYTEXT:Miller Brewing Co.
+@BODYTEXT:
+@CO:GETO & DE MILLY, INC.
+@BODYTEXT:130 East 40th St., New York, NY 10016
+@BODYTEXT:212/686-4551; fax:212/213-6850; pr@getodemilly.com
+@BODYTEXT:Governmental rels.; public policy/public affairs.  Employees: 20. Founded: 1980.
+@AGENCY:Agency Statement: Geto & de Milly, Inc. is a full-service public relations firm which specializes in the development of sophisticated communications and governmental relations strategies for a diverse group of clients.  We advise corporations, government officials, academic, health and cultural institutions, labor unions and public interest groups on how best to achieve their public relations, governmental or political goals.
+@AGENCY:Formed in 1980, the firm has developed a strong specialization in helping clients achieve public policy objectives by providing closely coordinated public relations and government relations services.  Because of the broad experience of our senior professionals in government and public affairs, our clients often depend on Geto & de Milly to assist in shaping policy positions and communications strategies to affect the climate of public opinion as well as governmental decision-making at every level.
+@AGENCY:At the heart of these services is our ability to generate positive press for our clients.  We organize news conferences; design and produce press kits; develop finely targeted (and therefore productive) press contact lists; develop and place feature stories with key editors and reporters; and write and place column items and op-ed pieces  for our clients’ by-lines in major daily newspapers throughout the state, and in general interest, special interest and trade magazines. We also regularly book clients onto radio and television talk shows.
+@AGENCY: Geto & de Milly also does a significant amount of Editorial Board work to generate positive editorials for our clients in major dailies in New York and nationally.
+@AGENCY:Our firm writes and designs brochures, annual reports, newsletters and other printed materials.  Geto & de Milly has similar broad experience in producing videos and video news releases (VNRs) as well as creating and buying time for public affairs advertising.  We are a registered ad agency with all major print and electronic media in New York.
+@AGENCY:Geto & de Milly is a 20-person firm that believes in offering the quality services of senior, experienced professionals in close cooperation with client representatives.
+@CCD1:Ethan Geto, pres.; Michele de Milly, exec. VP; Joyce Baumgarten, Kendall Christiansen, Elaine Bennett; Eric Schmeltzer; Jane Pook
+@BODYTEXT:Academic Medicine Dev. Co.
+@BODYTEXT:Algin Management
+@BODYTEXT:Air Line Pilots Association
+@BODYTEXT:Astoria Energy
+@BODYTEXT:Brodsky Organization
+@BODYTEXT:Callen-Lorde Community Health Center
+@BODYTEXT:Center Against Domestic Violence
+@BODYTEXT:Common Ground Community
+@BODYTEXT:Eldridge Street Project
+@BODYTEXT:Emerson Electric Co.
+@BODYTEXT:ENK International
+@BODYTEXT:Express Scripts, Inc.
+@BODYTEXT:Flatiron Entertainment
+@BODYTEXT:Forest City Ratner Cos.
+@BODYTEXT:Gill Foundation
+@BODYTEXT:Independence Plaza Tenants Assn.
+@BODYTEXT:Jeffries Companies
+@BODYTEXT:J.C. Decaux
+@BODYTEXT:League of Amer. Theatres/Producers
+@BODYTEXT:Mary W. Lasker Charitable Trust
+@BODYTEXT:Meilman Management & Development, LLC
+@BODYTEXT:Model Management Corp.
+@BODYTEXT:New York City Econ. Dev. Corp./Flushing Redevelopment Plan
+@BODYTEXT:Operation Truth
+@BODYTEXT:Playwrights Horizons
+@BODYTEXT:Plumbing Foundation City of NY
+@BODYTEXT:Social Science Research Council
+@BODYTEXT:Surtsey Realty
+@BODYTEXT:Zeckendorf Realty
+@BODYTEXT:
+@CO:GHIORSI & SORRENTI PUBLIC RELATIONS
+@BODYTEXT:Division of Ghiorsi & Sorrenti Inc., advertising
+@BODYTEXT:Mack-Cali Corporate Center, 50 Tice Blvd., Woodcliff Lake, NJ 07677
+@BODYTEXT:201/307-1970; fax:201/307-5632; GSI@carroll.com
+@BODYTEXT:www.gsifundraising.com
+@BODYTEXT:Promotions, positioning, crisis comms., media relations
+@CCD1:Glenn Vallach, VP of communications and PR
+@BODYTEXT:CGI Holistic Fitness Centers
+@BODYTEXT:Dahn Healing Institute
+@BODYTEXT:Gilda’s Club
+@BODYTEXT:Ramapo College of New Jersey Masters Programs
+@BODYTEXT:Vassar Brothers Hospital Foundation
+@BODYTEXT:
+@CO:GIBBS & SOELL, INC.
+@BODYTEXT:600 Third Ave., 6th floor, New York, NY 10016
+@BODYTEXT:212/697-2600; fax:212/697-2646
+@BODYTEXT:www.gibbs-soell.com
+@BODYTEXT:Agricultural, consumer, home and building products, healthcare, financial, home furnishings, corporate, industrial, high-tech, telecommunications, chemicals & plastics; food and environmental PR.  Employees: 103. Founded: 1971.
+@AGENCY:Agency Statement: Founded in 1971, Gibbs & Soell Public Relations (G&S) is a mid-sized, full-service, global independant public relations organization with operations in New York, Chicago, Raleigh, San Francisco, Zurich, London, Tokyo and Latin America. Solving our clients' business challenges drives everything we do. Our passion for excellence, combined with an innovative, diligent approach to problem solving, delivers value-driven results. We blend strategic planning and cousel, creativity, quality writing and professional media relations with deep industry knowledge to the daily benefit of our clients' businesses.
+@AGENCY:Gibbs & Soell is not all things to all people.  While we have broad experience in a number of industries, we focus our expertise in core markets where we deliver effective, value-driven communication programs that build on our experience, knowledge and leadership.  Those markets inlcude agribusiness; building products; consumer lifestyle; financial services; industrial; healthcare; and, technology. In these industries, we understand the issues and challenges you face in conducting buisness, as well as the critical importance of constumer relations and the rapidly changing dynamics of the marketplace. We apply our strengths to help you market products and services, build strong brands, manage issues and grow key relationships. In short, the success of your business is at the heart of what we do.
+@AGENCY: G&S's service portfolio includes corporate communications; marketing communications; event marketin/management; employee communications; leadership positioning; e-communications; and, communications training.
+@CCD1:Cos M. Mallozzi, pres. & CEO; Richard Greulich, sr. VP & CFO; Luke Lambert, senior VP/mng. dir.; Mark Monroe, senior VP; Miriam Tensuan, Liz McDonnell, Dick Wolfe, Claudio Pannunzio, VPs
+@BODYTEXT:2300 North Barrington Rd., #600, Hoffman Estates, IL 60195
+@BODYTEXT:847/519-9150; fax: 847/519-1877
+@CCD1:Jeffrey Altheide, sr. VP/managing dir.; Ron Loch, Doug Hampel, senior VPs
+@BODYTEXT:111 Pine St., #1530, San Francisco, CA 94111
+@BODYTEXT:415/362-9930; fax: 415/362-9935
+@CCD1:Roger Ryerson, sr. VP/mng. director
+@BODYTEXT:8521 Six Forks Rd., #300, Raleigh, NC 27615
+@BODYTEXT:919/870-5718; fax: 919/870-8911
+@CCD1:Robert Bowman, sr. VP/mng. director; Ann Camden, Kerry Henderson, VPs
+@BODYTEXT:Beethovenstrasse 7 (1Stk), CH 8002 Zurich, Switzerland
+@BODYTEXT:011 411 205-5565; fax: 011 411 205-5566
+@CCD1:Kellie Nolan VP/mng. director
+@BODYTEXT:
+@BODYTEXT:Advanced Distribution Systems
+@BODYTEXT:Advanstar Communications, Inc.
+@BODYTEXT:Alsons
+@BODYTEXT:American Plastics Council; Alliance for Polyurethanes-    Division
+@BODYTEXT:American Woodmark Corp.
+@BODYTEXT:Argus BioScience
+@BODYTEXT:Better Homes & Gardens "100 Days of Holidays, Des Moines, IA
+@BODYTEXT:The Biondo Group
+@BODYTEXT:Cargill 
+@BODYTEXT:Central Boiler/Central Fireplace
+@BODYTEXT:Chemical Sector Cybersecurity Program
+@BODYTEXT:Ciba Specialty Chemicals
+@BODYTEXT:City of Elgin
+@BODYTEXT:Craftmaster Manufacturing
+@BODYTEXT:Delta Faucet Co.
+@BODYTEXT:Dow Chemical Co.
+@BODYTEXT:Eastman Chemical Co.
+@BODYTEXT:Ellie Mae
+@BODYTEXT:Eastman Chemical Company, Specialty Plastics Business- Organization
+@BODYTEXT:Firestone Bldg. Prods.
+@BODYTEXT:The Flood Company
+@BODYTEXT:Georgia-Pacific Resins, Inc.
+@BODYTEXT:Honeywell International  
+@BODYTEXT:Molex, Inc.
+@BODYTEXT:National Elevator Industry, Inc.
+@BODYTEXT:National Trade Productions
+@BODYTEXT:NatureWorks LLC
+@BODYTEXT:Nextreme Thermal Solutions
+@BODYTEXT:Nietech Corporation
+@BODYTEXT:Overture Financial Services
+@BODYTEXT:Peerless Faucet Co.
+@BODYTEXT:Pinnacle Care International
+@BODYTEXT:PNY Technologies
+@BODYTEXT:RTI International
+@BODYTEXT:Schindler Elevator
+@BODYTEXT:Sheetz, Inc.
+@BODYTEXT:Syngenta Crop Protection
+@BODYTEXT:Syngenta Plant Science
+@BODYTEXT:Syngenta Professional Products
+@BODYTEXT:Syngenta Seeds
+@BODYTEXT:Tarkett
+@BODYTEXT:Tenaris
+@BODYTEXT:The Syngenta Foundation
+@BODYTEXT:U.S. Robotics
+@BODYTEXT:Univation Technologies
+@BODYTEXT:Waterford Advisors
+@BODYTEXT:Zoltek Gubh
+@BODYTEXT:
+@CO:GIGI OTERO PUBLIC RELATIONS, INC.
+@BODYTEXT:11847 Laurelwood Dr., #307, Studio City, CA 91604
+@BODYTEXT:www.gopr.com
+@BODYTEXT:Entertainment PR. Founded: 1995.
+@BODYTEXT:
+@CO:GILBERT & MANJURA MARKETING
+@BODYTEXT:346 Freeman St., Longwood, FL 32750
+@BODYTEXT:407/261-5700; fax:407/261-5710
+@BODYTEXT:Media relations, special events, crisis comms., company newsletters and issues management
+@CCD1:Ed Gilbert, Bonnie Manjura, managing partners
+@BODYTEXT:Downtown Disney Resort Area Hotels
+@BODYTEXT:Hilton in the Walt Disney World Resort
+@BODYTEXT:Hilton Singer Island Oceanfront Resort
+@BODYTEXT:Ron Jon Surf Shop
+@BODYTEXT:St. Johns County Visitors & Convention Bureau
+@BODYTEXT:Stonehenge Telecom Americas
+@BODYTEXT:Titanic - The Exhibition
+@BODYTEXT:
+@CO:GILDEN INTEGRATED
+@BODYTEXT:1014 West 36th St., Baltimore, MD 21211
+@BODYTEXT:410/889-0990; fax:410/467-7039; info@gilden.com
+@BODYTEXT:www.gilden.com
+@BODYTEXT:Community relations, media relations, special events, writing/ editorial svcs.
+@CCD1:Jack Gildon, pres., Cameron Barry, PR dir.
+@BODYTEXT:
+@CO:GILES COMMUNICATIONS LLC
+@BODYTEXT:2975 Westchester Ave., #402, Purchase, NY 10577
+@BODYTEXT:914/644-3500; fax:914/696-4120
+@BODYTEXT:www.giles.com
+@BODYTEXT:General PR, specializing in entertainment, high-tech. Employees: 16. Founded: 1986
+@CCD1:Peter Giles, pres.
+@BODYTEXT:Ahead Software
+@BODYTEXT:American Music Conference
+@BODYTEXT:Consumer Reports
+@BODYTEXT:National Assn. of Music Merchants
+@BODYTEXT:Yamaha Corp. of America; Yamaha Electronics Corp.
+@BODYTEXT:
+@CO:GILLESPIE
+@BODYTEXT:No longer handles PR
+@BODYTEXT:
+@BODYTEXT:
+@CO:GISH, SHERWOOD & FRIENDS PUBLIC RELATIONS
+@BODYTEXT:Part of Gish, Sherwood & Friends, Inc., Advertising
+@BODYTEXT:4235 Hillsboro Rd., Nashville, TN 37215
+@BODYTEXT:615/385-1100; fax:615/783-0522
+@BODYTEXT:General PR. Employees: 7 in PR. Founded: 1995 (adv. in 1978).
+@CCD1:Missy Acosta, PR director
+@BODYTEXT:DuPont
+@BODYTEXT:Hunter Ceiling Fans
+@BODYTEXT:Lochinvar Corp.
+@BODYTEXT:Universal Lighting Technologies
+@BODYTEXT:
+@CO:GKV COMMUNICATIONS
+@BODYTEXT:1030 Hull St., #400, Baltimore, MD 21230
+@BODYTEXT:410/234-2519
+@BODYTEXT:www.gkv.com
+@BODYTEXT:Branding and marketing communications: adv., PR and direct marketing services; research, creative development, graphic design, media planning, interactive, community rels., crisis comms. Clients in travel and tourism, technology, banking, fin'l services, healthcare, retail, franchise and real estate industries.
+@CCD1:Roger L. Gray, chairman & CEO; Beth Cavanaugh
+@BODYTEXT:Atlantic Coast Airlines
+@BODYTEXT:
+@CO:GLASURE GROUP
+@BODYTEXT:1631 Dr. Martin Luther King Jr. St. N., St. Petersburg, FL 33704
+@BODYTEXT:727/821-8700; fax:727/821-8710; jack@glasuregroup.com
+@BODYTEXT:www.glasuregroup.com
+@BODYTEXT:General PR. Employees: 11. Founded 2001.
+@CCD1:Jack Glasure, president & CEO; John Strickling, VP business development; Todd Josko, VP-PA & marketing strategies; Randall Metting, VP, sports & entertainment marketing
+@BODYTEXT:Accudata America
+@BODYTEXT:AEGIS
+@BODYTEXT:Americas' Sail
+@BODYTEXT:City of St. Petersburg
+@BODYTEXT:Dude Rancher's Assn.
+@BODYTEXT:Florida Sports Hall of Fame
+@BODYTEXT:Hidden Creek Ranch
+@BODYTEXT:Hovercraft USA
+@BODYTEXT:Legends Publishing Company
+@BODYTEXT:Roper Apparel and Footwear
+@BODYTEXT:St. Petersburg Events
+@BODYTEXT:SinoFresh Laboratories
+@BODYTEXT:Sundog Eyewear
+@BODYTEXT:Tandel Systems
+@BODYTEXT:United Capital Funding
+@BODYTEXT:Unitree Training
+@BODYTEXT:Yacht StarShip
+@BODYTEXT:
+@CO:GLENDALE COMMUNICATIONS GROUP, INC.
+@BODYTEXT:800 S. Northwest Hwy., #200, Barrington, IL 60010
+@BODYTEXT:847/382-7404; fax:847/382-5567; glendalecomm@aol.com
+@BODYTEXT:Full-service PR; pharmaceutical, medical, financial & general PR.  Employees: 22. Founded: 1987.
+@CCD1:Sam Huff, pres.; Karen Yancey, VP
+@BODYTEXT:BioSante Pharmaceuticals
+@BODYTEXT:Curatek Pharmaceuticals
+@BODYTEXT:First Home Mortgage Corp.
+@BODYTEXT:Hamilton Partners
+@BODYTEXT:Healthpoint Pharmaceutical
+@BODYTEXT:Konsyl Pharmaceuticals
+@BODYTEXT:MedLife Solutions
+@BODYTEXT:National Rosacea Society
+@BODYTEXT:Presutti Laboratories
+@BODYTEXT:Stop Colon Cancer Foundation
+@BODYTEXT:
+@CO:GLENNON COMPANY, THE
+@BODYTEXT:716 Geyer St., #300, St. Louis, MO 63104
+@BODYTEXT:314/776-9800; fax:314/772-9800
+@BODYTEXT:www.glennon.com
+@BODYTEXT:PR, adv., event management, marketing, agriculture/gardening, home builders, automotive; beer/wine/liquor, food, retail/chains. Founded: 1964.
+@CCD1:Glennon D. Jamboretz, mng. partner/CEO
+@BODYTEXT:Allegiant Bank
+@BODYTEXT:DCM Management Co.
+@BODYTEXT:Dent Wizard Int’l
+@BODYTEXT:Jefferson City CVB
+@BODYTEXT:National Tree Trust
+@BODYTEXT:
+@CO:GLICKMAN GROUP, THE
+@BODYTEXT:108 5th St., SE, #204, Charlottesville, VA 22902
+@BODYTEXT:434/817-8440; fax:434/817-8450; mark@theglickmangroup.com
+@BODYTEXT:Travel, resort, golf PR. Founded: 2000.
+@CCD1:Mark Glickman, pres.
+@BODYTEXT:The Pinehurst Co. Resorts: Barton Creek; Palmilla; The Homestead; Pinehurst
+@BODYTEXT:
+@CO:GLOBAL COMMUNICATORS
+@BODYTEXT:1925 K St., N.W., #450, Washington, DC 20006
+@BODYTEXT:202/371-9600; fax:202/371-0808; jimharff@globalcommunicators.com
+@BODYTEXT:www.globalcommunicators.com
+@CCD1:James W. Harff, chmn. & CEO; Katherine M. Christie, pres., Kristine Heine, exec. VP; Nina Herrera-Davila, VP
+@BODYTEXT:Airlines Reporting Corp.
+@BODYTEXT:Avery Dennison
+@BODYTEXT:Colonial Williamsburg Foundation
+@BODYTEXT:Hamburg (Germany) Cruise Ctr.
+@BODYTEXT:Insurance Marketplace Standard Assn.
+@BODYTEXT:Kohler Co.
+@BODYTEXT:LC Industries
+@BODYTEXT:Plastics Engineering Co.
+@BODYTEXT:University of Wisconsin-La Crosse
+@BODYTEXT:
+@CO:GLOBAL CONSULTING GROUP, THE
+@BODYTEXT:22 Cortlandt St., 14th flr., New York, NY 10007
+@BODYTEXT:646/284-9400; fax:646/284-9494
+@BODYTEXT:www.hfgcg.com
+@BODYTEXT:Financial/IR, corp. comms. and public policy. Founded: 2002.
+@AGENCY:Agency Statement: The Global Consulting Group (GCG) focuses on providing consulting services to U.S. and international publicly traded and privately held companies in Investor Relations, Corporate Communications and Public Affairs. GCG combines strategic assessment with tactical excellence and follows a management-consulting model. The firm draws its professionals from a variety of backgrounds: lawyers, PhDs, MBAs and Wall Street analysts, as well as more traditional professionals who have been journalists and IROs. GCG is headquartered in New York, with offices around the world.
+@CCD1:Richard J. Wolff, CEO; Jaime De Pinies, sr. mng. dir. Europe & chief economist; Geraldine A. Ferraro, sr. mng. dir. public policy; Jacinta Gauda, sr. mng. dir. corp. comms.; Andrew Hayes, mng. dir. IR/ financial PR; Christopher Bunting, sr. mng. dir., U.K.-London
+@BODYTEXT:
+@CO:GLOBAL FLUENCY
+@BODYTEXT:See Neale-May & Partners Inc.
+@BODYTEXT:
+@BODYTEXT:
+@CO:GLOBALHUE
+@BODYTEXT:8242 Vicar Rd., San Antonio, TX 72818
+@BODYTEXT:210/619-2000; fax:210/657-7515
+@BODYTEXT:Full-service marketing and communications co. Founded: 1983.
+@CCD1:Pamela Salazar, sr. VP/PR director
+@BODYTEXT:
+@CO:GM MARKETING COMMUNICATIONS
+@BODYTEXT:445 Pleasant St., Framingham, MA 01701
+@BODYTEXT:508/875-3821
+@BODYTEXT:Advertising and public rels. for high-tech product, and corporate. Employees: 3. Founded: 1983.
+@CCD1:Peter A. McGowan, president
+@BODYTEXT:
+@CO:GMG PUBLIC RELATIONS, INC.
+@BODYTEXT:23 Blauvelt St., Nanuet, NY 10954
+@BODYTEXT:845/627-3000; fax:845/627-6413
+@BODYTEXT:www.gmgpr.com
+@BODYTEXT:Not for profit, business to business, travel PR, consumer products.
+@CCD1:Risa B. Hoag, pres.
+@BODYTEXT:
+@CO:GMMB
+@BODYTEXT:A Fleishman-Hillard Company
+@BODYTEXT:
+@BODYTEXT:
+@CO:GODDARD CLAUSSEN PORTER NOVELLI
+@BODYTEXT:See Porter Novelli
+@BODYTEXT:
+@BODYTEXT:
+@CO:GODWINGROUP
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:P.O. Box 531, Jackson, MS 39205
+@BODYTEXT:601/354-5711; fax:601/960-5869
+@BODYTEXT:PR, adv., consumer adv., agriculture/gardening, apparel, fast food/ restaurants, telecommunications.  Founded: 1937.
+@CCD1:Danny F. Mitchell, chairman/CEO
+@BODYTEXT:Baptist Health Systems
+@BODYTEXT:Cellular South
+@BODYTEXT:Chevron Lubricants
+@BODYTEXT:Trustmark Corp.
+@BODYTEXT:
+@CO:GOFF & HOWARD, INC.
+@BODYTEXT:255 E. Kellogg Blvd., #102, St. Paul, MN 55101
+@BODYTEXT:651/292-8062; fax:651/292-8091; info@goff-howard.com
+@BODYTEXT:www.goffhoward.com
+@BODYTEXT:Media relations, media training, crisis comms., government relations, lobbying, grassroots and grasstops org., community relations, internal communications, branding/reputation mgmt., writing/editing, design and production, research, project mgmt.  Employees: 16. Founded: 1978.
+@AGENCY:Agency Statement: Goff & Howard is the only firm in Minnesota that provides both full-service public relations and public affairs. We provide the comprehensive range of services our clients need to communicate clearly and successfully.
+@CCD1:Chris Georgacas, president; Paula Howard, COO; Bob Goff, chmn.; Kris Amundson,VP of Public Affairs; Patty Dunn, VP of Public Relations
+@BODYTEXT:Accenture
+@BODYTEXT:Andersen Windows
+@BODYTEXT:Association of Metropolitan School Districts
+@BODYTEXT:Blue Cross Blue Shield of Minnesota
+@BODYTEXT:BOMA St. Paul
+@BODYTEXT:Builders Association of Minnesota
+@BODYTEXT:Care Providers of Minnesota
+@BODYTEXT:Center for Diagnostic Imaging
+@BODYTEXT:Concordia University, St. Paul
+@BODYTEXT:East Metro Integration District
+@BODYTEXT:Fairview Health Services
+@BODYTEXT:Flint Hills Resources
+@BODYTEXT:Frauenshuh Sweeney
+@BODYTEXT:Grand Casino Mille Lacs and Grand Casino Hinckley
+@BODYTEXT:Griggs, Cooper & Co.
+@BODYTEXT:Hamline University
+@BODYTEXT:Koch Pipeline
+@BODYTEXT:League of Minnesota Cities
+@BODYTEXT:McGough Construction
+@BODYTEXT:Mille Lacs Band of Ojibwe Indians
+@BODYTEXT:Minnesota Health and Housing Alliance
+@BODYTEXT:Minnesota Oncology Hematology P.A.
+@BODYTEXT:Minnesota Life
+@BODYTEXT:PAK Properties
+@BODYTEXT:Polaris Industries Inc.
+@BODYTEXT:Qwest
+@BODYTEXT:Ramsey County Regional Rail Authority
+@BODYTEXT:St. Paul Chamber of Commerce
+@BODYTEXT:Taste of Minnesota
+@BODYTEXT:University of St. Thomas
+@BODYTEXT:
+@CO:GOGERTY STARK MARRIOTT
+@BODYTEXT:Member of Pinnacle Worldwide
+@BODYTEXT:1501 4th Avenue, #2900, Seattle, WA 98101
+@BODYTEXT:206/292-3000; fax:206/292-2063
+@BODYTEXT:www.gsminc.com
+@BODYTEXT:Full service public relations firm.
+@CCD1:Bob Gogerty, partner
+@BODYTEXT:
+@CO:GOLD & ASSOCIATES, BOB
+@BODYTEXT:2377 Crenshaw Blvd., #280, Torrance, CA 90501
+@BODYTEXT:310/320-2010; fax:310/320-2002
+@BODYTEXT:www.bobgoldpr.com
+@BODYTEXT:Cable industry PR and marketing. Employees: 10. Founded: 1997.
+@CCD1:Bob Gold, President
+@BODYTEXT:Adelphia
+@BODYTEXT:Bravo
+@BODYTEXT:Charter
+@BODYTEXT:ESPN
+@BODYTEXT:Optinel
+@BODYTEXT:Pioneer
+@BODYTEXT:Property ID
+@BODYTEXT:Universal Television
+@BODYTEXT:
+@CO:GOLDBERG MCDUFFIE COMMUNICATIONS, INC.
+@BODYTEXT:444 Madison Ave., #3300, New York, NY 10022
+@BODYTEXT:212/446-5100; fax:212/980-5228; bookpr@goldbergmcduffie.com
+@BODYTEXT:www.goldbergmcduffie.com
+@BODYTEXT:Specialist in PR for books for publishers and corporate clients.  Founded: 1981.
+@CCD1:Lynn C. Goldberg, CEO; Camille McDuffie, president; Mark Fortier, partner
+@BODYTEXT:Booz Allen Hamilton
+@BODYTEXT:Boston Consulting Group
+@BODYTEXT:Deloitte
+@BODYTEXT:Gallup Organization
+@BODYTEXT:Library of America
+@BODYTEXT:McKinsey & Co.
+@BODYTEXT:Mercer Management Consulting
+@BODYTEXT:Merck
+@BODYTEXT:Microsoft
+@BODYTEXT:PricewaterhouseCoopers
+@BODYTEXT:Random House
+@BODYTEXT:Simon & Schuster
+@BODYTEXT:
+@CO:GOLDEN GROUP
+@BODYTEXT:5 Vermont Ave., Natick, MA 01760
+@BODYTEXT:508/655-5999; pg@goldenpr.com
+@BODYTEXT:www.goldenpr.com
+@BODYTEXT:PR and advertising for aerospace/defense, computers/computer products, financial.
+@CCD1:Peter Golden, principal
+@BODYTEXT:
+@CO:GOLDMAN & ASSOCIATES
+@BODYTEXT:129 W. Virginia Beach Blvd., #101, Norfolk, VA 23510
+@BODYTEXT:757/625-2518; fax:757/625-4336; info@goldmanandassociates.com
+@BODYTEXT:PR & mktg. Founded: 1987.
+@CCD1:Dean Goldman, president; Scott McCaskey; Audrey Knorth
+@BODYTEXT:Buckle Up Now
+@BODYTEXT:
+@CO:GOLDMAN COMMUNICATIONS GROUP, INC.
+@BODYTEXT:One Bay Club Dr., Bayside, NY 11360
+@BODYTEXT:718/224-4133; fax:718/224-3475; sherry @goldmanpr.net
+@BODYTEXT:www.goldmanpr.net
+@BODYTEXT:Marketing communications/PR, strategic consumer marketing, bus.-to-bus. programs, media relations, special events.  Founded: 1996.
+@CCD1:Sherry Goldman, pres.
+@BODYTEXT:Cambridge Organization
+@BODYTEXT:Hofheimer Gartlir & Gross
+@BODYTEXT:KTI
+@BODYTEXT:Lavitt Realty Corp.
+@BODYTEXT:Robin Rolfe Resources
+@BODYTEXT:Seto Holdings
+@BODYTEXT:Soffes Woods Architecture & Interiors
+@BODYTEXT:
+@CO:GOLDSTEIN COMMUNICATIONS LTD.
+@BODYTEXT:350 Fifth Ave., #1216, New York, NY 10118
+@BODYTEXT:212/838-0822; fax:212/838-8201; info@goldstein.com
+@BODYTEXT:www,goldsteincom.com
+@BODYTEXT:Specializing in PR for fine jewelry, art and beauty, luxury products, entertainment/special events.  Founded: 1981.
+@CCD1:Linda Goldstein, president
+@BODYTEXT:Hearts on Fire
+@BODYTEXT:Henry Dunay
+@BODYTEXT:Henry Dunay Fine Jewelry
+@BODYTEXT:Kentshire Gallery
+@BODYTEXT:Lonsdale of London
+@BODYTEXT:The JCK ShowGroup
+@BODYTEXT:
+@CO:GOLDSTEIN GROUP COMMUNICATIONS
+@BODYTEXT:6480 Rockside Woods Blvd. South, #300, Cleveland, OH 44131
+@BODYTEXT:216/573-2300
+@BODYTEXT:Bus.-to-bus. cos.; mktg. comms., technical comms. programs. Founded: 1992.
+@CCD1:Joel K. Goldstein, pres.
+@BODYTEXT:
+@CO:GOLIN HARRIS
+@BODYTEXT:Part of the Interpublic Group of Companies
+@BODYTEXT:111 East Wacker Dr., 11th Floor, Chicago, IL 60601
+@BODYTEXT:312/729-4000; fax:312/729-4010; fcook@golinharris.com
+@BODYTEXT:www.GolinHarris.com
+@BODYTEXT:Full-service firm: PR, PA, media relations, marketing PR, brand strategy, issues mgmt., crisis comm., global comm., research, corp. affairs, healthcare, technology, community relations, employee comms., social marketing, and media training. Employees: 460. Founded: 1956.
+@AGENCY:Agency Statement: Headquartered in Chicago, GolinHarris is one of the world’s leading public relations firms, with offices in the Americas, Asia Pacific and EMEA.
+@AGENCY:GolinHarris is built on nearly 50 years of commitment to our clients, our values and our employees. Our 460 professionals in 30 offices around the globe build long-term partnerships based on mutual trust. Our job is to deliver bold thinking and flawless execution that produce meaningful results for our client partners.
+@CCD1:Al Golin, founder; Fred Cook, president & CEO; Brian Beck, CFO; Ellen Ryan Mardiks, CMO; Keith Burton, President, Insidedge.
+@BODYTEXT:THE AMERICAS
+@BODYTEXT:111 East Wacker Dr., 11th Floor, Chicago IL 60601-4306
+@BODYTEXT:312.729.4000; fax: 312.729.4010; sfarrell@golinharris.com
+@CCD1:Scott Farrell, Managing Director
+@BODYTEXT:2200 Clarendon Blvd., Suite 1100, Arlington, VA 22201
+@BODYTEXT:703.741.7500; fax: 703.741.7501; lbailey@golinharris.com
+@BODYTEXT:@CCDl = Lane Bailey, Managing Director
+@BODYTEXT:1575 Northside Drive, NW, Building 200, Suite 200, Atlanta, GA 30318
+@BODYTEXT:404.880.4600; fax: 404.523.3483; mhead@golinharris.com
+@BODYTEXT:@CCDl = Julie Dixon, Senior Vice President
+@BODYTEXT:12655 North Central Expressway, Suite 425, Dallas, TX 75243
+@BODYTEXT:972.308.9100; fax: 972.308.9101; grudnick@golinharris.com
+@BODYTEXT:@CCDl = Gary Rudnick, Managing Director
+@BODYTEXT:1360 Post Oak Blvd., Suite 2020, Houstan TX 77056
+@BODYTEXT:713.513.9568; fax: 713.513.9570; grudnick@golinharris.com
+@BODYTEXT:@CCDl = Gary Rudnick, Managing Director
+@BODYTEXT:601 West Fifth St., 4th Floor, Los Angeles, CA 90071
+@BODYTEXT:213.623.4200; fax: 213.895.4745/4746; jjohnson@golinharris.com
+@BODYTEXT:@CCDl = Judy Johnson, Managing Director
+@BODYTEXT:4500 Biscayne Blvd., Penthouse, Miami, FL 33137
+@BODYTEXT:305.573.9955; fax: 305.573.1649; lmozloom@golinharris.com
+@BODYTEXT:@CCDl = Lisa Mozloom, Managing Director
+@BODYTEXT:650 Fifth Avenue, 34th Floor, New York, NY 10019
+@BODYTEXT:212.373.6000; fax: 212.373.6001; bshager@golinharris.com
+@BODYTEXT:@CCDl = Barbara Shrager, Senior Vice President
+@BODYTEXT:17600 Gillette Avenue, Irvine, CA 92614
+@BODYTEXT:949.260.1300; fax: 949.260.1305; lfacetti@golinharris.com
+@BODYTEXT:@CCDl = Lia Falcetti, Managing Director
+@BODYTEXT:430 Pacific Avenue, San Francisco, CA 94133
+@BODYTEXT:415.274.7900; fax: 415.274.7933; jjohnson@golinharris.com
+@BODYTEXT:@CCDl = Judy Johnson, Managing Director
+@BODYTEXT:351 Elliot Avenue, W.,2nd Floor, Seattle, WA 98119
+@BODYTEXT:425.462.4220; fax: 425.462.4221; dvaryu@golinharris.com
+@BODYTEXT:@CCDl = Don Varyu, Senior Vice President
+@BODYTEXT:EMEA
+@BODYTEXT:Park Leopold, 50 rue Wiertz, B-1050 Brussels, Belgium
+@BODYTEXT:32.2.290.02.90; fax: 32.2.230.68.28; etufetopi@golinharris.com
+@BODYTEXT:@CCDl = Enrique Tufet-Opi, Director
+@BODYTEXT:Capricorn Tower, 7th Floor, Sheikh Zahed RD, P.O. Box 116462, Dubai UAE
+@BODYTEXT:971.4.332.3308; fax: 971.4.332.3306; zhasbani@golinharris.com
+@BODYTEXT:@CCDl = Ziad G. Hasbani, General Manager
+@BODYTEXT:Opernplatz 2 D-60313, Frankfurt am Main, Germany
+@BODYTEXT:49.69.9130.4326; fax: 49.69.9130.4333; westphalen@golinharris.de
+@BODYTEXT:@CCDl = Benedikt von Westphalen, Managing Director
+@BODYTEXT:Geneva Business Center, 12 avenue des Morgines, Petit-Lancy, CH-1212 Geneva, Switzerland
+@BODYTEXT:31.22.879.8504; fax: 41.22.879.8510: kmaksymec@golinharris.com
+@BODYTEXT:@CCDl = Kathleen Maksymec, Director
+@BODYTEXT:Koninginnegracht 23, 2514 AB The Hague, The Netherlands
+@BODYTEXT:31.70.312.1070; fax: 31.70.364.3770; jdevries@golinharris.com
+@BODYTEXT:@CCDl = Jurgen de Vries, Director
+@BODYTEXT:Fox Court, 14 Gray's Inn Road, London WClX 8WS, United Kingdom 
+@BODYTEXT:44.20.7067.0600; fax: 44.870.990.5447; zarden@golinharris.com
+@BODYTEXT:@CCDl = Zoe Arden, Managing Director
+@BODYTEXT:P de la Castellana 52, 7a pl., 28046 Madrid, Spain
+@BODYTEXT:34.91.745.86.41; fax: 34.91.745.86.22; elobo@golinharris.com
+@BODYTEXT:@CCDl = Esther Lobo, Director
+@BODYTEXT:Via Pietrasanta 14, 20141 Milan, Italy
+@BODYTEXT:39.02.57.37.8301; fax: 39.02.57.37.8300; lbulgheroni@golinharris.com
+@BODYTEXT:@CCDl = Linda Bulgheroni, Director
+@BODYTEXT:8 rue auber, 75009 Paris, France
+@BODYTEXT:33.1.53.32.09.10; fax: 33.1.53.32.82.30; sravier@golinharris.com
+@BODYTEXT:@CCDl = Sophie Ravier, Director
+@BODYTEXT:ASIA
+@BODYTEXT:10/F Ton Son Tower, 900 Ploenchit Road, Lumpini, Pathumwan, Bangkok 10330
+@BODYTEXT:66.2.257.0300; fax: 66.2.257.0312; pmcintosh@golinharris.com
+@BODYTEXT:@CCDl = Peter McIntosh, Director
+@BODYTEXT:Suite B1205, Eaglerun Plaza, No. 26, Xiaoyun Road, Chao Yang District, Beijing 100016, PRC
+@BODYTEXT:86.10.8458.4750; fax: 86.108458.4801.02; dliu@golinharris.com
+@BODYTEXT:@CCDl = David Liu, Managing Director
+@BODYTEXT:Room 606-607, Daxin Building, 538 De Zheng Bei Road, Guangzhou 510045, PRC
+@BODYTEXT:86.20.8327.6155; fax: 86.20.8327.6157; amanda.goh@golinharris.com
+@BODYTEXT:@CCDl = Amanda Goh, Associate Director
+@BODYTEXT:2/F Wilson House, 19 Wyndham Street, Central, Hong Kong
+@BODYTEXT:852-2522-6475; fax: 852-2810-4780; jmorgan@golinharris.comhk
+@BODYTEXT:@CCDl = John Morgan, Managing Director
+@BODYTEXT:28/F Eastern Tower, 689 Beijing Road East, Shanghai 20001, People's Republic of China
+@BODYTEXT:86.21.6322.2746; fax: 86.21.6351.1134; dwu@golinharris.com
+@BODYTEXT:@CCDl = Diane Wu, Managing Director
+@BODYTEXT:290 Orchard Road, #16-01 Paragon, Singapore 238859
+@BODYTEXT:65.6235.3121; fax: 65.6836.3121; baxter.jolly@golinharris.com
+@BODYTEXT:@CCDl = Baxter Jolly, Managing Director
+@BODYTEXT:Room 1206, 12/F, No. 2, Lane 150, Xinyi Road, Sec. 5, Taipei 110, Taiwan
+@BODYTEXT:886.2.2722.5369; fax: 886.2.8789; dburns@golinharris.com
+@BODYTEXT:@CCDl = Darren Burns, Managing Director
+@BODYTEXT:Mita Kokusai Bldg., 1-4-28 Mita, Minato-ku, Tokyo 108-0073, Japan 81.3.5484.6001; fax: 81.3.5484.6005; rdeleon@golinharris.com
+@BODYTEXT:@CCDl = Richard de Leon Managing Director
+@BODYTEXT:
+@BODYTEXT:American Legacy Foundation
+@BODYTEXT:BEA Systems, Inc.
+@BODYTEXT:Bristol-Myers Squibb
+@BODYTEXT:Capital One
+@BODYTEXT:Coors Brewing Company
+@BODYTEXT:Cotton Council International
+@BODYTEXT:DHL Worldwide Express 
+@BODYTEXT:Drugstore.com
+@BODYTEXT:Goodyear 
+@BODYTEXT:Hilton
+@BODYTEXT:Kidde PLC 
+@BODYTEXT:Levi-Strauss & Co.
+@BODYTEXT:Mattel, Inc.
+@BODYTEXT:MBNA
+@BODYTEXT:McDonald's Corporation
+@BODYTEXT:National Peanut Board 
+@BODYTEXT:Nestle S.A.
+@BODYTEXT:Nintendo Company LTD
+@BODYTEXT:Ortho-McNeil
+@BODYTEXT:Owens-Corning
+@BODYTEXT:Puma
+@BODYTEXT:Purina
+@BODYTEXT:Ronald McDonald House Charities
+@BODYTEXT:SC Johnson
+@BODYTEXT:Special Olympics
+@BODYTEXT:Sprint
+@BODYTEXT:State Farm Insurance
+@BODYTEXT:State of Florida - Department of Citrus
+@BODYTEXT:Texas Instruments
+@BODYTEXT:Toyota Motor Company 
+@BODYTEXT:United States Postal Service
+@BODYTEXT:VTech
+@BODYTEXT:Walt Disney Company
+@BODYTEXT:Wm. Wrigley Jr. Company
+@BODYTEXT:
+@CO:GOLTZ SEERING AGENCY INC.
+@BODYTEXT:2300 Riverside Dr., Green Bay, WI 54301
+@BODYTEXT:920/435-9800; fax:920/435-1932; rcarviou@goltz.com
+@BODYTEXT:www.goltzseering.com
+@BODYTEXT:Advertising, promotions and PR.
+@CCD1:Rob Carviou
+@BODYTEXT:Allen Canning Co.
+@BODYTEXT:
+@CO:GOODMAN MEDIA INTERNATIONAL, INC.
+@BODYTEXT:3 Park Ave., 29th flr., New York, NY 10016
+@BODYTEXT:212/576-2700; fax:212/576-2701; tom@goodmanmedia.com
+@BODYTEXT:www.goodmanmedia.com
+@BODYTEXT:Media rels., strategic counsel, crisis mgmt., special events, product publicity.  Founded: 1996.
+@AGENCY:Agency Statement: Goodman Media International Inc. is the only public relations agency in the U.S. directed solely by the former head of communications for a television network. Its founder, Tom Goodman, spent 20 years at CBS, ABC and J. Walter Thompson.
+@AGENCY:The company has established itself as a leading PR agency both in New York and Los Angeles.
+@AGENCY:Goodman and the staff of Goodman Media International, Inc. form a unique organization of talented and experienced executives with strong network and agency credentials. They have provided service to major broadcast and cable television networks, television syndication and production companies, television stations, radio networks, a newspaper, magazine and book publishers and other entertainment companies; retail, automobile, travel and consumer electronics companies; healthcare providers; finance, law, real estate and other service firms; business and trade groups; and not-for-profit organizations in the arts, education and advocacy.
+@CCD1:Tom Goodman, pres. & CEO; Henry Miller, COO; Marie J. Vogliano, CFO
+@BODYTEXT:
+@CO:GORDON SELL PUBLIC RELATIONS
+@BODYTEXT:63 Main St., Flemington, NJ 08822
+@BODYTEXT:908/788-0700; gordon@gspr.com
+@BODYTEXT:PR for consumer electronics, audio/video technology.
+@CCD1:Gordon Sell, pres.
+@BODYTEXT:Atlantic Technology
+@BODYTEXT:Blaupunkt
+@BODYTEXT:Canton Electronics
+@BODYTEXT:Onkyo USA
+@BODYTEXT:Outlaw Audio
+@BODYTEXT:Parasound
+@BODYTEXT:
+@CO:GORMAN COMMUNICATIONS, LLC
+@BODYTEXT:24 East Street, Bethlehem, CT 06751
+@BODYTEXT:203/266-5831
+@BODYTEXT:Advertising and PR firm. Corp. identity, media analysis, publicity, web site design., consumer/industrial PR. Founded: 1990.
+@CCD1:Lynn Gorman, president
+@BODYTEXT:
+@CO:GP PRODUCTIONS
+@BODYTEXT:362 Third Avenue, #1B, New York, NY 10016
+@BODYTEXT:212/686-5267; fax:212/686-5267
+@BODYTEXT:PR, adv., African-American and Hispanic specialty, interactive internet services.  Founded: 1985.
+@CCD1:Gill R. Pessoa, president
+@BODYTEXT:
+@CO:GPC INTERNATIONAL
+@BODYTEXT:See FH-GPC
+@BODYTEXT:
+@BODYTEXT:
+@CO:GRAHAM & ASSOCIATES INC.
+@BODYTEXT:343 Sansome St., #950, San Francisco, CA 94104
+@BODYTEXT:415/986-7212; fax:415/986-7216
+@BODYTEXT:www.graham-associates.com
+@BODYTEXT:Full-service PR for technology, fin'l svcs, consumer and hospitality clients as well as businesses, non-profits dedicated to the environment and social responsibility.  Founded: 1996.
+@AGENCY:Agency Statement: Graham & Associates, one of the “Top 40 fastest growing private companies in the Bay Area” per the SF Business Times, is a full-service award-winning PR firm with a successful track record of working with established and emerging companies who seek results and excellence in the following core competencies: brand/reputation management; national and international media/analyst relations; comprehensive launch programs; strategic communications/positioning; and media training. The agency also has an exclusive European international network.
+@CCD1:Lydia Graham, pres. and founder
+@BODYTEXT:
+@CO:GRAHAM COMMUNICATIONS
+@BODYTEXT:40 Oval Road, #2, Quincy, MA 02170
+@BODYTEXT:617/328-0069; fax:617/471-1504
+@BODYTEXT:www.magnetmarketing.com
+@BODYTEXT:PR, advertising, direct mktg., media buying, sales promotion. Founded: 1976.
+@CCD1:John R. Graham, pres./CEO
+@BODYTEXT:
+@CO:GRAHAM WILLIAMS GROUP
+@BODYTEXT:201 Massachusetts Ave., N.E., #C-3, Washington, DC 20002
+@BODYTEXT:202/546-5400; fax:202/546-1218
+@BODYTEXT:www.armstrongwilliams.com
+@BODYTEXT:Gov’t affrs., sports mktg., entertainment PR
+@CCD1:Armstrong Williams, pres. & CEO
+@BODYTEXT:Christian Cultural Center
+@BODYTEXT:Tribune Media Services
+@BODYTEXT:Norman Lear
+@BODYTEXT:Oprah Winfrey
+@BODYTEXT:Dominos Pizza
+@BODYTEXT:
+@CO:GRAND CENTRAL MARKETING
+@BODYTEXT:111 E. 12th St., Apt. 2, New York, NY 10003
+@BODYTEXT:212/253-8777; keith@grandcentralmarketing.com
+@BODYTEXT:Full-service event marketing and promotion agency; brand-building promotional programs, and consumer events.
+@CCD1:Keith Fernbach
+@BODYTEXT:HBO
+@BODYTEXT:Meow Mix Company
+@BODYTEXT:Playboy Magazine
+@BODYTEXT:Self Magazine
+@BODYTEXT:Svedka Vodka
+@BODYTEXT:
+@CO:GRANT/JACOBY, INC.
+@BODYTEXT:Advertising and Public Relations firm
+@BODYTEXT:20 W. Kinzie, #1610, Chicago, IL 60610
+@BODYTEXT:312/664-2055; fax:312/664-3596; pmcauley@grantjacoby.com
+@BODYTEXT:B2B and consumer PR; fully integrated marketing communications; advertising, database and direct, collateral, Internet.
+@CCD1:Patrick McAuley, sr. VP, bus.-to-bus.; Andrea Murphy, CEO           
+@BODYTEXT:AIMCO
+@BODYTEXT:American Plastics Council
+@BODYTEXT:Bankers Life and Casualty
+@BODYTEXT:Culligan International
+@BODYTEXT:Dyneon LLC
+@BODYTEXT:Enzymatic Therapy
+@BODYTEXT:Epilepsy Foundation (Chicago)
+@BODYTEXT:Hyster Co.
+@BODYTEXT:International Truck and Engine
+@BODYTEXT:Rexam BCA
+@BODYTEXT:The Solutions Group
+@BODYTEXT:
+@CO:GRAUBARD GROUP, THE
+@BODYTEXT:584 Broadway, New York, NY 10012
+@BODYTEXT:212/966-9000
+@BODYTEXT:www.graubardgroup.com
+@BODYTEXT:Consumer, sports, bus.-to-bus., healthcare PR. Employees: 5. Founded: 1991.
+@CCD1:Jeffrey R. Graubard, pres.
+@BODYTEXT:Basketball Hall of Fame
+@BODYTEXT:Bell Atlantic
+@BODYTEXT:National Hockey League Enterprises
+@BODYTEXT:Nike
+@BODYTEXT:Sports Illustrated
+@BODYTEXT:
+@CO:GRAVES GROUP
+@BODYTEXT:2825 Eastlake Ave. E., #200, Seattle, WA 98102
+@BODYTEXT:206/726-5597; fax:206/726-5599
+@BODYTEXT:Strategic comms., bus.-to-bus., marketing comms., publicity. Founded: 1997.
+@CCD1:R. Danner Graves, owner
+@BODYTEXT:Integral GIS
+@BODYTEXT:Kaye-Smith
+@BODYTEXT:Mundy Assocs.
+@BODYTEXT:Northwest Pride
+@BODYTEXT:
+@CO:GRAY & RICE PUBLIC RELATIONS, INC.
+@BODYTEXT:1 Washington Mall, 10th flr, Boston, MA 02108
+@BODYTEXT:617/367-0100; fax:617/367-0160
+@BODYTEXT:www.grayandrice.com
+@BODYTEXT:Business-to-business PR: computer software and hardware, high technology, industrial manufacturing, fin’l svcs., telecommunications & corp. comms. Founded: 1989.
+@CCD1:Robert McNeil, Susan Rice McNeil, co-presidents
+@BODYTEXT:Honeywell
+@BODYTEXT:Instron Corp.
+@BODYTEXT:Lista Int’l
+@BODYTEXT:MAC-America
+@BODYTEXT:World of Medicine
+@BODYTEXT:
+@CO:GRAY BAUMGARTEN LAYPORT, INC.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:3030 Penn Ave., 2nd flr., Pittsburgh, PA 15201
+@BODYTEXT:412/642-0642
+@BODYTEXT:www.gblink.com
+@BODYTEXT:PR, adv., comsumer adv., entertainment, financial, industrial/ mfg., healthcare.  Founded: 1977.
+@CCD1:Geoff Tolley, president
+@BODYTEXT:AAA West Penn/WV
+@BODYTEXT:Children’s Hospital of Pittsburgh
+@BODYTEXT:Fein Power Tools
+@BODYTEXT:Greater Pittsburgh Food Bank
+@BODYTEXT:WTAE-TV
+@BODYTEXT:
+@CO:GRAY, KIRK/VANSANT
+@BODYTEXT:1030 Hull St., #400, Baltimore, MD 21230
+@BODYTEXT:410/539-5400; fax:410/234-2441
+@BODYTEXT:www.gkv.com
+@BODYTEXT:Corp., commercial, industrial, tourism & promo; fin’l, consumer, healthcare, bus.-to-bus., advertising, crisis management. Founded: 1966
+@CCD1:Roger Gray, pres./CEO
+@BODYTEXT:
+@CO:GRAYLING USA
+@BODYTEXT:Part of Grayling Group     
+@BODYTEXT:386 Park Ave. South, New York, NY 10016
+@BODYTEXT:212/686-5300; fax:212/686-7766
+@BODYTEXT:www.grayling.com
+@BODYTEXT:Consumer, corporate, bus.-to-bus. PR, integrated mktg. Employees: 18. Founded: 1939
+@CCD1:Roy R. Bumsted, chmn. & CEO; Leslee Borger, exec. VP; Michael Thomas, Marvin Mack, sr. VPs; Ron Tomczyk, VP
+@BODYTEXT:BBC
+@BODYTEXT:Celerant Consulting
+@BODYTEXT:Harlequin Enterprises: eHarlequin.com; Mira Books; Silhouette Books
+@BODYTEXT:Heineken USA; The Heineken Music Institute
+@BODYTEXT:Maxell Corp. of America
+@BODYTEXT:Quebecor World Inc.
+@BODYTEXT:Radianz
+@BODYTEXT:Schieffelin & Somerset: Dom Perignon; Hennessy Cognac; Moet & Chandon; Tanqueray 10
+@BODYTEXT:Super H
+@BODYTEXT:Wenger/Swiss Army Fragrances
+@BODYTEXT:
+@CO:GREAT EXPECTATIONS
+@BODYTEXT:156 Fifth Ave., #900, New York, NY 10010
+@BODYTEXT:212/627-8611
+@BODYTEXT:Consulting. Founded: 2001.
+@CCD1:Ray Gaulke
+@BODYTEXT:
+@CO:GREEN TARGET GLOBAL GROUP, LLC
+@BODYTEXT:222 North LaSalle, Chicago, IL 60601
+@BODYTEXT:312/252-4100; fax:312/252-4110
+@BODYTEXT:www,greentarget.net
+@BODYTEXT:Corporate, financial, professional services, B-to-B, public affairs, crisis. Employees: 7. Founded: 2004.
+@AGENCY:Agency Statement: GreenTarget Global Group, LLC is a public relations, marketing communications and consulting firm focused on corporate, financial, professional services and B2B organizations.  The firm provides a full array of services from offices in Chicago, New York and San Francisco.
+@CCD1:Daniel J. Reid, CEO, dreid@greentarget.net; John E. Carey, President, jcorey@greentarget.net; Aaron Schoenherr, EVP, aschoenherr@greentarget.net
+@BODYTEXT:Abbott Laboratories
+@BODYTEXT:Anderson
+@BODYTEXT:DLA Piper Gray 
+@BODYTEXT:Dykema Gossett
+@BODYTEXT:Exchange Capital Management
+@BODYTEXT:Foley & Lardner
+@BODYTEXT:Grainger Terry
+@BODYTEXT:
+@CO:GREENE INC./COMMUNICATIONS
+@BODYTEXT:104 South Central Ave., #4, Valley Stream, NY 11580
+@BODYTEXT:516/825-0400; fax:516/825-1425
+@BODYTEXT:General PR, magazine publicity.  Employees: 5. Founded: 1965.
+@CCD1:Howard Greene, pres.; Lorna Greene, VP; Amy Trotta, A/E
+@BODYTEXT:Natural History Magazine
+@BODYTEXT:R&R
+@BODYTEXT:Recall Mail Corp.
+@BODYTEXT:Wendy Evans Joseph Architecture
+@BODYTEXT:Gene Shalit
+@BODYTEXT:Projects: Triangle Services; Popular Photography & Imaging Magazine; Reader’s Digest National Word Power Challenge
+@BODYTEXT:
+@CO:GREENHOUSE COMMUNICATIONS
+@BODYTEXT:303 W. Erie, Ste. 400, Chicago, IL 60610
+@BODYTEXT:312/335-0010; fax:335-9991
+@BODYTEXT:Marketing communications specializing in the health care industry. Founded: 1990
+@CCD1:Sandra M. House, CEO; Tom Hayden, pres.
+@BODYTEXT:
+@CO:GREENOUGH COMMUNICATIONS
+@BODYTEXT:699 Boylston St., 4th flr., Boston, MA 02116
+@BODYTEXT:617/275-6512; fax:617/275-6501; greenough@greenoughcom.com
+@BODYTEXT:www.greenoughcom.co
+@BODYTEXT:Information technology, consumer technology, professional services PR.  Employees: 25. Founded: 1999.
+@AGENCY:Agency Statement: Greenough Communications is an award-winning, independent communications firm focused on the information technology, consumer technology and professional services markets. With offices in Boston and San Francisco, Greenough differentiates itself through its strategic research and planning process, its comprehensive approach to client satisfaction and measurement, its deep experience in financial media relations, its creative approach to business storytelling, and its unique digital communications programs. In its six years of operations, Greenough has established itself as a partner to both public and private companies ranging from established global leaders to the earliest stage startups. Greenough employees have a genuine passion to succeed on its clients’ behalf, as evidenced by the “play to win” attitude that has become Greenough’s hallmark.
+@AGENCY:Greenough’s approach to business communications focuses on building brands through the power of storytelling, the most memorable form of information exchange. Storytelling is not selling but rather a method for presenting information with coherency. The firm crafts tight narratives that are presented within the appropriate context and connected to larger stories and trends. When the stories are rich with facts and relevant content - not puffery and unsubstantiated claims-they resonate with key audiences who then become engaged. When audiences engage, they enter into a two-way relationship with companies. Greenough sees this simple yet elegant form of business storytelling as its most important responsibility to its clients.
+@AGENCY:While the firm recognizes that working with the media to get its clients’ stories retold is essential, Greenough has also developed entirely new techniques to reach other key and influential audiences. The firm’s Digital Communications Group fuses storytelling  techniques with enabling interactive technologies such as webcasts, videography, web-based information resource centers and interactive e-mail campaigns to make stories more resonant, vibrant and memorable.
+@CCD1:Phil Greenough, pres. & founder; Stephanie Casey, VP/managing dir.; Gillian Farquhar, Laureen McGowan, Stacy Mann, Ed Coletti, VPs
+@BODYTEXT:220 Montgomery St.-Suite 1006
+@BODYTEXT:San Francisco, CA 94104
+@BODYTEXT:415-434-3200 x12; fax 415-434-3201
+@CCD1:Helena Kimball, Director (San Francisco Office)
+@BODYTEXT:
+@BODYTEXT:Avaki
+@BODYTEXT:Chadwick Martin Bailey
+@BODYTEXT:Citrix Systems
+@BODYTEXT:Cognio
+@BODYTEXT:Concord 
+@BODYTEXT:Connected
+@BODYTEXT:Digital Innovations
+@BODYTEXT:Egenera
+@BODYTEXT:Epsilon
+@BODYTEXT:Fibertower
+@BODYTEXT:Imprivata
+@BODYTEXT:Intrasystems
+@BODYTEXT:Maps.com
+@BODYTEXT:Molecular
+@BODYTEXT:Netuitive
+@BODYTEXT:RayMarine
+@BODYTEXT:Rogister.com
+@BODYTEXT:Reunion.com
+@BODYTEXT:Shure
+@BODYTEXT:Sonus Networks
+@BODYTEXT:Thermo Electron
+@BODYTEXT:Tricerat
+@BODYTEXT:Unica
+@BODYTEXT:
+@CO:GREGORY COMMUNICATIONS INC.
+@BODYTEXT:27 West Athens Ave., #200, Ardmore, PA 19003
+@BODYTEXT:610/642-8253; fax:610/642-1258
+@BODYTEXT:
+@CCD1:Greg Matusky, pres.
+@BODYTEXT:
+@CO:GRIFFIN & COMPANY, INC.
+@BODYTEXT:1025 Thomas Jefferson St., NW,, #310 East, Washington, DC 20007
+@BODYTEXT:202/625-2515; fax:202/625-2514
+@BODYTEXT:www.griffinco.com
+@BODYTEXT:Marketing Communications for manufacturers,associations and services involved in the building industry. Employees: 13. Founded: 1989.
+@CCD1:Cary B. Griffin, president
+@BODYTEXT:
+@CO:GRIFFIN PUBLIC RELATIONS & MARKETING
+@BODYTEXT:260 Fifth Ave., #600, New York, NY 10001
+@BODYTEXT:212/481-3456, x16; fax:212/684-0606; bgriffin@griffinpr.com
+@BODYTEXT:www.griffinpr.com
+@BODYTEXT:PR and marketing firm.  Founded: 1982.
+@AGENCY:Agency Statement: Founded in 1982, Griffin Public Relations & Marketing is a strategically focused, creatively driven full-service marketing communications agency. Industry experience includes broadcast, consumer electronics, communications, entertainment, education, government, consumer packaged goods, and professional audio-video markets. Services include trade, consumer, and corporate public relations; trade and consumer print advertising; corporate identity; direct marketing; web site design; collateral design; and video production.
+@CCD1:Robert E. Griffin, pres.; Daniel O’Connell, VP; Mary Tiegreen, creative dir.; Noreen Jurkoski, dir. of admin
+@BODYTEXT:Advanced Micro Devices 
+@BODYTEXT:Arri Inc.
+@BODYTEXT:Biamp Systems
+@BODYTEXT:DMX Music
+@BODYTEXT:Eventide
+@BODYTEXT:Fairlight
+@BODYTEXT:Harman Pro Group
+@BODYTEXT:Hitachi America
+@BODYTEXT:Hitachi Interactive Software
+@BODYTEXT:JBL Professional
+@BODYTEXT:Lingo Travel Products
+@BODYTEXT:Middle Atlantic Products
+@BODYTEXT:Mitsubishi Digital Electronics America
+@BODYTEXT:Professional Audio Manufacturers Alliance
+@BODYTEXT:Syntricity Corp.
+@BODYTEXT:Tarantella Software
+@BODYTEXT:Universal Remote Control
+@BODYTEXT:
+@CO:GRIFFITH/STEADMAN & ASSOCIATES
+@BODYTEXT:150 E. Huron St., #908, Chicago, IL 60611
+@BODYTEXT:312/440-9900; fax:312/440-9913; GriffPR@aol.com
+@BODYTEXT:PR firm specializing in travel.
+@CCD1:Richard Griffith, sr. partner; Glynis Steadman, partner
+@BODYTEXT:AHI International Corp.
+@BODYTEXT:Air Canada
+@BODYTEXT:Amberley Castle, U.K.
+@BODYTEXT:Hickory Travel Systems
+@BODYTEXT:Maxxim Tours
+@BODYTEXT:Nubian Nile Cruises
+@BODYTEXT:Paris Sejour Reservations, Inc.
+@BODYTEXT:Province of Ontario Tourism
+@BODYTEXT:Skican Ltd.
+@BODYTEXT:Trabel Plans Int’l
+@BODYTEXT:
+@CO:GRODY ASSOCIATES, MARK
+@BODYTEXT:267 Wild Horse Dr., Palm Desert, CA 92211
+@BODYTEXT:760/674-8012; fax:760/674-8052; mgrody@aol.com
+@BODYTEXT:PR and marketing comms., including corp., crisis comms., healthcare, sports marketing and special events
+@CCD1:Mark S. Grody, president
+@BODYTEXT:GolfGear Int’l
+@BODYTEXT:Law America
+@BODYTEXT:Los Angeles Sports & Entertainment Commission
+@BODYTEXT:Military-Travel.net
+@BODYTEXT:Naturade, Inc.
+@BODYTEXT:
+@CO:GROSSMAN & ASSOCIATES, DAVID
+@BODYTEXT:1144 W. Fulton St., #110, Chicago, IL 60607
+@BODYTEXT:312/829-3252; fax:312/829-3255; dgrossman@yourthoughtpartner.com
+@BODYTEXT:Change mgmt., employee comms., mgmt. consulting, comms. research & media rels. and marketing public relations.  Employees: 8. Founded: 2000.
+@CCD1:David Grossman, principal Thought Partner; Kate Peters, Jessica Leaman, Joe McGehee sr. Thought Partners; Ashley Heaton, Artemis Hiss, Jon Sherman, Kris Zillo, Thought Partners
+@BODYTEXT:Baxter Healthcare
+@BODYTEXT:Cisco Systems
+@BODYTEXT:Country Insur. & Financial Svcs.
+@BODYTEXT:Exelon Corp.
+@BODYTEXT:Faith Popcorn’s BrainReserve
+@BODYTEXT:Lockheed Martin
+@BODYTEXT:McDonald’s Corp.
+@BODYTEXT:Munich Trade Fairs North America
+@BODYTEXT:O, The Oprah Magazine & Oprah’s Personal Growth Summit
+@BODYTEXT:The Museum of Science and Industry
+@BODYTEXT:
+@CO:GROSSMAN PUBLIC RELATIONS COUNSELORS
+@BODYTEXT:1313 Lexington Dr., Yardley, PA 19067
+@BODYTEXT:215/493-4957; fax:215/493-8534; Gpubrel@aol.com
+@BODYTEXT:Strategic marketing and public affairs, crisis comms. for corporations, entrepreneurs, professional services firms. Employees: 2. Founded: 1995.
+@CCD1:Lou Grossman, pres.; Amy Grossman, dir., media relations
+@BODYTEXT:Astrolabe Analytica
+@BODYTEXT:Fineman Krekstein & Harris, P.C.
+@BODYTEXT:Klasko Rulon Stock & Seltzer, LLC
+@BODYTEXT:Lundy Law
+@BODYTEXT:National Disease Research Interchange; Human Biological Data Interchange
+@BODYTEXT:Oxford Valley Chiropractic & Sports Injuries
+@BODYTEXT:Solebury Township, Pa.
+@BODYTEXT:The Network, Inc.
+@BODYTEXT:Time Warner Cable National Division
+@BODYTEXT:
+@CO:GROUNDFLOOR MEDIA
+@BODYTEXT:2025 16th St., Boulder, Co 80302
+@BODYTEXT:303/417-1132
+@BODYTEXT:www.groundfloormedia.com
+@BODYTEXT:
+@AGENCY:Agency Statement: GroundFloor Media is a Boulder, Colorado-based public relations agency.  Founded in April 2001, the agency was named a Colorado "success story" by PR Week.  GFM develops customized public relations and media relations campaigns for clients nationwide across many sectors, including technology, hospitality, healthcare, services and government sectors.  GFM's unique business model has been featured in Entrepreneur, PR Week, PR News, and the Denver Post.
+@CCD1:Laura Love, pres.; John Shors, vp; Dave Webb, Wendy Artman, Tracey Zeeck, sr. pr. mgrs.; Anjie Meyer, pr mgr.
+
+@BODYTEXT:America On the Move
+@BODYTEXT:Conceptions Women's Health & Fertility Specialists
+@BODYTEXT:Coors
+@BODYTEXT:CENTRIX Financial
+@BODYTEXT:Menopause the Musical
+@BODYTEXT:MX Logic
+@BODYTEXT:Special Olympics
+@BODYTEXT:Portus Funds
+@BODYTEXT:StarTek
+@BODYTEXT:Wild Divine
+@BODYTEXT:
+@CO:GRUBMAN PUBLIC RELATIONS, LIZZIE
+@BODYTEXT:270 Lafayette St., #504, New York, NY 10012
+@BODYTEXT:212/966-5000; fax:212/966-4277; grubmanpr@aol.com
+@BODYTEXT:www.grubmanpr.com
+@BODYTEXT:Entertainment, beauty, fashion, restaurants, corporate, special events, media & product PR. Employees: 25. Founded: 1997.
+@CCD1:Lizzie Grubman, owner; Brenda Loughery
+@BODYTEXT:9150 Wilshire Blvd., #155, Beverly Hills, CA 90212
+@CCD1:Sabrina Levine, Jessica Meisels, senior publicists
+@BODYTEXT:
+@BODYTEXT:Blue Mountain Wallcoverings
+@BODYTEXT:Bryant Park Hotel
+@BODYTEXT:Chyna Doll Ent.
+@BODYTEXT:Metro Diet
+@BODYTEXT:Patroon
+@BODYTEXT:Pony
+@BODYTEXT:Sessa
+@BODYTEXT:
+@CO:GRUPOUNO PR
+@BODYTEXT:2199 Pance de Leon Blvd,, #500, Coral Gables, FL 33134
+@BODYTEXT:305/448-6111; fax:305/448-5553
+@BODYTEXT:www.pr.grupouno.com
+@BODYTEXT:PR, special events (U.S. & Latin America), media training, crisis management and preparedness training, and marketing.  Employees: 12. Founded: 1985.
+@CCD1:Annabel Beyra, VP
+@BODYTEXT:APC
+@BODYTEXT:Canon
+@BODYTEXT:DHL Latin America
+@BODYTEXT:PalmOne Latin America
+@BODYTEXT:PeopleSoft
+@BODYTEXT:Pioneer Electronics
+@BODYTEXT:
+@CO:GSW WORLDWIDE
+@BODYTEXT:liberating ideas worldwide
+@BODYTEXT:1180 Ave. of the America's, #10th floor, New York, NY 10036
+@BODYTEXT:646-437-4850; fax:646-437-4810; ideats@gsw-w.com
+@BODYTEXT:www.inchord.com
+@BODYTEXT:IR, community/media relations (trade consumer), issues management, crisis comms., executive media training, strategic planning, product promotion, convention meetings/communication, advocacy, and patient education.  Employees: 8. Founded: 1977.
+@AGENCY:Agency Statement: GSW Worldwide is one of the largest privately held healthcare advertising and public relations agencies in the world with offices in Columbus, New York City and London. A subsidiary of inChord Communications Inc., GSW Worldwide provides liberating ideas(TM) that generate new energy around products, build stronger connections with customers and create leadership brands for clients throughout the world. GSW Worldwide was recently selected by Med Ad News, a leading industry publication, as "2004 Agency of the Year."
+@CCD1:John Deats, executive VP; Jennifer Dally, Marc Kaplan, Glenn Silver, VPs
+@BODYTEXT:Adams Cadbury
+@BODYTEXT:Aerocrine, Inc.
+@BODYTEXT:Aspen Institute, The
+@BODYTEXT:Champion Mortgage
+@BODYTEXT:Columbus Children's Hospital
+@BODYTEXT:Eli Lilly and Co. 
+@BODYTEXT:Galderma 
+@BODYTEXT:Hospice of Central Ohio
+@BODYTEXT:Intarcia Therapeutics, Inc.
+@BODYTEXT:KeyCorp
+@BODYTEXT:OhioHealth
+@BODYTEXT:The Memorial Tournament
+@BODYTEXT:Valley Hospital System
+@BODYTEXT:Voyager
+@BODYTEXT:Wyeth Pharma 
+@BODYTEXT:
+@CO:GUERRA DEBERRY COODY
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:122 E. Houston St., San Antonio, TX 78205
+@BODYTEXT:210/223-2772; fax:210/223-1916; asuescun@gdc-co.com
+@BODYTEXT:www.gdc-co.com
+@BODYTEXT:Public affairs, special event planning, video production, media relations, community relations, bus. to bus., crisis communications. Employees: 10.  Founded: 1995.
+@CCD1:Anamaria Suescun-Fast, director of PR; Trish DeBerry, Tess Coody, partners
+@BODYTEXT:Alamosa
+@BODYTEXT:H-E-Butt Grocery Company
+@BODYTEXT:Public Utility Commission of Texas
+@BODYTEXT:Sprint PCS
+@BODYTEXT:Unicare Life & Health Insurance
+@BODYTEXT:Vanguard Health System
+@BODYTEXT:
+@CO:GUTHIN MYERS PUBLIC RELATIONS
+@BODYTEXT:542 Allens Creek Rd., Rochester, NY 14618
+@BODYTEXT:585/256-8040; fax:585/256-8052; daisy@guthinmyers.com
+@BODYTEXT:Association management.  Founded: 1994.
+@CCD1:Daisy Guthin, APR
+@BODYTEXT:
+@CO:GUTHRIE/MAYES & ASSOCIATES, INC.
+@BODYTEXT:Partner in The Worldcom PR Group
+@BODYTEXT:710 W. Main St., Louisville, KY 40202
+@BODYTEXT:502/584-0371; fax:502/584-0207; pr@guthriemayes.com
+@BODYTEXT:General PR.  Employees: 17. Founded: 1977.
+@AGENCY:Agency Statement: Guthrie/Mayes Public Relations understands that the only reason a public relations firm is hired...and stays hired...is its ability to enhance, create or change behaviors in the client's marketplace of products, services, advocacy positions or corporate/institutional citizenry.
+@AGENCY:We've built our practice on an exceptional ability to create and implement planned-by-objective strategic public relations programs that build beliefs that drive behaviors. In doing so, we've been advancing client communications and reputations for more than 28 years.
+@CCD1:John R. Guthrie, chmn./CEO; Clair R. Nichols, sr. VP; Dan Hartlage, Andy Eggers, VPs/acct. group mgrs.; Dan Ison, sr. consultant; Bonnie Hackbarth, sr. counselor; Laura Guetig senior acct. mgr.
+@BODYTEXT:ALLTEL Communications
+@BODYTEXT:American Printing House for the Blind
+@BODYTEXT:Archdiocese of Louisville
+@BODYTEXT:Caritas Health Services
+@BODYTEXT:Jefferson County Medical Society
+@BODYTEXT:Northern Kentucky Sanitation District
+@BODYTEXT:Philip Morris USA, Inc.
+@BODYTEXT:Purdue Pharma L.P.
+@BODYTEXT:Lousiville Regional Airport Authority
+@BODYTEXT:Service Net LLC   
+@BODYTEXT:Spalding University
+@BODYTEXT:The Summit
+@BODYTEXT:Toyota Motor Mfg., Indiana; Kentucky; West Virginia; No. America
+@BODYTEXT:Toyota Motor Sales, U.S.A.
+@BODYTEXT:
+@CO:GW ASSOCIATES
+@BODYTEXT:702 S. Beech St., Syracuse, NY 13210
+@BODYTEXT:315/476-3396; fax:603/590-8273; pwirth@accucom.net
+@BODYTEXT:Media firm specializing media consulting, PR, media training.
+@CCD1:Peter Wirth, owner
+@BODYTEXT:
+@CO:GYMR, LLC (GETTING YOUR MESSAGE RIGHT)
+@BODYTEXT:1825 Connecticut Ave., N.W., #300, Washington, DC 20009
+@BODYTEXT:202/745-5100; fax:202/234-6159
+@BODYTEXT:www.gymr.com
+@BODYTEXT:PR for healthcare, associations, federal agencies, corporations, issues management.  Employees: 17. Founded: 1998.
+@AGENCY:Agency Statement: GYMR is a Washington, D.C. public relations agency that provides health/healthcare clients with strategic communications that capitalize on the dynamics unique to Washington. GYMR’s unique strength is the background of its team - government, advocacy, associations, foundations, corporations and nonproft organizations - who together are able to execute strategies that include image and alliance building, public education campaigns or media relations to harness the formidable forces of Washington and produce successful results for clients. The agency has counseled a wide range of clients, including trade associations, health voluntary organizations, coalitions, foundations, corporations, federal and state agencies and nonprofit groups.
+@CCD1:Pattie Yu, Patrick J. McCabe, Sharon M. Reis, partners; Karen Waller, senior VP; Katherine Gray, Becky  Watt Knight, VPs; Jill Lobiner, Rives Hotra, Betsy Murrett, managing supervisors; Amy Lange, Jenifer Cobb, account supervisors; Mike Warner, senior A/E; Courtney Rees, Jessica Rowlands, Laura Morrill, A/Es; Fairley McCaskill client services; Andrea Holmes office mgr
+@BODYTEXT:Advertising Council (Obesity campaign)
+@BODYTEXT:American College of Neuropsychopharmacology
+@BODYTEXT:American Legacy Foundation
+@BODYTEXT:American Psychiatric Assn.
+@BODYTEXT:Anxiety Disorder Assn. of America
+@BODYTEXT:Bristol-Myers Squibb
+@BODYTEXT:George Washington Univ.
+@BODYTEXT:Heart Rythm Society
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:National Business Group on Health
+@BODYTEXT:National Institutes of Health
+@BODYTEXT:National Sleep Foundation
+@BODYTEXT:Robert Wood Johnson Foundation
+@BODYTEXT:Vision Council of America
+@BODYTEXT:

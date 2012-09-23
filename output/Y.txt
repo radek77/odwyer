@@ -1,0 +1,136 @@
+@BREAKER:Y
+
+@CO:YAEGER PUBLIC RELATIONS
+@BODYTEXT:1020 Warburton Ave., Yonkers, NY 10701
+@BODYTEXT:914/423-7972; fax:914/423-1623; fredyaeger@aol.com
+@BODYTEXT:yaegerpr.com
+@BODYTEXT:Healthcare, business/finance, environmental,legal and consumer PR.  Employees: 5. Founded: 1997.
+@AGENCY:Agency Statement: Yaeger Public Relations is a full-service public relations firm that delivers cutting-edge communication strategies. We specialize in publicity, media relations, crisis management, advertising and web design to help our clients thrive in a competitive marketplace. Our company is dedicated to developing long-term strategic client relationships. We devote ourselves to knowing our clients' business in-depth and provide increasing value to the client through our strong publicity and industry contacts. Media placement includes major New York and national newspapers, local and national television networks and affiliates, news wire services, national magazines and professional trade journals.
+@CCD1:Fred Yaeger, president; David Caruba, Stephen Gardiner, Helen Foster, VPs
+@BODYTEXT:A Family Urology Practice
+@BODYTEXT:Atlantic Richfield/British Petroleum
+@BODYTEXT:City and Suburban Federal Savings Bank
+@BODYTEXT:Hudson Valley Hyperbarics
+@BODYTEXT:Morris Heights Health Center
+@BODYTEXT:National Council on Alcoholism and Drug Dependence (Westchester)
+@BODYTEXT:New York Eye and Ear Infirmary
+@BODYTEXT:Our Lady of Mercy Medical Center
+@BODYTEXT:Receivable Management Services (RMS) 
+@BODYTEXT:Saint Luke's Roosevelt Hospital Center (Neurology)
+@BODYTEXT:Plancher Hand and Sports Medicine
+@BODYTEXT:Soundview HealthCare Network
+@BODYTEXT:The Sheward Partnership
+@BODYTEXT:Trinitas Hospital
+@BODYTEXT:Lawrence C. Newman M.D./Brad Schoenfeld, personal trainer/Henry M. Spinelli, M.D/Cecile C. Weich, attorney
+@BODYTEXT:
+@CO:YC PUBLIC RELATIONS
+@BODYTEXT:15 West 26th St., 12th flr., New York, NY 10010
+@BODYTEXT:212/609-5009; fax:212/684-0059
+@BODYTEXT:Food and beverage PR.
+@CCD1:Caitlin Connelly, Kimberly Yorio, partners
+@BODYTEXT:Chronicle Books
+@BODYTEXT:Good Enough to Eat
+@BODYTEXT:Good Housekeeping Cookbooks
+@BODYTEXT:Hyperion
+@BODYTEXT:Jamie Oliver
+@BODYTEXT:
+@CO:YEARICK -MILLEA
+@BODYTEXT:100 First Ave., #525, Pittsburgh, PA 15222
+@BODYTEXT:412/323-9320; fax:412/323-9334; info@yearick-millea.com
+@BODYTEXT:Full-service comms., adv. & PR firm.
+@CCD1:@CCD2 = Ralph Yearick, pres.; John Millea, Connie Kovolenko, VPs
+@BODYTEXT:Hardwood Council
+@BODYTEXT:Heraeus Electro-Nite
+@BODYTEXT:PPG Inc. Architectural Finishes Div.
+@BODYTEXT:
+@CO:YECIES ASSOCIATES, INC.
+@BODYTEXT:227 West 17th St., New York, NY 10011
+@BODYTEXT:212/727-1239; fax:212/727-1923; yecies@aol.com
+@BODYTEXT:Public relations/brand building. Founded: 1985.
+@AGENCY:Agency Statement: Building Businesses Through Building Brands. Yecies Associates believes all products and services must be strong brands to succeed in today’s competitive selling environment. That’s how market leaders are determined. We are top-notch strategists and problem-solvers. We know the impact of good positioning and differentiation. We know how to build innovation and importance into a product or service. Our experience and expertise in launching new products, polishing mature brands and avoiding the commodization trap have captured customers and impacted our clients’ bottom lines with great success. In short, we know how to get products off the shelves and into the hands of consumers and create customer value in services. Yecies Associates’ originality, creativity and dedication are our hallmarks. Our success with clients and the media are our strongest recommendations.
+@AGENCY:We are BRAND BUILDERS.
+@CCD1:Susan Yecies, Lauryn Franzoni, Deborah Ashin
+@BODYTEXT:Berenter Greenhouse & Webster
+@BODYTEXT:Carvel
+@BODYTEXT:CMA-CGM
+@BODYTEXT:ellesse
+@BODYTEXT:National Hydrogen Assn.
+@BODYTEXT:Viktor Schrekengost Properties
+@BODYTEXT:
+@CO:YESAWICH, PEPPERDINE, BROWN & RUSSELL
+@BODYTEXT:423 S. Keller Rd., #100, Orlando, FL 32810
+@BODYTEXT:407/838-1799; fax:407/875-1115; rod_caborn@ypbr.com
+@BODYTEXT:www.ypbr.com
+@BODYTEXT:Employees: 19. Founded: 1983.
+@AGENCY:Agency Statement: Yesawich, Pepperdine, Brown & Russell (YPB&R) is one of the largest advertising and public relations firms in the United States specializing in travel-related industries including tourism, lodging and hospitality and travel products and services.
+@AGENCY:YPB&R Public Relations services travel clients ranging from destinations to leisure products that serve travelers. These include national and privately funded cooperative tourist promotion offices, hotel and resort chains, individual hoteliers, travel trade associations, Internet travel marketers, cruise travel operations and marketers specializing in global travel.
+@AGENCY:Clients are located in the United States, Mexico, the Caribbean, South America and Europe.
+@AGENCY:YPB&R Public Relations develops and implements total PR packages, including planning, preparation and distribution of press information (releases, alerts, press kits), video publicity programs, publicity graphic management, special events and focus events, press conferences, organized press tours, crisis communications, issues management and consumer and trade promotions.
+@CCD1:Peter Yesawich, chairman and & CEO; Rod Caborn, Exec. VP, PR; Kathy Hernandez, Sr. VP, PR; Mary Jane Kolassa, Sr. VP, PR; Will Wellons, VP, PR.
+@BODYTEXT:American Assn. for Nude Recreation, Kissimmee FL
+@BODYTEXT:American Orient Express, Downers Grove, IL
+@BODYTEXT:American West Steamboat Company, Seattle WA
+@BODYTEXT:Aruba Marriott Resort, Aruba
+@BODYTEXT:CaribbeanWay, Montreal, Quebec
+@BODYTEXT:The Residences at Cabes Point, St. Thomas, U.S. Virgin Islands
+@BODYTEXT:Colorado Tourism Office, Colorado Springs, Colo.
+@BODYTEXT:Cozumel Tourist Assn., Cozumel, Mexico
+@BODYTEXT:The David Green Organization, Chicago, IL 
+@BODYTEXT:Dolly Parton's Dixie Stampede, Orlando, Florida
+@BODYTEXT:Dream Catcher, Greenwood Village, Colo.
+@BODYTEXT:Fairmont Hotels, Hamilton Bermuda
+@BODYTEXT:First Resort Software, Kissimmee, FL
+@BODYTEXT:JMC Communities, St. Petersburg, FL
+@BODYTEXT:Marriott Vacation Club International (national), Orlando, FL
+@BODYTEXT:Oceans Resorts, Daytona Beach, FL
+@BODYTEXT:Ocean Waters Development, Daytona Beach, FL
+@BODYTEXT:Panama City Beach Convention/Visitors Bureau, Panama City Bch., FL
+@BODYTEXT:The Regent Spa and Residences, Winter Park, FL
+@BODYTEXT:RIDA Development, Inc., Houston, TX
+@BODYTEXT:Ripley Entertainment (North America), Orlando, FL
+@BODYTEXT:St. Kitts Marriott Resort, St. Kitts
+@BODYTEXT:TimeShareWare, Kaysville, Utah
+@BODYTEXT:
+@CO:YOKEN & COMPANY
+@BODYTEXT:3 Lily Pond Place, Chappaqua, NY 10514
+@BODYTEXT:914/238-9414
+@BODYTEXT:Business, consumer product PR. Founded: 1982
+@CCD1:Deborah K. Yoken, pres.
+@BODYTEXT:
+@CO:YOUNG & ASSOCIATES, INC.
+@BODYTEXT:20 Courthouse Sq., #215, Rockville, MD 20850
+@BODYTEXT:301/309-9404; fax:301/309-1804
+@BODYTEXT:www.yapr.com
+@BODYTEXT:Marketing and media. Employees: 7. Founded: 1982.
+@CCD1:Jean Young, pres.; Jennifer MacLeid, VP
+@BODYTEXT:Data-Basics
+@BODYTEXT:Information Systems Marketing (ISM)
+@BODYTEXT:Peopleclick
+@BODYTEXT:Super Pages.com
+@BODYTEXT:Verizon Information Services
+@BODYTEXT:
+@CO:YOUNG & ROEHR GROUP
+@BODYTEXT:808 SW Third Ave., #700, Portland, OR 97204
+@BODYTEXT:503/222-0626; fax:503/222-0154
+@BODYTEXT:www.young-roehr.com
+@BODYTEXT:Strategic planning, comms. consulting, adv. bus.-to-business PR. Founded: 1968
+@CCD1:Brian Mounts, mng. partner
+@BODYTEXT:Boise Cascade Papers
+@BODYTEXT:Cadence PCB Systems
+@BODYTEXT:Electric Lightwave
+@BODYTEXT:Oregon Public Broadcasting
+@BODYTEXT:Standard Insurance
+@BODYTEXT:
+@CO:YOUR PR DEPARTMENT, LLC
+@BODYTEXT:406 Farmington Ave., Farmington, CT 06032
+@BODYTEXT:860/676-7777; fax:860/371-3818; info@yourprdepartment.com
+@BODYTEXT:www.yourprdepartment.com
+@BODYTEXT:Strategic PR, media rels., issue advocacy. Founded: 2000.
+@CCD1:Ron Dresner, president
+@BODYTEXT:Barter Business Unlimited
+@BODYTEXT:Empower U, Inc.
+@BODYTEXT:Hartford Business Journal
+@BODYTEXT:ImageWorks
+@BODYTEXT:Lebon Press
+@BODYTEXT:Sam Gjdenson Int’l.
+@BODYTEXT:

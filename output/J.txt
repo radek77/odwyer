@@ -1,0 +1,542 @@
+@BREAKER:J
+
+@CO:J.C. MARKETING ASSOCIATES INC.
+@BODYTEXT:467 Main St., Wakefield, MA 01880
+@BODYTEXT:781/245-7070; fax:781/245-1086
+@BODYTEXT:Consumer, industrial PR. Employees: 5. Founded: 1964
+@CCD1:Ann Hadley, pres.; Jayne D’Onofrio, VP
+@BODYTEXT:Associated Dental Health
+@BODYTEXT:Boston Mutual Life Ins.
+@BODYTEXT:Boyle Insurance
+@BODYTEXT:Davidson Forms
+@BODYTEXT:Everett Savings Bank
+@BODYTEXT:
+@CO:JACKSON JACKSON & WAGNER
+@BODYTEXT:14 Front St., Exeter, NH 03833
+@BODYTEXT:603/778-1220; fax:603/778-0971; iparke@jjwpr
+@BODYTEXT:Behavioral PR & management counsel, strategic planning and implementation, issue anticipation & crisis mgmt., training & facilitation, research & evaluation. Research subsidiary: Dudley Research. Founded: 1956
+@CCD1:Isobel Parke, pres.; Robin Schell, Stacey Smith, senior counselors; John R. Lyday, senior counsel
+@BODYTEXT:
+@CO:JACKSON SPALDING
+@BODYTEXT:400 Colony Square, 1201 Peachtree SL.,, #500, Atlanta, GA 30361
+@BODYTEXT:404/724-2500; fax:404/874-6545; info@jacksonspalding.com
+@BODYTEXT:www.jacksonspalding.com
+@BODYTEXT:Full-service image creation, cultivation and communications for B2B and consumer clients: legal, fin'l svcs., consumer, real estate/engineering, healthcare, not-for-profit, technology. Marketing strategy, corp. ID, launches, media rels. & training, crisis, events, graphic design.  Employees: 33. Founded: 1995.
+@CCD1:Glen O. Jackson, Bolling P. Spalding, principals; Trudy Kremer, Caroline N. Duffy, Patrick J. Hill, Brian J. Brodrick, Gustavo E. Machado, Mark Miller, Gene Crosby, Allyson Park, Trish Nicolas, Tony Wilbert (executive committee and founding partners)
+@BODYTEXT:286 Oconec St., Suite 1-D, Athens, GA 30361
+@BODYTEXT:706/354-0470; fax: 706/354-0920
+@BODYTEXT:
+@BODYTEXT:Allied-Barton Security Services
+@BODYTEXT:Atlanta Bar Assn.
+@BODYTEXT:AXA Financial
+@BODYTEXT:Carter
+@BODYTEXT:Chick-Fil-A Peach Bowl
+@BODYTEXT:Children's Healthcare of Atlanta
+@BODYTEXT:Delta Air Lines
+@BODYTEXT:Georgia Research Alliance
+@BODYTEXT:International Group of Accounting Firms
+@BODYTEXT:Jamestown Properties
+@BODYTEXT:Orkin, Inc.
+@BODYTEXT:Post Properties, Inc.
+@BODYTEXT:Powell, Goldstein, 
+@BODYTEXT:Publix Super Markets, Inc.
+@BODYTEXT:Skanska USA Building
+@BODYTEXT:
+@CO:JACKSON-DAWSON
+@BODYTEXT:2 Task Court, Greenville, SC 29607
+@BODYTEXT:864/272-3000; fax:864/272-3040
+@BODYTEXT:An integrated marketing communications firm offering advertising and PR services.
+@CCD1:John Sullivan, PR director
+@BODYTEXT:
+@CO:JACOBSON ROST
+@BODYTEXT:529 Ontario Ave., PO Box 1027, Sheboygan, WI 53082
+@BODYTEXT:920/458-3541; fax:920/458-9501
+@BODYTEXT:www.jacobsonrost.net
+@BODYTEXT:Full-service mktg. comms. agency providing strategic mktg., PR and advertising, consumer, bus.-to-bus. Employees: 55. Founded: 1957.
+@CCD1:Mary Brophy, director of PR
+@BODYTEXT:Appleton Papers
+@BODYTEXT:BRK Brands/First Alert
+@BODYTEXT:BOSS Snowplows
+@BODYTEXT:Carl Buddig & Co.
+@BODYTEXT:Mercury Marine
+@BODYTEXT:Society Insurance
+@BODYTEXT:
+@CO:JAENICKE MARKETING WORKS
+@BODYTEXT:5536 Broadview N.E., Tacoma, WA 98422
+@BODYTEXT:253/927-5548; fax:253/927-4033; jaenicke@marketingworks.com
+@BODYTEXT:www.marketingworks.com
+@BODYTEXT:PR and advertising for business/consumer.   Founded: 1988.
+@CCD1:Donald Jaenicke, Pres.
+@BODYTEXT:
+@CO:JAFFE COMMUNICATIONS, INC.
+@BODYTEXT:102 Elm St., Suite # 2, Westfield, NJ 07090
+@BODYTEXT:908/233-3355; fax:908/292-1177
+@BODYTEXT:www.jaffecom.com
+@BODYTEXT:Public affairs, creative svcs., corporate comms., website design, gov't affairs, marketing.  Employees: 4. Founded: 2003.
+@CCD1:Jonathan Jaffe, principal
+@BODYTEXT:American Dream Properties
+@BODYTEXT:Atlantic Energy Partners
+@BODYTEXT:Borough of Highland Park
+@BODYTEXT:Educational Testing Services
+@BODYTEXT:Kaplan Cos.
+@BODYTEXT:Lower Passaic Cooperating Parties
+@BODYTEXT:New Jersey Developmental Disabilities Council
+@BODYTEXT:One Christian Voice
+@BODYTEXT:Rockn' Joe Franchise Systems
+@BODYTEXT:Raritan Bay Medical Center
+@BODYTEXT:Viva the Chef Franchise Systems
+@BODYTEXT:
+@CO:JAFFONI & COLLINS INC.
+@BODYTEXT:104 Fifth Ave., New York, NY 10011
+@BODYTEXT:212/835-8500; fax:212/835-8525; info@jcir.com
+@BODYTEXT:Investor relations and strategic business counsel.  Employees: 12. Founded: 1994.
+@CCD1:Joseph N. Jaffoni, David C. Collins, principals; Robert L. Rinderman, Stewart A. Lewack, Richard Land, Karin Oloffson, Purdy Tran, Carol Young, David Jacoby, A/Es
+@BODYTEXT:Back Web Technologies Ltd.
+@BODYTEXT:Ballantyne of Omaha, Inc.
+@BODYTEXT:Beasley Broadcast Group, Inc.
+@BODYTEXT:DG Systems, Inc.
+@BODYTEXT:Ebix, Inc.
+@BODYTEXT:Jaco Electronics
+@BODYTEXT:Mad Catz Interactive Inc.
+@BODYTEXT:Marvel Enterprises Inc.
+@BODYTEXT:Midway Games Inc.
+@BODYTEXT:Multimedia Games, Inc.
+@BODYTEXT:Navigant International, Inc.
+@BODYTEXT:Nexstar Broadcasting Group, Inc.
+@BODYTEXT:Peace Arch Entertainment Group Inc.
+@BODYTEXT:Penn National Gaming, Inc.
+@BODYTEXT:REX Stores Corporation
+@BODYTEXT:SeraCare Life Sciences, Inc.
+@BODYTEXT:Star Gas Partners, L.P.
+@BODYTEXT:Vitran Corp.
+@BODYTEXT:WMS Industries Inc.
+@BODYTEXT:Wave Systems Corp.
+@BODYTEXT:Youbet.com, Inc.
+@BODYTEXT:
+@CO:JAMES & THOMAS, INC.
+@BODYTEXT:6 N397 Corron Rd., Saint Charles, IL 60175
+@BODYTEXT:630/587-9901
+@BODYTEXT:manufacturing/chemical, insurance, recreation.  Founded: 1965.
+@CCD1:William J. Bloch, president
+@BODYTEXT:Car-Buy-Fax
+@BODYTEXT:Chicago Gold, Inc.
+@BODYTEXT:Clyde’s Delicious Donuts
+@BODYTEXT:Community Memorial Hospital
+@BODYTEXT:
+@CO:JAMPOLE COMMUNICATIONS, INC.
+@BODYTEXT:100 Ross St., Pittsburgh, PA 15219
+@BODYTEXT:412/471-2463; fax:412/471-5861; office@jampole.com
+@BODYTEXT:Media relations, branding & identity programs, product publicity, crisis comms./issues mgmt., Internet mktg. and website dev., fin’l comms., employee rels., special events, int’l PR, comms. & spokesperson training, and mktg. materials.  Employees: 9. Founded: 1989.
+@AGENCY:Agency Statement: Jampole Communications creates cost-effective marketing communications programs and campaigns that produce the results our clients want. We help businesses and organizations:
+@AGENCY:o Raise awareness of their name and products/services among target markets
+@AGENCY:o Link their name to a message and set of values
+@AGENCY:o Generate qualified prospects who are ready to act
+@AGENCY:o Sell their products, services or ideas.
+@AGENCY:Our client base includes large corporations, high-technology companies, professional service firms, business associations and nonprofit organizations.
+@CCD1:Marc Jampole, prin.; Kathy M. Stackhouse, VP; Richard Johnson, art director    
+@BODYTEXT:Burt Hill Kosar Rittelmann
+@BODYTEXT:Eckert Seamans
+@BODYTEXT:Kiski School, The
+@BODYTEXT:McCrory & McDowell
+@BODYTEXT:Penn Traffic Company
+@BODYTEXT:Sempra Energy
+@BODYTEXT:YMCA of Greater Pittsburgh 
+@BODYTEXT:
+@CO:JASCULCA/TERMAN AND ASSOCIATES
+@BODYTEXT:730 N. Franklin, #510, Chicago, IL 60610
+@BODYTEXT:312/337-7400; fax:312/337-8189
+@BODYTEXT:www.jtpr.com
+@BODYTEXT:PA, issues/crisis mgmt., events management, PA research, online issues strategy and visual communications. Employees: 60. Founded: 1981.
+@AGENCY:Agency Statement: Jasculca/Terman and Associates is an independent public affairs and strategic communications firm serving clients across the United States. JT serves as a strategic communications partner to corporations, associations, institutions, not-for-profits and government agencies. From our office in Chicago, our staff helps clients meet communications challenges through our core practices in public affairs, event management and visual communications. We also provide interactive communications consulting and issues research and analysis.
+@AGENCY:JT public affairs services include: strategic communication counsel, corporate and institutional positioning, message development, issue management and public awareness campaigns, grassroots outreach and coalition building, media relations, message and media training, crisis planning and management, and development of informational and advocacy materials.
+@AGENCY:Event management services include: strategic event planning, site advance and logistics; invitations, RSVPs, registration; on-site event management; backdrops, materials, signage and other visual elements; transportation planning and management; liaison to outside vendors; and protocol.
+@AGENCY:JT has a full-service visual communications division, which commits itself to providing visually compelling yet sensible solutions for clients in a variety of formats. These include corporate and institutional identity programs, brochures and booklets, posters, issues advertising, newsletters, annual reports, Web sites and CD-ROMs, invitations, signage and other event materials, and exhibits and displays.
+@AGENCY:JT also offers clients specialty services that add breadth and depth to strategic communications campaigns. These include interactive communications consulting consisting of online strategies and tactics, targeted direct email, Internet registration for events and other e-solutions; and the JT Knowledge Center, which provides clients with research and analysis of relevant issues and trends.
+@AGENCY:To learn more about JT, please visit our Web site at www.jtpr.com.
+@CCD1:Richard J. Jasculca, chmn.; James L. Terman, pres.; William C. Strong, Mary Kelley Patrick, exec. VPs/managing directors
+@BODYTEXT:A. Finkl & Sons Co.
+@BODYTEXT:AFL-CIO
+@BODYTEXT:AT&T
+@BODYTEXT:Advocate Health Care
+@BODYTEXT:After School Matters
+@BODYTEXT:Allied Waste
+@BODYTEXT:American Insurance Assn.
+@BODYTEXT:BP
+@BODYTEXT:CNA
+@BODYTEXT:Chicago Cubs
+@BODYTEXT:Chicago Housing Authority
+@BODYTEXT:Chicago Park District
+@BODYTEXT:Children's Memorial Hospital
+@BODYTEXT:Clinton Presidential Foundation
+@BODYTEXT:DeVry, Inc.
+@BODYTEXT:Enbridge Energy Partners
+@BODYTEXT:Equilon
+@BODYTEXT:General Iron Industries
+@BODYTEXT:Illinois Hospital Assn.
+@BODYTEXT:Midwest Generation EME, LLC
+@BODYTEXT:Planned Parenthood
+@BODYTEXT:Safer Foundation
+@BODYTEXT:Surplus Line Assn.
+@BODYTEXT:Veola Water
+@BODYTEXT:
+@CO:JAYRAY ADS & PR
+@BODYTEXT:535 E. Dock Street, #205, Tacoma, WA 98402
+@BODYTEXT:253/627-9128; fax:253/627-6548
+@BODYTEXT:Marketing communications, community relations, issues management. Employees: 11. Founded: 1970.
+@CCD1:Kathleen G. Deakins, VP; Jackie Zils, Kathryn Schwarz, A/Es
+@BODYTEXT:
+@CO:JEFFERSON-WATERMAN INTERNATIONAL
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:1401 K Street, N.W., #400, Washington, DC 20005
+@BODYTEXT:202/216-2200
+@BODYTEXT:www.jwidc.com
+@BODYTEXT:PR, bus.-to-bus., associations/foundations, educational institutions, gov./state agencies, publishing/printing, telecommunications.
+@CCD1:Charlie Waterman, CEO
+@BODYTEXT:
+@CO:JEFFREY COMMUNICATIONS COMPANY
+@BODYTEXT:10500 Northwest Freeway, #110, Houston, TX 77092
+@BODYTEXT:713/956-0948
+@BODYTEXT:www.jeffreycom.com
+@BODYTEXT:Corp./fin’l, bus.-to-bus., high tech, energy, healthcare, nat’l media rels., special events, publicity. Employees: 6. Founded: 1990.
+@CCD1:R. Mitchell Jeffrey Jr., pres.; Angela Jeffrey, prin.
+@BODYTEXT:Adelphia Business Solutions/Houston
+@BODYTEXT:Blue Lance, Inc.
+@BODYTEXT:Granite Properties
+@BODYTEXT:Infosys Development Group
+@BODYTEXT:Petris Technology
+@BODYTEXT:Prism Information
+@BODYTEXT:
+@CO:JEFFREY GROUP, THE
+@BODYTEXT:1111 Lincoln Rd., 8th flr., Miami Beach, FL 33139
+@BODYTEXT:305/860-1000; fax:305/532-2590
+@BODYTEXT:www.thejeffreygroup.com
+@BODYTEXT:Specializing in PR for Latin America; corporate image, mktg., special events, media rels., employee comms., media monitoring, crisis and issues mgmt., strategic planning & counseling; U.S. Hispanic market PR.  Employees: 39. Founded: 1993.
+@AGENCY:Agency Statement: The Jeffrey Group, headquartered in Miami and with offices throughout Latin America, is proud to be managing public relations programs for the world's largest companies and brands in the region. With more than 10 years experience in the market, we've been successful because we're different, known for our agility and responsiveness to our clients' needs. Rather than trying to be all things to all people, we've focused our efforts at being the very best in one particular niche: Latin America. And, we do a great job at it; just ask any of our clients.
+@CCD1:Jeffrey Sharlach, Chairman & CEO; Jorge Ortega, President; Brian Burlingame, COO; Mike Valdes-Fauli, Group Director
+@BODYTEXT:The Jeffrey Group Argentina
+@BODYTEXT:Taleahuano 833 of 8G, Buenos Aires, Argentina
+@BODYTEXT:800/538-9209; 54-11/4813-1130; fax: 4814-5480
+@CCD1:Diego Kaufman, managing director
+@BODYTEXT:The Jeffrey Group Mexico
+@BODYTEXT:Homero 1343, Piso 4, Col. Los Morales-Polanco, Mexico D.F. (52-55) 5281-1121; 800/538-9209; fax: (52-55) 5281-1448
+@CCD1:Lorena Andrade, managing director
+@BODYTEXT:The Jeffrey Group Brazil
+@BODYTEXT:R. JOaquim Floriano, 466 5 cj 508, Itaim Bibi 04534-002 Sao Paulo, Brazil 04534-0002
+@BODYTEXT:+55(11) 2165-1655; fax: 55(11)2165-1656    
+@CCD1:Ediana Balleroni, managing director
+@BODYTEXT:
+@BODYTEXT:(All clients are for Latin American assignments)
+@BODYTEXT:American Express
+@BODYTEXT:Atkins Nutritionals
+@BODYTEXT:British Airways
+@BODYTEXT:Check Point Software
+@BODYTEXT:Discovery Networks
+@BODYTEXT:FedEx
+@BODYTEXT:Kodak
+@BODYTEXT:Sony Ericsson
+@BODYTEXT:Toshiba Americas
+@BODYTEXT:Western Digital
+@BODYTEXT:
+@CO:JENNINGS PR
+@BODYTEXT:104-A North Elliott Rd., Chapel Hill, NC 27514
+@BODYTEXT:919/929-0225; fax:919/968-8278
+@BODYTEXT:www.jenningsco.com
+@BODYTEXT:Advertising, PR, brand consulting, healthcare, high-tech, biotech, telecomms.
+@CCD1:Amy Barefoot, PR director
+@BODYTEXT:
+@CO:JERICHO COMMUNICATIONS
+@BODYTEXT:304 Hudson St., #700, New York, NY 10013
+@BODYTEXT:212/645-6900; fax:212/645-5880
+@BODYTEXT:www.jerichopr.com
+@BODYTEXT:Corporate, sports, entertainment, publishing PR, food and retail fashion PR. Founded: 1983.
+@CCD1:Eric Yaverbaum, partner/president; Jonathan Sawyer, partner; Ian Madover, partner/creative director; Michelle Frankfort, partner/senior VP; Greg Mowery, VP-publishing div.; MaryAnn Palumbo, VP
+@BODYTEXT:DiMassimo Brand Advertising
+@BODYTEXT:EMI Music
+@BODYTEXT:Earthgrains
+@BODYTEXT:Financial Services Roundtable
+@BODYTEXT:H&M
+@BODYTEXT:Hain Celestial Foods
+@BODYTEXT:Hay Adams Hotel
+@BODYTEXT:IDG Books
+@BODYTEXT:Ikea Home Furnishings (Domestic and Global)
+@BODYTEXT:Jose Cuervo
+@BODYTEXT:Ken "Dr. Fad" Hakuta
+@BODYTEXT:Kidsvote 2004
+@BODYTEXT:Lady July Crackers
+@BODYTEXT:Lexar Media
+@BODYTEXT:Lugz
+@BODYTEXT:Marantz America
+@BODYTEXT:Papa Johns
+@BODYTEXT:Parmalat USA Corp.
+@BODYTEXT:Pepperidge Farm
+@BODYTEXT:Pere Partnership
+@BODYTEXT:Progressive
+@BODYTEXT:Promotion Sports
+@BODYTEXT:Proview CE
+@BODYTEXT:Replay TV
+@BODYTEXT:Showtime Networks Inc.
+@BODYTEXT:Sony Electronics
+@BODYTEXT:TCBY
+@BODYTEXT:Toshiba America Inc.
+@BODYTEXT:Transperfect Translations
+@BODYTEXT:Tri-Star Pictures
+@BODYTEXT:Universal Drug Store
+@BODYTEXT:Worthwhile Magazine
+@BODYTEXT:
+@CO:JMB COMMUNICATIONS
+@BODYTEXT:P.O. Box 1812, Plymouth, MA 02362
+@BODYTEXT:508/830-3456
+@BODYTEXT:www.jmbcommunications.com
+@BODYTEXT:PR, comms. and marketing counsel to technology, fin'l, healthcare and hospitality businesses; web content, news releases, white papers, customer testimonials, case studies, backgrounders; marketing collateral. Founded: 1990.
+@CCD1:I.S. Berger, chair; Jeffrey M. Berger, pres., founder and CEO
+@BODYTEXT:
+@CO:JMC MARKETING COMMUNICATIONS AND PR
+@BODYTEXT:Member, Public Relations Global Network
+@BODYTEXT:10 Pearl St., Kingston, NY 12401
+@BODYTEXT:845/331-1200; info@mallen.com
+@BODYTEXT:Full-service marketing communications and PR firm; integrated communications services.  Founded: 1987.
+@CCD1:John Mallen, president
+@BODYTEXT:
+@CO:JMPR PUBLIC RELATIONS, INC.
+@BODYTEXT:5850 Canoga Ave., #300, Woodland Hills, CA 91367
+@BODYTEXT:818/992-4353; fax:818/992-0543
+@BODYTEXT:Automotive, luxury lifestyle PR. Employees: 10. Founded: 1977.
+@CCD1:Joseph Molina, pres.; Soon Nguyen, A/S
+@BODYTEXT:Automobili Lamborghini
+@BODYTEXT:Bombardier Recreational Products
+@BODYTEXT:Boyd Gaming Corp.
+@BODYTEXT:Carroll Shelby International Inc.
+@BODYTEXT:Discovery Channel
+@BODYTEXT:Meguiars
+@BODYTEXT:Petersen Automotive Museum
+@BODYTEXT:RM Auctions
+@BODYTEXT:
+@CO:JOELE FRANK, WILKINSON BRIMMER KATCHER
+@BODYTEXT:140 East 45th St., 37th flr., New York, NY 10017
+@BODYTEXT:212/355-4449; fax:212/355-4554
+@BODYTEXT:www.joelefrank.com
+@BODYTEXT:Financial and corporate communications: IR, media relations, crisis comms., special situations, M&A, proxy contests, restructurings, bankruptcies, litigation support, corporate positioning.  Founded: 2000.
+@AGENCY:Agency Statement: Joele Frank, Wilkinson Brimmer Katcher  provides excellent, effective and accountable communications counsel and support to corporations. Our firm is a private partnership that works with companies and their advisors for the purpose of advancing our clients’ business and strategic objectives using financial communications, corporate public relations, investor relations, and transaction and crisis communications. Our clients include both large, global, public corporations as well as smaller, private enterprises in nearly every industry, from long-established industrial and service sectors to new emerging technologies.
+@CCD1:Joele Frank, Judith Wilkinson, Andrew Brimmer, Daniel Katcher, Eden Abrahams, Barrett Golden, Matthew Sherman, partners
+@BODYTEXT:
+@CO:JOHNS & PARTNERS LTD., WILLIAM B.
+@BODYTEXT:Public Relations and Advertising
+@BODYTEXT:220 East 23rd St., #301, New York, NY 10010
+@BODYTEXT:212/889-3580; fax:212/779-8347
+@BODYTEXT:
+@CCD1:William B. Johns, president
+@BODYTEXT:
+@CO:JOHNSON & CO., RICK
+@BODYTEXT:P.O. Box 4770, Albuquerque, NM 87196
+@BODYTEXT:505/266-1100; fax:505/262-0525
+@BODYTEXT:www.rjc.com
+@BODYTEXT:
+@CCD1:Rick Johnson, chmn.; Deborah U. Johnson, pres.
+@BODYTEXT:
+@CO:JOHNSTON ASSOCIATES, MARK
+@BODYTEXT:131 Court Street, Plymouth, MA 02360
+@BODYTEXT:508/747-1832; fax:508/747- 1024
+@BODYTEXT:PR and advertising for associations, constuction/building, food, retail, travel/hotels/airlines.  Founded: 1980.
+@CCD1:Mark Johnston, David Kindy, principals
+@BODYTEXT:Boston Globe/Globe South
+@BODYTEXT:Captain John Boats
+@BODYTEXT:Holy Cross Family Ministries
+@BODYTEXT:Ocean Spray Cranberries, Inc.
+@BODYTEXT:Welch’s
+@BODYTEXT:
+@CO:JOHNSTONWELLS PUBLIC RELATIONS
+@BODYTEXT:Member of IPREX
+@BODYTEXT:1512 Larimer St., #700, Denver, CO 80202
+@BODYTEXT:303/623-3366; fax:303/623-7915
+@BODYTEXT:www.johnstonwells.com
+@BODYTEXT:PR, bus.-to-bus., consumer mktg., community rels., crisis mgmt., empl. comms., media rels., E-commerce, PA and special events for: healthcare, consumer products, fin’l svcs., food/beverage, emerging technologies, real estate, telecommunications, professional services.  Employees: 20. Founded: 1971.
+@AGENCY:Agency Statement: With more than 30 years of experience, JohnstonWells offers clients honest, thoughtful counsel on how to build their reputation, their brand and their business. The firm delivers award-winning public relations programs with passion and creativity; servicing clients in numerous industries including real estate, technology, healthcare, corporate and consumer relations. JohnstonWells offers expertise in media relations, crisis communication and strategy development.
+@CCD1:Gwinavere Johnston, CEO; Robert Threlkeld, principle; GG Johnston, president/COO; Ann Dickerson, Kirsten Ritter, Christina Bowen, Audrey Port, Mike Adams, senior counselors
+@BODYTEXT:AORN, Assn. of Perioperative Registered Nurses
+@BODYTEXT:Barker Rinker Seacat Architects
+@BODYTEXT:Borigen Solutions
+@BODYTEXT:Dreyer's Grand Ice Cream
+@BODYTEXT:H & L Architecture
+@BODYTEXT:McStain Neighborhoods
+@BODYTEXT:Mile High United Way
+@BODYTEXT:PPL Montana
+@BODYTEXT:Qwest Comms.
+@BODYTEXT:Regional Air Quality Council
+@BODYTEXT:
+@CO:JOINT INITIATIVES
+@BODYTEXT:222 S. Commerce, Wichita, KS 67202
+@BODYTEXT:316/263-1029
+@BODYTEXT:PR and advertising: business/consumer services, fast food/restaurants, food. Founded: 1979.
+@CCD1:Robert S. Lida, president
+@BODYTEXT:First National Bank
+@BODYTEXT:Galicia Heart Hospital
+@BODYTEXT:
+@CO:JONES COMMUNICATIONS, NANCY SCOTT
+@BODYTEXT:120 W. Mistletoe, #200, San Antonio, TX 78212
+@BODYTEXT:210/222-1615; fax:210/222-1807
+@BODYTEXT:www.nsjpr.com
+@BODYTEXT:General consultation, issues mgmt., mktg., media rels., strategic planning, special events. Founded: 1981. Employees: 8
+@CCD1:Nancy Scott Jones, pres. & sr. couns.
+@BODYTEXT:
+@CO:JORDAN ASSOCIATES
+@BODYTEXT:P.O. Box 14005, Oklahoma City, OK 73113
+@BODYTEXT:405/840-3201; fax:405/840-8149
+@BODYTEXT:www.jordanet.com
+@BODYTEXT:Founded: 1961.
+@CCD1:Jeanette Gamba, pres./CEO
+@BODYTEXT:American Dental Assn.
+@BODYTEXT:Blue Cross/Blue Shield of Okla.
+@BODYTEXT:Cain’s Coffee
+@BODYTEXT:Kraft Foods
+@BODYTEXT:Oklahoma Dept. of Commerce
+@BODYTEXT:
+@CO:JORDAN GROUP, THE
+@BODYTEXT:4725 Long Ferry Road, Salisbury, NC 28146
+@BODYTEXT:704/642-0404; fax:704/642-0058
+@BODYTEXT:www.adpragency.com
+@BODYTEXT:Marketing, advertising, PR
+@CCD1:Patricia Jordan, president
+@BODYTEXT:Boegh Building Systems
+@BODYTEXT:Brick Trade Assn.
+@BODYTEXT:Foster Industries
+@BODYTEXT:General Shale Brick
+@BODYTEXT:Intergum North America
+@BODYTEXT:K&W Cafeterias
+@BODYTEXT:
+@CO:JOSELL COMMUNICATIONS, INC.
+@BODYTEXT:185 West End Ave., #22B/C, New York, NY 10023
+@BODYTEXT:212/877-5560; fax:212/877-6254
+@BODYTEXT:Specializing in representation to the adv., video and film, music and entertainment related fields.  Employees: 3. Founded: 1981.
+@CCD1:Jessica Josell, president
+@BODYTEXT:Fluid
+@BODYTEXT:HSR/NY
+@BODYTEXT:Interface Media Group
+@BODYTEXT:Uvphactory
+@BODYTEXT:Wechsler Group
+@BODYTEXT:Zero2Sixty
+@BODYTEXT:Zona Design
+@BODYTEXT:
+@CO:JPM-MARKETING COMMUNICATION INC.
+@BODYTEXT:10325 10th Ave. Circle, Bloomington, MN 55420
+@BODYTEXT:952/881-4464; fax:952/881-3393; jim@jpm-mc.com
+@BODYTEXT:www.jpm-mc.com
+@BODYTEXT:Planning adv. and PR firm: specializes in aerospace/defense, commercial/general aviation, medical devices, products & svcs.
+@CCD1:Jim Moore, CEO
+@BODYTEXT:Bioenergy
+@BODYTEXT:BRS Pueblo Airmotive
+@BODYTEXT:Cirrus Design
+@BODYTEXT:Excorp Medical
+@BODYTEXT:OMF Aircraft
+@BODYTEXT:
+@CO:JPR COMMUNICATIONS
+@BODYTEXT:17525 Ventura Blvd., #303, Encino, CA 91316
+@BODYTEXT:818/386-0403; fax:818/386-0940; info@jprcom.com
+@BODYTEXT:www.jprcom.com
+@BODYTEXT:High-technology firm specializing in storage and networking.
+@CCD1:Judy Smith, Joe Austin
+@BODYTEXT:
+@CO:JS2 COMMUNICATIONS
+@BODYTEXT:661 N. Harper Ave., #208, Los Angeles, CA 90048
+@BODYTEXT:323/866-0880; fax:323/866-0881
+@BODYTEXT:www.js2comm.com
+@BODYTEXT:General public relations.  Employees: 12. Founded: 2001.
+@CCD1:Jeff Smith, CEO; Jill Sandin, pres.; Gail Sturrock, office manager; Rebecca Hutchinson, Director; Carl Larsen, senior acct. exe.; Jennifer Petro, acct. sup.; Amanda White, acct. exec.; KaiChin Chang, acct. coord.; Andrew Reynolds, acct. coord.; Anthony Head, staff head.
+@BODYTEXT:41 E. 11th St., 11th Fl., New York, NY 10003
+@CCD1:Jennifer Lolli, general mang. & VP
+@BODYTEXT:
+@BODYTEXT:25 Degrees Restaurant
+@BODYTEXT:808 Restaurant
+@BODYTEXT:ArcLight Cinemas
+@BODYTEXT:Belux
+@BODYTEXT:Bradley Ogden at Caesar's Palace, Las Vegas
+@BODYTEXT:Ca Boom
+@BODYTEXT:Caesar's Entertainment
+@BODYTEXT:Central
+@BODYTEXT:Dakota Restaurant
+@BODYTEXT:Elixir
+@BODYTEXT:Grace Restaurant
+@BODYTEXT:Grano Restaurant, II
+@BODYTEXT:Hotel Casa Del Mar
+@BODYTEXT:Kraiko Diamonds
+@BODYTEXT:Maggiano's
+@BODYTEXT:Maggiano's Woodland Hills
+@BODYTEXT:Mesa Grill
+@BODYTEXT:Meson G Restaurant
+@BODYTEXT:Noe at The Omni Hotel
+@BODYTEXT:Omni Houston Hotel
+@BODYTEXT:Pacific Theatres Entertainment Corp.
+@BODYTEXT:Segway Los Angelos
+@BODYTEXT:Sharon Lawrence
+@BODYTEXT:Shutters on the Beach
+@BODYTEXT:Terrazza Restaurant
+@BODYTEXT:The Coffee Bean & Tea Leaf
+@BODYTEXT:The Wonder of Reading
+@BODYTEXT:TLC (Discovery Networks)
+@BODYTEXT:Vitale Restaurant
+@BODYTEXT:
+@CO:JSH&A, LTD.
+@BODYTEXT:2 TransAm Plaza Drive., #450, Oakbrook Terrace, IL 60181
+@BODYTEXT:630/932-4242; fax:630/932-1418; pr@jsha.com
+@BODYTEXT:Lifestyle PR; brand positioning, consumer marketing, corporate comms., bus.-to-bus., special events, cause-related, issues and crisis mgmt. and media training.  Employees: 12. Founded: 1989.
+@AGENCY:Agency Statement: JSH&A’s award-winning campaigns make news and noise for its blue-chip client base including Allied Van Lines, Jim Beam Brands, Dremel, Enesco, Hershey's, McDonald’s and Midas.
+@AGENCY:Known for its lifestyle marketing approach, the agency excels at brand-building strategies that launch or reposition product and corporate brands. From launching a new vodka, to a cross-country tour targeting tween girls, to celebrating the 25th anniversary of McDonald's Happy Meal, JSH&A designs and implements unique, lifestyle strategies that involve target audiences and build relationships.
+@AGENCY:Winners of the PRSA Silver Anvil and the CIPRA award, JSH&A was also named as one of the top boutique agencies in the country by PR Week.
+@CCD1:Jonni Hegenderfer, pres.; Jim Kokoris, partner & exec. VP; Laura McGowan, SVP.; Laura Dihel, VP.
+@BODYTEXT:Allied Van Lines
+@BODYTEXT:Clarke Mosquito Control
+@BODYTEXT:Dremel
+@BODYTEXT:Enesco Corp.
+@BODYTEXT:Hershey's
+@BODYTEXT:Jim Beam Brands
+@BODYTEXT:McDonald’s Corp.
+@BODYTEXT:Midas
+@BODYTEXT:
+@CO:JSO LTD.
+@BODYTEXT:20577 No. 94th Place, Scottsdale, AZ 85255
+@BODYTEXT:480/419-7797; fax:480/419-8772
+@BODYTEXT:PR and marketing; publicity, media rels., special events, internal company comms., mktg./adv. consultation for restaurants, hotels and upscale retail. Founded: 1995.
+@CCD1:Jean S. Oksner, principal
+@BODYTEXT:
+@CO:JUHL MARKETING COMMUNICATIONS
+@BODYTEXT:Unit of Juhl Advertising Agency
+@BODYTEXT:401 E. Colfax Ave., #100, South Bend, IN 46617
+@BODYTEXT:574/472-0472; fax:574/472-5358
+@BODYTEXT:www.juhlcommunications.com
+@BODYTEXT:General PR counsel and implementation. Employees: 8 in PR
+@CCD1:Chris Blackwood, pres.; Howard Blackwood, chmn.
+@BODYTEXT:
+@CO:JULIAN STEVENS COMMUNICATIONS, INC.
+@BODYTEXT:900 Cummings Center, #218-U, Beverly, MA 01915
+@BODYTEXT:978/524-7800; fax:978/524-0799
+@BODYTEXT:Firm specializes in adv., PR, direct mktg.
+@CCD1:Julian Taylor, president; Patrick Porter, VP, PR
+@BODYTEXT:Hope Williams, A/E
+@BODYTEXT:
+@CO:JUSTICE & YOUNG PR
+@BODYTEXT:6925 Valley Ave., #200, Cincinnati, OH 45244
+@BODYTEXT:513/388-4706; rodger@jypublicrelations.com
+@BODYTEXT:www.jypublicrelations.com
+@BODYTEXT:Full-service integrated marketing firm; sales promotion, publicity, strategic marketing, adv., e-commerce, PR. Founded: 1997
+@CCD1:Rodger Roeser, VP
+@BODYTEXT:AcuPoll
+@BODYTEXT:Appearance Plus
+@BODYTEXT:Colour FX
+@BODYTEXT:Graeter's Ice Cream
+@BODYTEXT:MSSwain Carpets
+@BODYTEXT:Plastic Surgery Group
+@BODYTEXT:SFM Insurance
+@BODYTEXT:White Castle
+@BODYTEXT:
+@CO:JWALCHER COMMUNICATIONS
+@BODYTEXT:4015 Ibis St., ste. B, San Deigo, CA 92103
+@BODYTEXT:619/295-7140
+@BODYTEXT:www.jwalcher.com
+@BODYTEXT:PR firm specializing in local & national media rels., community rels., media training and special events for industries such as consumer prods., professional svcs., hospitality, sports/entertainment, non-profit and health/fitness.
+@CCD1:Jean Walcher, president
+@BODYTEXT:Aqua Lung/Aqua Shere
+@BODYTEXT:Bazaar del Mundo
+@BODYTEXT:EFI Sports Medicine/Total Gym
+@BODYTEXT:Satellite Security Systems
+@BODYTEXT:YachtFest San Diego
+@BODYTEXT:Zagrodnik + Thomas Architects
+@BODYTEXT:

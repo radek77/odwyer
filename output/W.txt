@@ -1,0 +1,1540 @@
+@BREAKER:W
+
+@CO:WADE COMMUNICATIONS LLC, CLARE
+@BODYTEXT:60 College Ave., N.E., Grand Rapids, MI 49503
+@BODYTEXT:616/458-7421; fax:616/458-7463
+@BODYTEXT:PR counsel, strategic planning, media rels., employee comms.  Employees: 1. Founded: 1999.
+@CCD1:Clare Wade, principal
+@BODYTEXT:Alticor Inc.
+@BODYTEXT:izzydesign
+@BODYTEXT:Sligh Furniture Co.
+@BODYTEXT:
+@CO:WAGGENER EDSTROM, INC.
+@BODYTEXT:225 108th Ave., N.E., #700, Bellevue, WA 98004
+@BODYTEXT:425/638-7000; fax:425/638-7001
+@BODYTEXT:Specializes in PR for companies that bring new inventions, discoveries and ideas to market. Employees: 600. Founded: 1983.
+@AGENCY:Agency Statement: Waggener Edstrom provides strategic comms. to companies that bring new inventions, discoveries and ideas to market. In simple terms, the company works tenaciously to give its clients’ complex ideas a powerful voice to reach a variety of audiences.
+@AGENCY:Founded in 1983 with the philosophy of delivering strategic comms. that help solve customers' business problems, Waggener Edstrom is one of the largest independent PR firms in the world. With deep roots in the high-technology sector, the firm today also maintains dedicated practices in bioscience and healthcare, public affairs, consumer marketing, and corporate comms. Worldwide offices enable Waggener Edstrom to serve clients on a global scale. Maloney & Fox, a NY-based consumer marketing agency, is a wholly owned subsidiary of Waggener Edstrom.
+@AGENCY:The agency has nearly 600 employees. Its U.S. headquarters are in Seattle, and its European headquarters are in London. The agency also has offices in Austin, Texas; Boston; Dallas; Munich, Germany; the New York metro area; Paris; Portland, Ore.; San Bruno, Calif.; and Washington, D.C. In addition, Waggener Edstrom staff members conduct business from Los Angeles.
+@AGENCY:Waggener Edstrom partners with innovative clients, including Advanced Micro Devices (AMD), Connexion by Boeing, Corixa Corp., Fred Hutchinson Cancer Research Center, Kyocera Mita America, MasterCard International, Microsoft Corp., Texas Instruments and T-Mobile USA.
+@CCD1:Melissa Waggener Zorkin, pres. & CEO; Pam Edstrom, Partner and Exec. VP of Agency Services
+@BODYTEXT:Three Centerpointe Dr., #300, Lake Oswego, OR 97035
+@BODYTEXT:503/443-7000; fax: 503/443-7001
+@CCD1:Rowan Benecke, VP;
+@BODYTEXT:Three Stamford Plaza, 301 Tresser Blvd., #1315, Stamford, CT 06901
+@BODYTEXT:203/353-7000; fax: 203/353-7001
+@CCD1:Annette Nemetz, Sr. VP
+@BODYTEXT:1050 Connecticut Avenue, NW, 10th fl., Washington, D.C. 20036
+@BODYTEXT:202/772-4276; fax: 202/772-3301
+@CCD1:Torod Neptune, Sr. VP
+@BODYTEXT:225 108th Ave., NE, #700, Bellevue, WA 98004-5737
+@BODYTEXT:425/638-7000; fax: 425/638-7001
+@CCD1:Rowan Benecke, VP
+@BODYTEXT:221 W. Sixth Street, #1030, Austin, TX 78701
+@BODYTEXT:512/527-7000; fax: 512/527-7001
+@CCD1:John Taylor, Sr. VP
+@BODYTEXT:1111 Bay Hill Dr., #245, San Bruno, CA 94066
+@BODYTEXT:650/266-7000; fax: 650/266-7001
+@CCD1:Debra Raine, General Manager
+@BODYTEXT:275 Grove St., #2-400, Newton, MA 02466
+@BODYTEXT:617/663-5711; fax: 617/663-5371
+@CCD1:Annette Nemetz, Sr. VP
+@BODYTEXT:Descartes House, 1st fl., 8 Gate St., London WC2A 3HP, U.K.
+@BODYTEXT:44-207 269-4770; fax: 44-207 269-4771
+@CCD1:Paul Abrahams, Sr. VP
+@BODYTEXT:Rosenheimer Str. 145e, D-81671 Munich, Germany
+@BODYTEXT:4989 628-1750; fax: 4989 628-17511
+@CCD1:Shawn Wootton, General Manager
+@BODYTEXT:15 bis, rue de Marignan, 75008 Paris, France
+@BODYTEXT:33-1 5643 2030; fax: 33-1 4075 0948
+@CCD1:Geraldine Teboul, general manager
+@BODYTEXT:
+@BODYTEXT:Advanced Micro Devices Inc. (AMD)
+@BODYTEXT:Affymetrix
+@BODYTEXT:Austin City Limits
+@BODYTEXT:Autism Treatment Network
+@BODYTEXT:AVI BioPharma Inc.
+@BODYTEXT:Capital Sports & Entertainment: Lance Armstrong
+@BODYTEXT:Check Point Software Technologies
+@BODYTEXT:ClearCommerce
+@BODYTEXT:Connexion by Boeing
+@BODYTEXT:Corixa Corp.
+@BODYTEXT:Deal Informatique
+@BODYTEXT:DynaSys
+@BODYTEXT:Financial Services Roundtable
+@BODYTEXT:Fred Hutchinson Cancer Research Center
+@BODYTEXT:GE Healthcare
+@BODYTEXT:Genentech
+@BODYTEXT:Guidant
+@BODYTEXT:Hummingbird
+@BODYTEXT:iAnywhere
+@BODYTEXT:Invivodata Inc.
+@BODYTEXT:Kyocera Mita America
+@BODYTEXT:LANDesk
+@BODYTEXT:MasterCard International
+@BODYTEXT:Microsoft Corp.
+@BODYTEXT:Microsoft SPOT
+@BODYTEXT:Motion Computing Inc.
+@BODYTEXT:MSN
+@BODYTEXT:National Forum of Science Learning
+@BODYTEXT:OutlookSoft Corp.
+@BODYTEXT:Philips
+@BODYTEXT:Pointsec
+@BODYTEXT:ScanSoft
+@BODYTEXT:Spansion
+@BODYTEXT:StubHub
+@BODYTEXT:Technology Access Foundation
+@BODYTEXT:Texas Instruments
+@BODYTEXT:The Texas Nanotechnology Initiative
+@BODYTEXT:ThomasNet
+@BODYTEXT:T-Mobile USA
+@BODYTEXT:Tripos Inc.
+@BODYTEXT:Universal Electronics Inc.
+@BODYTEXT:Vignette Corp.
+@BODYTEXT:
+@CO:WAGGNER EDSTROM
+@BODYTEXT:Part of Waggner Esdtrom, USA
+@BODYTEXT:, Paris
+@BODYTEXT:
+@BODYTEXT:
+@CO:WALEK & ASSOCIATES
+@BODYTEXT:6 East 39th St., #500, New York, NY 10016
+@BODYTEXT:212/889-4113; fax:212/889-7174; tom@walek.com
+@BODYTEXT:www.walek.com
+@BODYTEXT:Financial comms., corporate comms., fin’l technology, bus.-to-bus., IR, research and consulting.  Employees: 8. Founded: 1999.
+@AGENCY:Agency Statement: Walek & Associates is an independent public relations and marketing communications consultancy serving financial, business-to-business, corporate and publicly held clients in the US and internationally. Specialty practice groups include: Global Capital, Financial Technology and Professional Services.
+@CCD1:Thomas Walek, president; Armel Leslie, Brian Hickey, David Rosen
+@BODYTEXT:AIG Financial Products
+@BODYTEXT:Alternative Investment Mgmt. Assn. (AIMA)
+@BODYTEXT:Amber Alert Consortium
+@BODYTEXT:Asset Alliance Corp.
+@BODYTEXT:Broadview Intl.
+@BODYTEXT:Converging Technologies Bar Assn.
+@BODYTEXT:Dow Jones Indexes
+@BODYTEXT:GFI Group
+@BODYTEXT:Intralinks
+@BODYTEXT:Jefferies & Co.
+@BODYTEXT:Man Investments
+@BODYTEXT:McDermott, Will & Emery
+@BODYTEXT:Mellon HBV
+@BODYTEXT:Nauta Ditilh
+@BODYTEXT:Outblaze
+@BODYTEXT:Parker Global Strategies
+@BODYTEXT:Paulson & Co.
+@BODYTEXT:Tannenbaum Helpern Syracuse & Hirschtritt
+@BODYTEXT:The Reserve Funds
+@BODYTEXT:
+@CO:WALKER & ASSOCIATES, INC.
+@BODYTEXT:5100 Poplar Ave., Memphis, TN 38137
+@BODYTEXT:901/522-1100; fax:901/522-1101
+@BODYTEXT:www.walker-assoc.com
+@BODYTEXT:Advertising, marketing, PR and research. Employees: 20. Founded: 1966
+@CCD1:Ceil Norris, CEO
+@BODYTEXT:American Heart Assn.
+@BODYTEXT:Greenscape
+@BODYTEXT:Parent Project, The
+@BODYTEXT:Simmons First
+@BODYTEXT:Smith & Nephew
+@BODYTEXT:
+@CO:WALKER AGENCY MARKETING COMMUNS.
+@BODYTEXT:15855 N. Greenway-Hayden Loop, #160, Scottsdale, AZ 85260
+@BODYTEXT:480/483-0185; fax:480/948-3113
+@BODYTEXT:www.walkeragency.com
+@BODYTEXT:Hi-tech, packaged goods, special events, sports PR.  Employees: 9. Founded: 1982.
+@CCD1:Mike Walker, pres.
+@BODYTEXT:Big Rock Sports
+@BODYTEXT:CCS Multimedia Systems
+@BODYTEXT:Iridium N.A. Satellite Phones
+@BODYTEXT:Magellan GPS Systems
+@BODYTEXT:Safari Club Int’l
+@BODYTEXT:
+@CO:WALKER MARCHANT GROUP, THE
+@BODYTEXT:1050 17th St., N.W., #1200, Washington, DC 20036
+@BODYTEXT:202/466-6040
+@BODYTEXT:www.walkermarchant.com
+@BODYTEXT:Boutique agency, specializing in corporate comms., issue mgmt., litigation comms.
+@CCD1:Ann Walker Marchant
+@BODYTEXT:
+@CO:WALL STREET COMMUNICATIONS
+@BODYTEXT:350 South 400 E., #203, Salt Lake City, UT 84111
+@BODYTEXT:801/533-2669; fax:801/533-0054; cles@wallstreetcom.tv
+@BODYTEXT:PR, adv., corp. image, sales, web site. Founded: 1996.
+@CCD1:Chris Lesieutre
+@BODYTEXT:DNF Controls
+@BODYTEXT:Encoda Systems
+@BODYTEXT:Fast Foward Video
+@BODYTEXT:SAN Solutions
+@BODYTEXT:Scenic Wonders
+@BODYTEXT:Vela
+@BODYTEXT:
+@CO:WALL STREET GROUP, INC., THE
+@BODYTEXT:32 East 57th St., New York, NY 10022
+@BODYTEXT:212/888-4848; rstabiner@thewallstreetgroup.com
+@BODYTEXT:Financial PR. Founded: 1959
+@CCD1:Donald Kirsch, pres.; Ronald Stabiner, VP
+@BODYTEXT:
+@CO:WALLS COMMUNICATIONS, INC.
+@BODYTEXT:8484 Georgia Ave., #510, Silver Spring, MD 20910
+@BODYTEXT:301/588-1993; fax:301/588-1997; lwalls@wallscomm.com
+@BODYTEXT:Multicultural/diversity public relations; telecomms.; banking; crisis comms.; and radio broadcast services. Employees: 12. Founded: 1993.
+@CCD1:Lon G. Walls, pres./CEO; Bob Ellison, sr. VP/media rels.; Carol Randolph, sr. VP/legal affrs.; Edythe Daniels, VP, adv.; Marvin Wamble, VP, creative strategies; Derrick Kenny, dir., audio svcs.; Joan Davion, dir., opers./finance
+@BODYTEXT:Bank of America
+@BODYTEXT:Coca-Cola
+@BODYTEXT:Denny’s Restaurants
+@BODYTEXT:Freddie Mac
+@BODYTEXT:Miller & Long Concrete Construction
+@BODYTEXT:NAACP
+@BODYTEXT:National Urban League
+@BODYTEXT:National Council on Disability
+@BODYTEXT:U.S. Army
+@BODYTEXT:
+@CO:WALLWORK CURRY MCKENNA
+@BODYTEXT:10 City Square, 5th Floor, Charlestown, MA 02129
+@BODYTEXT:617/266-8200
+@BODYTEXT:www.wcm-partners.com
+@BODYTEXT:Full service marketing communications company. Founded: 1947.
+@CCD1:Rick McKenna, pres.; Bob Curry/ Jack Wallwork, mng. dir./exec. creative dir.
+@BODYTEXT:Domain
+@BODYTEXT:Executive Auto Glass
+@BODYTEXT:SunLife of Canada
+@BODYTEXT:Steinway & Sons
+@BODYTEXT:
+@CO:WALSH COMMUNICATIONS, INC.
+@BODYTEXT:500 Fifth Ave., #1010, New York, NY 10110
+@BODYTEXT:212/221-4612; fax:212/840-1663; info@walshcom.com
+@BODYTEXT:Strategic media relations and marketing communications for professional service organizations and technology businesses. Employees: 3. Founded: 1995.
+@CCD1:Jerome Walsh, pres.
+@BODYTEXT:BDO Seidman LLP
+@BODYTEXT:Battalia Winston
+@BODYTEXT:Bishop Partners
+@BODYTEXT:FatWire Software
+@BODYTEXT:IntraLinks
+@BODYTEXT:Predictive Systems
+@BODYTEXT:
+@CO:WALSH PUBLIC RELATIONS, LLC
+@BODYTEXT:50 Church Lane, Westport, CT 06880
+@BODYTEXT:203/227-5676; fax:203/227-5674; greg@walshpr.com
+@BODYTEXT:www.walshpr.com
+@BODYTEXT:PR, consumer products, children’s entertainment, licensing and electronics. Founded: 1997.
+@CCD1:Gregory S. Walsh, president; Nicole M. Hayes, A/E; Jared Stagg, junior A/E
+@BODYTEXT:Dragonfly Publishing, Inc., Character Matters
+@BODYTEXT:Oregon Scientific, Inc., Vida Games, Prodijeux Inc.
+@BODYTEXT:R&R Games, Inc.
+@BODYTEXT:Slylock Fox and Comics for Kids
+@BODYTEXT:Spy Alley Partners LLP
+@BODYTEXT:Ziggy & Friends, Inc., This Blue Holiday
+@BODYTEXT:
+@CO:WALT & COMPANY COMMUNICATIONS, INC.
+@BODYTEXT:2700 Augustine Dr., #200, Santa Clara, CA 95054
+@BODYTEXT:408/496-0900; fax:408/496-2978; info@walt.com
+@BODYTEXT:www.walt.com
+@BODYTEXT:
+@AGENCY:Agency Statement: Founded in 1991, Walt & Company is an independent, full-service strategic public relations firm that builds marketplace value for consumer electronics, financial service and high-tech companies. The firm’s approach combines technical expertise and industry knowledge with personal integrity and innovative thinking. Partnering with companies ranging from start-ups to industry-leading multinational corporations, Walt & Company’s team of seasoned PR professionals develops and flawlessly executes high-impact, cost-effective public relations programs to  help clients achieve their business objectives.
+@CCD1:nnieRobert Walt, president; Skip Bushee, Jeannie Gustlin, exec. VPs; George Millington, senior VP
+@BODYTEXT:Barracuda Networks
+@BODYTEXT:Content Circuit
+@BODYTEXT:Epson America
+@BODYTEXT:Internet Mainstreet
+@BODYTEXT:Kerio Technologies
+@BODYTEXT:Kurant
+@BODYTEXT:Nano Chip
+@BODYTEXT:National Assn. for Variable Annuities
+@BODYTEXT:National Retirement Planning Coalition
+@BODYTEXT:Ninth House
+@BODYTEXT:Ronald McDonald House at Stanford
+@BODYTEXT:Roxio
+@BODYTEXT:SSH Communications Security
+@BODYTEXT:Sonic Solutions
+@BODYTEXT:The EARN Group
+@BODYTEXT:
+@CO:WALTZ & ASSOCIATES BUSINESS & COMMUNICATIONS COUNSEL, SAM
+@BODYTEXT:Independent, Philidelphia/ Delaware Valley Affiliate of Manning Selvage and Lee
+@BODYTEXT:Greenville USPS Drawer 3798, 3920 Kennett Pike, Greenville Station, Wilmington, DE 19807
+@BODYTEXT:302/777-4774; fax:302/777-4775; SamWaltz@SamWaltz.com
+@BODYTEXT:www.SamWaltz.com, www.AtlanticLeadership.com
+@BODYTEXT:Strategic national firm, based in the Delaware Valley/ Philidelphia area of the Mid-Atlantic, with Silver Anvil award winning competency in Research & Strategic Planning, Integrated Marketing Communications, and Public Affairs Reputation & Relationship Management.
+@AGENCY:Agency Statement: Founded in 1993, Sam Waltz & Associates Councel, Wilmington (DE) and Philadelphia, is a leading national strategic boutique counseling firm in Public Affairs Reputation Management & Relationship Management headed by a former national CEO and board chair of the Public Relations Society of America(PRSA). Sam Waltz, 57, an early retired DuPont Company senior exec. is a Vietnam-era veteran of US Army Counterintelligence. His firm won PRSA's Silver Anvil For Public Affairs in 2000.
+@CCD1:Sam Waltz, Founder & CEO
+@BODYTEXT:APS Healthcare
+@BODYTEXT:Delaware Solid Waste Authority
+@BODYTEXT:DuPont Company
+@BODYTEXT:General Chemical/Gen Tek
+@BODYTEXT:Lyondell Chemical
+@BODYTEXT:New Castle County (DE)
+@BODYTEXT:TCIM Services
+@BODYTEXT:
+@CO:WARD & ASSOCIATES, BUMBLE
+@BODYTEXT:8383 Wilshire Blvd., #102-50, Beverly Hills, CA 90211
+@BODYTEXT:
+@CCD1:Bumble Ward
+@BODYTEXT:
+@CO:WARD CREATIVE COMMUNICATIONS
+@BODYTEXT:Member, Public Relations Organisation Int’l
+@BODYTEXT:PO BOX 239, Bellaire, TX 77402
+@BODYTEXT:713/869-0707
+@BODYTEXT:www.wardcc.com
+@BODYTEXT:Marketing comms. and PR, bus.-to-bus. and consumer; corp. comms., media rels., events, graphic design.  Employees: 5. Founded: 1990.
+@CCD1:Deborah Ward Buks, pres./CEO
+@BODYTEXT:Goodman Manufacturing
+@BODYTEXT:Hilton Americas Houston
+@BODYTEXT:Mitsubishi Caterpillar Forklift America Inc.
+@BODYTEXT:Precision Energy Services
+@BODYTEXT:Paragon
+@BODYTEXT:Quicksilver Resources
+@BODYTEXT:Satellite Logistics
+@BODYTEXT:Tellepsen Builders
+@BODYTEXT:
+@CO:WARDER COMMUNICATIONS
+@BODYTEXT:160 Turn Again Lane, P.O. Box 776, Tryon, NC 28782
+@BODYTEXT:828/859-6651
+@BODYTEXT:Comms. training for media and satellite interviews, media tours, press conferences and presentations. Founded: 1982  
+@CCD1:Margaret A. Warder, prin.
+@BODYTEXT:
+@CO:WARNER COMMUNICATIONS
+@BODYTEXT:41 Raymond Ave., Manchester-by-the-Sea, MA 01944
+@BODYTEXT:978/526-1960; fax:978/526-8206; carin@warnerpr.com
+@BODYTEXT:www.warnerpr.com
+@BODYTEXT:Full-service marketing co. Specializes in PR, adv., direct mktg., e-marketing & design.
+@CCD1:Carin Warner, president
+@BODYTEXT:Fairfield Farm Kitchens
+@BODYTEXT:HBN Shoe, Inc.
+@BODYTEXT:Insolia
+@BODYTEXT:Microlife USA
+@BODYTEXT:
+@CO:WARSCHAWSKI PUBLIC RELATIONS (WPR)
+@BODYTEXT:1501 Sulgrave Ave., #350, Baltimore, MD 21209
+@BODYTEXT:410/367-2700; fax:410/367-2400
+@BODYTEXT:www.warschawski.com
+@BODYTEXT:Full-service PR agency. Founded: 1996
+@CCD1:David Warschawski, pres./founder
+@BODYTEXT:Bartech Systems
+@BODYTEXT:Hair Cuttery, The
+@BODYTEXT:Under Armour Performance Apparel
+@BODYTEXT:Wartsila
+@BODYTEXT:Washington DC 2012 Olympic Bid Coalition
+@BODYTEXT:
+@CO:WASHINGTON PUBLIC RELATIONS COMPANY
+@BODYTEXT:2102 Dayton Street, Silver Spring, MD 20902
+@BODYTEXT:301/649-6565; fax:301/649-6593
+@BODYTEXT:Full-service PR firm specializing in non-profit orgs. Founded: 1985.
+@CCD1:Mary Beth Newkumet, president
+@BODYTEXT:Vietnam Women’s Memorial Project
+@BODYTEXT:
+@CO:WASHINGTON WORLD GROUP LTD.
+@BODYTEXT:2120 L St., NW, #101, Washington, DC 20037
+@BODYTEXT:202/463-7820; fax:202/223-3794; info@washingtonworldgroup.com
+@BODYTEXT:PR, media rels., lobbying, trade, investment, tourism promotion, fund-raising. Founded: 1981.
+@CCD1:Edward J. von Kloberg III, chairman
+@BODYTEXT:Client: India
+@BODYTEXT:
+@CO:WAXWORDS INCORPORATED
+@BODYTEXT:105 Maxess Rd., #S124, Melville, NY 11747
+@BODYTEXT:631/574-4433; fax:631/574-4434; Info@waxwordsinc.com
+@BODYTEXT:www.waxwordsinc.com
+@BODYTEXT:General professional services PR, retaurant, food, wine and beer, lodging and tourism. Employees: 1. Founded: 2005.
+@AGENCY:Agency Statement: Founded by vetern Newsday reporter/editor Alan J. Wax, whose award winning carrer in Journalism has spanned more than 30 years, WaxWords Inc. is a full-service public relations firm. We offer skilled professional writing, broad and deep knowledge of the industries we serve and the communities in which we work, and unparalleled contacts in the media on Long Island, in New York City, and around the entire country.
+@CCD1:Alan J. Wax, pres
+@BODYTEXT:
+@CO:WEBB PATTERSON COMMUNICATIONS
+@BODYTEXT:112 West Parrish St., Durham, NC 27701
+@BODYTEXT:919/680-6111; fax:919/680-6141
+@BODYTEXT:Strategic mktg. firm. Specializes in brand positioning, integrated comms., strategic planning, research, PR, radio & television.
+@CCD1:James G. Patterson, chmn./CEO
+@BODYTEXT:
+@CO:WEBB PUBLIC RELATIONS, PETER, DBA WEBB PR
+@BODYTEXT:6025 S. Quebec St., #360, Centennial, CO 80111
+@BODYTEXT:303/796-8888; fax:303/796-0440
+@BODYTEXT:www.pwpr.com
+@BODYTEXT:Strategic communication counsel, community relations, media rels., product launches, sports and special events, crisis mgmt., issues mgmt. Employees: 10. Founded: 1988.
+@AGENCY:Agency Statement: Webb PR is built on trust and huge results for clients. A passionate staff of 10 lives by  the words,..."Accessible,"... “Hard Hitting,”... "Tenacious,"... "Real." These values, coupled with core competencies of PR knowledge, strategy, reputation and a very media savvy crew, make up the chemistry that is Webb PR. All account staff have previously been working members of the media. Media relations make up approximately 45% of the firm’s workload. Community outreach campaigns make up another 30%, with issues management, product and corporate communications support rounding out the mix.
+@CCD1:Peter J. Webb, Ginny Williams, principals; Kris Staaf, director, client svcs.
+@BODYTEXT:AngloGold NA
+@BODYTEXT:Brassica Protection Products LLC
+@BODYTEXT:City of Lone Tree
+@BODYTEXT:Colorado PERA
+@BODYTEXT:Cricket Wireless Communications
+@BODYTEXT:Foothills Park & Recreation District
+@BODYTEXT:Frontier Airlines
+@BODYTEXT:Hill & Robbius P.C.
+@BODYTEXT:North Jeffco Park & Recreation District
+@BODYTEXT:Pikes Peak International Raceway
+@BODYTEXT:Pinnacol Assurance
+@BODYTEXT:Safeway, Inc.
+@BODYTEXT:Suncor Energy USA
+@BODYTEXT:South Suburban Park & Recreation District
+@BODYTEXT:University of Colorado Foundation
+@BODYTEXT:
+@CO:WEBER SHANDWICK
+@BODYTEXT:Subsidiary of the Interpublic Group of Companies
+@BODYTEXT:640 Fifth Ave., New York, NY 10019
+@BODYTEXT:212/445-8000; fax:212/445-8001
+@BODYTEXT:www.webershandwick.com
+@BODYTEXT:Specialties include: biotechnology, bus.-to-bus., consumer mktg., corporate, crisis mgmt., entertainment & sports mktg., fin'l comms., fin'l svcs. mktg., global strategic media group, gov't rels., healthcare, internal comms., issues & advocacy adv., litigation support, media & presentation training, multicultural comms., PA, research, scientific comms., technology, travel, visual comms., web rels. and youth mktg.   Founded: 1974.
+@AGENCY:Agency Statement: Weber Shandwick, a unit of The Interpublic Group of Companies (NYSE: IPG), is one of the world’s leading public relations agencies, with offices in major media, business and government capitals around the world. Weber Shandwick is a leader in marketing public relations, public affairs and corporate communications counseling, and also provides services in advocacy advertising, market research and visual communications. Find out more at www.webershandwick.com.
+@AGENCY:The Interpublic Group of Companies is among the world’s largest advertising and marketing services organizations.
+@CCD1:Harris Diamond, CEO (hdiamond@webershandwick.com); Jack Leslie, chairman (jleslie@webershandwick.com; Andy Polansky, president (apolansky@webershandwick.com; Jill Murphy, chief business development officer (jmurphy@webershandwick.com
+@BODYTEXT:<U>UNITED STATES:</U>
+@BODYTEXT:101 Main St., Cambridge, MA 02142
+@BODYTEXT:617/661-7900; fax: 617/661-0024; mspring@webershandwick.com
+@CCD1:Micho Spring, chairperson, New England; Jamie Parker, head of Eastern region technology practice & pres., technology group-Boston (jparker@webershandwick.com)
+@BODYTEXT:1010 Hull St., #100, Baltimore, MD 21230-5300
+@BODYTEXT:410/558-2100; fax: 410/558-2188; kokeefe@webershandwick.com
+@CCD1:Kevin O’Keefe, president, Baltimore
+@BODYTEXT:One Buckhead Plaza, 3060 Peachtree Rd., N.W., #520, Atlanta, GA 30305
+@BODYTEXT:404/266-7555; fax: 404/231-1085; ehartman@webershandwick.com
+@CCD1:Ellen Hartman, president, Atlanta
+@BODYTEXT:676 North St. Clair, #1000, Chicago, IL 60611
+@BODYTEXT:312/988-2400; fax: 312/988-2363; ccalhoun@webershandwick.com
+@CCD1:Cathy Calhoun, president, Chicago
+@BODYTEXT:555 Washington Ave., St. Louis, MO 63101
+@BODYTEXT:314/552-6722; fax: 314/231-8808; mabel@webershandwick.com
+@CCD1:Marc Abel, sr. VP, St. Louis
+@BODYTEXT:360 W. Maples Rd., Birmingham, MI 48009
+@BODYTEXT:248/269-3121; fax: 248/667-4965; sstein@webershandwick.com
+@CCD1:Stan Stein, exec. VP, Detroit
+@BODYTEXT:8687 Melrose Ave., 7th flr., Los Angeles, CA 90069
+@BODYTEXT:310/203-0550; fax: 310/203-0551; aazarloza@webershandwick.com
+@CCD1:Armando Azarloza, exec. VP, Los Angeles
+@BODYTEXT:440 Pacific Ave., San Francisco, CA 94133
+@BODYTEXT:415/248-3400; fax: 415/248-3401
+@BODYTEXT:150 Mathilda Place, #106, Sunnyvale, CA 94086
+@BODYTEXT:408/559-6090; fax: 408/559-6188
+@CCD1:Tim Marklein, exec. VP & gen. manager, North California
+@BODYTEXT:605 5th Ave. S., #900, Seattle, WA 98104
+@BODYTEXT:425/452-5400; fax: 425/452-5380; csheldon@webershandwick.com
+@CCD1:Casey Sheldon, president, global technology practice and Weber Shandwick Northwest
+@BODYTEXT:519 SW Third Ave., #600, Portland OR 97204
+@BODYTEXT:503/552-3720; fax: 503/552-3721;
+@BODYTEXT:drodgers@webershandwick.com
+@CCD1:Dean Rodgers, sr. VP/general manager, Portland
+@BODYTEXT:700 Lavaca St., #1505, Austin, TX 78701
+@BODYTEXT:512/794-4715; fax: 512/794-6380; gwise@webershandwick.com
+@CCD1:Gregory Wise, VP, Austin
+@BODYTEXT:6555 Sierra Dr., Irving, TX 75039
+@BODYTEXT:972/830-9911; fax: 972/868-7671; kluce@webershandwick.com
+@CCD1:Ken Luce, president, Southwest
+@BODYTEXT:8000 Norman Center Dr., #400, Bloomington, MN 55437
+@BODYTEXT:952/832-5000; fax: 952/831-8241; sgavin@webershandwick.com
+@CCD1:Sara Gavin, president, Minneapolis
+@BODYTEXT:Powell Tate | Weber Shandwick
+@BODYTEXT:700 13th St., N.W., Washington, DC 20005
+@BODYTEXT:202/585-2737; fax: 202/585-2777; rcooper@webershandwick.com
+@CCD1:Ranny Cooper, pres. & COO, Weber Shandwick Public Affairs
+@BODYTEXT:Rowan Blewitt | Weber Shandwick
+@BODYTEXT:13454 Sunrise Valley Dr., #100, Herndon, VA 20171
+@BODYTEXT:703/234-4426; fax: 703/234-4420; blewitt@blewitt.com
+@CCD1:Richard Blewitt, president, Rowan Blewitt | Weber Shandwick
+@BODYTEXT:SawyerMiller Advertising
+@BODYTEXT:700 13th St., N.W., #800, Washington, DC 20005
+@BODYTEXT:202/585-2800; fax: 202/783-4647; tryan@sawyermiller.com
+@CCD1:Tim Ryan, VP/managing director, Sawyer Miller Advertising
+@BODYTEXT:Sawyer Miller Advertising
+@BODYTEXT:640 Fifth Ave., New York, NY 10019
+@BODYTEXT:212/445-8200; fax: 212/373-6201;
+@BODYTEXT:sarmstrong@sawyermiller.com
+@CCD1:Susan Armstrong, chief creative officer
+@BODYTEXT:Sawyer Miller Advertising
+@BODYTEXT:676 N. St. Clair, 11th flr., Chicago, IL 60611
+@BODYTEXT:312/988-2076; fax: 312/988-2290; jyardley@sawyermiller.com
+@CCD1:Jim Yardley, sr. VP, group director, Sawyer Miller Advertising
+@BODYTEXT:<U>CANADA:</U>
+@BODYTEXT:540 5th Ave. S.W., #930, Calgary, Alberta 
+@BODYTEXT:403/294-9592; fax: 403/294-9593;
+@BODYTEXT:lfalkowsky@webershandwick.com
+@CCD1:Lisa Falkowsky, VP, Calgary
+@BODYTEXT:207 Queen’s Quay West, #400, Toronto, Ontario
+@BODYTEXT:416/964-6444; fax: 416/964-8411;
+@BODYTEXT:vbriant@webershandwick.com
+@CCD1:Veronique Briant, exec. VP & gen. manager, Toronto
+@BODYTEXT:275 Slater St., #2003, Ottawa, Ontario
+@BODYTEXT:613/230-2220; fax: 613/230-3874; tault@webershandwick.com
+@CCD1:Trish Ault, exec. VP/gen. mgr., Eastern Canada
+@BODYTEXT:10th flr., 900 W. Hastings St., Vancouver, BC 
+@BODYTEXT:604/681-7575; fax: 604/681-2411; dsitek@webershandwick.com
+@CCD1:Dorothy Sitek, associate VP, Vancouver
+@BODYTEXT:1180 Drummond St., Bureau 400, Montreal, Quebec
+@BODYTEXT:418/648-2033; fax: 418/648-8564;
+@BODYTEXT:mgauthier@webershandwick.com
+@CCD1:Manon Gauthier, director
+@BODYTEXT:<U>LATIN AMERICA:</U>
+@BODYTEXT:Nueva Comunicacion|Weber Shandwick
+@BODYTEXT:Esmeralda 288, 5 Piso 1035, Buenos Aires, Argentina
+@BODYTEXT:5411-4326-7828; fax: 5411-4326-0551; mansilla@nuevacom.com.ar
+@CCD1:Cesar Mansilla, managing director, Nueva Comms.|WS
+@BODYTEXT:Nueva Comm.|Weber Shandwick
+@BODYTEXT:Ellauri 1212, CP 11300-Montevidio, Uruguay
+@BODYTEXT:5982 707-9956; fax: 5982 707-9957
+@BODYTEXT:correo@nuevacomunicacion.com.uy
+@CCD1:Veronica Mansilla, account dir., Nueva Comm.|WS
+@BODYTEXT:Nueva Comm.|Weber Shandwick
+@BODYTEXT:Colon 1428-2 Piso, Dptos A y B, S2000BXH Rosario, Santa Fe, Argentina
+@BODYTEXT:54 341 448 1403; fax: 54 341 447-1159
+@BODYTEXT:nuevaros@citynet.net.ar
+@CCD1:Daniel Indorado, director, Nueva Comm.|WS
+@BODYTEXT:<U>EUROPE:</U>
+@BODYTEXT:58 Queens Rd., Aberdeen, AB15 4ZT, Scotland, U.K.
+@BODYTEXT:44 1224 806600; fax: 44 1224 633463;
+@BODYTEXT:jrmacdonald@webershandwick.com
+@CCD1:John Macdonald, director
+@BODYTEXT:9 Lynedoch Crescent, Glasgow, G3 6EQ, Scotland, U.K.
+@BODYTEXT:44 141 333 0557; fax: 44 141 332 7990
+@BODYTEXT:nfarrell@webershandwick.com
+@BODYTEXT:9 York Place, Edinburgh, EH1 3EB, Scotland, U.K.
+@BODYTEXT:44 131 556 6649; fax: 44 131 556 6741
+@CCD1:Nora Farrell, managing director, Scotland
+@BODYTEXT:Fox Court, 14 Gray’s Inn Road, London WC1X 8WS, U.K.
+@BODYTEXT:44 20 7067 0000; fax: 44 870 990 5441;
+@BODYTEXT:cbyrne@webershandwick.com
+@CCD1:Colin Byrne, CEO, U.K. and Ireland
+@BODYTEXT:2 Jordan St., Knott Mill, Manchester M1 54PY, U.K.
+@BODYTEXT:44 161 238 9400; fax: 44 161 228 3076;
+@BODYTEXT:jleah@webershandwick.com
+@CCD1:Jo Leah, mng. director, Manchester
+@BODYTEXT:425 Holywood Rd., BT4 2GU Belfast, U.K.
+@BODYTEXT:44 28 9076 1007; fax: 44 28 9076 1012;
+@BODYTEXT:bboal@webershandwick.com
+@CCD1:Brenda Boal, director
+@BODYTEXT:Avda. Diagonal, 512 bajos, 08006 Barcelona, Spain
+@BODYTEXT:34 93 236 0900; fax: 34 93 236 0922;
+@BODYTEXT:rcoto@webershandwick.com
+@CCD1:Rosa Maria Coto, managing director
+@BODYTEXT:Paseo de la Castellana, 52-7 a planta, E-28046 Madrid, Spain
+@BODYTEXT:34 91 745 8600; fax: 34 91 745 8622;
+@BODYTEXT:mquesada@webershandwick.com
+@CCD1:Miguel Lopez-Quesada, CEO, Spain
+@BODYTEXT:Schonhauser Allee 37, Geb. P 10435 Berlin, Germany
+@BODYTEXT:49 30/20 35 1 0; fax: 49 30/20 35 12 9;
+@BODYTEXT:lherbst@webershandwick.com
+@CCD1:Leopold Herbst, assoc. director
+@BODYTEXT:Infanteriestr. 19, Geb. 4 b, 80797 Munchen, Germany
+@BODYTEXT:49 89/380179 32; fax: 49 89/3801 7922;
+@BODYTEXT:kweise@webershandwick.com
+@CCD1:Klaus Wiese, mng. director, Germany
+@BODYTEXT:ABC-Strasse 1, D-20354 Hamburg, Germany
+@BODYTEXT:49 40/35 74 60 0; fax: 49 40/35 74 60 60;
+@BODYTEXT:hstoffels@webershandwick.com;
+@CCD1:Herbert Stoffels, mng. director; Anne Wentzel, mng. director (awentzel@webershandwick.com)
+@BODYTEXT:Hohenzollernring 79-83, 50672 Cologne, Germany
+@BODYTEXT:49 (0) 221-94 99 18-0; fax: 49 (0) 221-94 99 18-10;
+@BODYTEXT:arudloff@webershandwick.com
+@CCD1:Astrid Von Rudloff, CEO, Weber Shandwick, Germany
+@BODYTEXT:Opernplatz 2, 60313 Frankfurt a. Main, Germany
+@BODYTEXT:49 69 913043 551; fax: 49 69 913043 559
+@CCD1:Torsten Rotharmel, managing director
+@BODYTEXT:Park Leopold, 50 Rue Wiertz, 1050 Brussels, Belgium
+@BODYTEXT:32 2 743-4220; fax: 32 2 743-4222; Jcatlla@webershandwick.com
+@CCD1:Josep Catlla, managing director
+@BODYTEXT:61, rue Auber, 75009 Paris, France
+@BODYTEXT:33 1 53 32 09 00; fax: 33 1 53 32 82 30;
+@BODYTEXT:handrade@webershandwick.com
+@CCD1:Hugues Andrade, CEO, France
+@BODYTEXT:Geneva Business Center, 12, Avenue des Morgines, CH-1213 Petit-Lancy/Geneva, Switzerland
+@BODYTEXT:41 22 879 8500; fax: 41 22 879 8510;
+@BODYTEXT:kstimpson@webershandwick.com
+@CCD1:Keith Stimpson, director
+@BODYTEXT:Rigiplatz 2, Zurich, 8006 Zurich, Switzerland
+@BODYTEXT:41 43 255-19 30; fax: 41 43 255-19 39; aweiss@webershandwick.com
+@CCD1:Alexandra Weiss, consultant, Zurich
+@BODYTEXT:Via Pietrasanta 14, 20141 Milan, Italy
+@BODYTEXT:39 02 573781; fax: 39 02 57378401/2;
+@BODYTEXT:fgarbagnati@webershandwick.com
+@CCD1:Furio Garbagnati, CEO, Italy
+@BODYTEXT:Via Salaria 222, 00198 Rome, Italy
+@BODYTEXT:39 06 8404341; fax: 39 06 84043498;
+@BODYTEXT:dusai@webershandwick.com
+@CCD1:Davide Usai, account manager
+@BODYTEXT:Via Luisa del Carretto, 65-10131, Turin, Italy
+@BODYTEXT:39 011 819 3151; fax: 39 011 819 3533;
+@BODYTEXT:paccornero@webershandwick.com
+@CCD1:Patrizia Accornero, sr. VP
+@BODYTEXT:Narodni 25, 110 000, Prague 1, Czech Republic
+@BODYTEXT:420 221 085 361; fax: 420 221 085 360;
+@BODYTEXT:pstoklasa@webershandwick.cz
+@CCD1:Petr Stoklasa, director/Prague
+@BODYTEXT:Koninginnegracht 23, NL-2514 AB The Hague, The Netherlands
+@BODYTEXT:31 70 31 21 070; fax: 31 70 364 3770;
+@BODYTEXT:aboyen@webershandwick.com
+@CCD1:Annick Boyen, mng. director, The Hague
+@BODYTEXT:Weber Shandwick | D&E
+@BODYTEXT:Av. Eng Arantes e Oliveira n 11-2oC, 1900-221, Lisbon, Portugal
+@BODYTEXT:351 21 8410010; fax: 351 21 8410039; aperes@dne.pt
+@CCD1:Antonio Peres, CEO, Portugal
+@BODYTEXT:Weber Shandwick | FCC
+@BODYTEXT:2-4 Clanwilliam Terrace, Grand Canal Quay, Dublin 2, Ireland
+@BODYTEXT:353-1676-0168; fax: 353-1676-5241
+@BODYTEXT:smolloy@webershandwick.com
+@CCD1:Siobhan Molloy, co-managing director, Ireland
+@BODYTEXT:Weber Shandwick | GJW
+@BODYTEXT:1055 Budapest, Kossuth ter 18, Budapest, Hungary
+@BODYTEXT:361 354 2440; fax: 361 354 2439; ervin.szucs@gjw.hu
+@CCD1:Ervin Szucs, managing director, Hungary
+@BODYTEXT:Weber Shandwick | GJW, Public Affairs
+@BODYTEXT:Narodni 25, 110 00 Prague 1, Czech Republic
+@BODYTEXT:420 221 085 361; fax: 420 221 085 360; feldman@gjw.cz
+@CCD1:Vladimir Feldman, managing Director, Prague
+@BODYTEXT:Weber Shandwick | Adamson, Public Affairs
+@BODYTEXT:Park Leopold, 50 Rue Wiertz, B-1050 Brussels
+@BODYTEXT:32 2 230 07 75; fax: 32 2 230 14 96;
+@BODYTEXT:jrussell@webershandwick.com
+@CCD1:john Russell, CEO, Belgium
+@BODYTEXT:<U>ASIA PACIFIC:</U>
+@BODYTEXT:290 Orchard Rd., 16-01 Paragon, 238859 Singapore
+@BODYTEXT:65-6825-8000; fax: 65-6822-8000; jschultz@webershandwick.com
+@CCD1:Jeffrey Schultz, managing director, Singapore
+@BODYTEXT:Room 606-607, Daxin Bldg., 538 De Zeng Bei Rd., Guangzhou 510045, People's Republic of China
+@BODYTEXT:86 20 8732 0522; fax: 86 20 3758 8236; gfung@webershandwick.com
+@CCD1:Georgeana Fung, VP & co-dir., consumer practice, Asia Pacific
+@BODYTEXT:Suite B1205, Eaglerun Plaza, No. 26, Xiaoyun Rd., Chao Yang District, Beijing 100016
+@BODYTEXT:8610-84584750 306; fax: 8610-84584801/02;
+@BODYTEXT:davidl@webershandwick.com
+@CCD1:David Liu, managing director, Beijing
+@BODYTEXT:Rm. 103-105 1/F Wilson House, 19 Wyndham St., Central, Hong Kong
+@BODYTEXT:852 2845-1008; fax: 852 2868-0224;
+@BODYTEXT:jmortensen@webershandwick.com
+@CCD1:Jill Mortensen, managing director, Hong Kong
+@BODYTEXT:28/F Eastern Tower, 689 Beijing Rd. East, Shanghai 200001 People’s Republic of China
+@BODYTEXT:86-21 6322 2746; fax: 86-21 6322 2748
+@BODYTEXT:dwu@webershandwick.com
+@BODYTEXT:Rm. 1205, 12F, No. 2, Lane 150, Xinyi Rd., Sec. 5, 110 Taipei (Golden Global Plaza)
+@BODYTEXT:8862 2722 5779; fax: 8862 8789 8818; dwu@webershandwick.com
+@CCD1:Diane Wu, managing director, Shanghai & Taiwan
+@BODYTEXT:Mita Kokusai Building, 13th flr., 1-4-28 Mita, Minato-ku, Tokyo 108-0073 Japan
+@BODYTEXT:813-5427-7311; fax: 813-5427-7310
+@BODYTEXT:tnishitani@webershandwick.com
+@CCD1:Takeo Nishitani, managing director, Japan
+@BODYTEXT:suite 7.1, Level 7, Menara IMC, Letter Box 49, 8 Jalan Sultan Ismail, 50250 Kuala Lumpur
+@BODYTEXT:603-2072-1170; fax: 603-2072-3259; agabriel@webershandwick.com
+@CCD1:Anne Gabriel, managing director, Kuala Lumpur
+@BODYTEXT:10/F Ton Son Tower, 900 Ploenchit Rd., Lumpini, Pathumwan, Bangkok 10330, Thailand
+@BODYTEXT:66 2 257 0300; fax: 66 2 257 0312; pemblin@webershandwick.co.th
+@CCD1:Peter Emblin, sr. VP, Bangkok
+@BODYTEXT:PT Inpurema Konsultama, Gedung BRI II, Lt. 16 Jl. Jend Sudirman Kav 44-46, Jakarta 10210, Indonesia
+@BODYTEXT:62-21 571-9886; fax: 62-21 570-9455
+@BODYTEXT:pasandhimitra@webershandwick.com
+@CCD1:Prasasti Asandhimitra, general manager, Jakarta
+@BODYTEXT:166 William St., Woolloomooloo NSW 2011, Sydney, Australia
+@BODYTEXT:61 2-9994-4450; fax: 61-2-9994-4025;
+@BODYTEXT:irumsby@webershandwick.com
+@CCD1:Ian Rumsby, managing director, Sydney
+@BODYTEXT:<U>MIDDLE EAST:</U>
+@BODYTEXT:Promoseven | Weber Shandwick PR
+@BODYTEXT:PO Box 851348, Amman, 11185 Jordan
+@BODYTEXT:962 6 5511144; fax: 962 6 5511140;
+@BODYTEXT:reem@promoseven.com.jo
+@CCD1:Reem Abu Afifeh, executive
+@BODYTEXT:Promoseven | Weber Shandwick
+@BODYTEXT:Sami Solh Avenue, George Younes Bldg., 5th flr., P0 Box 116-5288, Beirut, Lebanon
+@BODYTEXT:961 1 399625; fax: 961 1 384061;
+@BODYTEXT:joelle.jammal@promoseven.com.lb
+@CCD1:Joelle Jammal, manager
+@BODYTEXT:Promoseven | Weber Shandwick
+@BODYTEXT:26 Mohammed Mazhar St., 5th flr., Zamalek, Cairo, Egypt
+@BODYTEXT:202 736 3574/75; fax: 202 726 2821; massar@fp7egypt.com
+@CCD1:Randa Nassar, manager
+@BODYTEXT:Promoseven | Weber Shandwick
+@BODYTEXT:237, Bd Zerktouni, Residence El Kheir, Casablanca, Morocco
+@BODYTEXT:212 22 364040; fax: 212 22 364732 / 364726;
+@BODYTEXT:gouza@fp7mccann.co.ma
+@CCD1:Ahmed Gouza, head of PR
+@BODYTEXT:Promoseven | Weber Shandwick
+@BODYTEXT:Pearl Towers, 4th flr., Al Saad St., PO Box 13645, Doha, Qatar
+@BODYTEXT:974 4364385 / 4364871; fax: 974 4364387;
+@BODYTEXT:wbarghouti@promoseven.com
+@CCD1:Wael Barghuti, A/E
+@BODYTEXT:Promoseven | Weber Shandwick
+@BODYTEXT:Emarat Atrium Bldg., 4th flr., Wing B, Sheikh Zayed Rd., P0 Box 6834, Dubai, UAE
+@BODYTEXT:971 4 3210008; fax: 971 4 3211688; sue.vey@promoseven.com
+@CCD1:Sue Vey, general manager
+@BODYTEXT:Promoseven | Weber Shandwick
+@BODYTEXT:Badriyah Towers, 1st flr., Al-Rowda St., PO Box 20675, Jeddah, 21465 Saudi Arabia
+@BODYTEXT:966 2 6061160 / 6060895; fax: 966 2 6061995 / 6061317
+@BODYTEXT:alawi@promoseven.com
+@BODYTEXT:Al Umam Commercial Centre, 6th flr., #603, Sitteen St., P0 Box 53038, Riyadh, Saudi Arabia
+@BODYTEXT:966 1 4725727; fax: 966 1 4727352
+@CCD1:Alawi Al Jifri, group account director
+@BODYTEXT:Promoseven | Weber Shandwick
+@BODYTEXT:609, City Centre, 6th flr., Government Ave., PO Box 5989, Manama, Bahrain
+@BODYTEXT:973 225148; fax: 973 224375 / 211457; tariq@promoseven.com
+@CCD1:Tariq Al Saffar, managing director, Promoseven | WS
+@BODYTEXT:Promoseven | Weber Shandwick
+@BODYTEXT:Kuwait Free Zone, Bldg., 3, 1st flr., Office #19, Kuwait
+@BODYTEXT:965 4610341; fax: 965 4610342; rola@promoseven.com
+@CCD1:Rola Ezzeddine, A/E
+@BODYTEXT:Rimon Cohen | Weber Shandwick
+@BODYTEXT:Raul Walenberg st., 2a, Tel-Aviv, Israel
+@BODYTEXT:972 3 768 6444; fax: 972 3 548 0881
+@CCD1:Roni Rimon, CEO and partner
+@BODYTEXT:
+@BODYTEXT:Agilent Technologies
+@BODYTEXT:Allstate
+@BODYTEXT:American Airlines
+@BODYTEXT:The Bahamas Ministry of Tourism
+@BODYTEXT:Best Buy
+@BODYTEXT:Boehringer Ingelheim
+@BODYTEXT:Boston Scientific
+@BODYTEXT:CVS
+@BODYTEXT:Campbell Soup Company
+@BODYTEXT:Century 21
+@BODYTEXT:Cisco Systems
+@BODYTEXT:Coca-Cola Co
+@BODYTEXT:Dunkin' Donuts
+@BODYTEXT:Electrolux
+@BODYTEXT:Eli Lilly
+@BODYTEXT:ExxonMobil Lubricants & Specialties
+@BODYTEXT:Genentech
+@BODYTEXT:General Electric Company
+@BODYTEXT:General Motors
+@BODYTEXT:Georgia Pacific
+@BODYTEXT:Gilead Sciences
+@BODYTEXT:Goodyear
+@BODYTEXT:Greyhound
+@BODYTEXT:Hitachi
+@BODYTEXT:Honeywell
+@BODYTEXT:Ingersoll-Rand
+@BODYTEXT:Internal Revenue Service
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:Kohl's
+@BODYTEXT:Kraft
+@BODYTEXT:Lawson Software
+@BODYTEXT:Lexmark
+@BODYTEXT:MasterCard
+@BODYTEXT:Mattel
+@BODYTEXT:Mentor Graphics
+@BODYTEXT:Merck
+@BODYTEXT:Microsoft
+@BODYTEXT:Monster Worldwide, Inc.
+@BODYTEXT:Newell Rubbermaid
+@BODYTEXT:Ocean Spray Cranberries Inc./Ocean Spray Int'l Inc.
+@BODYTEXT:Pfizer
+@BODYTEXT:PhRMA (Pharmaceutical Research & Manufacturers of America)
+@BODYTEXT:Polaris Industries
+@BODYTEXT:Royal Caribbean Cruises Ltd.
+@BODYTEXT:Sara Lee Branded Apparel
+@BODYTEXT:Sempra
+@BODYTEXT:Siemens
+@BODYTEXT:Sprint
+@BODYTEXT:Unilever
+@BODYTEXT:Unisys
+@BODYTEXT:Verizon Wireless
+@BODYTEXT:Wood Promotion Network
+@BODYTEXT:
+@CO:WEBSTER & ASSOCIATES PUBLIC RELATIONS
+@BODYTEXT:PO Box 23015, Nashville, TN 37202
+@BODYTEXT:615/777-6995; fax:615/369-2515; kirt@websterpr.com
+@BODYTEXT:Entertainment Marketing and Public Relations. Employees: 5.  Founded: 1995.
+@CCD1:Kirt Webster, pres.; Kathi Atwood, sr. publist; John Clore, publist; Ebie McFarland, publist; Keri Jannsen, office manager
+@BODYTEXT:Brad Cotter
+@BODYTEXT:Buddy Lee Attractions
+@BODYTEXT:Chely Wright
+@BODYTEXT:Country on the Gulf TV Series
+@BODYTEXT:Country Stampede Music Festival 
+@BODYTEXT:Country Thunder USA Music Festival 
+@BODYTEXT:Crystal Gale
+@BODYTEXT:Don Williams
+@BODYTEXT:Gloria Gaynor
+@BODYTEXT:Hank Williams Estate 
+@BODYTEXT:Hank Williams Jr.
+@BODYTEXT:Honky Tonk Tailgate Tour
+@BODYTEXT:International Entertainment Buyers Association
+@BODYTEXT:Janice Fricke
+@BODYTEXT:Jett Williams
+@BODYTEXT:Joe Diffie
+@BODYTEXT:John Conlee
+@BODYTEXT:Kentucky HeadHunters
+@BODYTEXT:Lee Greenwood
+@BODYTEXT:Lynn Anderson
+@BODYTEXT:Mark Chestnutt
+@BODYTEXT:Rebecca St.James
+@BODYTEXT:Sister Hazel
+@BODYTEXT:Vivaton Records
+@BODYTEXT:
+@CO:WEBSTER GROUP, INC., THE
+@BODYTEXT:Company closed.
+@BODYTEXT:
+@BODYTEXT:
+@CO:WEEKS & COMPANY
+@BODYTEXT:823 Congress Ave., #1330, Austin, TX 78701
+@BODYTEXT:512/477-6540; fax:512/477-6572
+@BODYTEXT:chains.  Founded 1979.
+@CCD1:David Weeks, president
+@BODYTEXT:
+@CO:WEILL ASSOCIATES, GEOFFREY
+@BODYTEXT:27 W.24th Street, #305, New York, NY 10010
+@BODYTEXT:212/288-1144; fax:212/288-5855; gweill@geoffreyweill.com
+@BODYTEXT:Specializing in travel and tourism-related mktg., promotion and PR.
+@CCD1:Geoffrey Weill, pres.; Ann-Rebecca Laschever, sr. VP; Tania Philip, VP; Eric Goldberg, assoc. VP; Sophie Rutimann
+@BODYTEXT:Canadian Mountain Holidays
+@BODYTEXT:Cape Grace Hotel, So. Africa
+@BODYTEXT:Conservation Corporation Africa
+@BODYTEXT:Dan Hotels Israel
+@BODYTEXT:Group IST
+@BODYTEXT:Hotel Adlon, Berlin
+@BODYTEXT:Hotel Hassler, Rome
+@BODYTEXT:Hotel La Mamounia, Morocco
+@BODYTEXT:Inkaterra, Peru
+@BODYTEXT:Isram World of Travel
+@BODYTEXT:Kempinski Hotels and Resorts
+@BODYTEXT:MedjetAssist
+@BODYTEXT:Micato Safaris
+@BODYTEXT:Olivean Hotel, Japan
+@BODYTEXT:Plaza Paris Vendome hotel, Paris
+@BODYTEXT:Portugal Tourism
+@BODYTEXT:
+@CO:WEINBACH GROUP, INC.
+@BODYTEXT:5900 Southwest 73rd St., #101, Miami, FL 33143
+@BODYTEXT:305/668-0070; fax:305/668-3029
+@BODYTEXT:Full-service comms, adv., PR.
+@CCD1:N. Phillip Weinbach, pres.; Daniel Weinbach, VP, creative affrs.
+@BODYTEXT:
+@CO:WEINKRANTZ AND CO., ALAN
+@BODYTEXT:3737 Broadway, #340, San Antonio, TX 78209
+@BODYTEXT:210/820-3070; fax:210/820-3080; alan@weinkrantz.com
+@BODYTEXT:www.weinkrantz.com, http://alanweinkrantztypepad.com
+@BODYTEXT:PR for technology-based companies. Employees: 8. Founded: 1980.
+@CCD1:Alan L. Weinkrantz, pres.
+@BODYTEXT:Acoustus
+@BODYTEXT:Audio Codes
+@BODYTEXT:Coppergate
+@BODYTEXT:Discretix
+@BODYTEXT:FWD Communications
+@BODYTEXT:Itac Systems
+@BODYTEXT:Mercom Systems
+@BODYTEXT:Omnipod
+@BODYTEXT:Pulver.com
+@BODYTEXT:Secure Logix
+@BODYTEXT:Sound.org
+@BODYTEXT:Valor
+@BODYTEXT:
+@CO:WEINTRAUB, SIEGAL, COLEMAN PARTNERS
+@BODYTEXT:140 West 57th St., New York, NY 10019
+@BODYTEXT:212/935-1558; fax:212/935-1557
+@BODYTEXT:Full-service mktg. comms. firm specializing in fashion, beauty, home and lifestyle categories; special events division. Founded: 2001.
+@CCD1:Harriet Weintraub, president; Peggy Siegal, Virginia Coleman, principals
+@BODYTEXT:Brooks Brothers
+@BODYTEXT:Burberry
+@BODYTEXT:ELuxury.com
+@BODYTEXT:French American Foundation
+@BODYTEXT:Graff
+@BODYTEXT:Whitney Museum
+@BODYTEXT:
+@CO:WEISER GROUP, THE
+@BODYTEXT:1675 Broadway, 10th flr., New York, NY 10019
+@BODYTEXT:212/468-3395
+@BODYTEXT:www.weisergroup.com
+@BODYTEXT:Strategic communications. Employees: 18. Founded: 1979
+@CCD1:Michael Weiser, chairman; Jonathan Cohen, Emily Mendell, Peter Warrick, managing principals
+@BODYTEXT:AICPA
+@BODYTEXT:Arkidata Corp.
+@BODYTEXT:Catholic Health Care System of New York
+@BODYTEXT:Chicago Board Options Exchange
+@BODYTEXT:Chicago Stock Exchange
+@BODYTEXT:Deloitte & Touche LLP
+@BODYTEXT:Equitas Ltd.
+@BODYTEXT:High Ridge Partners
+@BODYTEXT:Liberty Property Trust
+@BODYTEXT:Mercator
+@BODYTEXT:National Venture Capital Assn.
+@BODYTEXT:OptiMark
+@BODYTEXT:VITRO
+@BODYTEXT:
+@CO:WELCH NEHLEN GROOME ADV.
+@BODYTEXT:1325 Franklin Ave., #255, Garden City, NY 11530
+@BODYTEXT:516/742-2022; fax:516/741-3966; contact@ngi.com
+@BODYTEXT:Strategic marketing, advertising and PR. Founded: 1980
+@CCD1:Michael Welch, pres.
+@BODYTEXT:Long Island Telephone Company
+@BODYTEXT:
+@CO:WELL MARKETING COMMUNICATIONS, INC.
+@BODYTEXT:128 Margaret Ave., #100, Marietta, GA 30060
+@BODYTEXT:770/874-7900
+@BODYTEXT:www.lookintothewell.com
+@BODYTEXT:Full-service integrated mktg. firm with expertise in healthcare, technology, consumer mktg. Founded: 1996.
+@CCD1:David Elliott, partner
+@BODYTEXT:Summa Security
+@BODYTEXT:
+@CO:WELLES FOLSOM & ASSOCIATES
+@BODYTEXT:915 Battery St., San Francisco, CA 94111
+@BODYTEXT:415/399-1138; fax:415/989-2908
+@BODYTEXT:www.wellesfolsom.com
+@BODYTEXT:Specializing in consumer food and beverage PR and promotion.
+@CCD1:Sam Folsom, president
+@BODYTEXT:Allied DomecqWines
+@BODYTEXT:Atlas Peak
+@BODYTEXT:Evans & Tate Ltd.
+@BODYTEXT:French Laundry, The
+@BODYTEXT:G.H. Mumm
+@BODYTEXT:Gvenoc Winery
+@BODYTEXT:Hall/ Kathryn Hall Wines
+@BODYTEXT:Lobel’s of New York
+@BODYTEXT:Manresa
+@BODYTEXT:Mumm Napa
+@BODYTEXT:Perrier Joet
+@BODYTEXT:William Hill Winery
+@BODYTEXT:
+@CO:WERNICK MARKETING GROUP
+@BODYTEXT:1690 Broadway, #705, San Francisco, CA 94109
+@BODYTEXT:415/928-7414; fax:415/928-3524; sandie@wernickmarketinggroup.com
+@BODYTEXT:Hospitality, travel, food & beverage, professional services, non-profit, special events. Founded: 1982.
+@CCD1:Sandie Wernick, president & creative dir.; Neil Worden, Ozlem Arpaci, Karen Rothstein, A/Es; Shalimar Lim, acct. assistant
+@BODYTEXT:Airport Express
+@BODYTEXT:American Hotel Register
+@BODYTEXT:Audit Associates
+@BODYTEXT:Crowne Plaza
+@BODYTEXT:Crystal Essence
+@BODYTEXT:Hilton Santa Clara
+@BODYTEXT:Hostmark Hospitality
+@BODYTEXT:How About Lunch Matchmakers
+@BODYTEXT:Imlogo.com
+@BODYTEXT:Imtech Communications
+@BODYTEXT:Marriott Courtyard Palo Alto
+@BODYTEXT:Sharon Art Studio
+@BODYTEXT:Stanford Group
+@BODYTEXT:Stepping Stone
+@BODYTEXT:Taso Industries
+@BODYTEXT:Tommy Toy’s Cuisine Chinoise
+@BODYTEXT:West Bay Cafe
+@BODYTEXT:
+@CO:WERTH ASSOCIATES, PAUL
+@BODYTEXT:88 E. Broad St., #2070, Columbus, OH 43215
+@BODYTEXT:614/224-8114; fax:614/224-8509; swh@paulwerth.com
+@BODYTEXT:Healthcare, education, business-to-business, consumer retail, and applied technology PR. Founded: 1963. Employees: 17.
+@AGENCY:Agency Statement: Paul Werth Associates is a full-service public relations, public affairs and marketing communications firm that provides research, strategic  counsel and implementation of results-driven communications programs. Werth works with large, medium and small-sized employers in both the public and private sectors. The firm has attained a national reputation for its high quality, pragmatic approaches to communications challenges.
+@CCD1:Sandra W. Harbrecht, president; Karen Twinem, exec. VP
+@BODYTEXT:AirNet
+@BODYTEXT:Capital University
+@BODYTEXT:CBC Companies
+@BODYTEXT:Chemical Abstracts Service
+@BODYTEXT:Huntington National Bank
+@BODYTEXT:Kettering Foundation
+@BODYTEXT:McGraw-Hill Education
+@BODYTEXT:Ohio State Univ. - Athletic Dept.
+@BODYTEXT:
+@CO:WESMAN PUBLIC RELATIONS, JANE
+@BODYTEXT:322 Eighth Ave., #1702, New York, NY 10001
+@BODYTEXT:212/620-4080; fax:212/620-0370
+@BODYTEXT:www.wesmanpr.com
+@BODYTEXT:Art, publishing, corp. and cultural, seminars, media training, satellite tours. Employees: 8. Founded: 1980
+@CCD1:Jane Wesman, pres.; Lori Ames, VP; Andrea Stein, director of publicity
+@BODYTEXT:American Diabetes Assn.
+@BODYTEXT:Buckingham Asset Management
+@BODYTEXT:Crown Publishers
+@BODYTEXT:Dana Foundation
+@BODYTEXT:Harlequin Books
+@BODYTEXT:Harper Collins Publishers
+@BODYTEXT:Mystic Seaport
+@BODYTEXT:Pocket Books
+@BODYTEXT:Simon & Schuster
+@BODYTEXT:Thomas Nelson Publishers
+@BODYTEXT:Viking Penguin Inc.
+@BODYTEXT:William Morrow & Co.
+@BODYTEXT:
+@CO:WESTMORELAND FLINT
+@BODYTEXT:11 E. Superior St., #514, Duluth, MN 55802
+@BODYTEXT:218/727-1552; fax:218/733-0463
+@BODYTEXT:PR, advertising and marketing, community relations, environmental counseling, promotion, image planning.
+@CCD1:John Hyduke, pres.
+@BODYTEXT:Hibbing Co-op Credit Union
+@BODYTEXT:Minnesota Power
+@BODYTEXT:
+@CO:WESTSIDE PUBLIC RELATIONS
+@BODYTEXT:5215 Sepulveda, #22A, Culver City, CA 90230
+@BODYTEXT:310/398-5565; fax:310/398-4415; jamesharris@westsidepr.com
+@BODYTEXT:Healthcare, high-tech PR. Founded: 2000.
+@AGENCY:Agency Statement: We have extensive experience in physician, managed care and payer-provider issues, as well as new technologies and new regulations (HIPAA). We help  healthcare technology companies develop and execute strategic media relations programs. The agency has an excellent track record of reaching selected healthcare audiences through a variety of media. Please see our website for examples.
+@CCD1:James Harris, president
+@BODYTEXT:Evergreen Re
+@BODYTEXT:Isabel
+@BODYTEXT:MedSynergies
+@BODYTEXT:Tele Health Services
+@BODYTEXT:
+@CO:WESTWAYNE, INC.
+@BODYTEXT:1170 Peachtree St., N.E., #1500, Atlanta, GA 30309
+@BODYTEXT:404/347-8700
+@BODYTEXT:www.westwayne.com
+@BODYTEXT:Full-service PR firm. Founded: 1996
+@CCD1:Matthew Basta, dir. of PR
+@BODYTEXT:Atlanta Falcons
+@BODYTEXT:Florida’s Natural Growers
+@BODYTEXT:Publix Super Markets Inc.
+@BODYTEXT:Russell Athletic
+@BODYTEXT:The Sports Authority
+@BODYTEXT:
+@CO:WEXLER & WALKER
+@BODYTEXT:1317 F Street, N.W., #600, Washington, DC 20004
+@BODYTEXT:202/638-2121; fax:202/638-7045
+@BODYTEXT:Employees: 21. Founded: 1981
+@CCD1:Bob Walker, chmn.; Anne Wexler, chmn. of exec. committee
+@BODYTEXT:
+@CO:WEYFORTH-HAAS
+@BODYTEXT:10561 Barkley, #200, Overland Park, KS 66212
+@BODYTEXT:913/648-8333; fax:913/648-5024; werned@marketingcomm.com
+@BODYTEXT:www.marketingcomm.com
+@BODYTEXT:Full service technology-powered marketing agency with full service internal PR department. Founded: 1980.
+@CCD1:Joyce DeLay, PR director
+@BODYTEXT:Caterpillar Truck Engine Division
+@BODYTEXT:John Deere Construction Equipment Co.
+@BODYTEXT:Kansas City Chiefs
+@BODYTEXT:License Online
+@BODYTEXT:Sprint Publishing & Advertising, Inc.
+@BODYTEXT:Universal Underwriters Group
+@BODYTEXT:
+@CO:WHATSNEXTONLINE.COM, INC.
+@BODYTEXT:345 E. 94th St., #11B, New York, NY 10128
+@BODYTEXT:212/369-8312; BLOchman@whatsnextonline.com
+@BODYTEXT:Internet marketing and online business strategies; business blog consulting and seminars, search engine optimization, website traffic generation. Founded: 1994.
+@CCD1:(Ms.) B.L. Ochman, pres.
+@BODYTEXT:Big Apple Lazernet
+@BODYTEXT:ChemBioShelter.com
+@BODYTEXT:Design4Results.com
+@BODYTEXT:Dickwaterman.com
+@BODYTEXT:Digifield.com
+@BODYTEXT:Happy Tails Veterinary Service
+@BODYTEXT:Ifulfill.com
+@BODYTEXT:
+@CO:WHEATLEY & TIMMONS, INC.
+@BODYTEXT:541 N. Fairbanks, #2040, Chicago, IL 60611
+@BODYTEXT:312/755-6200; fax:312/755-6201
+@BODYTEXT:www.wheatleytimmons.com
+@BODYTEXT:PR services, brand strategy and marketing planning.  Founded: 2000.
+@AGENCY:Agency Statement: We are a specialist agency, focused on the new brands and mature franchises aspiring to challenge the status quo, as well as new product/category launches. Our core competencies and pedigree are devoted to building business -- we immerse ourselves in our client's business and help them succeed with quantifiable results, including measurable, significant increases in sales and market share. We'd be delighted to share with you our proprietary methods and processes that take the guesswork out and help produce consistently robust and reliable results that will maximize your investment in communications.
+@AGENCY:Wheatley & Timmons has rebuilt the PR agency model with one purpose in mind: to use public relations and its related disciplines to drive business. We are brand stewards who create powerful messaging founded on well-researched models of what target audiences want, think and need. Then we deliver these messages through a variety of communication channels, from editorial media and entertainment content, to on-line and direct-to-consumer events. We're structured around in-house broadcast and print media divisions that serve up highly effective communication strategies. Our employees are media experts and former journalists who understand media editorially with skills needed to create content that showcases our client's products, services and messaging.
+@AGENCY:Our business model acknowledges that editorial media is an organic environment, not a transactional one. So we do not have billable hours or rates that attempt to confine media placement activity in traditional boundaries, allowing our staff to focus on results rather than timesheets.
+@AGENCY:Category competencies:
+@AGENCY:Our agency lives in the consumer products and services world. We serve clients in the packaged goods, food, beverages, retail, hard lines, house wares, hardware, retail, travel/tourism, financial services, and healthcare categories.
+@AGENCY:Service competencies:
+@AGENCY:Public relations, publicity, consumer, education, reputation management, strategic and brand profile research, consumer anthropology, brand strategy planning, channel management, promotions, events, financial/investor and corporate communications, crisis management, litigation counsel and employee communications.
+@AGENCY:Market: North America
+@CCD1:Robert Wheatley, CEO; Richard Timmons, president; 
+Janine MacLachlan, VP, strategic planning & new business; Gerry Oher, dir., broadcast media; Gerri Kelly, dir., print media
+@BODYTEXT:Blyth Home Scents/Colonial Candle
+@BODYTEXT:Crescent Paper Products
+@BODYTEXT:EAS/Body for Life
+@BODYTEXT:EAS/Myoplex
+@BODYTEXT:Microban
+@BODYTEXT:Molson Beer
+@BODYTEXT:Sargento Cheese
+@BODYTEXT:Serta Mattresses
+@BODYTEXT:Thermos LLC
+@BODYTEXT:
+@CO:WHITE & BALDACCI
+@BODYTEXT:See W&B PR, Inc.
+@BODYTEXT:
+@BODYTEXT:
+@CO:WHITE GOOD & CO. ADVERTISING
+@BODYTEXT:322 North Arch Street, Lancaster, PA 17603
+@BODYTEXT:717/396-0200; fax:717/396-9483
+@BODYTEXT:www.whitegood.com
+@BODYTEXT:Media Relations, Image Management, Trade Show Support, Press Event Management Employees: 15. Founded: 1981.
+@AGENCY:Agency Statement: White & Good Co. Advertising, Inc., a member of the American Association of Advertising Agencies, is a professional service operation offering integrated marketing communications to the Home Furnishings and Building Products Industries. 
+@CCD1:Sherry Qualls, pres.; Mary Anne Piccirillo, pr dir.; Jennifer Brough, pr A/E; Corie Deshong, pr coor.
+@BODYTEXT:American Signature
+@BODYTEXT:C.H. Briggs Hardware Company
+@BODYTEXT:GAF Materials Corporation
+@BODYTEXT:Natuzzi Americas, Inc.
+@BODYTEXT:Plain & Fancy Custom Cabinetry
+@BODYTEXT:Starnet Commerical Flooring Cooperative
+@BODYTEXT:Strategic Resources, Inc.
+@BODYTEXT:Trade Commision of Spain in Miami/Tile of Spain
+@BODYTEXT:Vermont Soapstone
+@BODYTEXT:WFI Wood Flooring International
+@BODYTEXT:Wood Flooring International
+@BODYTEXT:Zeba Home Textiles
+@BODYTEXT:
+@CO:WHPR
+@BODYTEXT:2114 5th Ave., Los Angeles, CA 90018
+@BODYTEXT:323/730-0233; fax:323/730-8807; david@whpr.com
+@BODYTEXT:Full service agency. Employees: 2. Founded: 1986.
+@CCD1:Sydney Weisman, David Hamlin, partners
+@BODYTEXT:A.F. Gilmore Co.
+@BODYTEXT:Farmers Market, Los Angeles
+@BODYTEXT:Park Labrea
+@BODYTEXT:
+@CO:WICK PUBLIC RELATIONS, INC., ROBERT
+@BODYTEXT:Harwood Bldg., #423, Scarsdale, NY 10583
+@BODYTEXT:914/722-1400
+@BODYTEXT:Product, corporate, tech., issue PR. Founded: 1982.
+@CCD1:Robert Wick, pres.
+@BODYTEXT:Nice Systems, Inc.
+@BODYTEXT:Ricoh Corp.
+@BODYTEXT:SAI International
+@BODYTEXT:Thales Navigation
+@BODYTEXT:
+@CO:WIDMEYER COMMUNICATIONS
+@BODYTEXT:1825 Connecticut Ave., NW, 5th flr., Washington, DC 20009
+@BODYTEXT:202/667-0901; fax:202/667-0902; Joe.Clayton@widmeyer.com
+@BODYTEXT:www.widmeyer.com
+@BODYTEXT:Public Affairs, risk & crisis mgmt., higher education, K-12 education, healthcare, research & polling, media relations, writing & editorial, design multimedia, advertising, branding, corporate comm., advocacy comm., youth engagement, integrated marketing, arts & culture, healthy lifestyles, partnership development, public health, homeland security. Employees: 60. Founded: 1988.
+@AGENCY:Agency Statement: Widmeyer Communications is an award winning full-service public relations agency. For more than 15 years we have delivered successful communications solutions to a diverse array of clients. Industry-leading businesses, local and national associations and non-profits, and a host of public-sector agencies have all benefited from the Widmeyer difference.
+@AGENCY:Our expertise in public affairs, media relations, integrated research, marketing communications, risk and crisis communications, advertising and design makes us a value-added partner for the clients we serve.
+@AGENCY:Widmeyer is a dynamic place where smart, independent thinkers develop fresh ideas and deliver consistent results.
+@CCD1:Scott Widmeyer, chmn. & CEO; Joseph Clayton, pres. & COO; Kevin Bonderud, exec. VP; Margaret Suzor Dunning, exec. VP; Lee Jenkins, sr. VP/design & adv. group; Lisa Manley, sr. VP & group director; Marty McGough, VP & research & polling; Cathy St.Denis, VP & group director; Jason Smith, sr. VP & group director; Tim Tinker, DrPH, MPH, VP & group director; Phyllis Blaunstein, Ruth Whitman Chacon, Edward B. Fiske, James A. Kelly, Paul J. Moniz, Susan Tifft, senior counsel
+@BODYTEXT:895 Broadway, 5th flr., New York, NY 10003
+@BODYTEXT:212/260-3401; fax: 212/260-3402
+@CCD1:Henry Engleka, VP/group director
+@BODYTEXT:
+@BODYTEXT:Carnegie Corporation of New York
+@BODYTEXT:The Coca-Cola Co.
+@BODYTEXT:College Board
+@BODYTEXT:Chesapeake Systems Solutions 
+@BODYTEXT:The College of William and Mary
+@BODYTEXT:Colonial Williamsburg foundation
+@BODYTEXT:Cornell University
+@BODYTEXT:Federal Trade Commission
+@BODYTEXT:Human Resource Certification Institute
+@BODYTEXT:McGraw-Hill
+@BODYTEXT:National Court Reporters Association
+@BODYTEXT:Selective Service System
+@BODYTEXT:U.S. Department of Education
+@BODYTEXT:U.S. Dept. of Health and Human Services
+@BODYTEXT:United Federation of Teachers
+@BODYTEXT:
+@CO:WILKINSON FERRARI & CO.
+@BODYTEXT:Member of IPREX
+@BODYTEXT:136 South Main St., #600, Salt Lake City, UT 84101
+@BODYTEXT:801/364-0088; fax:801/364-0072
+@BODYTEXT:Counseling, strategic planning, media relations, community relations, special events, collateral materials, writing services, image and message development. Founded: 1993
+@CCD1:Brian Wilkinson, Lindsey Ferrari, partners
+@BODYTEXT:HDR, Inc.
+@BODYTEXT:Utah Veterinary Medical Assn.
+@BODYTEXT:
+@CO:WILLIAMS & CO., TIFFANIE
+@BODYTEXT:21 McGrath Hwy., #206, Quincy, MA 02169
+@BODYTEXT:617/786-0010; fax:617/786-0088; twilliams@tiffaniewilliamsco.com
+@BODYTEXT:Full-service, integrated marketing communications firm.
+@CCD1:Tiffanie Williams, pres., Kristen Whiten-Bunszel, PR director
+@BODYTEXT:Boston VA Research Institute
+@BODYTEXT:Dependable Cleaners
+@BODYTEXT:Rentmaker.com
+@BODYTEXT:Lombardo Cos.
+@BODYTEXT:Norwell Visiting Nurse Assn.
+@BODYTEXT:Warren Group
+@BODYTEXT:
+@CO:WILLIAMS AGENCY, THE TERRIE
+@BODYTEXT:1500 Broadway, New York, NY 10036
+@BODYTEXT:212/220-4333, 212/316-0305; tmwms@terriewilliams.com
+@BODYTEXT:www.terriewilliams.com
+@BODYTEXT:Corporate, sports, film mktg., entertainment PR & special events. Employees: 10. Founded: 1988.
+@CCD1:Terrie M. Williams, pres.
+@BODYTEXT:American Bible Society
+@BODYTEXT:Essence
+@BODYTEXT:The Stay Strong Foundation
+@BODYTEXT:Time Warner
+@BODYTEXT:Personalities: Charlie Ward; Johnnie Cochran; Hezekiah Walker
+@BODYTEXT:
+@CO:WILLIAMS WHITTLE ASSOCIATES
+@BODYTEXT:711 Princess St., Alexandria, VA 22314
+@BODYTEXT:703/836-9222; fax:703/684-3285
+@BODYTEXT:www.williamswhittle.com
+@BODYTEXT:Full-service marketing and communications; retail, healthcare, telecomms., travel, real estate, fin’l services. Founded: 1967.
+@CCD1:Robert L. Whittle, pres./CEO
+@BODYTEXT:AFC Enterprises
+@BODYTEXT:American WholeHealth Inc.
+@BODYTEXT:Bozzuto Group
+@BODYTEXT:
+@CO:WILLIAMS WHITTLE ROTHSTEIN PR
+@BODYTEXT:Company folded into PR department of Atkins Nutritionals
+@BODYTEXT:
+@BODYTEXT:
+@CO:WILLS & ASSOCIATES, INC.
+@BODYTEXT:36 South Charles St., #1900, Baltimore, MD 21201
+@BODYTEXT:410/539-4733; fax:410/962-5556
+@BODYTEXT:www.wills-pr.com
+@BODYTEXT:Public relations. Employees: 7. Founded: 1978
+@CCD1:Brad Wills, pres. & COO; George Wills, chmn. & CEO
+@BODYTEXT:
+@CO:WILMOT COMMUNICATIONS, PAUL
+@BODYTEXT:581 Sixth Ave., 2nd flr., New York, NY 10011
+@BODYTEXT:212/206-7447; fax:212/206-7557
+@BODYTEXT:Fashion and art PR. Founded: 1993.
+@CCD1:Ridgely Brode, Stormy Stokes, Paul Wilmot, partners
+@BODYTEXT:American Ballet Theatre
+@BODYTEXT:Cosabella
+@BODYTEXT:La Prairie
+@BODYTEXT:Oscar De La Renta
+@BODYTEXT:Thomas Pink
+@BODYTEXT:
+@CO:WILSON & ASSOCIATES, FRANK
+@BODYTEXT:30900 Rancho Viejo Rd., #200, San Juan, Capistrano, CA 92675
+@BODYTEXT:949/218-1850
+@BODYTEXT:Strategic mktg. comms., PA, consumer mktg., PA, transportation, community rels., packaged goods.
+@CCD1:Frank Wilson, president
+@BODYTEXT:
+@CO:WILSON GROUP COMMUNICATIONS, INC.
+@BODYTEXT:50 West Broad St., #3150, Columbus, OH 43215
+@BODYTEXT:800/313-9424
+@BODYTEXT:http://www.wilson-group.com
+@BODYTEXT:Crisis management consulting, media rels. & PA, media training
+@CCD1:Steve Wilson, president
+@BODYTEXT:
+@CO:WILSON PUBLIC RELATIONS, MIKE
+@BODYTEXT:3400 Peachtree Rd., #830, Atlanta, GA 30326
+@BODYTEXT:404/365-9000; fax:404/365-8440
+@BODYTEXT:Real estate mktg., Japanese businesses. Founded: 1977.
+@CCD1:Mike Wilson, owner
+@BODYTEXT:
+@CO:WINNER & ASSOCIATES
+@BODYTEXT:16501 Ventura Blvd., Encino, CA 91436
+@BODYTEXT:818/385-1900; fax:818/385-1867; winner@winnr.com
+@BODYTEXT:Strategic comms., crisis comms., PR, media rels., litigation support, and issue & image adv.
+@CCD1:Charles Winner, president
+@BODYTEXT:
+@CO:WINNING STRATEGIES PR
+@BODYTEXT:550 Broad St., #910, Newark, NJ 07102
+@BODYTEXT:973/799-0200; fax:973/799-0210
+@BODYTEXT:www.winningstrat.com
+@BODYTEXT:Issues management, grassroots organization, coalition building, consumer, healthcare, community affairs, government affairs, crisis comms., high-tech, travel, environmental PR. Employees: 20. Founded: 1997.
+@AGENCY:Agency Statement: Winning Strategies is a national full-service strategic communications company, which offers a wide range of public relations, advertising, and government relations services for corporations, trade associations, issue coalitions and others.
+@AGENCY:Winning Strategies’ philosophy is simple: when our clients win, we win. Our firm’s name and spirit reflect our attitude and our record. Winning Strategies brings to corporations and organizations the strategic mastery and technical skill developed and honed from the world of highly charged political, corporate, community, consumer and public policy campaigns. In today’s volatile world where information can be used for you - or against you - in milliseconds, clients demand a communications agency that is conditioned to act rapidly, and accurately.
+@AGENCY:Winning Strategies offers a wide range of expertise including:
+@AGENCY:o Marketing
+@AGENCY:o Media Relations
+@AGENCY:o Corporate Positioning
+@AGENCY:o Crisis Communications
+@AGENCY:o Media Training
+@AGENCY:o Advertising
+@AGENCY:With offices in the metropolitan areas of New York, Philadelphia, and Washington, D.C., Winning Strategies is well positioned to represent a broad spectrum of clients and deal with diverse media.
+@CCD1:Jim McQueeny, chairman
+@BODYTEXT:Public Relations
+@BODYTEXT:Strategic Counsel
+@BODYTEXT:Issues Mgmt. & Public Affairs
+@BODYTEXT:Grassroots Organizations
+@BODYTEXT:Issue Advocacy Advertising
+@BODYTEXT:Overseas Marketing Partnerships
+@BODYTEXT:502 Carnegie Center,  Suite 102, Princeton, NJ 08540
+@BODYTEXT:609/275-4747; fax: 609/275-4751
+@CCD1:Gary Davis, president
+@BODYTEXT:Winning Strategies Washington
+@BODYTEXT:819 7th St., N.W., #501, Washington, DC 20001
+@BODYTEXT:202/589-0800; fax: 202/589-1288
+@CCD1:Donna Mullins, managing partner
+@BODYTEXT:
+@BODYTEXT:Amelior Foundation
+@BODYTEXT:Cherokee Investment Partners
+@BODYTEXT:EnCap Golf Holdings LLC
+@BODYTEXT:Environmental Defense Fund
+@BODYTEXT:Horizon Blue Cross/Blue Shield
+@BODYTEXT:Insurance Council of New Jersey
+@BODYTEXT:K. Hovnanian
+@BODYTEXT:Mideast News Service
+@BODYTEXT:New Jersey Office of Travel and Tourism
+@BODYTEXT:New Jersey Society of Optometric Physicians
+@BODYTEXT:New Jersey Transit
+@BODYTEXT:Palisade Safety and Insurance
+@BODYTEXT:Pfizer
+@BODYTEXT:Stevens Institute of Technology
+@BODYTEXT:Verizon
+@BODYTEXT:
+@CO:WINSPER & CO., J.
+@BODYTEXT:335 Heath St., Brookline, MA 02467
+@BODYTEXT:617/713-0029
+@BODYTEXT:www.jwinsperandco.com
+@BODYTEXT:Full-service brand adv. & mktg. comms. agency specializing in technology, bus.-to-bus., finance, retail and consumer markets.
+@CCD1:Jeff Winsper, president
+@BODYTEXT:Aston Martin
+@BODYTEXT:Cannondale
+@BODYTEXT:Moonrock Paper Co.
+@BODYTEXT:Raytheon Aircraft
+@BODYTEXT:UBS
+@BODYTEXT:
+@CO:WINSTEAD & ASSOCIATES, INC.
+@BODYTEXT:2665 S. Bayshore Dr., #301, Coconut Grove, FL 33133
+@BODYTEXT:305/858-1616
+@BODYTEXT:Burger King
+@CCD1:Marylynne Winstead, president
+@BODYTEXT:Burger King
+@BODYTEXT:Coconut Grove Cares
+@BODYTEXT:COTY Fragrances
+@BODYTEXT:Countryside Mall
+@BODYTEXT:Davidoff Fragrances
+@BODYTEXT:Sydran Services
+@BODYTEXT:
+@CO:WINUK COMMUNICATIONS
+@BODYTEXT:25 Brian Court, Carmel, NY 10512
+@BODYTEXT:845/277-1160; fax:845/277-1168; jay@winukpr.com
+@BODYTEXT:Consumer, corp., product, entertainment, sports, technology, professional services, environmental, travel, retail, fin’l, food, healthcare, bus.-to-bus.; media rels., events, cause-related mktg., issues mgmt., crisis comms., speech writing. Founded: 1994.
+@CCD1:Jay S. Winuk, principal
+@BODYTEXT:
+@CO:WIRTZ INTEGRATED MARKETING, INC.
+@BODYTEXT:Member of The Worldcom Group
+@BODYTEXT:3435 Kent Rd., Stow, OH 44224
+@BODYTEXT:330/689-1500; fax:330/689-1501
+@BODYTEXT:www.wirtzim.com
+@BODYTEXT:Investor rels., marketing comms., practice & econ. dev., media rels. Employees: 10. Founded: 1983.  
+@CCD1:John R. Wirtz, pres.
+@BODYTEXT:Children’s Hospital Medical Ctr. of Akron
+@BODYTEXT:American Concrete Pipe Assn.
+@BODYTEXT:Advanced Elastomer Systems
+@BODYTEXT:Harris Specialty Chemicals
+@BODYTEXT:TruSeal Technologies
+@BODYTEXT:
+@CO:WITECK-COMBS COMMUNICATIONS
+@BODYTEXT:2120 L St., N.W., #850, Washington, DC 20037
+@BODYTEXT:202/887-0500; fax:202/887-5633
+@BODYTEXT:www.witeckcombs.com
+@BODYTEXT:Strategic mktg. comms. firm specializing in reaching the gay & lesbian marketing, health & disability issues.
+@CCD1:Bob Witeck, CEO; Wes Combs, president
+@BODYTEXT:
+@CO:WITHERSPOON & ASSOCIATES
+@BODYTEXT:1000 West Weatherford, P.O. Box 2137, Fort Worth, TX 76102
+@BODYTEXT:817/335-1373; fax:817/332-6044
+@BODYTEXT:Advertising, public relations and counseling.  Founded: 1946.
+@CCD1:Kim Speairs
+@BODYTEXT:
+@CO:WOLF GROUP PUBLIC RELATIONS
+@BODYTEXT:192 Mill St., #600, Rochester, NY 14614
+@BODYTEXT:585/454-1010; fax:585/454-1575
+@BODYTEXT:www.wolfgroup.com
+@BODYTEXT:Strategic counsel, consumer mktg., issue/reputation mgmt., brand building. Food & beverage, packaged goods, bus.-to-bus., environment, crisis mgmt. Employees: 25. Founded: 1970.
+@CCD1:Sharon Napier, pres. & CEO
+@BODYTEXT:215 Park Ave. South, New York, NY 10003
+@BODYTEXT:212/596-0200; fax: 212/354-1002
+@CCD1:Kelly Durcan, VP/dir. of PR
+@BODYTEXT:
+@BODYTEXT:Bausch & Lomb
+@BODYTEXT:Delaware North
+@BODYTEXT:Eastman Kodak
+@BODYTEXT:Gannett Rochester Newspaper
+@BODYTEXT:
+@CO:WOLFE AXELROD WEINBERGER ASSOCS. LLC
+@BODYTEXT:317 Madison Ave., #515, New York, NY 10017
+@BODYTEXT:212/370-4500; fax:212/370-4505
+@BODYTEXT:Investor relations, financial PR and media relations.   Employees: 8.
+@AGENCY:Agency Statement: Wolfe Axelrod Weinberger Associates has been assisting publicly traded emerging growth companies in telling their corporate stories to Wall Street, as well as Main Street, for over 30 years. We design and implement pro-active, creative and aggressive programs that have enabled our clients to lower their cost of capital and capture the attention they deserve from the investment community as well as the media.
+@CCD1:Stephen Axelrod, Donald Weinberger, managing directors
+@BODYTEXT:
+@CO:WOLFE PUBLIC RELATIONS
+@BODYTEXT:153 US Route 1, Scarborough, ME 04074
+@BODYTEXT:207/883-6083; beryl@wolfenews.com
+@BODYTEXT:www.wolfePR.com
+@BODYTEXT:Founded: 1993.
+@CCD1:Beryl Valverde Wolfe, president; Jason Wolfe, VP
+@BODYTEXT:
+@CO:WONDRISKA/RUSSO
+@BODYTEXT:902 S. Quaker Lane, W. Hartford, CT 06110
+@BODYTEXT:860/236-8181; fax:860/236-4190
+@BODYTEXT:Strategic mktg., corp. comms. & fin’l rels.
+@CCD1:Dennis Russo, chmn.
+@BODYTEXT:
+@CO:WONGDOODY COMMUNICATIONS
+@BODYTEXT:83 S. King St., #814, Seattle, WA 98104
+@BODYTEXT:206/624-5325; jeff@wongdoody.com
+@BODYTEXT:Advertising, public relations, marketing.
+@CCD1:Jeff Hasen, president; (Mr.) Tracy Wong, chairman/creative director
+@BODYTEXT:9570 W. Pico Blvd., #300, Los Angeles, CA 90035
+@BODYTEXT:310/285-0181; fax: 310/285-9645
+@CCD1:Bruce Silverman, president/L.A.
+@BODYTEXT:
+@BODYTEXT:Alaska Airlines
+@BODYTEXT:Alpine Electronics
+@BODYTEXT:American Dairy Queen Corp.
+@BODYTEXT:Clif Bar
+@BODYTEXT:Los Angeles Dodgers
+@BODYTEXT:MBM Home Entertainment
+@BODYTEXT:Museum of Flight
+@BODYTEXT:SeaWeb
+@BODYTEXT:T-Mobile
+@BODYTEXT:     
+@BODYTEXT:
+@CO:WOONTEILER INK
+@BODYTEXT:2 Winter Street, Waltham, MA 02154
+@BODYTEXT:781/891-1232; fax:781/891-1022; gary@woonteilerink.com
+@BODYTEXT:PR and marketing communications for business/consumer services, office equipment/supplies, healthcare, real estate, educational institutions. Founded: 1992.
+@CCD1:Gary Woonteiler, principal
+@BODYTEXT:
+@CO:WORDHAMPTON PUBLIC RELATIONS INC.
+@BODYTEXT:512 Three Mile Harbor Rd., East Hampton, NY 11937
+@BODYTEXT:631/329-0050; fax:631/267-1077; info@wordhampton.com
+@BODYTEXT:Food & beverage PR; restaurant publicity; architects, realtors, retailers and arts.  Employees: 5. Founded: 1992.
+@AGENCY:Agency Statement: WordHampton Public Relations specializes in food and beverage publicity, boasting media contacts in international, national, metropolitan, regional and local circles. We have successfully represented architects, realtors and retailers as well as those in the arts. We are, in effect, a sales force on behalf of our clients to the press. We have ventured successfully into Manhattan and to Westchester, Nassau and the rest of Suffolk County. We live to see our clients’ names in print.
+@CCD1:Steve Haweeli, pres.; Nicole Castillo, VP; Nikki Harmon, Aurrice Duke, A/Es
+@BODYTEXT:Bedell Cellars
+@BODYTEXT:Corey Creek Vineyards
+@BODYTEXT:Della Femina
+@BODYTEXT:Devlin McNiff Real Estate
+@BODYTEXT:Hildreth's
+@BODYTEXT:Napco Security Group
+@BODYTEXT:Nick & Toni’s
+@BODYTEXT:Pacific East
+@BODYTEXT:Redbar Brasserie
+@BODYTEXT:Rowdy Hall
+@BODYTEXT:The Carltun
+@BODYTEXT:Tierra Mar
+@BODYTEXT:Turtle Crossing
+@BODYTEXT:
+@CO:WORKHOUSE PUBLICITY
+@BODYTEXT:133 W. 25th St., #3W, New York, NY 10001
+@BODYTEXT:212/645-8006; fax:212/645-1950
+@BODYTEXT:
+@CCD1:Adam Nelson, CEO; Devon Mack
+@BODYTEXT:
+@CO:WORLDCOM PUBLIC RELATIONS GROUP, THE
+@BODYTEXT:Organization of independently owned PR firms; some 100 firms with offices on six continents
+@BODYTEXT:World Headquarters: 500 Fifth Ave., #1010, New York, NY 10100
+@BODYTEXT:800/955-9675; fax:212/286-9003; coo@worldcomgroup.com
+@BODYTEXT:www.worldcomgroup.com
+@BODYTEXT:
+@AGENCY:Agency Statement: Worldcom is the world's largest consortium of independently owned PR counseling firms with some 100 partner offices, and growing. Worldcom partners have offices in 33 countries on five continents, over 1,400 employees and revenue in 2004 of over $158 million. Worldcom serves national, international and multi-national clients needing in-depth marketing and comms. support and expertise from professionals who understand the language, culture and customs of the domestic and foreign arenas in which they operate. 
+@CCD1:Jim Sluzewski, chairman; Jonathan Bloom, Americas region chair; Thomas Van Blarcom, Asia Pacific region chair; Evelyne Martin, European region chair; Shuji Hirose, past chair; Jon Holt, secy./treas.; Gary Myers, APR, Fellow PRSA, membership
+@CCD1:Chief operating officer: Daisy M. Guthin, APR
+@BODYTEXT:
+@BODYTEXT:WORLDCOM AMERICAS
+@BODYTEXT:United States:
+@BODYTEXT:Arizona: Off Madison Ave, Tempe
+@BODYTEXT:California: The Bohle Co., Los Angeles; Cerrell Assocs., Los Angeles; McGrath/Power PR, Santa Clara; Nuffer, Smith, Tucker, Inc. San Diego; The Pollack PR Mktg. Group, Los Angeles; Solem & Assocs., San Francisco
+@BODYTEXT:Colorado: Kostka-Gleason Comms., Denver; InterMountain Corporate Affairs, Denver.
+@BODYTEXT:District of Columbia: John Adams Assocs. Inc.
+@BODYTEXT:Florida: Bitner Goodman, Ft. Lauderdale; Bitner Hennessy, Orlando; St. John & Partners Adv. & PR, Jacksonville; M. Silver Assocs., Miami
+@BODYTEXT:Georgia: McRae Comms., Atlanta
+@BODYTEXT:Illinois: The Dilenschneider Group, Chicago; Public Comms. Inc., Chicago; Tech Image, Chicago
+@BODYTEXT:Iowa: Morgan&Myers, Waterloo; Strategic America, Des Moines
+@BODYTEXT:Kentucky: Guthrie/Mayes & Assocs., Louisville
+@BODYTEXT:Maryland: TBC, Inc., Baltimore
+@BODYTEXT:Minnesota: Padilla Speer Beardsley Inc., Minneapolis
+@BODYTEXT:Missouri: Standing Partnership, St. Louis; Sturges Word, Kansas City
+@BODYTEXT:New Jersey: Holt, Mulroy & Germann PA, Trenton
+@BODYTEXT:New York: Bliss Gouverneur & Assocs., New York; Buck & Pulleyn, Inc., Rochester; Travers Collins & Co., Buffalo; The Dilenschneider Group, New York; Marina Maher Comms., New York; Padilla Speer Beardsley Inc., New York; M. Silver Assocs., New York; TBC, Inc., New York
+@BODYTEXT:North Carolina: Epley Assocs., Inc., Charlotte/Raleigh
+@BODYTEXT:Ohio: Liggett-Stashower PR, Cleveland; Northlich, Columbus & Cincinnati; Public Relations Partners Inc., Cleveland
+@BODYTEXT:Pennsylvania: Jack Horner Comms., Pittsburgh
+@BODYTEXT:Texas: Michael A. Burns & Assocs., Dallas
+@BODYTEXT:Utah: Bremer PR Inc., Salt Lake City
+@BODYTEXT:Virginia: Brickell & Partners, Virginia Beach
+@BODYTEXT:Washington: Richmond PR, Seattle
+@BODYTEXT:Wisconsin: Morgan&Myers, Milwaukee and Jefferson
+@BODYTEXT:<B>Canada:</B>
+@BODYTEXT:Alberta: Donoghue & Assocs., Calgary
+@BODYTEXT:British Columbia: Vancouver, Wilcox Group
+@BODYTEXT:Ontario: Delta Media, Ottawa; OEB Int’l Ltd., Toronto & St. Catharines
+@BODYTEXT:<B>Latin America:</B>
+@BODYTEXT:Argentina: Padilla & Zurueta, Buenos Aires
+@BODYTEXT:Brazil: Planin.com, Sao Paulo
+@BODYTEXT:Colombia: Beatriz Barrera Comms. Estrategicas, Medellin
+@BODYTEXT:Mexico: Arvizu, S.A. de C.V., Mexico City
+@BODYTEXT:Puerto Rico: c2 Group, SanJuan
+@BODYTEXT:Venezuela: Milenium Desarrollo Corporativo, C.A. Caracas
+@BODYTEXT:@SMALLSPACE =
+@BODYTEXT:WORLDCOM ASIA PACIFIC:
+@BODYTEXT:Australia: The Phillips Group, Brisbane, Canberra & Sydney; Wrights Creative Communications, Melbourne & Sydney
+@BODYTEXT:China: A-World Communications Ltd., Hong Kong; 
+@BODYTEXT:Indonesia: Fortune PR Strategic Comms., Jakarta
+@BODYTEXT:Japan: AZ Worldcom Japan Co. Ltd., Tokyo
+@BODYTEXT:Korea: HPR & Company, Seoul
+@BODYTEXT:Malaysia: TQPR Sdn Bhd, Kuala Lumpur
+@BODYTEXT:Singapore: Fulford PR
+@BODYTEXT:Thailand: TQPR Co. Ltd., Bangkok
+@BODYTEXT:Vietnam: TQPR Co. ltd, Ho Chi Minh City
+@BODYTEXT:@SMALLSPACE =
+@BODYTEXT:WORLDCOM EUROPE:
+@BODYTEXT:Belgium: B & S (Business & Show Syntagmes), Brussels; WEB (Worldcom Europe Brussels), Brussels
+@BODYTEXT:Finland: WPR Finland, Helsinki
+@BODYTEXT:France: Yucatan, Paris; Keima, Paris; Veronique Foucault Conseil, Paris
+@BODYTEXT:Germany: HBI Helga Bailey GmbH, Munich
+@BODYTEXT:Italy: Business Press Srl, Milan; CBO Srl (Communications by Objectives), Milan
+@BODYTEXT:The Netherlands: Berg/Kleijn Comm., The Hague; Wisse Kommunicatie/Worldcom The Netherlands, Arnhem
+@BODYTEXT:Poland: Glaubicz Garwolinska Consultants, Warsaw
+@BODYTEXT:Portugal: Imago-Imagem e Comunicacao, Sintra
+@BODYTEXT:Russia: YA Corporation, Moscow
+@BODYTEXT:Spain: Grupo Albion Asesores de Comunicacion, S.A.
+@BODYTEXT:Switzerland: L & W MarCom, Zurich
+@BODYTEXT:United Kingdom: Kaizo, London; Kestrel Worldcom UK, London
+@BODYTEXT:
+@CO:WPNT, LTD.
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:465 Chestnut St. # 111, Winnetka, IL 60093
+@BODYTEXT:847/784-1949; fax:847/784-1954
+@BODYTEXT:Founded: 1989
+@CCD1:Stephanie Nora, partner
+@BODYTEXT:
+@CO:WRAGG & CASAS PUBLIC RELATIONS INC.
+@BODYTEXT:Member of Pinnacle Worldwide
+@BODYTEXT:1000 Brickell Ave., #400, Miami, FL 33131
+@BODYTEXT:305/372-1234; fax:305/372-8565
+@BODYTEXT:www.wraggcasas.com
+@BODYTEXT:Corp., crisis mgmt., media rels., marketing comms., English-Spanish.  Employees: 19. Founded: 1991.
+@AGENCY:Agency Statement: Wragg & Casas is Florida’s largest independent full-service public relations firm. The firm is best known for its expertise in counseling, reputation management and media relations for corporate and professional clients.
+@AGENCY:Key capabilities include:
+@AGENCY:Wragg & Casas offers bilingual services to international clients throughout Florida, the Caribbean and Latin America.
+@CCD1:Otis O. Wragg III, Ramon F. Casas, Joanna D. Wragg, principals; Jeanmarie Ferrara, VP of PA; Christina Denis, VP of client services; Charles Jones, dir. of client services 
+@BODYTEXT:27499 Riverview Ctr. Blvd., #218, Bonita Springs, FL 34134
+@BODYTEXT:239/444-1724; fax: 239/444-1723
+@CCD1:Heather Mikes, manager, Southwest region
+@BODYTEXT:20 N. Orange Ave., #1500, Orlando, FL 32801
+@BODYTEXT:407/244-3685; fax: 407/244-3671
+@CCD1: Sara Brady, managing director, Central Florida
+@BODYTEXT:
+@BODYTEXT:Akerman Senterfitt
+@BODYTEXT:Association of Florida Community Developers
+@BODYTEXT:Biscayne Nature Center
+@BODYTEXT:Black, Srebrink et al
+@BODYTEXT:Bright House Networks
+@BODYTEXT:Childrens Home Society of Florida
+@BODYTEXT:Collier Enterprises
+@BODYTEXT:Colonial Bank
+@BODYTEXT:Community Partnership for the Homeless
+@BODYTEXT:Diageo
+@BODYTEXT:Fiduciary Trust Int’l
+@BODYTEXT:Gatorland
+@BODYTEXT:Graham Cos.
+@BODYTEXT:Green Family Foundation
+@BODYTEXT:Hahn Loeser & Parks
+@BODYTEXT:Health Central
+@BODYTEXT:Holtzman & Equels P.A.
+@BODYTEXT:Kids Central Inc.
+@BODYTEXT:Miami-Dade Expressway Authority
+@BODYTEXT:Miami Dolphins
+@BODYTEXT:National Wealth Advisors
+@BODYTEXT:New Florida Properties
+@BODYTEXT:Odebrecht Construction Inc.
+@BODYTEXT:ONYX/Montenay Power Corp.
+@BODYTEXT:P.R.I.D.E.
+@BODYTEXT:Rockefeller Group
+@BODYTEXT:Shutts & Bowen
+@BODYTEXT:Southern Gardens Citrus
+@BODYTEXT:Stearns Weaver et al
+@BODYTEXT:Transwestern Commercial Services
+@BODYTEXT:U.S. Sugar Corp.
+@BODYTEXT:University of Miami
+@BODYTEXT:Youngquist Brothers
+@BODYTEXT:
+@CO:WRAY WARD LASETER
+@BODYTEXT:521 E. Morehead St., #500, Charlotte, NC 28202
+@BODYTEXT:704/332-9071; mbrock@wwlcreative.com
+@BODYTEXT:Adv., PR and interactive for consumer products, professional services, manufacturing. Employees: 48. Founded: 1974.
+@AGENCY:Agency Statement: WWL Public Relations is a strategic unit of Wray Ward Laseter, an integrated communications and brand-building agency headquartered in Charlotte, North Carolina. WWL Public Relations serves a broad array of national and regional clients with a full range of services, from news media relations and issues management to trade show support and sales communications. WWL Public Relations incorporates interactive marketing, traditional and electronic collateral development and advertising with public relations into highly integrated communications programs.
+@CCD1:Jennifer Appleby, pres.; Mark Brock, VP-PR
+@BODYTEXT:Carolina Beverage Corp.
+@BODYTEXT:Charlotte Bobcats
+@BODYTEXT:Glen Raven Inc.
+@BODYTEXT:Milliken & Company
+@BODYTEXT:Rack Room Shoes
+@BODYTEXT:Springs Industries
+@BODYTEXT:Strayer University
+@BODYTEXT:WIX Filters
+@BODYTEXT:
+@CO:WRITE PUBLICIST, THE
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:120 Adair Circle, Fayetteville, GA 30215
+@BODYTEXT:770/717-7020; fax:770/717-7020
+@BODYTEXT:PR for African-American, apparel, automotive, entertainment, travel/ hotels/airlines.
+@CCD1:Regina Hudson-Lynch, president
+@BODYTEXT:Applause Art
+@BODYTEXT:The Metro Atlanta Black Pages
+@BODYTEXT:National Black Arts Festival
+@BODYTEXT:Nubian Imports Eyewear
+@BODYTEXT:Power Records
+@BODYTEXT:
+@CO:WYATT COMMUNICATIONS
+@BODYTEXT:60 East 42nd Street, 47th Floor, New York, NY 10165
+@BODYTEXT:212/661-9610; fax:212/661-9618
+@BODYTEXT:Relationship marketing, crisis comms., mktg. PR, media training, corp. comms.; healthcare, media rels., mktg. plans, speeches, product publicity. Founded: 1997.
+@CCD1:M.J. Wyatt, president
+@BODYTEXT:EpiGenesis
+@BODYTEXT:Johnson & Johnson
+@BODYTEXT:LipoScience Inc.   
+@BODYTEXT:Nature Conservancy
+@BODYTEXT:Pharmacia
+@BODYTEXT:
+@CO:WYSE LANDAU PUBLIC RELATIONS
+@BODYTEXT:See Landau PR
+@BODYTEXT:
+@BODYTEXT:

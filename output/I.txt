@@ -1,0 +1,571 @@
+@BREAKER:I
+
+@CO:IAC GROUP, INC., THE
+@BODYTEXT:Advertising and PR firm
+@BODYTEXT:2725 SW Third Avenue, Miami, FL 33129
+@BODYTEXT:305/856-7474
+@BODYTEXT:www.iacadgroup.com
+@BODYTEXT:PR, adv., automotive, beer/wine/liquor, financial services, retail stores/chains, telecommunications.  Founded: 1978.
+@CCD1:Ana Maria Fernandez Haar, pres./CEO
+@BODYTEXT:
+@CO:IDEA GROVE, THE
+@BODYTEXT:3400 Waterview Parkway, #205, Richardson, TX 75080
+@BODYTEXT:972/235-3439; fax:972/690-0502; sbaradell@ideagrove.com
+@BODYTEXT:www.ideagrove.com
+@BODYTEXT:Firm has expertise in strategic thinking, persuasive writing, visual design, business knowledge, media experience. Services include: corporate & fin'l PR, internal comms., sales & mktg collateral, and exec. comms. Founded: 2005.
+@AGENCY:Agency Statement: The Idea Grove is a strategic communications and public relations agency that helps clients manage their most important communications to customers, employees and investors. From core message development to creative marketing and media relations programs, the Idea Grove's services consistently set clients apart from their competitors.
+@CCD1:Scott Baradell, president
+@BODYTEXT:BancTec
+@BODYTEXT:Belo Corp.
+@BODYTEXT:Concentra
+@BODYTEXT:esoftsolutions
+@BODYTEXT:LiquidAgents
+@BODYTEXT:
+@CO:IDEA NETWORK, INC., THE
+@BODYTEXT:P.O. Box 38, Whippany, NJ 07981
+@BODYTEXT:973/560-0333
+@BODYTEXT:www.theideanetwork.com
+@BODYTEXT:Media relations and PR specializing in celebrities, authors, and consumer marketing.
+@CCD1:Erin Saxton, president
+@BODYTEXT:
+@CO:IGNITION STRATEGIC COMMUNICATIONS
+@BODYTEXT:2121 Wisconsin Ave., N.W., #320, Washington, DC 20007
+@BODYTEXT:202/339-0111; fax:202/339-0112
+@BODYTEXT:Technology, Internet policy, telecommunications and healthcare PR.
+@CCD1:Sydney Rubin, principal
+@BODYTEXT:
+@CO:IKON PUBLIC AFFAIRS
+@BODYTEXT:1101 30th St., N.W., #220, Washington, DC 20007
+@BODYTEXT:202/337-6600; fax:202/337-6660
+@BODYTEXT:www.ikoninc.net
+@BODYTEXT:Founded: 1997.
+@CCD1:Roger Stone, Ed Stucky, principals
+@BODYTEXT:
+@CO:ILSON INC., BERNIE
+@BODYTEXT:65 W. 55th St., New York, NY 10019
+@BODYTEXT:212/245-7950; fax:212/977-3093; ilson@aol.com
+@BODYTEXT:General PR, TV, music, publishing, computers, medical & bus. PR, travel, sports, resorts. Employees: 8.  Founded: 1963.
+@CCD1:Bernie Ilson, pres.; Donna Malone, VP; Arthur Solomon, consultant
+@BODYTEXT:Games Workshop Ltd.
+@BODYTEXT:Hall of Fame of Amer. Humor
+@BODYTEXT:Hollywood Pop Gallery
+@BODYTEXT:Ilson’s Inside Information
+@BODYTEXT:International Council for Global Health Progress
+@BODYTEXT:La Bonne Soupe Restaurant
+@BODYTEXT:Liberty Mutual Group
+@BODYTEXT:Liberty Mutual Legends of Golf
+@BODYTEXT:M.T.H. Electric Trains
+@BODYTEXT:Maxwell Medical Imaging
+@BODYTEXT:Missoula Children’s Theatre
+@BODYTEXT:Mobile, Ala., Tricentennial
+@BODYTEXT:Rio Clemente and His Trio
+@BODYTEXT:Silver Dollar City, Branson, Mo.
+@BODYTEXT:The Rat Pack TV Special
+@BODYTEXT:Personalities/TV Specials: B.B. King; Soupy Sales; Jean-Paul Picot La Bonne Soupe Cookbook
+@BODYTEXT:“His Song, The Musical Journey of Elton John” by E.J. Rosenthal
+@BODYTEXT:"Salt in Your Sock" by Dr. Lillian Beard; "The Fascinating Body" by Dr. Sheldon Margulies
+@BODYTEXT:
+@CO:ILTIS ASSOCIATES, JOHN
+@BODYTEXT:680 N. Lake Shore Dr., #1328, Chicago, IL 60611
+@BODYTEXT:312/337-6012; fax:312/337-1258
+@BODYTEXT:Entertainment & leisure time advertising and PR. Founded:  1977. Employees: 17.
+@CCD1:John Iltis, president
+@BODYTEXT:
+@CO:IMAGE & DETAILS, INC.
+@BODYTEXT:71 Elm St., New Canaan, CT 06840
+@BODYTEXT:203/966-8203; fax:203/966-9383
+@BODYTEXT:Fashion, retail, beauty home furnishing PR.  Employees: 7. Founded: 1989.
+@CCD1:Beth Dempsey, president; Liz Bliss, Laura Newman, A/Es
+@BODYTEXT:Antiques Roadshow Furniture
+@BODYTEXT:Camilla Dietz Bergeron
+@BODYTEXT:Cousin Johnny
+@BODYTEXT:F. Schumacher & Sons
+@BODYTEXT:John Hardy
+@BODYTEXT:Michael Wainwright
+@BODYTEXT:Rocket Girl
+@BODYTEXT:Studies Architecture
+@BODYTEXT:The Worth Collection
+@BODYTEXT:Vision Expo
+@BODYTEXT:Vision Council of America
+@BODYTEXT:Warehouse of London Stores
+@BODYTEXT:Zenith Watches
+@BODYTEXT:
+@CO:IMAGE MARKETING INTERNATIONAL
+@BODYTEXT:1040 Fifth Ave., New York, NY 10028
+@BODYTEXT:212/535-0025; fax:212/535-1027
+@BODYTEXT:www.tinaflaherty.com
+@BODYTEXT:Corp. PR, mktg. svcs., and special events.  Founded: 1986
+@CCD1:Tina Santi Flaherty, president
+@BODYTEXT:
+@CO:IMAGES & CONCEPTS, INC.
+@BODYTEXT:598 Old Bridge Road, Northport, NY 11768
+@BODYTEXT:631/757-3393; fax:631/757-3399
+@BODYTEXT:PR and advertising for business/consumer services, computers, home furnishings/textiles, sales promotion. Founded: 1975.
+@CCD1:Iris F. Thall, pres.; Brett Moque, PR director
+@BODYTEXT:
+@CO:IMAGES USA
+@BODYTEXT:914 Howell Mill Rd., N.W., Atlanta, GA 30318
+@BODYTEXT:404/892-2931; fax:404/892-8651
+@BODYTEXT:www.imagesusa.net
+@BODYTEXT:Travel, foods & beverages PR; healthcare, financial and entertainment. Founded: 1989. Employees: 13.
+@CCD1:Betsy Helgager, PR dir.; Robert L. McNeil Jr., president & CEO; John Lockyer, opers. director; Robert Presley, director, client svcs.; Deborah White, dir., field services; Richard Amundsen, dir., Hispanic mktg.; Mario de la Guardia, dir., market research; Steve Parks, creative dir.
+@BODYTEXT:American Institute for Managing Diversity
+@BODYTEXT:Centers for Disease Control
+@BODYTEXT:CompuCredit
+@BODYTEXT:Dekalb Convention & Visitors Bureau
+@BODYTEXT:Environmental Protection Agency
+@BODYTEXT:Fulton County Arts Council
+@BODYTEXT:Scientific Games
+@BODYTEXT:State of Georgia
+@BODYTEXT:U.S. Army
+@BODYTEXT:
+@CO:IMAGIO - J. WALTER THOMPSON
+@BODYTEXT:Owned by J. Walter Thompson, a division of the WPP Group
+@BODYTEXT:316 Occidental Ave. South, #400, Seattle, WA 98104
+@BODYTEXT:206/625-0252; fax:206/625-0271
+@BODYTEXT:www.imagio.com
+@BODYTEXT:Full-service PR for consumer, enterprise technology, healthcare and social marketing. Founded: 1993.
+@CCD1:Ralph Fascitelli, pres. & CEO
+@BODYTEXT:DigiMine
+@BODYTEXT:IceBox
+@BODYTEXT:Kalido
+@BODYTEXT:NexCura
+@BODYTEXT:NBEC
+@BODYTEXT:Stentor
+@BODYTEXT:
+@CO:IMRE COMMUNICATIONS
+@BODYTEXT:305 Washington Ave., Towson, MD 21204
+@BODYTEXT:410/821-8220; fax:410/821-5619; info@imrecommunications.com
+@BODYTEXT:www.imrecommunications.com
+@BODYTEXT:Full-service brand communications and PR firm.  Employees: 28. Founded: 1993.
+@AGENCY:Agency Statement: Imre Communications is a brand communications firm that provides a strategic mix of integrated public relations and marketing services devised to best capture the imaginations of our clients' stakeholders - motivating them to act. Imre Communications services radiate from our core capabilities in brand positioning, media relations, and corporate and marketing communications. We serve both B2B and B2C clientele, with specialties in a number of industries, including hardware/home improvement, insurance and financial services, information technology and associations. Imre Communications is a member of the MS&L network. For more information, visit www.imrecommunications.com.
+@CCD1:David Imre, president and founder; Mark R. Eber, COO/partner
+@BODYTEXT:528 F. Street Terrace, SE Suite B, Washington D.C 20003
+@BODYTEXT:202/547 0500 fax: 202/547 5900
+@CCD1:Cathy Austin, Sr. VP/dir., integrated marketing
+@BODYTEXT:
+@BODYTEXT:American Urological Assn.
+@BODYTEXT:Bowne Global Solutions
+@BODYTEXT:CAS
+@BODYTEXT:Castrol
+@BODYTEXT:COLA
+@BODYTEXT:CoreNet Global
+@BODYTEXT:Crew Network
+@BODYTEXT:DAP
+@BODYTEXT:Home Depot, The
+@BODYTEXT:Homelite
+@BODYTEXT:John Deere
+@BODYTEXT:Louisana Pacific
+@BODYTEXT:MetLife
+@BODYTEXT:National Assn. of Protection and Advocacy Systems
+@BODYTEXT:National Multi-Housing Council
+@BODYTEXT:Optical Society of America
+@BODYTEXT:Ridgid Power Tools
+@BODYTEXT:Royal Appliance
+@BODYTEXT:Ryobi Outdoor Products
+@BODYTEXT:Ryobi Power Tools
+@BODYTEXT:Society of Industrial Office Realtors
+@BODYTEXT:St. Paul Travelers Cos.
+@BODYTEXT:
+@CO:INFORM PUBLIC RELATIONS
+@BODYTEXT:See Hughes Public Relations
+@BODYTEXT:
+@BODYTEXT:
+@CO:INFORM, INC.
+@BODYTEXT:PO Box 1708, Hickory, NC 28603
+@BODYTEXT:828/322-7766; fax:828/322-4868
+@BODYTEXT:www.inform.com
+@BODYTEXT:PR and advertising for bus.-to-bus., agriculture/gardening, apparel/accessories, construction/building.  Founded: 1967.
+@CCD1:Paul Fogleman, president
+@BODYTEXT:
+@CO:INFORMATION SERVICES
+@BODYTEXT:111 Maytime Dr., Jericho, NY 11753
+@BODYTEXT:516/822-9756; fax:516/931-4707; geohaber@optonline.net
+@BODYTEXT:Employees: 3. Founded: 1984
+@CCD1:George Haber, pres.; Elinor Haber, dir., research; Jane Feldman, A/E
+@BODYTEXT:Bretcor Assocs.
+@BODYTEXT:CADE International
+@BODYTEXT:Locations, Etc.
+@BODYTEXT:MIC/Entertainment Venture Funding
+@BODYTEXT:
+@CO:INFOTECH STRATEGIES, INC.
+@BODYTEXT:1341 G St., NW, #1100, Washington, DC 20005
+@BODYTEXT:202/393-2260; fax:202/393-0712
+@BODYTEXT:www.itstrategies.com
+@BODYTEXT:PR, marketing, strategic alliances, health tech, education tech, information and communications tech.
+@CCD1:John Raffetto, principal
+@BODYTEXT:
+@CO:INGRAM GROUP
+@BODYTEXT:231 Third Ave. N., Nashville, TN 37201
+@BODYTEXT:615/254-0575; fax:615/843-8431; info@ingramgroup.com
+@BODYTEXT:www.ingramgroup.com
+@BODYTEXT:Strategic communications, media relations, grassroots campaigns, event mgmt., crisis comms., organizational and internal comms., communication audits, gov’t rels., lobbying and monitoring. Employees: 32. Founded: 1983.
+@CCD1:Lewis Lavine, chmn.; David Jarrard, president; Peter Heidenreich, dir., gov’t relations
+@BODYTEXT:920 Volunteer Landing Lane, Knoxville, TN 37915
+@BODYTEXT:865/637-8668
+@CCD1:Monroe Free, managing director
+@BODYTEXT:80 Monroe Ave., #G-2, Memphis, TN 38103
+@BODYTEXT:901/312-9191; fax: 901/312-9192
+@CCD1:Jennifer Larkey Balink, managing director
+@BODYTEXT:421 Market St., #203, Chattanooga, TN 37402
+@BODYTEXT:423/755-7588; fax: 423/755-7589
+@CCD1:Robin Derryberry, mng. dir.
+@BODYTEXT:
+@BODYTEXT:
+@CO:INK INC.
+@BODYTEXT:4049 Central St., Kansas City, MO 64111
+@BODYTEXT:816/753-6222
+@BODYTEXT:www.inkincpr.com
+@BODYTEXT:PR firm specializing in media rels., national and int’l business, consumer and trade press, broadcast and print. Employees: 8.
+@CCD1:Richard H. Grove, CEO
+@BODYTEXT:Access360
+@BODYTEXT:FileNet Corp.
+@BODYTEXT:HNC Software-Europe
+@BODYTEXT:Raytheon Aircraft Co.
+@BODYTEXT:Rhinotek Computer Products
+@BODYTEXT:
+@CO:INNIS MAGGIORE GROUP
+@BODYTEXT:4715 Whipple Ave., N.W., Canton, OH 44718
+@BODYTEXT:330/492-5500; dan@innismaggiore.com
+@BODYTEXT:Advertising & PR agency.
+@CCD1:Dick Maggiore, pres.; Dan Pecchia, VP; Donna Shelley, PR dir.
+@BODYTEXT:3-D Services
+@BODYTEXT:Atlas Steel Products
+@BODYTEXT:Atwood Lake Resort
+@BODYTEXT:Cattron-Theimeg
+@BODYTEXT:Conwed Plastics
+@BODYTEXT:Doyle Systems
+@BODYTEXT:England Custom Furniture
+@BODYTEXT:Essroc Italcementi Group
+@BODYTEXT:Fitworks Fitness Centers
+@BODYTEXT:Hynes Industries
+@BODYTEXT:Neoucom
+@BODYTEXT:Nickles Bakery
+@BODYTEXT:Parker Hannifin
+@BODYTEXT:Progressive Foam Technologies
+@BODYTEXT:Railway Tie Assn.
+@BODYTEXT:Rainbow Rentals
+@BODYTEXT:Republic Engineered Products
+@BODYTEXT:Smithers-Oasis Corp.
+@BODYTEXT:Specialty Pipe & Tube
+@BODYTEXT:Vantage Mobility Int'l
+@BODYTEXT:Youngstown Metropolitan Housing Authority
+@BODYTEXT:
+@CO:INSTITUTE FOR CRISIS MANAGEMENT
+@BODYTEXT:950 Breckenridge Lane, #140, Louisville, KY 40207
+@BODYTEXT:502/891-2507; fax:502/891-2512
+@BODYTEXT:www.crisisexperts.com
+@BODYTEXT:Specializes in crisis comms. services for companies, non-profit organizations and government agencies; spokesperson training; crisis communications seminars.
+@CCD1:Larry L. Smith, president
+@BODYTEXT:
+@CO:INTEGER GROUP, THE
+@BODYTEXT:2633 Fleur Dr., Des Moines, IA 50321
+@BODYTEXT:515/288-7910; fax:515/288-8439
+@BODYTEXT:www.integer.com
+@BODYTEXT:Integrated communications marketing, media training, event planning, crisis mgmt., annual planning, copywriting.
+@CCD1:Frank Maher, president
+@BODYTEXT:
+@CO:INTEGRATED COMMUNICATIONS CONCEPTS
+@BODYTEXT:5 Sylvan Way, #110, Parsippany, NJ 07054
+@BODYTEXT:973/984-2755
+@BODYTEXT:www.icclink.com
+@BODYTEXT:Healthcare communications
+@CCD1:Steve Viviano, president
+@BODYTEXT:
+@CO:INTEGRATED MARKETING SERVICES, INC.
+@BODYTEXT:279 Wall St., Princeton, NJ 08540
+@BODYTEXT:609/683-9055; fax:609/683-8398
+@BODYTEXT:Full-service marketing comms. & research, healthcare, fin’l corp. Founded: 1983.
+@CCD1:Lois Kaufman, Ph.D., pres.; Tony Casale, CEO
+@BODYTEXT:Becton Dickinson
+@BODYTEXT:BioReliance
+@BODYTEXT:Educational Testing Service
+@BODYTEXT:McGraw-Hill Construction
+@BODYTEXT:PQ Corp.
+@BODYTEXT:Siemens Hearing Instruments
+@BODYTEXT:Siemens Medical Systems
+@BODYTEXT:
+@CO:INTEGRATED MARKETING SOLUTIONS
+@BODYTEXT:343 W. Erie St., #530, Chicago, IL 60610
+@BODYTEXT:312/664-1616; fax:312/664-5454
+@BODYTEXT:www.ims-chi.com
+@BODYTEXT:A full-service marketing communications firm offering PR services. Founded: 1995
+@CCD1:Mark Leonard, pres.; Bryan Sanzotti, chief operating exec.
+@BODYTEXT:
+@CO:INTEGRITY PUBLIC RELATIONS
+@BODYTEXT:667 Ponce de Leon Ave., #356, San Juan, PR 00907
+@BODYTEXT:949/768-4423; fax:949/768-7523
+@BODYTEXT:High tech PR.
+@CCD1:Kenneth Hagihara, president
+@BODYTEXT:Sampo America
+@BODYTEXT:
+@CO:INTERAMERICAN MARKETING SOLUTIONS
+@BODYTEXT:1320 South Dixie Hwy., #1250, Coral Gables, FL 33146
+@BODYTEXT:305/740-7055; fax:305/740-7066; lroque@imsmarketing.com
+@BODYTEXT:Media relations, marketing, events and seminars. Founded: 1994.
+@CCD1:Mauricio Figueras pres.; Luis Figueras, exec. VP
+@BODYTEXT:Aethra
+@BODYTEXT:Apple
+@BODYTEXT:Autodesk, Inc.
+@BODYTEXT:IDC
+@BODYTEXT:Ingram Micro
+@BODYTEXT:Jacada
+@BODYTEXT:Kingston Technology
+@BODYTEXT:Lexmark
+@BODYTEXT:Panduit
+@BODYTEXT:Sysgold Corp.
+@BODYTEXT:VIA Technologies
+@BODYTEXT:ViewSonic
+@BODYTEXT:Websense
+@BODYTEXT:
+@CO:INTERCOMMUNICATIONS INC
+@BODYTEXT:620 Newport Ctr. Dr., #600, Newport Beach, CA 92660
+@BODYTEXT:949/644-7520; fax:949/640-5739
+@BODYTEXT:www.intercommunications.com
+@BODYTEXT:Consumer prods., hotel/hospitality, fin’l svcs., residential & commercial real estate PR; tourism
+@CCD1:Toni Alexander, president
+@BODYTEXT:Hualalai Development Co.
+@BODYTEXT:Irvine Co.
+@BODYTEXT:Newport Harbor C of C
+@BODYTEXT:Pacific Gateway Homes
+@BODYTEXT:SunRidge Canyon
+@BODYTEXT:
+@CO:INTERLINK HEALTHCARE COMMS.
+@BODYTEXT:989 Lenox Dr., #300, Lawrenceville, NJ 08648
+@BODYTEXT:609/620-4200
+@BODYTEXT:Healthcare PR.
+@CCD1:Larry Iaquinto, president
+@BODYTEXT:
+@CO:INTERMARK PUBLIC RELATIONS
+@BODYTEXT:Part of Intermark Group, Inc.
+@BODYTEXT:1800 International Park Dr., #500, Birmingham, AL 35243
+@BODYTEXT:205/803-0000; fax:205/326-8519
+@BODYTEXT:www.intgroup.com
+@BODYTEXT:PR for travel, apparel, business, healthcare, financial svcs., insurance, telecomms., public utilities, technical & industrial fields, food/beverages.  Employees: 6. Founded: 1973.
+@CCD1:Rebecca Hart, president; Carrie Miller, A/S; Burgin Powell, Lynlee Hudlow, A/Es
+@BODYTEXT:Dent, Baker & Co. LLP
+@BODYTEXT:Golden Construction
+@BODYTEXT:Intermark Group
+@BODYTEXT:Malcolm Pifnie Engineers
+@BODYTEXT:Maynard, Cooper & Gale, P.C.
+@BODYTEXT:Motion Industries
+@BODYTEXT:Red Diamond Coffee & Tea Co.
+@BODYTEXT:Sigma Nu Fraternity, Inc.
+@BODYTEXT:St. Vincent’s Hospital
+@BODYTEXT:Toyota
+@BODYTEXT:University of Alabama EMBA Program
+@BODYTEXT:Vazda Studios
+@BODYTEXT:Village Tavern
+@BODYTEXT:Vulcan Materials
+@BODYTEXT:
+@CO:INTERMARKET COMMUNICATIONS
+@BODYTEXT:Member, Global Financial Comms. Network
+@BODYTEXT:425 Madison Ave., #600, New York, NY 10017
+@BODYTEXT:212/888-6115; fax:212/888-6157
+@BODYTEXT:www.intermarket.com
+@BODYTEXT:Bus.-to-bus. PR services, financial and professional services fields.  Employees: 15.
+@AGENCY:Agency Statement: Intermarket Communications is a full-service public relations and marketing firm dedicated to providing highly focused business- to-business communications solutions. Intermarket's extensive expertise in the area of complex financial products and services is reflected in its international client roster of leading financial institutions and companies. Intermarket Communications provides customized client solutions in the areas of media relations, marketing communications and event planning.
+@CCD1:Martin B. Mosbacher,chairman; Matt Zachowski, Andy Yemma, mng. partners
+@BODYTEXT:Bank Julius Baer
+@BODYTEXT:Charles Schwab & Co.
+@BODYTEXT:D.E. Shaw
+@BODYTEXT:Deutsche Borse
+@BODYTEXT:Eurex
+@BODYTEXT:Fimat
+@BODYTEXT:Keefe, Bruyette & Woods Inc.
+@BODYTEXT:Omgeo
+@BODYTEXT:RIXML.org
+@BODYTEXT:Radianz
+@BODYTEXT:SunGard
+@BODYTEXT:SWIFT
+@BODYTEXT:Swiss Bankers Assn.
+@BODYTEXT:The Clearing Corp.
+@BODYTEXT:
+@CO:INTERNATIONAL COMMS. AND MARKETING INC.
+@BODYTEXT:P.O. Box 185, Stone Ridge, NY 12484
+@BODYTEXT:845/687-4082; fax:845/687-0566; plishman@icmglobalnews.com
+@BODYTEXT:www.icmglobalnews.com
+@BODYTEXT:Overseas PR for manufacturing and technology companies and marcom agencies. Founded: 1989 (in U.K. in 1972). Employees: 14.
+@CCD1:Piers Lishman, president; Art Norwalk, VP; Cathy Dimler, Tania Wiltshire, managers; Mike Rosenfeld, manager, CA office
+@BODYTEXT:Ametek
+@BODYTEXT:Bimba
+@BODYTEXT:DNE Technologies
+@BODYTEXT:Dukane Ultrasonics
+@BODYTEXT:Hamilton Sunstrand Sensors
+@BODYTEXT:Haskel International
+@BODYTEXT:Measurement Specialties
+@BODYTEXT:Penn/Arconix
+@BODYTEXT:Raytek
+@BODYTEXT:Red Lion Controls
+@BODYTEXT:Rexnord
+@BODYTEXT:Structural Research & Analysis
+@BODYTEXT:Victualic
+@BODYTEXT:
+@CO:INTERNATIONAL MEDIA CONSULTANTS
+@BODYTEXT:5 Porters Lane, Westport, CT 06880
+@BODYTEXT:203/341-9990; fax:203/341-9993; www.imconsultants.net
+@BODYTEXT:stephen@imconsultants.net
+@BODYTEXT:
+@CCD1:Stephen Graham, principal
+@BODYTEXT:Conference Board
+@BODYTEXT:Mercer Management Consulting
+@BODYTEXT:Otis Elevator Co.
+@BODYTEXT:
+@CO:INTERSTAR MARKETING & PR
+@BODYTEXT:Subsidiary of Interstar Group, Inc.
+@BODYTEXT:610 Grove St., Fort Worth, TX 76102
+@BODYTEXT:817/332-6522; fax:817/334-0125; js@interstargroup.com
+@BODYTEXT:www.interstargroup.com
+@BODYTEXT:Corporate and public aviation/transportation; tourism; food and beverage; international marketing/PR. Employees: 9. Founded: 1976.
+@CCD1:Jane E. Schlansker, pres./CEO; Reba Henry, VP, PA; Tim Smith, director of PR
+@BODYTEXT:Baxton
+@BODYTEXT:Federal Investments Council, Argentina
+@BODYTEXT:Kitty Hawk Air Cargo
+@BODYTEXT:Renfro Foods
+@BODYTEXT:
+@CO:INVESTMENTS 101, LTD
+@BODYTEXT:100 Brantmere Ct., Jamestown, NC 27282
+@BODYTEXT:336/882-8063; norvgn101@aol.com
+@BODYTEXT:
+@CCD1:Jeffrey A. Brommer, CEO
+@BODYTEXT:
+@CO:INVESTOR ACCESS CORP.
+@BODYTEXT:Box 222, Dorset, VT 05251
+@BODYTEXT:802/867-4024; mseelyatiac@aol.com
+@BODYTEXT:www.shvalue.com
+@BODYTEXT:Corporate, financial and management communications. Founded: 1978
+@CCD1:Michael Seely, president
+@BODYTEXT:
+@CO:INVESTOR RELATIONS COMPANY, THE
+@BODYTEXT:2340 South River Rd., #200, Des Plaines, IL 60018
+@BODYTEXT:847/296-4200; fax:847/296-4460; TIRC@TIRC.com
+@BODYTEXT:www.TIRC.com
+@BODYTEXT:Financial, investor relations.  Employees: 5. Founded: 1982.
+@AGENCY:Agency Statement: The Investor Relations Co. has 24 years developing successful strategies and activities incorporated in customized IR and corporate communications marketing programs designed to maximize interest in micro, small and mid-cap companies from China to Canada and Florida to California. We can assist in corporate governance matters for companies that want to achieve the best mix of communications/legal expertise and maiximize their transparency.  Today, the need for top level, strategic, service-oriented IR counsel is greater than ever.  Working with the financial community mainstream, as opposed to the fringes, we offer counseling, positioning, presentation prep, investor introductions and communication, media contact, conference call assistance, web site aid, annual report and fact sheet help, etc. that are extrememly cost effective.  Reference our leading IR textbook, New Dimensions in Investor Relations, John Wiley & Sons. 
+@CCD1:Sherwood Lee Wallace, chmn.; Michael Arneth, executive VP; Brien Gately, market intelligence senior VP
+@BODYTEXT:AMS Healthcare
+@BODYTEXT:Charter Financial Corp.
+@BODYTEXT:First BancTrust Corp.
+@BODYTEXT:GenoMed
+@BODYTEXT:Great Western Land and Recreation
+@BODYTEXT:Hear USA
+@BODYTEXT:Heartland Partners
+@BODYTEXT:Pulaski Financial Corp.
+@BODYTEXT:Spooz Publishing Group
+@BODYTEXT:Touchstone Applied Science Assocs.
+@BODYTEXT:Xinhua China, Ltd.
+@BODYTEXT:
+@CO:INVESTOR RELATIONS GROUP, INC.
+@BODYTEXT:11 Stone St., 3rd flr., New York, NY 10004
+@BODYTEXT:212/825-3210; fax:212/825-3229
+@BODYTEXT:Financial PR.
+@CCD1:Dian Griesel, president
+@BODYTEXT:
+@CO:IPREX
+@BODYTEXT:Headquarters: Crown Communications
+@BODYTEXT:129 West Trade St., #1600, Charlotte, NC 28202
+@BODYTEXT:704/376-3434; fax:704/376-2537
+@BODYTEXT:www.iprex.com
+@BODYTEXT:Albany, Atlanta, Austin, Boston, Buffalo, Charlotte, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Rochester & Syracuse, N.Y.: Eric Mower & Assocs.
+@BODYTEXT:129 West Trade St., #1600, Charlotte, NC 28202
+@BODYTEXT:704/376-3434; fax: 704/376-2537; www.iprex.com
+@BODYTEXT:U.S. Members:
+@BODYTEXT:Albany, Buffalo, Rochester & Syracuse, N.Y.: Eric Mower & Assocs.
+@BODYTEXT:Atlanta, GA: Rountree Group Inc.
+@BODYTEXT:Austin and Houston, Tex.: Vollmer PR
+@BODYTEXT:Boston, MA: Schneider & Assocs.
+@BODYTEXT:Charlotte, NC: Crown Comms.
+@BODYTEXT:Chicago, Ill.: Scrafin & Assocs.
+@BODYTEXT:Cincinnati, OH: Dan Pinger PR, Inc.
+@BODYTEXT:Cleveland, OH: Landau Public Relations
+@BODYTEXT:Dallas, TX: Laurey Peat + Assocs.
+@BODYTEXT:Denver, CO: JohnstonWells PR
+@BODYTEXT:Detroit, MI: Eisbrenner PR
+@BODYTEXT:Indianapolis, IN: Borshoff Johnson Matthews
+@BODYTEXT:Kansas City, MO: Barkley Evergreen & Partners Inc.
+@BODYTEXT:Louisville, KY: Pelfrey Assocs. Inc.
+@BODYTEXT:Miami, FL: Great Communicators, Inc.
+@BODYTEXT:Minneapolis, MN: Strother Communications Group
+@BODYTEXT:Nashville, TN: Katcher Vaughn & Bailey
+@BODYTEXT:New Orleans, LA: The Beuerman Miller Group
+@BODYTEXT:New York, NY: Makovsky & Co., Inc.
+@BODYTEXT:Orlando, FL: Carlman Booker Reis PR
+@BODYTEXT:Pittsburgh, PA: Skutski & Oltmanns Inc.
+@BODYTEXT:San Diego, Calif.: GCS PR
+@BODYTEXT:San Francisco, CA: Fineman PR
+@BODYTEXT:Tampa, FL: Sahlman Williams Inc.
+@BODYTEXT:Washington, DC: Susan Davis Int’l
+@BODYTEXT:Foreign Members:
+@BODYTEXT:Australia: Corporate Advantage
+@BODYTEXT:Austria: Dr. Bannert PR
+@BODYTEXT:Belgium: Anthonissen & Assocs. N.V.
+@BODYTEXT:Canada: Wertheim + Co. Inc.
+@BODYTEXT:Denmark: Grandjean Komms.
+@BODYTEXT:Finland: CommitCom Oy
+@BODYTEXT:Germany:, ME Werbgeagentur GWA
+@BODYTEXT:Hong Kong: Upstream Asia
+@BODYTEXT:Ireland: Walsh PR
+@BODYTEXT:Italy: I-MAGE s.r.l.
+@BODYTEXT:Japan: IR Japan
+@BODYTEXT:The Netherlands: Paul Kok Consultants BV
+@BODYTEXT:Norway: Consilio Kommunikasjon AS
+@BODYTEXT:South Africa: Integrated Comms.
+@BODYTEXT:Spain: Consultores Quantumleap
+@BODYTEXT:Sweden: Four C
+@BODYTEXT:Switzerland: Mediapolis AG
+@BODYTEXT:Toronto, Wertheim & Company
+@BODYTEXT:U.K.: Surrey House
+@BODYTEXT:Vietnam: Viet Communication Corp.
+@BODYTEXT:
+@CO:IRMA S. MANN STRATEGIC MARKETING INC.
+@BODYTEXT:745 Boyleston St., 7th flr., Boston, MA 02116
+@BODYTEXT:617/353-1822; fax:617/266-1890
+@BODYTEXT:www.irmamann.com
+@BODYTEXT:Travel mktg. agency. Services include strategic mktg., adv., PR, direct-response mktg. & graphic design. Founded: 1984
+@CCD1:Gary Leopold, president
+@BODYTEXT:Massport
+@BODYTEXT:Passkey
+@BODYTEXT:Sonesta Int’l Hotels Corp.
+@BODYTEXT:TravelClick
+@BODYTEXT:VacationCoach.com
+@BODYTEXT:
+@CO:ISACSON ASSOCS. INC., A.B.
+@BODYTEXT:See listing in A under A.B. Isacson
+@BODYTEXT:
+@BODYTEXT:
+@CO:ISQUARED COMMUNICATIONS INC.
+@BODYTEXT:8975 Roswell Rd., #100, Atlanta, GA 30350
+@BODYTEXT:770/594-0999; fax:770/552-9777
+@BODYTEXT:www.isquaredcommunications.com
+@BODYTEXT:Manufacturing & industrial PR, financial services, construction/architecture/engineering, healthcare and technology sectors; lobbying & gov't affairs. Employees: 8. Founded: 1993.
+@CCD1:Sheri Kell, exec. VP & COO; Janis Paul, exec. VP
+@BODYTEXT:Crestone
+@BODYTEXT:EMC2
+@BODYTEXT:Hoover Materials Handling Group
+@BODYTEXT:Tractor & Equipment Co.
+@BODYTEXT:UST Public Affairs
+@BODYTEXT:Westminster Ceramics
+@BODYTEXT:Wastech
+@BODYTEXT:
+@CO:IT MANAGEMENT GLOBAL CORP.
+@BODYTEXT:530 Park Ave., #11G, New York, NY 10021
+@BODYTEXT:212/941-5595; fax:212/941-5596; info@itpublicrelations.com
+@BODYTEXT:Specialized marketing, consulting and public relations agency. Founded: 1998.
+@CCD1:Janet Mick, founder, president and CEO
+@BODYTEXT:
+@CO:IW GROUP, INC
+@BODYTEXT:(Formerly Imada Wong Communications Group)
+@BODYTEXT:633 W. Fifth St., #1160, Los Angeles, CA 90071
+@BODYTEXT:213/622-6513; fax:213/627-4476
+@BODYTEXT:
+@CCD1:Bill Imada, CEO
+@BODYTEXT:
+@CO:IZZO INTEGRATED COMMS., CAROLYN
+@BODYTEXT:45 Lydecker St., Studio A, Nyack, NY 10960
+@BODYTEXT:845/358-3920; fax:845/358-3927; cizzo@ciicnews.com
+@BODYTEXT:PR for entertainment, food & beverage, travel & hospitality, health & beauty, Internet, art & design, non profit. Employees: 4. Founded: 1995.
+@CCD1:Carolyn Izzo-Feldman, pres.
+@BODYTEXT:Acapulco Convention & Visitors Bureau
+@BODYTEXT:Los Cabos Tourism Board
+@BODYTEXT:WWF New York Entertainment
+@BODYTEXT:
